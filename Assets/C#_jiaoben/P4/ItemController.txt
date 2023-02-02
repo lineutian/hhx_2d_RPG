@@ -1,0 +1,61 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using static LanguageController;
+
+public class ItemController : Singleton<ItemController>
+{
+    private Dictionary<ItemType, List<Item>> ItemTpyeLib = new Dictionary<ItemType, List<Item>>();
+    private Dictionary<string, Item> ItemIndexLib = new Dictionary<string, Item>();
+
+
+    public Transform SlotTransform;
+    public GameObject ItemSlot;
+    private List<GameObject> SlotList = new List<GameObject>();
+    public void Into()//遍历所有Resources里Item的item
+    {
+        foreach(var item in Resources.LoadAll("Item"))
+        {
+            ItemIndexLib.Add(((Item)item).Index,((Item)item));
+
+            if(ItemTpyeLib.ContainsKey(((Item)item).Type))
+            {
+                ItemTpyeLib[((Item)item).Type].Add(((Item)item));
+            }
+            else
+            {
+                ItemTpyeLib.Add( ((Item)item).Type,new List<Item>(){((Item)item)});
+            }
+        }
+    }
+
+    public Item GetItemFormIndex(string index)//根据index获得Item
+    {
+        if (ItemIndexLib.ContainsKey(index)) return ItemIndexLib[index];
+
+        return null;
+    }
+
+    public void RefreshhUI()//ui更新
+    {
+        if (SlotTransform == null) return;
+
+        foreach(var item in SlotList)
+        {
+            Destroy(item);
+        }
+        SlotList.Clear();
+    
+        
+        foreach (var item in GlobalController.Instance.Data.Inventory)
+        {
+            Item i = GetItemFormIndex(item.Key);
+            GameObject slot = Instantiate(ItemSlot, SlotTransform);
+            slot.transform.Find("mingzi").GetComponent<Text>().text = GetLocalT(i.Index);
+            slot.transform.Find("shulaing").GetComponent<Text>().text =item.value.ToString();
+            slot.transform.Find("Icon").GetComponent<Image>().sprite = i.Icon;
+            SlotList.Add(slot);
+        }
+    }
+}

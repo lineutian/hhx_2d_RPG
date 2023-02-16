@@ -98,13 +98,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce3295971020f514b9b1e0f26d0d3fdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Enemy_Name: 
-  Enemy_LV: 0
-  Enemy_MaxHp: 1000
-  Enemy_ATK: 0
+  characterType: 0
   ATK: {fileID: 2530327360057367443, guid: 280292e9b6a8e524580ee7fd1115f324, type: 3}
   ATK_jg: 0.4
-  Enemy_CurrentHp: 0
   Enemy_MoveSpeed: 1
   AttackRange: 1.5
   distance: 20
@@ -371,7 +367,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
-  m_SortingLayerID: 0
+  m_SortingLayerID: 244831751
   m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!114 &8199935828760471590

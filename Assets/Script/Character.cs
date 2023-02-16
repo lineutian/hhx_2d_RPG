@@ -1,22 +1,16 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class Character : MonoBehaviour
 {
-    private int currentHealth;
-    private int maxHealth;
-    public int CurrentHealth { get { return currentHealth; } }
-    public int MaxHealth { get { return maxHealth; } }
+    public CharacterType characterType;
+    public CharacterData Data;
 
-    #region api
-    /// <summary>
-    /// 血量改变
-    /// </summary>
-    /// <param name="_amout">伤害值</param>
-    public void changHp(int _amout)
+    public virtual void Awake()
     {
-        currentHealth = Mathf.Clamp(currentHealth + _amout, 0, maxHealth);
+        
     }
-    #endregion
 }

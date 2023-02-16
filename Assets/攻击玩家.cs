@@ -6,6 +6,7 @@ public class 攻击玩家 : MonoBehaviour
 {
         private float sd;
         private Transform target;
+        public HurtType HurtType;
         private void Awake()
         {
             sd = 3f;
@@ -32,10 +33,12 @@ public class 攻击玩家 : MonoBehaviour
             if (pc != null)
             {
                 int i;
-                DamageNum damageNum=ShadowPool.Instance.GetFormPool(0).GetComponent<DamageNum>();
+                GameObject Player = GameObject.FindWithTag("Player");
+                /*DamageNum damageNum=ShadowPool.Instance.GetFormPool(0).GetComponent<DamageNum>();
                 damageNum.GetTransform(other.transform.position);
-                damageNum.ShowUIDamage(-(i=GlobalController.Instance.Data.T_Atk));
-                pc.changehp(-i);
+                damageNum.ShowUIDamage(-(i=GlobalController.Instance.Data.T_Atk),HurtType);
+                pc.changehp(-i);*/
+                HurtManager.Instance.hurt(Player,pc.gameObject,-10,HurtType);
                 Destroy(this.gameObject);
             }
         }

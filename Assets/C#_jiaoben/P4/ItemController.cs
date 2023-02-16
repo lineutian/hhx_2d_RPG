@@ -33,7 +33,7 @@ public class ItemController : Singleton<ItemController>
         }
     }
 
-    public void add(Item item)
+    public void ItemAdd(Item item)
     {
         ItemIDLib.Add(item.ItemID,item);
 
@@ -60,7 +60,7 @@ public class ItemController : Singleton<ItemController>
         return null;
     }
 
-    public void RefreshhUI()//ui更新
+    public void RefreshhUI(Dictionary<int,int> Inventory)//ui更新
     {
         if (SlotTransform == null) return;
 

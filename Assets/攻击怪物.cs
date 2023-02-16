@@ -7,6 +7,7 @@ public class 攻击怪物 : MonoBehaviour
     private int sh;
     private float sd;
     private Transform target;
+    public GameObject ParentGameObject;
     private void Awake()
     {
         sh = 5;
@@ -19,10 +20,10 @@ public class 攻击怪物 : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        NewBehaviourScript pc = collision.GetComponent<NewBehaviourScript>();
+        Character pc = collision.GetComponent<Character>();
         if (pc != null)
         {
-            pc.changHP(-sh);
+            HurtManager.Instance.hurt(ParentGameObject,pc.gameObject,-sh,HurtType.AD);
             Destroy(this.gameObject);
         }
     }

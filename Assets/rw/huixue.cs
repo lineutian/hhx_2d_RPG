@@ -8,17 +8,14 @@ using UnityEngine.UI;
 public class huixue : MonoBehaviour
     {
     public Button button_startgame;
-    private NewBehaviourScript ss;
+    private Character ss;
     public GameObject showDamgeUI;
     
     // Start is called before the first frame update
     public void Startgame()
     {
-        ss = GameObject.FindGameObjectWithTag("Player").GetComponent<NewBehaviourScript>();
-        ss.changHP(ss.MYmaxHP);
-        DamageNum damageNum=ShadowPool.Instance.GetFormPool(0).GetComponent<DamageNum>();
-        damageNum.GetTransform(ss.transform.position);
-        damageNum.ShowUIDamage(ss.MYmaxHP);
+        ss = GameObject.Find("待机1").GetComponent<Character>();
+        HurtManager.Instance.hurt(ss.gameObject,ss.Data.MaxHealth,HurtType.Cure);
     }
     private void Start()
     {

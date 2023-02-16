@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class B : EQUIP
+public class B : EquipObject
 {
     public Animator AtkAnimator;
     public override void ATK()

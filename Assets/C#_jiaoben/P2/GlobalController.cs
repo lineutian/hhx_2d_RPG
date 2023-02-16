@@ -5,14 +5,14 @@ using UnityEngine.UI;
 
 public class GlobalController : Singleton<GlobalController>
 {
-    public PlayerData Data;
+    public player_Data Data;
     public Text  NameText, MoneyText;
     protected override void Awake()
     {
         base.Awake();
         DontDestroyOnLoad(this.gameObject);
         //初始化
-        if (Data == null) Data = new PlayerData("玩家");
+        if (Data == null) Data = new player_Data("玩家");
         ItemController.Instance.Into();
         equipController.Instance.info();
         LanguageController.Instance.LoadLanguagePack();

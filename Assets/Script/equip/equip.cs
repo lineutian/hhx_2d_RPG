@@ -10,7 +10,8 @@ public class equip : Item
 {
     public EquipData EquipData=new EquipData();
     public EquipType EquipType;
-    public GameObject EquipPef;
+    public GameObject EquipPef=null;
+    public int EquipTypeID;
 }
 
 

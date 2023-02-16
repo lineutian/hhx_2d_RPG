@@ -12,10 +12,10 @@ namespace rw
         }
         private void OnTriggerEnter2D(Collider2D other)
         {
-            NewBehaviourScript pc = other.GetComponent<NewBehaviourScript>();
+            Character pc = other.GetComponent<Character>();
             if (pc != null)
             {
-                pc.changHP(-(int)pc.MYmaxHP/4);
+                HurtManager.Instance.hurt(pc.gameObject,pc.Data.MaxHealth/10,HurtType.Cure);
                 Destroy(this.gameObject);
             }
         }

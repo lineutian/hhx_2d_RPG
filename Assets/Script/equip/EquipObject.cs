@@ -5,10 +5,19 @@ using UnityEngine;
 /// <summary>
 /// 武器基类
 /// </summary>
-public class EQUIP : MonoBehaviour
+public class EquipObject : MonoBehaviour
 {
     public bool IsAtk=false;
     public float lifeTimer;
+    protected int ID;
+
+    public int getId() {
+        return ID;
+    }
+   
+    public void setId(int _id) {
+        this.ID = _id;
+    }
 
     /// <summary>
     /// 攻击方法

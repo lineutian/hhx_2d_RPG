@@ -1,29 +1,20 @@
+using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEngine;
+using UnityEngine.Serialization;
+using static myExpected;
+
 /// <summary>
 /// ?????????????????????????
 /// </summary>
 public class NewBehaviourScript : MonoBehaviour
 {
     public float speed = 5f;//??????
-    private int maxHP;
-    [SerializeField]
-    private int currentHP=0;//???????
     private float moveX, moveY;
     private Animator Animator;
     public bool isStop=true;
     public GameObject beibao;
-    public EQUIP Equip=null;
-
-    public int MYmaxHP
-    {
-        get { return maxHP; }
-    }
-
-    public int MYcurrentHP
-    {
-        get { return currentHP; }
-    }
+    [FormerlySerializedAs("Equip")] public EquipObject equipObject=null;
     public Animator 动画;
     public float 无敌;
     public float 无敌存储;
@@ -48,17 +39,9 @@ public class NewBehaviourScript : MonoBehaviour
         无敌时间();
         atk();
         run();
-        if (MYcurrentHP <= 0)//???????????
-        {
-            changHP(3);
-        }
         IsOpen();
     }
-
-    public void MAXHP(int MAX)
-    {
-        maxHP = MAX;
-    }
+    
     private void Flip()
     {
         if (moveX > 0)
@@ -66,26 +49,7 @@ public class NewBehaviourScript : MonoBehaviour
         if (moveX < 0)
             transform.eulerAngles = new Vector3(0, 180, 0);
     }
-    public void changHP(int amout)
-    {
-        currentHP = Mathf.Clamp(currentHP + amout, 0, maxHP);
-        if (amout >= 0)
-        {
-            MSGcontroller.Instance.addMsg("你获得了<color=green>"+amout+"</color>点生命");
-        }
-        else
-        {
-            MSGcontroller.Instance.addMsg("你失去了<color=red>" +amout*-1 + "</color>点生命");
-            动画.SetTrigger("受击");
-        }
-        xuetiao.hphr.updatehp(currentHP, maxHP);
-        Debug.Log(currentHP + "/" + maxHP);
-    }
 
-    public void HpAmend()
-    {
-        currentHP = (int)(maxHP * xuetiao.hphr.xue.fillAmount);
-    }
     public void IsOpen()
     {
         //游戏需要被暂停，按下ESC，游戏暂停，显示我的设置UI界面，然后将标志位设置成false，等待下次点击ESC启动游戏
@@ -140,15 +104,20 @@ public class NewBehaviourScript : MonoBehaviour
         {
             Atk();
         }
+
+        if (Input.GetKeyDown(KeyCode.N))
+        {
+            SkillDataController.Instance.GetSkillData(1).SkillEffect();
+        }
     }
 
     void Atk()
     {
-        if (Equip==null)
+        if (equipObject==null)
         {
             return;
         }
-        Equip.ATK();
+        equipObject.ATK();
     }
 
     public void ATKPefUPDATE(GameObject equip)
@@ -157,7 +126,7 @@ public class NewBehaviourScript : MonoBehaviour
         {
             Destroy(transform.GetChild(0).GetChild(0).gameObject);
         }
-        Equip=Instantiate(equip, transform.GetChild(0)).GetComponent<EQUIP>();
+        equipObject =Instantiate(equip, transform.GetChild(0)).GetComponent<EquipObject>();
     }
     #endregion
 
@@ -211,21 +180,29 @@ public class NewBehaviourScript : MonoBehaviour
     {
         var save = saveSystem.LoadFromJson<SaveData>(PLAYER_DATA_FILE_NAME);//读档
         LocaData(save);//加载读档数据
-        changHP(0);
     }
 
     SaveData savingData()
     {
         var saveData = new SaveData();
-        saveData.playerHP = currentHP;
         saveData.playerPosition = transform.position;
+        DictionaryCopy(saveData.ItemList, GlobalController.Instance.Data.Inventory);
+        foreach (var s in saveData.ItemList)
+        {
+            Debug.Log(s);
+        }
+        //saveData.ItemList = GlobalController.Instance.Data.Inventory;
+        saveData.Data = (PlayerData)Player.Instance.Data;
         return saveData;
     }
 
     void LocaData(SaveData saveData)
     {
-        currentHP = saveData.playerHP;
         transform.position = saveData.playerPosition;
+        DictionaryCopy(GlobalController.Instance.Data.Inventory,saveData.ItemList);
+        //ItemController.Instance.RefreshhUI(GlobalController.Instance.Data.Inventory = saveData.ItemList);
+        Player.Instance.Data=saveData.Data;
+        ItemController.Instance.RefreshhUI(GlobalController.Instance.Data.Inventory);
     }
 
     #endregion

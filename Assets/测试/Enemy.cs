@@ -3,26 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Enemy : MonoBehaviour
+public class Enemy : Character
 {
     #region 字段
-        [SerializeField]
-        protected private string Enemy_Name;
-        [SerializeField]
-        protected private int Enemy_LV;
-        [SerializeField]
-        protected private int Enemy_MaxHp;
-        [SerializeField]
-        protected private int Enemy_ATK;
         [SerializeField]
         protected private GameObject ATK;
         [SerializeField]
         protected private float ATK_jg;
 
         protected private bool Isatk=true;
-    
-        [SerializeField]
-        protected private int Enemy_CurrentHp;
         [SerializeField]
         protected float Enemy_MoveSpeed;
         [SerializeField]
@@ -42,18 +31,23 @@ public class Enemy : MonoBehaviour
         #endregion
     
     // Update is called once per frame
+    public override void Awake()
+    {
+        characterType = CharacterType.Enemy;
+        Data = new EnemyData();
+    }
+
     private void Start()
     {
         speed = Enemy_MoveSpeed;
-        Enemy_CurrentHp = Enemy_MaxHp;
         target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();//获取玩家位置
     }
     private void Update()
     {
         updatehp();
         xuetiaohuanchong();
-        text.text = Enemy_CurrentHp.ToString();
         Move();
+        kill();
     }
     protected virtual void Move()//移动方式
     {
@@ -73,7 +67,7 @@ public class Enemy : MonoBehaviour
         if (Isatk)
         {
             Isatk = false;
-            Instantiate(ATK, transform);
+            Instantiate(ATK, transform).gameObject.GetComponent<攻击怪物>().ParentGameObject=this.gameObject;
             yield return new WaitForSeconds(ATK_jg);
             Isatk = true;
         }
@@ -93,22 +87,18 @@ public class Enemy : MonoBehaviour
         }
         private void updatehp()
         {
-            xue.fillAmount = (float)Enemy_CurrentHp / (float)Enemy_MaxHp;
+            xue.fillAmount = (float)Data.CurrentHealth / (float)Data.MaxHealth;
             xue_chazhi = (xue_1.fillAmount - xue.fillAmount);
+            text.text = Data.CurrentHealth.ToString();
         }
-
-        public void changehp(int amout)
-        {
-            Enemy_CurrentHp = Mathf.Clamp(Enemy_CurrentHp + amout, 0, Enemy_MaxHp);
-            kill();
-        }
+        
     #endregion
 
     #region 死亡
 
     void kill()
     {
-        if (Enemy_CurrentHp <= 0)
+        if (Data.CurrentHealth <= 0)
         {
             Destroy(this.gameObject);
         }

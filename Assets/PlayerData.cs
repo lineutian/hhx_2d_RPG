@@ -2,7 +2,7 @@
 using UnityEngine;
 using static LanguageController;
 
-public class PlayerData
+public class player_Data
 {
     public string Name;
     public int Money { get; private set; }
@@ -19,9 +19,10 @@ public class PlayerData
     public Dictionary<int,int> Inventory;//物品栏
     public Dictionary<string,bool> Achievement;//成就
     public Dictionary<EquipType, int> Equiptory;
-    private NewBehaviourScript data;
-    public PlayerData() { }
-    public PlayerData(string name)
+    private Character data;
+    private NewBehaviourScript data_1;
+    public player_Data() { }
+    public player_Data(string name)
     {
         T_Hp = Hp = 20;
         Name = name;
@@ -32,8 +33,8 @@ public class PlayerData
         Inventory = new Dictionary<int, int>();
         Achievement= new Dictionary<string, bool>();
         Equiptory = new Dictionary<EquipType, int>();
-        data=GameObject.Find("待机1").GetComponent<NewBehaviourScript>();
-        data.MAXHP(T_Hp);
+        data=GameObject.Find("待机1").GetComponent<Character>();
+        data_1=GameObject.Find("待机1").GetComponent<NewBehaviourScript>();
     }
     
     public bool ChangeMoney(int amount)//金钱变动
@@ -90,7 +91,7 @@ public class PlayerData
             }
         }
 
-        ItemController.Instance.RefreshhUI();//更新Ui
+        ItemController.Instance.RefreshhUI(Inventory);//更新Ui
     }
 
     public void AddEquipToEquiptory(int id)
@@ -119,15 +120,13 @@ public class PlayerData
             T_Hp += equip.EquipData.Hp;
             T_Atk += equip.EquipData.Atk;
             T_Ftk += equip.EquipData.Ftk;
-            data.MAXHP(T_Hp);
             if (equip.EquipType == EquipType.武器)
             {
-                data.ATKPefUPDATE(equip.EquipPef);
+                data_1.ATKPefUPDATE(equip.EquipPef);
             }
         }
         UIController.Instance.sxgx();
-        xuetiao.hphr.update(T_Hp);
-        data.HpAmend();
+        xuetiao.Instance.update(T_Hp);
         equipUI.Instance.equipUIUPdate();
     }
 }

@@ -4,13 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class xuetiao : MonoBehaviour
+public class xuetiao : Singleton<xuetiao>
 {//单例模式
-    public static xuetiao hphr { get; private set; }
-    void Start()
-    {
-        hphr =this;
-    }
     public Image xue;
     public Image xue_1;
     [SerializeField] private float xue_time_1;//serializefield 可以在外部通过面板改变private变量

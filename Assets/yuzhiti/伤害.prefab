@@ -107,7 +107,6 @@ GameObject:
   - component: {fileID: 3522651827593402849}
   - component: {fileID: 3522651827593402850}
   - component: {fileID: 3522651827593402851}
-  - component: {fileID: 3522651827593402908}
   - component: {fileID: 3522651827593402855}
   m_Layer: 5
   m_Name: "\u4F24\u5BB3"
@@ -179,7 +178,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!114 &3522651827593402851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -197,25 +196,6 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!95 &3522651827593402908
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3522651827593402909}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: afd27845c3680314baee12781c0dfd45, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &3522651827593402855
 MonoBehaviour:
   m_ObjectHideFlags: 0

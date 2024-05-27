@@ -28,6 +28,7 @@ public class Enemy : Character
         public Image xue_1;
         [SerializeField] private float xue_time_1;//serializefield 可以在外部通过面板改变private变量
         private float xue_chazhi;
+        public EnemyDataSO DataSo;
         #endregion
     
     // Update is called once per frame
@@ -67,7 +68,7 @@ public class Enemy : Character
         if (Isatk)
         {
             Isatk = false;
-            Instantiate(ATK, transform).gameObject.GetComponent<攻击怪物>().ParentGameObject=this.gameObject;
+            Instantiate(ATK, transform.position,Quaternion.identity).gameObject.GetComponent<攻击怪物>().ParentGameObject=this.gameObject;
             yield return new WaitForSeconds(ATK_jg);
             Isatk = true;
         }
@@ -100,9 +101,31 @@ public class Enemy : Character
     {
         if (Data.CurrentHealth <= 0)
         {
+            dropTrophy();
             Destroy(this.gameObject);
         }
     }
-    
+
+    void dropTrophy()
+    {
+        Player.Instance.playerData.GetCoins(DataSo.Coin);
+        Player.Instance.playerData.GetExp(DataSo.Exp);
+        foreach (var trophy in DataSo.trophyGroup)
+        {
+            if (Random.RandomRange(0, 100) < trophy.Value)
+            {
+                if (equipController.Instance.EquipIDLib[trophy.Key.ItemTypeID])
+                {
+                    equipController.Instance.generate(trophy.Key.ItemTypeID);
+                }
+                else
+                {
+                    Player.Instance.playerData.AddItemToInventory(trophy.Key.ItemID);
+                }
+            }
+            
+        }
+        
+    }
     #endregion
 }

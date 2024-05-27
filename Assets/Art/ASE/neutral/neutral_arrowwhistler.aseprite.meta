@@ -1,0 +1,2863 @@
+fileFormatVersion: 2
+guid: aa9fcd3463cde9f46ad2594058fe3b5c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_arrowwhistler_Frame_0
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.24193549}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 4
+      width: 63
+      height: 62
+    spriteID: f39f6701ffe48b641bc4cceec7a6896f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: -11}
+  - name: neutral_arrowwhistler_Frame_1
+    originalName: 
+    pivot: {x: 0.53125, y: -0.2982456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 4
+      width: 64
+      height: 57
+    spriteID: 2bda357357e4f484db5947e88d29e018
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: -13}
+  - name: neutral_arrowwhistler_Frame_2
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 74
+      width: 63
+      height: 62
+    spriteID: b1abfe9fe1cad0b45ac0b52c9e44aab7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 58}
+  - name: neutral_arrowwhistler_Frame_3
+    originalName: 
+    pivot: {x: 0.53125, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 679
+      width: 64
+      height: 63
+    spriteID: 7ca610f818c8503449ccf63a38f98ee7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 663}
+  - name: neutral_arrowwhistler_Frame_4
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 821
+      width: 61
+      height: 66
+    spriteID: 904e700250d984947a4f1343c2f077de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 806}
+  - name: neutral_arrowwhistler_Frame_5
+    originalName: 
+    pivot: {x: 0.516129, y: -0.32258067}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 582
+      width: 62
+      height: 62
+    spriteID: f6257e96bde58414482153576bc0b95b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 562}
+  - name: neutral_arrowwhistler_Frame_6
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 452
+      width: 63
+      height: 66
+    spriteID: 3e4d3a4cb22fc08468c70db1762ec8d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 436}
+  - name: neutral_arrowwhistler_Frame_7
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.27419356}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 144
+      width: 63
+      height: 62
+    spriteID: 85b9367dc470f2543a5dfc3619f2e67c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 127}
+  - name: neutral_arrowwhistler_Frame_8
+    originalName: 
+    pivot: {x: 0.59322035, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 530
+      width: 59
+      height: 61
+    spriteID: 49a2b57d9118d654b9b87d0207baf259
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 514}
+  - name: neutral_arrowwhistler_Frame_9
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 442
+      width: 56
+      height: 62
+    spriteID: 8efed90598cdc3a469253a00e2d54c10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 426}
+  - name: neutral_arrowwhistler_Frame_10
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 215
+      width: 56
+      height: 63
+    spriteID: be57f0c48359a894a924c153cf9186fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 199}
+  - name: neutral_arrowwhistler_Frame_11
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 806
+      width: 56
+      height: 64
+    spriteID: 17526d69e3c7856419a86aadb56bfdd7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 790}
+  - name: neutral_arrowwhistler_Frame_12
+    originalName: 
+    pivot: {x: 0.5370371, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 950
+      width: 54
+      height: 66
+    spriteID: 24b668ff210558a458a6d7c21ecce7ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 934}
+  - name: neutral_arrowwhistler_Frame_13
+    originalName: 
+    pivot: {x: 0.5535714, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 874
+      width: 56
+      height: 67
+    spriteID: 113dab7ada2cb0b43989ce462c39c7f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 858}
+  - name: neutral_arrowwhistler_Frame_14
+    originalName: 
+    pivot: {x: 0.5535714, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 652
+      width: 56
+      height: 68
+    spriteID: e0274365c9af966489b140c4e28e66d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 636}
+  - name: neutral_arrowwhistler_Frame_15
+    originalName: 
+    pivot: {x: 0.5614035, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 155
+      width: 57
+      height: 69
+    spriteID: fa22c48600a61a44bba7b1997d2d7809
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 139}
+  - name: neutral_arrowwhistler_Frame_16
+    originalName: 
+    pivot: {x: 0.5689655, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 601
+      width: 58
+      height: 70
+    spriteID: c0f0b886fb06f954cbcf2527577e59ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 585}
+  - name: neutral_arrowwhistler_Frame_17
+    originalName: 
+    pivot: {x: 0.5862069, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 432
+      width: 58
+      height: 67
+    spriteID: 70fa168acbe20744dbcca714cf824a3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 416}
+  - name: neutral_arrowwhistler_Frame_18
+    originalName: 
+    pivot: {x: 0.5862069, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 507
+      width: 58
+      height: 67
+    spriteID: f892f608e782fbd4592e355eaf99ff84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 491}
+  - name: neutral_arrowwhistler_Frame_19
+    originalName: 
+    pivot: {x: 0.5862069, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 79
+      width: 58
+      height: 68
+    spriteID: b4906058ac710504a9d39ec0567d3ade
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 63}
+  - name: neutral_arrowwhistler_Frame_20
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 232
+      width: 56
+      height: 66
+    spriteID: 1ae235b475542a14894812c10f401adc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 216}
+  - name: neutral_arrowwhistler_Frame_21
+    originalName: 
+    pivot: {x: 0.5789473, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 800
+      width: 57
+      height: 66
+    spriteID: 7cfe936e3bf3b3a449e27cc6c87ddb5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 784}
+  - name: neutral_arrowwhistler_Frame_22
+    originalName: 
+    pivot: {x: 0.57627124, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 284
+      width: 59
+      height: 66
+    spriteID: 70eeefc317d380f4f809bce4702ece1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 268}
+  - name: neutral_arrowwhistler_Frame_23
+    originalName: 
+    pivot: {x: 0.57627124, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 728
+      width: 59
+      height: 64
+    spriteID: 32ed8564ee3c0154da46e657d058f72a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 712}
+  - name: neutral_arrowwhistler_Frame_24
+    originalName: 
+    pivot: {x: 0.59322035, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 358
+      width: 59
+      height: 66
+    spriteID: 6815ba463a3807b45ab8dcf5dbfc4874
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 342}
+  - name: neutral_arrowwhistler_Frame_25
+    originalName: 
+    pivot: {x: 0.59322035, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 59
+      height: 67
+    spriteID: 033c188d852cc4948a0823a80fd5eadd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: -12}
+  - name: neutral_arrowwhistler_Frame_26
+    originalName: 
+    pivot: {x: 0.59322035, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 599
+      width: 59
+      height: 61
+    spriteID: 86f422bbcdbbf144ebc16c8cd47521c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 583}
+  - name: neutral_arrowwhistler_Frame_27
+    originalName: 
+    pivot: {x: 0.6034483, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 4
+      width: 58
+      height: 57
+    spriteID: 3c80eb61836e9c14599f44a64f587b51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: -12}
+  - name: neutral_arrowwhistler_Frame_28
+    originalName: 
+    pivot: {x: 0.63793105, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 496
+      width: 58
+      height: 58
+    spriteID: 9d88e561f6fbf494baef3e7e7af582e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 480}
+  - name: neutral_arrowwhistler_Frame_29
+    originalName: 
+    pivot: {x: 0.59322035, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 668
+      width: 59
+      height: 61
+    spriteID: d44ed2c92207e0f43906e4b8faa02732
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 652}
+  - name: neutral_arrowwhistler_Frame_30
+    originalName: 
+    pivot: {x: 0.6034483, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 69
+      width: 58
+      height: 57
+    spriteID: dcb1680ae87e7b242aeeb712b52ff18f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 53}
+  - name: neutral_arrowwhistler_Frame_31
+    originalName: 
+    pivot: {x: 0.63793105, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 562
+      width: 58
+      height: 58
+    spriteID: 8789da19504bb004b8567c6908621444
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 546}
+  - name: neutral_arrowwhistler_Frame_32
+    originalName: 
+    pivot: {x: 0.60784316, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 962
+      width: 51
+      height: 57
+    spriteID: f2a6b7b2e5fd41a4881d2588fd4592e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 946}
+  - name: neutral_arrowwhistler_Frame_33
+    originalName: 
+    pivot: {x: 0.61111104, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 697
+      width: 54
+      height: 58
+    spriteID: ee13aa571a45e1a4cb1963d1607970e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 681}
+  - name: neutral_arrowwhistler_Frame_34
+    originalName: 
+    pivot: {x: 0.60714287, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 628
+      width: 56
+      height: 60
+    spriteID: d4d335401f700bb44be4363cd42dd13d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 613}
+  - name: neutral_arrowwhistler_Frame_35
+    originalName: 
+    pivot: {x: 0.6034483, y: -0.24590164}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 146
+      width: 58
+      height: 61
+    spriteID: 9bb22e527e9991a43a04790417a0c3cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 131}
+  - name: neutral_arrowwhistler_Frame_36
+    originalName: 
+    pivot: {x: 0.61016953, y: -0.24193549}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 380
+      width: 59
+      height: 62
+    spriteID: c071b9e43e3150946b4121f04b72c62c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 365}
+  - name: neutral_arrowwhistler_Frame_37
+    originalName: 
+    pivot: {x: 0.60655737, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 4
+      width: 61
+      height: 60
+    spriteID: 1361d7d7a666c7741bf1c8062a326462
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: -11}
+  - name: neutral_arrowwhistler_Frame_38
+    originalName: 
+    pivot: {x: 0.75510204, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 894
+      width: 49
+      height: 60
+    spriteID: e52b4107fc18cfb41a01d1bec43da5fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 426, y: 879}
+  - name: neutral_arrowwhistler_Frame_39
+    originalName: 
+    pivot: {x: 0.66071427, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 968
+      width: 56
+      height: 52
+    spriteID: 5ac7a401ee5f1c34fbc04d5feb783296
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 952}
+  - name: neutral_arrowwhistler_Frame_40
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 833
+      width: 57
+      height: 53
+    spriteID: 2d0fef685adbb9242adb2d2544748194
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 817}
+  - name: neutral_arrowwhistler_Frame_41
+    originalName: 
+    pivot: {x: 0.6785714, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 964
+      width: 56
+      height: 54
+    spriteID: a09429fe0dc479843875609423eb227a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 948}
+  - name: neutral_arrowwhistler_Frame_42
+    originalName: 
+    pivot: {x: 0.55813956, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 72
+      width: 43
+      height: 50
+    spriteID: b677fa17bd215f84e9ac7aa82ae0dd2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 56}
+  - name: neutral_arrowwhistler_Frame_43
+    originalName: 
+    pivot: {x: 0.55813956, y: -0.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 130
+      width: 43
+      height: 40
+    spriteID: 98faeba2e25d53848bfa8cb02e05e630
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 115}
+  - name: neutral_arrowwhistler_Frame_44
+    originalName: 
+    pivot: {x: 0.34482756, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 178
+      width: 29
+      height: 39
+    spriteID: 9e9f7ac4b6904f046a49b76f36ee1a06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 163}
+  - name: neutral_arrowwhistler_Frame_45
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.39473686}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 366
+      width: 27
+      height: 38
+    spriteID: 76f29a6a15f3826459efebc04da1986a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 351}
+  - name: neutral_arrowwhistler_Frame_46
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 225
+      width: 27
+      height: 39
+    spriteID: 46bba88f4af73ac4894cb6f21acec2cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 210}
+  - name: neutral_arrowwhistler_Frame_47
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 272
+      width: 27
+      height: 39
+    spriteID: 19aefb8c0ea25574287b0af3599546bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 257}
+  - name: neutral_arrowwhistler_Frame_48
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 319
+      width: 27
+      height: 39
+    spriteID: 50a6d7416fc64cc418f72bba26531106
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 304}
+  - name: neutral_arrowwhistler_Frame_49
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 796
+      width: 56
+      height: 61
+    spriteID: 5998700cdc4383440a0d96faa3ab3bd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 780}
+  - name: neutral_arrowwhistler_Frame_50
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 865
+      width: 56
+      height: 61
+    spriteID: df2abdb4de3f56249887764766540d5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 849}
+  - name: neutral_arrowwhistler_Frame_51
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 696
+      width: 56
+      height: 60
+    spriteID: 784f2651707f95345a25edefc40524a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 680}
+  - name: neutral_arrowwhistler_Frame_52
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 764
+      width: 56
+      height: 60
+    spriteID: c8ef46cccf7f9c444a8faad3f8887e54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 748}
+  - name: neutral_arrowwhistler_Frame_53
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 832
+      width: 56
+      height: 60
+    spriteID: 6f12952363dc967489b252a96b4fa7dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 816}
+  - name: neutral_arrowwhistler_Frame_54
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 900
+      width: 56
+      height: 60
+    spriteID: 3604ad692895433438249c27720505b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 884}
+  - name: neutral_arrowwhistler_Frame_55
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 934
+      width: 56
+      height: 61
+    spriteID: 8836d1c2766b60c4e8b716d09479445e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 918}
+  - name: neutral_arrowwhistler_Frame_56
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 69
+      width: 56
+      height: 61
+    spriteID: 2a59aec896dc35d47b7b3b8b3af466ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 53}
+  - name: neutral_arrowwhistler_Frame_57
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 512
+      width: 56
+      height: 62
+    spriteID: 7aab71703fb6d454885e921c2580f71a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 496}
+  - name: neutral_arrowwhistler_Frame_58
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 207
+      width: 55
+      height: 62
+    spriteID: 6c3ef1f45e4235248b07eb96a84d0239
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 191}
+  - name: neutral_arrowwhistler_Frame_59
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 582
+      width: 55
+      height: 63
+    spriteID: 19c207b23334a3647b872b7a25a00e27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 566}
+  - name: neutral_arrowwhistler_Frame_60
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 653
+      width: 55
+      height: 63
+    spriteID: c246ac395134b3a42800a04895d57f8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 637}
+  - name: neutral_arrowwhistler_Frame_61
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 277
+      width: 55
+      height: 62
+    spriteID: cbc4fb7e3d4930a4aaf0554c9a1ce119
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 261}
+  - name: neutral_arrowwhistler_Frame_62
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 134
+      width: 55
+      height: 60
+    spriteID: 9bb1334348763024b9329338da80ff10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 118}
+  - name: neutral_arrowwhistler_Frame_63
+    originalName: 
+    pivot: {x: 0.59322035, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 737
+      width: 59
+      height: 61
+    spriteID: 1650fe911fa573c4f8275c6e66b3889f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 721}
+  - name: neutral_arrowwhistler_Frame_64
+    originalName: 
+    pivot: {x: 0.60377353, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 202
+      width: 53
+      height: 62
+    spriteID: a6c00b55d5aa4ef4a9d7cb195ede3284
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 186}
+  - name: neutral_arrowwhistler_Frame_65
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 272
+      width: 52
+      height: 62
+    spriteID: d8f19d3fe35417c48906f357af3c169f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 256}
+  - name: neutral_arrowwhistler_Frame_66
+    originalName: 
+    pivot: {x: 0.63461536, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 554
+      width: 52
+      height: 61
+    spriteID: 083a5fe877047cd47a31a39e2b7876fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 538}
+  - name: neutral_arrowwhistler_Frame_67
+    originalName: 
+    pivot: {x: 0.6122449, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 763
+      width: 49
+      height: 62
+    spriteID: 4bf632a03baee42428bdd5ec01ff0b10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 419, y: 747}
+  - name: neutral_arrowwhistler_Frame_68
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 412
+      width: 51
+      height: 63
+    spriteID: 6994dbf7c4358bf4c80dea4c821fc7dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 396}
+  - name: neutral_arrowwhistler_Frame_69
+    originalName: 
+    pivot: {x: 0.5925926, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 724
+      width: 54
+      height: 64
+    spriteID: 651b96bf5ec69c443b041e784169e35e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 708}
+  - name: neutral_arrowwhistler_Frame_70
+    originalName: 
+    pivot: {x: 0.63461536, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 423
+      width: 52
+      height: 65
+    spriteID: e0dd9a970e6ba1a49a298be78aad35b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 407}
+  - name: neutral_arrowwhistler_Frame_71
+    originalName: 
+    pivot: {x: 0.6296296, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 72
+      width: 54
+      height: 66
+    spriteID: 0951fac85492557488aa4ad70bf5f786
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 56}
+  - name: neutral_arrowwhistler_Frame_72
+    originalName: 
+    pivot: {x: 0.625, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 878
+      width: 56
+      height: 64
+    spriteID: 934d890586623c34ea3dc49315368a9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 862}
+  - name: neutral_arrowwhistler_Frame_73
+    originalName: 
+    pivot: {x: 0.625, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 4
+      width: 56
+      height: 60
+    spriteID: c2beea1b1c2d757419a990c7182fb72d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 360, y: -12}
+  - name: neutral_arrowwhistler_Frame_74
+    originalName: 
+    pivot: {x: 0.625, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 138
+      width: 56
+      height: 61
+    spriteID: 518ef51109847c44891d430157818df1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 122}
+  - name: neutral_arrowwhistler_Frame_75
+    originalName: 
+    pivot: {x: 0.44, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 379
+      width: 75
+      height: 65
+    spriteID: f861ecc10f5c6eb48b99bf4a3308f813
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 363}
+  - name: neutral_arrowwhistler_Frame_76
+    originalName: 
+    pivot: {x: 0.41975307, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 305
+      width: 81
+      height: 66
+    spriteID: e38418413cb7e044698c064b441b1295
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 289}
+  - name: neutral_arrowwhistler_Frame_77
+    originalName: 
+    pivot: {x: 0.42168677, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 156
+      width: 83
+      height: 67
+    spriteID: 32756bd5b09be6e4bb3fea64ba88a46e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 140}
+  - name: neutral_arrowwhistler_Frame_78
+    originalName: 
+    pivot: {x: 0.42168677, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 231
+      width: 83
+      height: 66
+    spriteID: 1ee219afbdb5b4741ab6f1bc06046bdf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 215}
+  - name: neutral_arrowwhistler_Frame_79
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 84
+      height: 68
+    spriteID: 9d4a545e3366e7848a7cbc1ae3433968
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: -12}
+  - name: neutral_arrowwhistler_Frame_80
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 80
+      width: 84
+      height: 68
+    spriteID: 7b94603d63db28f479eded71635e12f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 64}
+  - name: neutral_arrowwhistler_Frame_81
+    originalName: 
+    pivot: {x: 0.5538462, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 895
+      width: 65
+      height: 61
+    spriteID: 25d533f5c96e95c4f96476098640c709
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 879}
+  - name: neutral_arrowwhistler_Frame_82
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 214
+      width: 63
+      height: 62
+    spriteID: 9f0b320f6aa04d04faf9408f428e5238
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 198}
+  - name: neutral_arrowwhistler_Frame_83
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 342
+      width: 52
+      height: 62
+    spriteID: 5065aa1caf63595419b716a53c0229ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 326}
+  - name: neutral_arrowwhistler_Frame_84
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 483
+      width: 51
+      height: 63
+    spriteID: 40c326012bb46f647b8eb1b6e3bd66bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 467}
+  - name: neutral_arrowwhistler_Frame_85
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 623
+      width: 48
+      height: 66
+    spriteID: 6a70dc314f4163d40a2b507def022949
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 607}
+  - name: neutral_arrowwhistler_Frame_86
+    originalName: 
+    pivot: {x: 0.62, y: -0.22222221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 450
+      width: 50
+      height: 72
+    spriteID: 8a9f64744c084f14a832089b3e5898e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 434}
+  - name: neutral_arrowwhistler_Frame_87
+    originalName: 
+    pivot: {x: 0.63265306, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 363
+      width: 49
+      height: 71
+    spriteID: 98e28a0fdbadb1344a254b4dd4742d65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 347}
+  - name: neutral_arrowwhistler_Frame_88
+    originalName: 
+    pivot: {x: 0.64, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 347
+      width: 50
+      height: 68
+    spriteID: 82d7291e608729d459e8700ca931d8a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 331}
+  - name: neutral_arrowwhistler_Frame_89
+    originalName: 
+    pivot: {x: 0.6470588, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 286
+      width: 51
+      height: 69
+    spriteID: 55f5599c5186a6d4397a2d2c9857d989
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 270}
+  - name: neutral_arrowwhistler_Frame_90
+    originalName: 
+    pivot: {x: 0.5483871, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 526
+      width: 62
+      height: 67
+    spriteID: 974e5322c792d8e4bb91e4d44200a3b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 510}
+  - name: neutral_arrowwhistler_Frame_91
+    originalName: 
+    pivot: {x: 0.53125, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 750
+      width: 64
+      height: 63
+    spriteID: dd88ff97f2e8c1c42a4efb6dce91ca69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 734}
+  - name: neutral_arrowwhistler_Frame_92
+    originalName: 
+    pivot: {x: 0.5862069, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 949
+      width: 58
+      height: 64
+    spriteID: be59a49939c5adb46b7745345b3bdec2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 933}
+  - name: neutral_arrowwhistler_Frame_93
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 306
+      width: 56
+      height: 66
+    spriteID: 28661c6a5a6859748b40f5a850a74e23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 290}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 835436677
+    name: neutral_arrowwhistler
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_arrowwhistler_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f39f6701ffe48b641bc4cceec7a6896f
+    - name: neutral_arrowwhistler_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2bda357357e4f484db5947e88d29e018
+    - name: neutral_arrowwhistler_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b1abfe9fe1cad0b45ac0b52c9e44aab7
+    - name: neutral_arrowwhistler_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7ca610f818c8503449ccf63a38f98ee7
+    - name: neutral_arrowwhistler_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 904e700250d984947a4f1343c2f077de
+    - name: neutral_arrowwhistler_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f6257e96bde58414482153576bc0b95b
+    - name: neutral_arrowwhistler_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3e4d3a4cb22fc08468c70db1762ec8d8
+    - name: neutral_arrowwhistler_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 85b9367dc470f2543a5dfc3619f2e67c
+    - name: neutral_arrowwhistler_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 49a2b57d9118d654b9b87d0207baf259
+    - name: neutral_arrowwhistler_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8efed90598cdc3a469253a00e2d54c10
+    - name: neutral_arrowwhistler_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: be57f0c48359a894a924c153cf9186fa
+    - name: neutral_arrowwhistler_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 17526d69e3c7856419a86aadb56bfdd7
+    - name: neutral_arrowwhistler_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 24b668ff210558a458a6d7c21ecce7ac
+    - name: neutral_arrowwhistler_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 113dab7ada2cb0b43989ce462c39c7f0
+    - name: neutral_arrowwhistler_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e0274365c9af966489b140c4e28e66d9
+    - name: neutral_arrowwhistler_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fa22c48600a61a44bba7b1997d2d7809
+    - name: neutral_arrowwhistler_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c0f0b886fb06f954cbcf2527577e59ac
+    - name: neutral_arrowwhistler_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 70fa168acbe20744dbcca714cf824a3c
+    - name: neutral_arrowwhistler_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f892f608e782fbd4592e355eaf99ff84
+    - name: neutral_arrowwhistler_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b4906058ac710504a9d39ec0567d3ade
+    - name: neutral_arrowwhistler_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1ae235b475542a14894812c10f401adc
+    - name: neutral_arrowwhistler_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7cfe936e3bf3b3a449e27cc6c87ddb5b
+    - name: neutral_arrowwhistler_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 70eeefc317d380f4f809bce4702ece1b
+    - name: neutral_arrowwhistler_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 32ed8564ee3c0154da46e657d058f72a
+    - name: neutral_arrowwhistler_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6815ba463a3807b45ab8dcf5dbfc4874
+    - name: neutral_arrowwhistler_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 033c188d852cc4948a0823a80fd5eadd
+    - name: neutral_arrowwhistler_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 86f422bbcdbbf144ebc16c8cd47521c8
+    - name: neutral_arrowwhistler_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3c80eb61836e9c14599f44a64f587b51
+    - name: neutral_arrowwhistler_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9d88e561f6fbf494baef3e7e7af582e3
+    - name: neutral_arrowwhistler_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d44ed2c92207e0f43906e4b8faa02732
+    - name: neutral_arrowwhistler_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dcb1680ae87e7b242aeeb712b52ff18f
+    - name: neutral_arrowwhistler_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8789da19504bb004b8567c6908621444
+    - name: neutral_arrowwhistler_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f2a6b7b2e5fd41a4881d2588fd4592e2
+    - name: neutral_arrowwhistler_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ee13aa571a45e1a4cb1963d1607970e1
+    - name: neutral_arrowwhistler_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d4d335401f700bb44be4363cd42dd13d
+    - name: neutral_arrowwhistler_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9bb22e527e9991a43a04790417a0c3cb
+    - name: neutral_arrowwhistler_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c071b9e43e3150946b4121f04b72c62c
+    - name: neutral_arrowwhistler_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1361d7d7a666c7741bf1c8062a326462
+    - name: neutral_arrowwhistler_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e52b4107fc18cfb41a01d1bec43da5fa
+    - name: neutral_arrowwhistler_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5ac7a401ee5f1c34fbc04d5feb783296
+    - name: neutral_arrowwhistler_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2d0fef685adbb9242adb2d2544748194
+    - name: neutral_arrowwhistler_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a09429fe0dc479843875609423eb227a
+    - name: neutral_arrowwhistler_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b677fa17bd215f84e9ac7aa82ae0dd2f
+    - name: neutral_arrowwhistler_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 98faeba2e25d53848bfa8cb02e05e630
+    - name: neutral_arrowwhistler_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9e9f7ac4b6904f046a49b76f36ee1a06
+    - name: neutral_arrowwhistler_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 76f29a6a15f3826459efebc04da1986a
+    - name: neutral_arrowwhistler_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 46bba88f4af73ac4894cb6f21acec2cd
+    - name: neutral_arrowwhistler_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 19aefb8c0ea25574287b0af3599546bc
+    - name: neutral_arrowwhistler_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 50a6d7416fc64cc418f72bba26531106
+    - name: neutral_arrowwhistler_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5998700cdc4383440a0d96faa3ab3bd0
+    - name: neutral_arrowwhistler_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: df2abdb4de3f56249887764766540d5f
+    - name: neutral_arrowwhistler_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 784f2651707f95345a25edefc40524a2
+    - name: neutral_arrowwhistler_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c8ef46cccf7f9c444a8faad3f8887e54
+    - name: neutral_arrowwhistler_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6f12952363dc967489b252a96b4fa7dc
+    - name: neutral_arrowwhistler_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3604ad692895433438249c27720505b2
+    - name: neutral_arrowwhistler_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8836d1c2766b60c4e8b716d09479445e
+    - name: neutral_arrowwhistler_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2a59aec896dc35d47b7b3b8b3af466ec
+    - name: neutral_arrowwhistler_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7aab71703fb6d454885e921c2580f71a
+    - name: neutral_arrowwhistler_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6c3ef1f45e4235248b07eb96a84d0239
+    - name: neutral_arrowwhistler_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 19c207b23334a3647b872b7a25a00e27
+    - name: neutral_arrowwhistler_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c246ac395134b3a42800a04895d57f8c
+    - name: neutral_arrowwhistler_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cbc4fb7e3d4930a4aaf0554c9a1ce119
+    - name: neutral_arrowwhistler_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9bb1334348763024b9329338da80ff10
+    - name: neutral_arrowwhistler_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1650fe911fa573c4f8275c6e66b3889f
+    - name: neutral_arrowwhistler_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a6c00b55d5aa4ef4a9d7cb195ede3284
+    - name: neutral_arrowwhistler_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d8f19d3fe35417c48906f357af3c169f
+    - name: neutral_arrowwhistler_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 083a5fe877047cd47a31a39e2b7876fe
+    - name: neutral_arrowwhistler_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4bf632a03baee42428bdd5ec01ff0b10
+    - name: neutral_arrowwhistler_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6994dbf7c4358bf4c80dea4c821fc7dc
+    - name: neutral_arrowwhistler_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 651b96bf5ec69c443b041e784169e35e
+    - name: neutral_arrowwhistler_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e0dd9a970e6ba1a49a298be78aad35b0
+    - name: neutral_arrowwhistler_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0951fac85492557488aa4ad70bf5f786
+    - name: neutral_arrowwhistler_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 934d890586623c34ea3dc49315368a9c
+    - name: neutral_arrowwhistler_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c2beea1b1c2d757419a990c7182fb72d
+    - name: neutral_arrowwhistler_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 518ef51109847c44891d430157818df1
+    - name: neutral_arrowwhistler_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f861ecc10f5c6eb48b99bf4a3308f813
+    - name: neutral_arrowwhistler_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e38418413cb7e044698c064b441b1295
+    - name: neutral_arrowwhistler_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 32756bd5b09be6e4bb3fea64ba88a46e
+    - name: neutral_arrowwhistler_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1ee219afbdb5b4741ab6f1bc06046bdf
+    - name: neutral_arrowwhistler_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9d4a545e3366e7848a7cbc1ae3433968
+    - name: neutral_arrowwhistler_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7b94603d63db28f479eded71635e12f8
+    - name: neutral_arrowwhistler_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 25d533f5c96e95c4f96476098640c709
+    - name: neutral_arrowwhistler_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9f0b320f6aa04d04faf9408f428e5238
+    - name: neutral_arrowwhistler_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5065aa1caf63595419b716a53c0229ff
+    - name: neutral_arrowwhistler_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 40c326012bb46f647b8eb1b6e3bd66bc
+    - name: neutral_arrowwhistler_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6a70dc314f4163d40a2b507def022949
+    - name: neutral_arrowwhistler_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8a9f64744c084f14a832089b3e5898e2
+    - name: neutral_arrowwhistler_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 98e28a0fdbadb1344a254b4dd4742d65
+    - name: neutral_arrowwhistler_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 82d7291e608729d459e8700ca931d8a3
+    - name: neutral_arrowwhistler_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 55f5599c5186a6d4397a2d2c9857d989
+    - name: neutral_arrowwhistler_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 974e5322c792d8e4bb91e4d44200a3b5
+    - name: neutral_arrowwhistler_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dd88ff97f2e8c1c42a4efb6dce91ca69
+    - name: neutral_arrowwhistler_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: be59a49939c5adb46b7745345b3bdec2
+    - name: neutral_arrowwhistler_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 28661c6a5a6859748b40f5a850a74e23
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

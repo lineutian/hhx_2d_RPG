@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/initial.unity
+    guid: 9da61f8adc893ca4f84a41161b048f77
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -14,4 +17,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/duizhan.unity
     guid: 02ed544dea617014eb785d8c7b6fff46
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 2f4b3111e7fca1543b9c548f977698c8, type: 2}

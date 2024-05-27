@@ -8,6 +8,8 @@ public class 攻击怪物 : MonoBehaviour
     private float sd;
     private Transform target;
     public GameObject ParentGameObject;
+    public float _existenceTime=10f;
+    
     private void Awake()
     {
         sh = 5;
@@ -17,11 +19,16 @@ public class 攻击怪物 : MonoBehaviour
     private void Update()
     {
         transform.position = Vector2.MoveTowards(transform.position, target.position, sd * Time.deltaTime);
+        _existenceTime -= Time.deltaTime;
+        if (_existenceTime<+0)
+        {
+            Destroy(this.gameObject);
+        }
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Character pc = collision.GetComponent<Character>();
-        if (pc != null)
+        if (pc != null&&pc is Player)
         {
             HurtManager.Instance.hurt(ParentGameObject,pc.gameObject,-sh,HurtType.AD);
             Destroy(this.gameObject);

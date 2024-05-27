@@ -38,7 +38,7 @@ public class 攻击玩家 : MonoBehaviour
                 damageNum.GetTransform(other.transform.position);
                 damageNum.ShowUIDamage(-(i=GlobalController.Instance.Data.T_Atk),HurtType);
                 pc.changehp(-i);*/
-                HurtManager.Instance.hurt(Player,pc.gameObject,-10,HurtType);
+                HurtManager.Instance.hurt(Player,pc.gameObject,-(int)(ObjectManager.PlayerData.Atk*0.5f),HurtType);
                 Destroy(this.gameObject);
             }
         }

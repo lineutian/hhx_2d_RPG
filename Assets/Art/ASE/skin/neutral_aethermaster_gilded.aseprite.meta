@@ -1,0 +1,2428 @@
+fileFormatVersion: 2
+guid: fa2e72243ae3ff54bae1fd6769ef665f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_aethermaster_gilded_Frame_0
+    originalName: 
+    pivot: {x: 0.64912283, y: -0.2586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 527
+      width: 57
+      height: 58
+    spriteID: 71f253c678436764ab3e3a9db5666e59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 512}
+  - name: neutral_aethermaster_gilded_Frame_1
+    originalName: 
+    pivot: {x: 0.64912283, y: -0.23728815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 460
+      width: 57
+      height: 59
+    spriteID: 977c777d54cde2144bdfbceac83d2f23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 446}
+  - name: neutral_aethermaster_gilded_Frame_2
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.23728815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 777
+      width: 60
+      height: 59
+    spriteID: 5e87a565e563cfb48809a59b6b9a1b15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 763}
+  - name: neutral_aethermaster_gilded_Frame_3
+    originalName: 
+    pivot: {x: 0.6721311, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 267
+      width: 61
+      height: 77
+    spriteID: 2766c2d41a52f58468d85f15d6d39d01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 253}
+  - name: neutral_aethermaster_gilded_Frame_4
+    originalName: 
+    pivot: {x: 0.66101694, y: -0.3148148}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 662
+      width: 59
+      height: 54
+    spriteID: 96bc171ba621b204d998bcd0f5988226
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 645}
+  - name: neutral_aethermaster_gilded_Frame_5
+    originalName: 
+    pivot: {x: 0.6363636, y: -0.3090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 4
+      width: 55
+      height: 55
+    spriteID: b2aedf599fc525043a7347a2cc4e0be0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: -13}
+  - name: neutral_aethermaster_gilded_Frame_6
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 205
+      width: 48
+      height: 58
+    spriteID: e12b6fee33860df4d94b8d600e4d5ee6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 189}
+  - name: neutral_aethermaster_gilded_Frame_7
+    originalName: 
+    pivot: {x: 0.59183675, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 632
+      width: 49
+      height: 59
+    spriteID: ba0fc577e93023348b97249ffd56bf35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 616}
+  - name: neutral_aethermaster_gilded_Frame_8
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 769
+      width: 48
+      height: 59
+    spriteID: 464c01fd0c095304e910dde8c2ba72b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 753}
+  - name: neutral_aethermaster_gilded_Frame_9
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 836
+      width: 48
+      height: 59
+    spriteID: 17f1fc39c595363418aeb9c0b8318b6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 820}
+  - name: neutral_aethermaster_gilded_Frame_10
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 903
+      width: 48
+      height: 59
+    spriteID: 6c3ba4e36d5c71f4e926859bb1b8c622
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 887}
+  - name: neutral_aethermaster_gilded_Frame_11
+    originalName: 
+    pivot: {x: 0.574468, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 278
+      width: 47
+      height: 56
+    spriteID: beeee0c7bb2c4e24f8fa377ecdb589b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 262}
+  - name: neutral_aethermaster_gilded_Frame_12
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 131
+      width: 47
+      height: 57
+    spriteID: 445237897f6f5bf4da3f236531ab6109
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: 115}
+  - name: neutral_aethermaster_gilded_Frame_13
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 535
+      width: 47
+      height: 58
+    spriteID: 2c559831bb4e75548b344144659321e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 519}
+  - name: neutral_aethermaster_gilded_Frame_14
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 67
+      width: 47
+      height: 60
+    spriteID: fe2327b60762f6f489ba39945a21cf51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 51}
+  - name: neutral_aethermaster_gilded_Frame_15
+    originalName: 
+    pivot: {x: 0.5777778, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 135
+      width: 45
+      height: 62
+    spriteID: 4c4768c692cc1d0428eae05e312ee245
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 119}
+  - name: neutral_aethermaster_gilded_Frame_16
+    originalName: 
+    pivot: {x: 0.58695644, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 699
+      width: 46
+      height: 62
+    spriteID: 360d64bc8ad3d254e974d1f78937e250
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 683}
+  - name: neutral_aethermaster_gilded_Frame_17
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 153
+      width: 48
+      height: 63
+    spriteID: 93972413614bcc64ab446c2b4f428cf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 137}
+  - name: neutral_aethermaster_gilded_Frame_18
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 601
+      width: 47
+      height: 58
+    spriteID: c7a23eabef8b16e41aff348032879696
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 585}
+  - name: neutral_aethermaster_gilded_Frame_19
+    originalName: 
+    pivot: {x: 0.59183675, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 496
+      width: 49
+      height: 60
+    spriteID: 29e92ac787a4b5741a5fe0dbf1e6191d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 480}
+  - name: neutral_aethermaster_gilded_Frame_20
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 724
+      width: 52
+      height: 61
+    spriteID: 3f9078dc8dceea141bdbe1c5e134a07e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 708}
+  - name: neutral_aethermaster_gilded_Frame_21
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 667
+      width: 47
+      height: 58
+    spriteID: 0c582009e89cc084496f98c85c5834c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 651}
+  - name: neutral_aethermaster_gilded_Frame_22
+    originalName: 
+    pivot: {x: 0.59183675, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 564
+      width: 49
+      height: 60
+    spriteID: 08c6abdf9f6a6d84ebb2731fe626b924
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 548}
+  - name: neutral_aethermaster_gilded_Frame_23
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 793
+      width: 52
+      height: 61
+    spriteID: 1377b6c1ba87ed1418b114aae945ae8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 777}
+  - name: neutral_aethermaster_gilded_Frame_24
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 593
+      width: 54
+      height: 61
+    spriteID: 737fed033da5f1944888d859c9a4ea5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 577}
+  - name: neutral_aethermaster_gilded_Frame_25
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 217
+      width: 56
+      height: 62
+    spriteID: d7ce2fe22b78a2a499d7b50aefd8528e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 201}
+  - name: neutral_aethermaster_gilded_Frame_26
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 844
+      width: 56
+      height: 63
+    spriteID: d708ea7428ec4b14fa4a90b08cc05e79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 828}
+  - name: neutral_aethermaster_gilded_Frame_27
+    originalName: 
+    pivot: {x: 0.5789473, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 634
+      width: 57
+      height: 63
+    spriteID: 76640b9ef3695da4c873d04bb9791866
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 618}
+  - name: neutral_aethermaster_gilded_Frame_28
+    originalName: 
+    pivot: {x: 0.5892857, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 705
+      width: 56
+      height: 64
+    spriteID: c8285fbf539e96a4996232fef029b152
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 689}
+  - name: neutral_aethermaster_gilded_Frame_29
+    originalName: 
+    pivot: {x: 0.57377046, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 493
+      width: 61
+      height: 63
+    spriteID: 3a0a31c8153e547479c71e0ad93631df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 477}
+  - name: neutral_aethermaster_gilded_Frame_30
+    originalName: 
+    pivot: {x: 0.56060606, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 287
+      width: 66
+      height: 52
+    spriteID: 1a7cf44f06de25149b2b718f1285ebac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 271}
+  - name: neutral_aethermaster_gilded_Frame_31
+    originalName: 
+    pivot: {x: 0.57352936, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 402
+      width: 68
+      height: 50
+    spriteID: 19dd0f93274cbe541a5cc240ac5eb202
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 386}
+  - name: neutral_aethermaster_gilded_Frame_32
+    originalName: 
+    pivot: {x: 0.5774648, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 160
+      width: 71
+      height: 49
+    spriteID: 8d318a784f34b054bbb2ce8c4b083480
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 144}
+  - name: neutral_aethermaster_gilded_Frame_33
+    originalName: 
+    pivot: {x: 0.56164384, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 347
+      width: 73
+      height: 47
+    spriteID: 3e2a01df18dcc9d40929f07a4ac677bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 331}
+  - name: neutral_aethermaster_gilded_Frame_34
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 947
+      width: 72
+      height: 43
+    spriteID: 6494b41cdc002c0428685c67e7038437
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 931}
+  - name: neutral_aethermaster_gilded_Frame_35
+    originalName: 
+    pivot: {x: 0.4181818, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 4
+      width: 55
+      height: 43
+    spriteID: 38cbc493ca99ac943ac58478768a8f08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: -12}
+  - name: neutral_aethermaster_gilded_Frame_36
+    originalName: 
+    pivot: {x: 0.39622644, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 970
+      width: 53
+      height: 42
+    spriteID: 4b4bf4255848bab4db53d3679a4c5bbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 954}
+  - name: neutral_aethermaster_gilded_Frame_37
+    originalName: 
+    pivot: {x: 0.43902442, y: -0.43243244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 221
+      width: 41
+      height: 37
+    spriteID: 525646dc8dc710148a78c8513bb5450b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 205}
+  - name: neutral_aethermaster_gilded_Frame_38
+    originalName: 
+    pivot: {x: 0.516129, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 987
+      width: 31
+      height: 32
+    spriteID: 24752a5c33ab7bf41a05c183d59791e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 971}
+  - name: neutral_aethermaster_gilded_Frame_39
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 733
+      width: 47
+      height: 58
+    spriteID: aeb14f4ca141fee47837af2e2ca7b505
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 717}
+  - name: neutral_aethermaster_gilded_Frame_40
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 799
+      width: 47
+      height: 58
+    spriteID: 25cb522ea385f664392b0bdf0cbe37c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 783}
+  - name: neutral_aethermaster_gilded_Frame_41
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 865
+      width: 47
+      height: 58
+    spriteID: a3ae68abcfc517440b53a10af749ad33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 849}
+  - name: neutral_aethermaster_gilded_Frame_42
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 931
+      width: 47
+      height: 58
+    spriteID: 333b05aa5bc9ced4095b9b8c41ef891c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 915}
+  - name: neutral_aethermaster_gilded_Frame_43
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 4
+      width: 47
+      height: 58
+    spriteID: 8291a2cb743d6bc4aa5cc7f9824bcb89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: -12}
+  - name: neutral_aethermaster_gilded_Frame_44
+    originalName: 
+    pivot: {x: 0.5777778, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 858
+      width: 45
+      height: 57
+    spriteID: 633c59babf44ecb4fa224ef1361921da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 842}
+  - name: neutral_aethermaster_gilded_Frame_45
+    originalName: 
+    pivot: {x: 0.58695644, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 730
+      width: 46
+      height: 56
+    spriteID: 90067be9f9ce7a04a923b1e2a7f13c5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 714}
+  - name: neutral_aethermaster_gilded_Frame_46
+    originalName: 
+    pivot: {x: 0.574468, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 342
+      width: 47
+      height: 56
+    spriteID: fbee9f8f78db0904b888c93e88f665d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 326}
+  - name: neutral_aethermaster_gilded_Frame_47
+    originalName: 
+    pivot: {x: 0.574468, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 406
+      width: 47
+      height: 56
+    spriteID: ac275aa9bd270e748a9b502e3f02a112
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 390}
+  - name: neutral_aethermaster_gilded_Frame_48
+    originalName: 
+    pivot: {x: 0.574468, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 470
+      width: 47
+      height: 56
+    spriteID: c2772c07b8ceea94e8826f3c7b6ce891
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 454}
+  - name: neutral_aethermaster_gilded_Frame_49
+    originalName: 
+    pivot: {x: 0.574468, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 534
+      width: 47
+      height: 56
+    spriteID: ec0b8d43afb43d84ca036f98f108918b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 518}
+  - name: neutral_aethermaster_gilded_Frame_50
+    originalName: 
+    pivot: {x: 0.574468, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 598
+      width: 47
+      height: 56
+    spriteID: b2efbb192cdcf624a84a1f2f8a070336
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 582}
+  - name: neutral_aethermaster_gilded_Frame_51
+    originalName: 
+    pivot: {x: 0.58695644, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 794
+      width: 46
+      height: 56
+    spriteID: a463505a423cc214fb4a991684368d51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 778}
+  - name: neutral_aethermaster_gilded_Frame_52
+    originalName: 
+    pivot: {x: 0.5777778, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 923
+      width: 45
+      height: 56
+    spriteID: 12bb52ef23fdef74bae7eb4813c8e9f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 907}
+  - name: neutral_aethermaster_gilded_Frame_53
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 271
+      width: 48
+      height: 58
+    spriteID: 30c44bb3f0b4a0c4c92f95d3d3d1a0d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 255}
+  - name: neutral_aethermaster_gilded_Frame_54
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 337
+      width: 48
+      height: 58
+    spriteID: d37cbcc6c50739a4b966bed5a06a0138
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 321}
+  - name: neutral_aethermaster_gilded_Frame_55
+    originalName: 
+    pivot: {x: 0.574468, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 403
+      width: 47
+      height: 59
+    spriteID: 4b464f91057a2a34886e447402a1fadc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 387}
+  - name: neutral_aethermaster_gilded_Frame_56
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 662
+      width: 43
+      height: 60
+    spriteID: 1376ba52038a2f340b90b4eec3f2d6a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 646}
+  - name: neutral_aethermaster_gilded_Frame_57
+    originalName: 
+    pivot: {x: 0.5652174, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 352
+      width: 46
+      height: 64
+    spriteID: 11c65f4a1e3c6e145beaaa825d838e72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 336}
+  - name: neutral_aethermaster_gilded_Frame_58
+    originalName: 
+    pivot: {x: 0.5652174, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 424
+      width: 46
+      height: 64
+    spriteID: 399a9107afd670d4ab3a61da01fab10a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 408}
+  - name: neutral_aethermaster_gilded_Frame_59
+    originalName: 
+    pivot: {x: 0.44444442, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 146
+      width: 36
+      height: 67
+    spriteID: 75f9e7e66754ca64c95db8b2b48825c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 130}
+  - name: neutral_aethermaster_gilded_Frame_60
+    originalName: 
+    pivot: {x: 0.44444442, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 70
+      width: 36
+      height: 68
+    spriteID: 902a9c7fea742e44190c03fa94b63563
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 54}
+  - name: neutral_aethermaster_gilded_Frame_61
+    originalName: 
+    pivot: {x: 0.44444442, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 196
+      width: 36
+      height: 74
+    spriteID: 7c3f25b914dd7c1468b2bb890cbd4b56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 180}
+  - name: neutral_aethermaster_gilded_Frame_62
+    originalName: 
+    pivot: {x: 0.45000002, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 69
+      width: 40
+      height: 76
+    spriteID: 3684e5ccfb86d1545a1287b53aea01c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 53}
+  - name: neutral_aethermaster_gilded_Frame_63
+    originalName: 
+    pivot: {x: 0.41463414, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 862
+      width: 41
+      height: 77
+    spriteID: e536eeb8bcb146c4398c612aa25af94e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 846}
+  - name: neutral_aethermaster_gilded_Frame_64
+    originalName: 
+    pivot: {x: 0.42222223, y: -0.20512821}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 915
+      width: 45
+      height: 78
+    spriteID: 39b17ac9a921623418f111b503f55f83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 899}
+  - name: neutral_aethermaster_gilded_Frame_65
+    originalName: 
+    pivot: {x: 0.30555555, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 72
+      height: 89
+    spriteID: c670e455cd91dc147a0824308de5e039
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 4}
+  - name: neutral_aethermaster_gilded_Frame_66
+    originalName: 
+    pivot: {x: 0.3188406, y: -0.013333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 184
+      width: 69
+      height: 75
+    spriteID: d67640c94923c0a4ca14dfe9fe84a690
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 183}
+  - name: neutral_aethermaster_gilded_Frame_67
+    originalName: 
+    pivot: {x: 0.34285715, y: -0.013333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 101
+      width: 70
+      height: 75
+    spriteID: 60bb595eee7cccc4c905e928ef6f23aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 100}
+  - name: neutral_aethermaster_gilded_Frame_68
+    originalName: 
+    pivot: {x: 0.41558442, y: -0.041666664}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 4
+      width: 77
+      height: 72
+    spriteID: 0e8d1c6a62dbc4646b3505d3eeb986e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 1}
+  - name: neutral_aethermaster_gilded_Frame_69
+    originalName: 
+    pivot: {x: 0.4285714, y: -0.073529415}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 84
+      width: 77
+      height: 68
+    spriteID: 54303b1d7a3fa23418f81e2ffc58d33b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 79}
+  - name: neutral_aethermaster_gilded_Frame_70
+    originalName: 
+    pivot: {x: 0.4722222, y: -0.08064517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 352
+      width: 72
+      height: 62
+    spriteID: 895287cb2191af2418c2dd0037b388d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 347}
+  - name: neutral_aethermaster_gilded_Frame_71
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.0952381}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 422
+      width: 70
+      height: 63
+    spriteID: fa912d13be043e1459cdbca64f81609c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 416}
+  - name: neutral_aethermaster_gilded_Frame_72
+    originalName: 
+    pivot: {x: 0.5423729, y: -0.12903225}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 564
+      width: 59
+      height: 62
+    spriteID: 2f7b14022b84ad84786633f61bb83443
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 556}
+  - name: neutral_aethermaster_gilded_Frame_73
+    originalName: 
+    pivot: {x: 0.5370371, y: -0.22807017}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 4
+      width: 54
+      height: 57
+    spriteID: 6bc16671adee3d94f9f74a1ac331dff2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: -9}
+  - name: neutral_aethermaster_gilded_Frame_74
+    originalName: 
+    pivot: {x: 0.54716986, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 224
+      width: 53
+      height: 56
+    spriteID: 36179803d4814ad498ff1b9bf929302b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 210}
+  - name: neutral_aethermaster_gilded_Frame_75
+    originalName: 
+    pivot: {x: 0.54716986, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 288
+      width: 53
+      height: 56
+    spriteID: ce0de392d818e874b8d910b5868c9ac5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 272}
+  - name: neutral_aethermaster_gilded_Frame_76
+    originalName: 
+    pivot: {x: 0.6122449, y: -0.29090908}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 4
+      width: 49
+      height: 55
+    spriteID: 0f034c4f5477a3d4a9f553d11a06ec3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 329, y: -12}
+  - name: neutral_aethermaster_gilded_Frame_77
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 67
+      width: 48
+      height: 56
+    spriteID: e64c265335cf0534bba2c83701a9dfc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: 51}
+  - name: neutral_aethermaster_gilded_Frame_78
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 470
+      width: 48
+      height: 57
+    spriteID: f93e0e3d47abdb141bba68a144bbdbb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 454}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2134955605
+    name: neutral_aethermaster_gilded
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_aethermaster_gilded_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 71f253c678436764ab3e3a9db5666e59
+    - name: neutral_aethermaster_gilded_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 977c777d54cde2144bdfbceac83d2f23
+    - name: neutral_aethermaster_gilded_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5e87a565e563cfb48809a59b6b9a1b15
+    - name: neutral_aethermaster_gilded_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2766c2d41a52f58468d85f15d6d39d01
+    - name: neutral_aethermaster_gilded_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 96bc171ba621b204d998bcd0f5988226
+    - name: neutral_aethermaster_gilded_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b2aedf599fc525043a7347a2cc4e0be0
+    - name: neutral_aethermaster_gilded_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e12b6fee33860df4d94b8d600e4d5ee6
+    - name: neutral_aethermaster_gilded_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ba0fc577e93023348b97249ffd56bf35
+    - name: neutral_aethermaster_gilded_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 464c01fd0c095304e910dde8c2ba72b8
+    - name: neutral_aethermaster_gilded_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 17f1fc39c595363418aeb9c0b8318b6e
+    - name: neutral_aethermaster_gilded_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6c3ba4e36d5c71f4e926859bb1b8c622
+    - name: neutral_aethermaster_gilded_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: beeee0c7bb2c4e24f8fa377ecdb589b0
+    - name: neutral_aethermaster_gilded_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 445237897f6f5bf4da3f236531ab6109
+    - name: neutral_aethermaster_gilded_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2c559831bb4e75548b344144659321e5
+    - name: neutral_aethermaster_gilded_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fe2327b60762f6f489ba39945a21cf51
+    - name: neutral_aethermaster_gilded_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4c4768c692cc1d0428eae05e312ee245
+    - name: neutral_aethermaster_gilded_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 360d64bc8ad3d254e974d1f78937e250
+    - name: neutral_aethermaster_gilded_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 93972413614bcc64ab446c2b4f428cf0
+    - name: neutral_aethermaster_gilded_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c7a23eabef8b16e41aff348032879696
+    - name: neutral_aethermaster_gilded_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 29e92ac787a4b5741a5fe0dbf1e6191d
+    - name: neutral_aethermaster_gilded_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3f9078dc8dceea141bdbe1c5e134a07e
+    - name: neutral_aethermaster_gilded_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0c582009e89cc084496f98c85c5834c6
+    - name: neutral_aethermaster_gilded_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 08c6abdf9f6a6d84ebb2731fe626b924
+    - name: neutral_aethermaster_gilded_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1377b6c1ba87ed1418b114aae945ae8b
+    - name: neutral_aethermaster_gilded_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 737fed033da5f1944888d859c9a4ea5c
+    - name: neutral_aethermaster_gilded_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d7ce2fe22b78a2a499d7b50aefd8528e
+    - name: neutral_aethermaster_gilded_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d708ea7428ec4b14fa4a90b08cc05e79
+    - name: neutral_aethermaster_gilded_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 76640b9ef3695da4c873d04bb9791866
+    - name: neutral_aethermaster_gilded_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c8285fbf539e96a4996232fef029b152
+    - name: neutral_aethermaster_gilded_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3a0a31c8153e547479c71e0ad93631df
+    - name: neutral_aethermaster_gilded_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1a7cf44f06de25149b2b718f1285ebac
+    - name: neutral_aethermaster_gilded_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 19dd0f93274cbe541a5cc240ac5eb202
+    - name: neutral_aethermaster_gilded_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8d318a784f34b054bbb2ce8c4b083480
+    - name: neutral_aethermaster_gilded_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3e2a01df18dcc9d40929f07a4ac677bb
+    - name: neutral_aethermaster_gilded_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6494b41cdc002c0428685c67e7038437
+    - name: neutral_aethermaster_gilded_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 38cbc493ca99ac943ac58478768a8f08
+    - name: neutral_aethermaster_gilded_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4b4bf4255848bab4db53d3679a4c5bbd
+    - name: neutral_aethermaster_gilded_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 525646dc8dc710148a78c8513bb5450b
+    - name: neutral_aethermaster_gilded_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 24752a5c33ab7bf41a05c183d59791e9
+    - name: neutral_aethermaster_gilded_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: aeb14f4ca141fee47837af2e2ca7b505
+    - name: neutral_aethermaster_gilded_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 25cb522ea385f664392b0bdf0cbe37c6
+    - name: neutral_aethermaster_gilded_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a3ae68abcfc517440b53a10af749ad33
+    - name: neutral_aethermaster_gilded_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 333b05aa5bc9ced4095b9b8c41ef891c
+    - name: neutral_aethermaster_gilded_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8291a2cb743d6bc4aa5cc7f9824bcb89
+    - name: neutral_aethermaster_gilded_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 633c59babf44ecb4fa224ef1361921da
+    - name: neutral_aethermaster_gilded_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 90067be9f9ce7a04a923b1e2a7f13c5f
+    - name: neutral_aethermaster_gilded_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fbee9f8f78db0904b888c93e88f665d0
+    - name: neutral_aethermaster_gilded_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ac275aa9bd270e748a9b502e3f02a112
+    - name: neutral_aethermaster_gilded_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c2772c07b8ceea94e8826f3c7b6ce891
+    - name: neutral_aethermaster_gilded_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ec0b8d43afb43d84ca036f98f108918b
+    - name: neutral_aethermaster_gilded_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b2efbb192cdcf624a84a1f2f8a070336
+    - name: neutral_aethermaster_gilded_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a463505a423cc214fb4a991684368d51
+    - name: neutral_aethermaster_gilded_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 12bb52ef23fdef74bae7eb4813c8e9f9
+    - name: neutral_aethermaster_gilded_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 30c44bb3f0b4a0c4c92f95d3d3d1a0d7
+    - name: neutral_aethermaster_gilded_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d37cbcc6c50739a4b966bed5a06a0138
+    - name: neutral_aethermaster_gilded_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4b464f91057a2a34886e447402a1fadc
+    - name: neutral_aethermaster_gilded_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1376ba52038a2f340b90b4eec3f2d6a7
+    - name: neutral_aethermaster_gilded_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 11c65f4a1e3c6e145beaaa825d838e72
+    - name: neutral_aethermaster_gilded_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 399a9107afd670d4ab3a61da01fab10a
+    - name: neutral_aethermaster_gilded_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 75f9e7e66754ca64c95db8b2b48825c1
+    - name: neutral_aethermaster_gilded_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 902a9c7fea742e44190c03fa94b63563
+    - name: neutral_aethermaster_gilded_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7c3f25b914dd7c1468b2bb890cbd4b56
+    - name: neutral_aethermaster_gilded_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3684e5ccfb86d1545a1287b53aea01c5
+    - name: neutral_aethermaster_gilded_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e536eeb8bcb146c4398c612aa25af94e
+    - name: neutral_aethermaster_gilded_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 39b17ac9a921623418f111b503f55f83
+    - name: neutral_aethermaster_gilded_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c670e455cd91dc147a0824308de5e039
+    - name: neutral_aethermaster_gilded_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d67640c94923c0a4ca14dfe9fe84a690
+    - name: neutral_aethermaster_gilded_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 60bb595eee7cccc4c905e928ef6f23aa
+    - name: neutral_aethermaster_gilded_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0e8d1c6a62dbc4646b3505d3eeb986e5
+    - name: neutral_aethermaster_gilded_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 54303b1d7a3fa23418f81e2ffc58d33b
+    - name: neutral_aethermaster_gilded_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 895287cb2191af2418c2dd0037b388d1
+    - name: neutral_aethermaster_gilded_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fa912d13be043e1459cdbca64f81609c
+    - name: neutral_aethermaster_gilded_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2f7b14022b84ad84786633f61bb83443
+    - name: neutral_aethermaster_gilded_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6bc16671adee3d94f9f74a1ac331dff2
+    - name: neutral_aethermaster_gilded_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 36179803d4814ad498ff1b9bf929302b
+    - name: neutral_aethermaster_gilded_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ce0de392d818e874b8d910b5868c9ac5
+    - name: neutral_aethermaster_gilded_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0f034c4f5477a3d4a9f553d11a06ec3a
+    - name: neutral_aethermaster_gilded_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e64c265335cf0534bba2c83701a9dfc7
+    - name: neutral_aethermaster_gilded_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f93e0e3d47abdb141bba68a144bbdbb7
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

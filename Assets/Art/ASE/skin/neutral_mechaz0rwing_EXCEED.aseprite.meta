@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 658f1dc1a4694a04e88b9b078ec65132
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_mechaz0rwing_EXCEED_Frame_0
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.75862074}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 294
+      width: 41
+      height: 29
+    spriteID: 478858f23ad526a4f8248ee36f8ceaf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 272}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_1
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.7857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 294
+      width: 41
+      height: 28
+    spriteID: 1d1b8e68141b0ad439b7fbb1abdeb3ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 278, y: 272}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_2
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.8214286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 294
+      width: 41
+      height: 28
+    spriteID: 241dbba8292c56e49ae3dfce5b624f12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: 271}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_3
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.8571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 294
+      width: 41
+      height: 28
+    spriteID: d1963eaee79398049b164356f415697a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 376, y: 270}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_4
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.8928572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 437
+      y: 294
+      width: 41
+      height: 28
+    spriteID: efeb6bdc153ab1147b5b95b67f1cad37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 269}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_5
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.9285714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 340
+      width: 41
+      height: 28
+    spriteID: d5a912b6381923148b3d15f2c19d59a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 314}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_6
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.8928572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 340
+      width: 41
+      height: 28
+    spriteID: fdc1407794b0f36449ebf85aa2af51c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 315}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_7
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.8571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 340
+      width: 41
+      height: 28
+    spriteID: 53534722b90b82f489dd30770209751a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 316}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_8
+    originalName: 
+    pivot: {x: 0.57894737, y: -3.1818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 486
+      y: 294
+      width: 19
+      height: 11
+    spriteID: 0352e31faec8c1c48bf12764fe9194d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 457, y: 259}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_9
+    originalName: 
+    pivot: {x: 0.52941185, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 486
+      y: 313
+      width: 17
+      height: 9
+    spriteID: 9287d359d4d76a24791c000e75c13956
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 455, y: 277}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: -5.2857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 490
+      y: 202
+      width: 16
+      height: 7
+    spriteID: c32f45954b6ae8e4da2eb0709d6a5523
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 165}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_11
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.47368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 202
+      width: 46
+      height: 38
+    spriteID: 9099cfc15149085438f58010ef846fc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 184}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_12
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 202
+      width: 46
+      height: 38
+    spriteID: 86c89b961b071f04cb8a683e88012dae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 183}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_13
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.5675675}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 248
+      width: 46
+      height: 37
+    spriteID: 9fa42aaecf6dc1d40a84353061a9b6b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 227}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_14
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.61111116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 436
+      y: 248
+      width: 46
+      height: 36
+    spriteID: 44e4a864e63ee914fbce15c8f1261f46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 226}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_15
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.6388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 157
+      width: 46
+      height: 36
+    spriteID: 45c3cbb1c8cc1e0428a5b94d7f690515
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 134}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_16
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.6388889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 115
+      y: 157
+      width: 46
+      height: 36
+    spriteID: b1e1996cdeed8c24a9fcb9f365615b41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 134}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_17
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.61111116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 157
+      width: 46
+      height: 36
+    spriteID: cc1e8496f5fb3a4459c83aa20ecf1d03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 135}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_18
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.5675675}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 248
+      width: 46
+      height: 37
+    spriteID: d6496d0fd6ad7314abe17d47fd6cccfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 227}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_19
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 202
+      width: 46
+      height: 38
+    spriteID: 49be19fa75ea0fb41bcbf572da91c687
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 183}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_20
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.47368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 202
+      width: 46
+      height: 38
+    spriteID: 0bde79ad87116804bb31678226f04fe9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 184}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_21
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.44736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 202
+      width: 46
+      height: 38
+    spriteID: e756980c8f29915459e6203d08404c35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 185}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_22
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.44736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 202
+      width: 46
+      height: 38
+    spriteID: 1efe126037e33af40ba45c53ed850faf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 185}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_23
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.62857145}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 294
+      width: 39
+      height: 35
+    spriteID: 368309a700027114d86a3d920f0df8f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 272}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_24
+    originalName: 
+    pivot: {x: 0.5405405, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 294
+      width: 37
+      height: 35
+    spriteID: 9e75040abb7f8034182edf35cbd9bc34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 273}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_25
+    originalName: 
+    pivot: {x: 0.60465115, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 294
+      width: 43
+      height: 36
+    spriteID: c73a45c85a89c5a40b91932cc08763ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 274}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_26
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 111
+      width: 53
+      height: 38
+    spriteID: 5b12bde24dc095f46a34454fc62cca77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 92}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_27
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 111
+      width: 53
+      height: 38
+    spriteID: 6c15d86f36433704ca180e9608122cff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 92}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_28
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 111
+      width: 53
+      height: 38
+    spriteID: d4828f8c6e317f848ae324f2d862b5b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 92}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_29
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 111
+      width: 53
+      height: 38
+    spriteID: bf453a463655c904594559e2957de52a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 92}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_30
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 111
+      width: 53
+      height: 38
+    spriteID: bb7e35241e4cf7b46a53b30c4684be6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 92}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_31
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 309
+      y: 111
+      width: 53
+      height: 38
+    spriteID: 4dc56b80fdfe97449a89b9479c5a7345
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 92}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_32
+    originalName: 
+    pivot: {x: 0.5423729, y: -0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 58
+      width: 59
+      height: 40
+    spriteID: 5c5dceeb9d5e5464fb34a90af6010ea5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 41}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_33
+    originalName: 
+    pivot: {x: 0.53968257, y: -0.3409091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 4
+      width: 63
+      height: 44
+    spriteID: 8bf73d23f159aa94f8d6954e89c3e832
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: -11}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_34
+    originalName: 
+    pivot: {x: 0.5373134, y: -0.32608694}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 67
+      height: 46
+    spriteID: c4cd7e767fc03b740a959de8ed0bb272
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: -11}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_35
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.3409091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 4
+      width: 65
+      height: 44
+    spriteID: cf6bd5f11bbee6b4f8e6449d125529cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: -11}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_36
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.34883723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 4
+      width: 60
+      height: 43
+    spriteID: 3c76baab8950934408736b51fbdb3b5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: -11}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_37
+    originalName: 
+    pivot: {x: 0.5423729, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 4
+      width: 59
+      height: 42
+    spriteID: b025d9a38d1811e44994bf71ef970940
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: -11}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_38
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.36585367}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 58
+      width: 58
+      height: 41
+    spriteID: b09dfbf2b2e8d024fbce6ff3220532e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 43}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_39
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.51724136}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 376
+      width: 26
+      height: 29
+    spriteID: 423bad9853e996648a1e9563b44cb4b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 361}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_40
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.47368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 328
+      y: 202
+      width: 46
+      height: 38
+    spriteID: 25de40ee25b239442b1919e5d94ea2c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 184}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_41
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.47368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 202
+      width: 46
+      height: 38
+    spriteID: 602bc5a65f1d7ad43b635ff062b92975
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 184}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_42
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.47368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 436
+      y: 202
+      width: 46
+      height: 38
+    spriteID: e6bf9dc46ec417f4d9fb207f990051fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 184}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_43
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.47368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 248
+      width: 46
+      height: 38
+    spriteID: 085ef2b1a6228924dbe03022cabe61ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 230}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_44
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.47368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 248
+      width: 46
+      height: 38
+    spriteID: 1d96905456f5cd445801cbdb1d421733
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 230}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_45
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 248
+      width: 46
+      height: 38
+    spriteID: 1c10643c59dec0344bf1943bd93d5d9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 229}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_46
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.5675675}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 328
+      y: 248
+      width: 46
+      height: 37
+    spriteID: 60ee8ad4957b60447b850c87049e87df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 227}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_47
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.61111116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 157
+      width: 46
+      height: 36
+    spriteID: acbc136687fc0514686bb77195b17ca7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 135}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_48
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.61111116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 277
+      y: 157
+      width: 46
+      height: 36
+    spriteID: e4e1033c0546cb94a85245a0d1db65db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 135}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_49
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.61111116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 157
+      width: 46
+      height: 36
+    spriteID: 43b91dff1c353ba45b4defcc3a9ceba0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 135}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_50
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.61111116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 385
+      y: 157
+      width: 46
+      height: 36
+    spriteID: 2a145b8abb6093e4687f63ee77a3a63e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 135}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_51
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.61111116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 157
+      width: 46
+      height: 36
+    spriteID: 46e1a9db19a0e8f44a421652d92a62d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 135}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_52
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.5675675}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 248
+      width: 46
+      height: 37
+    spriteID: 18c4685126e8c49429d64e6f6342a8cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 227}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_53
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 248
+      width: 46
+      height: 38
+    spriteID: a99d68527d714bc4bbb25892c79a09db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 229}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_54
+    originalName: 
+    pivot: {x: 0.537037, y: -0.5135135}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 111
+      width: 54
+      height: 37
+    spriteID: 2d9d1cf7bca53fe4fbfaf0ebb5fbf1c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 92}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_55
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.45}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 58
+      width: 52
+      height: 40
+    spriteID: a24ff43bcca592d45b7713fbafe84364
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 376, y: 40}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_56
+    originalName: 
+    pivot: {x: 0.5405405, y: -0.5945946}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 294
+      width: 37
+      height: 37
+    spriteID: 2c5c6386bf27b4d48b19636beafb1b3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 272}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_57
+    originalName: 
+    pivot: {x: 0.5121951, y: -0.6052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 294
+      width: 41
+      height: 38
+    spriteID: 0dad2001456813941a74d25d7a3cb0ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 271}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_58
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.67567563}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 157
+      width: 49
+      height: 37
+    spriteID: a830611ee8b5e5849aacf1fbb3408c45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 132}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_59
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.67567563}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 432
+      y: 111
+      width: 53
+      height: 37
+    spriteID: 83f2378fe33330944883fac1bc234c5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 86}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_60
+    originalName: 
+    pivot: {x: 0.51724136, y: -0.63414633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 58
+      width: 58
+      height: 41
+    spriteID: 6fd78f2b67611b04ca274dccd80d9caf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 32}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_61
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.60465115}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 264
+      y: 58
+      width: 54
+      height: 43
+    spriteID: 8f8949872920d1d4e9a912a62c29b029
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 32}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_62
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.59090906}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 4
+      width: 56
+      height: 44
+    spriteID: 089e3df86d995ca4fa55fb708c833327
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: -22}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_63
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.57777774}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 4
+      width: 53
+      height: 45
+    spriteID: 3a1bca0fef33ed0449e080d774361855
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: -22}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_64
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.57777774}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 58
+      width: 53
+      height: 45
+    spriteID: 0eb57c06f6d31b24b9fca0e3884939ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 32}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_65
+    originalName: 
+    pivot: {x: 0.537037, y: -0.575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 326
+      y: 58
+      width: 54
+      height: 40
+    spriteID: 84367a9c7414fbf4186ed779738655ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 35}
+  - name: neutral_mechaz0rwing_EXCEED_Frame_66
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.525}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 58
+      width: 52
+      height: 40
+    spriteID: 0e82c4a530ada9040aaec148efa73ac3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 436, y: 37}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -734761534
+    name: neutral_mechaz0rwing_EXCEED
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_mechaz0rwing_EXCEED_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 478858f23ad526a4f8248ee36f8ceaf8
+    - name: neutral_mechaz0rwing_EXCEED_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1d1b8e68141b0ad439b7fbb1abdeb3ca
+    - name: neutral_mechaz0rwing_EXCEED_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 241dbba8292c56e49ae3dfce5b624f12
+    - name: neutral_mechaz0rwing_EXCEED_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d1963eaee79398049b164356f415697a
+    - name: neutral_mechaz0rwing_EXCEED_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: efeb6bdc153ab1147b5b95b67f1cad37
+    - name: neutral_mechaz0rwing_EXCEED_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d5a912b6381923148b3d15f2c19d59a3
+    - name: neutral_mechaz0rwing_EXCEED_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fdc1407794b0f36449ebf85aa2af51c2
+    - name: neutral_mechaz0rwing_EXCEED_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 53534722b90b82f489dd30770209751a
+    - name: neutral_mechaz0rwing_EXCEED_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0352e31faec8c1c48bf12764fe9194d7
+    - name: neutral_mechaz0rwing_EXCEED_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9287d359d4d76a24791c000e75c13956
+    - name: neutral_mechaz0rwing_EXCEED_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c32f45954b6ae8e4da2eb0709d6a5523
+    - name: neutral_mechaz0rwing_EXCEED_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9099cfc15149085438f58010ef846fc3
+    - name: neutral_mechaz0rwing_EXCEED_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 86c89b961b071f04cb8a683e88012dae
+    - name: neutral_mechaz0rwing_EXCEED_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9fa42aaecf6dc1d40a84353061a9b6b1
+    - name: neutral_mechaz0rwing_EXCEED_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 44e4a864e63ee914fbce15c8f1261f46
+    - name: neutral_mechaz0rwing_EXCEED_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 45c3cbb1c8cc1e0428a5b94d7f690515
+    - name: neutral_mechaz0rwing_EXCEED_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b1e1996cdeed8c24a9fcb9f365615b41
+    - name: neutral_mechaz0rwing_EXCEED_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cc1e8496f5fb3a4459c83aa20ecf1d03
+    - name: neutral_mechaz0rwing_EXCEED_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d6496d0fd6ad7314abe17d47fd6cccfb
+    - name: neutral_mechaz0rwing_EXCEED_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 49be19fa75ea0fb41bcbf572da91c687
+    - name: neutral_mechaz0rwing_EXCEED_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0bde79ad87116804bb31678226f04fe9
+    - name: neutral_mechaz0rwing_EXCEED_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e756980c8f29915459e6203d08404c35
+    - name: neutral_mechaz0rwing_EXCEED_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1efe126037e33af40ba45c53ed850faf
+    - name: neutral_mechaz0rwing_EXCEED_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 368309a700027114d86a3d920f0df8f1
+    - name: neutral_mechaz0rwing_EXCEED_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9e75040abb7f8034182edf35cbd9bc34
+    - name: neutral_mechaz0rwing_EXCEED_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c73a45c85a89c5a40b91932cc08763ba
+    - name: neutral_mechaz0rwing_EXCEED_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5b12bde24dc095f46a34454fc62cca77
+    - name: neutral_mechaz0rwing_EXCEED_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6c15d86f36433704ca180e9608122cff
+    - name: neutral_mechaz0rwing_EXCEED_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d4828f8c6e317f848ae324f2d862b5b2
+    - name: neutral_mechaz0rwing_EXCEED_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bf453a463655c904594559e2957de52a
+    - name: neutral_mechaz0rwing_EXCEED_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bb7e35241e4cf7b46a53b30c4684be6a
+    - name: neutral_mechaz0rwing_EXCEED_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4dc56b80fdfe97449a89b9479c5a7345
+    - name: neutral_mechaz0rwing_EXCEED_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5c5dceeb9d5e5464fb34a90af6010ea5
+    - name: neutral_mechaz0rwing_EXCEED_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8bf73d23f159aa94f8d6954e89c3e832
+    - name: neutral_mechaz0rwing_EXCEED_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c4cd7e767fc03b740a959de8ed0bb272
+    - name: neutral_mechaz0rwing_EXCEED_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cf6bd5f11bbee6b4f8e6449d125529cd
+    - name: neutral_mechaz0rwing_EXCEED_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3c76baab8950934408736b51fbdb3b5c
+    - name: neutral_mechaz0rwing_EXCEED_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b025d9a38d1811e44994bf71ef970940
+    - name: neutral_mechaz0rwing_EXCEED_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b09dfbf2b2e8d024fbce6ff3220532e9
+    - name: neutral_mechaz0rwing_EXCEED_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 423bad9853e996648a1e9563b44cb4b0
+    - name: neutral_mechaz0rwing_EXCEED_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 25de40ee25b239442b1919e5d94ea2c7
+    - name: neutral_mechaz0rwing_EXCEED_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 602bc5a65f1d7ad43b635ff062b92975
+    - name: neutral_mechaz0rwing_EXCEED_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e6bf9dc46ec417f4d9fb207f990051fb
+    - name: neutral_mechaz0rwing_EXCEED_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 085ef2b1a6228924dbe03022cabe61ce
+    - name: neutral_mechaz0rwing_EXCEED_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1d96905456f5cd445801cbdb1d421733
+    - name: neutral_mechaz0rwing_EXCEED_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1c10643c59dec0344bf1943bd93d5d9c
+    - name: neutral_mechaz0rwing_EXCEED_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 60ee8ad4957b60447b850c87049e87df
+    - name: neutral_mechaz0rwing_EXCEED_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: acbc136687fc0514686bb77195b17ca7
+    - name: neutral_mechaz0rwing_EXCEED_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e4e1033c0546cb94a85245a0d1db65db
+    - name: neutral_mechaz0rwing_EXCEED_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 43b91dff1c353ba45b4defcc3a9ceba0
+    - name: neutral_mechaz0rwing_EXCEED_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2a145b8abb6093e4687f63ee77a3a63e
+    - name: neutral_mechaz0rwing_EXCEED_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 46e1a9db19a0e8f44a421652d92a62d1
+    - name: neutral_mechaz0rwing_EXCEED_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 18c4685126e8c49429d64e6f6342a8cc
+    - name: neutral_mechaz0rwing_EXCEED_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a99d68527d714bc4bbb25892c79a09db
+    - name: neutral_mechaz0rwing_EXCEED_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2d9d1cf7bca53fe4fbfaf0ebb5fbf1c2
+    - name: neutral_mechaz0rwing_EXCEED_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a24ff43bcca592d45b7713fbafe84364
+    - name: neutral_mechaz0rwing_EXCEED_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2c5c6386bf27b4d48b19636beafb1b3b
+    - name: neutral_mechaz0rwing_EXCEED_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0dad2001456813941a74d25d7a3cb0ed
+    - name: neutral_mechaz0rwing_EXCEED_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a830611ee8b5e5849aacf1fbb3408c45
+    - name: neutral_mechaz0rwing_EXCEED_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 83f2378fe33330944883fac1bc234c5e
+    - name: neutral_mechaz0rwing_EXCEED_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6fd78f2b67611b04ca274dccd80d9caf
+    - name: neutral_mechaz0rwing_EXCEED_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8f8949872920d1d4e9a912a62c29b029
+    - name: neutral_mechaz0rwing_EXCEED_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 089e3df86d995ca4fa55fb708c833327
+    - name: neutral_mechaz0rwing_EXCEED_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3a1bca0fef33ed0449e080d774361855
+    - name: neutral_mechaz0rwing_EXCEED_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0eb57c06f6d31b24b9fca0e3884939ed
+    - name: neutral_mechaz0rwing_EXCEED_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 84367a9c7414fbf4186ed779738655ac
+    - name: neutral_mechaz0rwing_EXCEED_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0e82c4a530ada9040aaec148efa73ac3
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

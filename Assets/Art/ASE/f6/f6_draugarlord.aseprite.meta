@@ -1,0 +1,2341 @@
+fileFormatVersion: 2
+guid: 4a13e7ca2df1f7049833446a20e6c705
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: f6_draugarlord_Frame_0
+    originalName: 
+    pivot: {x: 0.4637681, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 297
+      width: 69
+      height: 50
+    spriteID: 0549ca75798800242b44c9a7370fed00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 282}
+  - name: f6_draugarlord_Frame_1
+    originalName: 
+    pivot: {x: 0.48529413, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 414
+      width: 68
+      height: 50
+    spriteID: 9290f80d36138f04eb2efc3f5472ac4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 399}
+  - name: f6_draugarlord_Frame_2
+    originalName: 
+    pivot: {x: 0.4925373, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 355
+      width: 67
+      height: 51
+    spriteID: 4bf73963028b62149b9128a654d7f087
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 340}
+  - name: f6_draugarlord_Frame_3
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 412
+      width: 68
+      height: 51
+    spriteID: 1cd1a4b2722c608428658cbcfb83a778
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 397}
+  - name: f6_draugarlord_Frame_4
+    originalName: 
+    pivot: {x: 0.4, y: -0.34}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 757
+      width: 65
+      height: 50
+    spriteID: b0ca2464f9cca8541b6cba8612dfaad9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 740}
+  - name: f6_draugarlord_Frame_5
+    originalName: 
+    pivot: {x: 0.40298507, y: -0.3877551}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 700
+      width: 67
+      height: 49
+    spriteID: b37e58efda018be41aeb5391666750f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 681}
+  - name: f6_draugarlord_Frame_6
+    originalName: 
+    pivot: {x: 0.40298507, y: -0.34}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 526
+      width: 67
+      height: 50
+    spriteID: 9f6513a90f45dfa48b2c5bbadaa12d50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 509}
+  - name: f6_draugarlord_Frame_7
+    originalName: 
+    pivot: {x: 0.4264706, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 584
+      width: 68
+      height: 49
+    spriteID: b89cd3cf26f972c4d999852679ca0a4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 569}
+  - name: f6_draugarlord_Frame_8
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 472
+      width: 68
+      height: 50
+    spriteID: 165a162f9466958489e91931b0f55d24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 457}
+  - name: f6_draugarlord_Frame_9
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 530
+      width: 68
+      height: 50
+    spriteID: ec24d60ee29d7424f950e9ddbd539408
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 515}
+  - name: f6_draugarlord_Frame_10
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 588
+      width: 68
+      height: 50
+    spriteID: 935d6027f7d00f74dbdd4f5f8b23f2ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 573}
+  - name: f6_draugarlord_Frame_11
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 646
+      width: 68
+      height: 50
+    spriteID: 24e5019e666be584e80988b260aafa2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 631}
+  - name: f6_draugarlord_Frame_12
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 704
+      width: 68
+      height: 50
+    spriteID: 209248704d6bc6846a8e45b80ec76578
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 689}
+  - name: f6_draugarlord_Frame_13
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 762
+      width: 68
+      height: 50
+    spriteID: d43befab9e2178c4f86b25286e94babd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 747}
+  - name: f6_draugarlord_Frame_14
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 471
+      width: 68
+      height: 51
+    spriteID: 2d121ac18cd16ed4290c5a8520af0c22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 456}
+  - name: f6_draugarlord_Frame_15
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 530
+      width: 68
+      height: 51
+    spriteID: b2ce0d6aee938de48b47e17fa1d140a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 515}
+  - name: f6_draugarlord_Frame_16
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 589
+      width: 68
+      height: 51
+    spriteID: ddf09a94a9b6b7d43a3e027f97bc3a1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 574}
+  - name: f6_draugarlord_Frame_17
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 648
+      width: 68
+      height: 51
+    spriteID: 73eacad4d0774ed489b5ed55be1cd489
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 633}
+  - name: f6_draugarlord_Frame_18
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 707
+      width: 68
+      height: 51
+    spriteID: 10bcf541e8ea00c4f85aac99de54777a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 692}
+  - name: f6_draugarlord_Frame_19
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 766
+      width: 68
+      height: 51
+    spriteID: 9fbef8c0543d16948a86d0dd08e32bdf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 751}
+  - name: f6_draugarlord_Frame_20
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 820
+      width: 68
+      height: 50
+    spriteID: 316cd5af69fb94641baaa9af5259f891
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 805}
+  - name: f6_draugarlord_Frame_21
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 878
+      width: 68
+      height: 50
+    spriteID: 8eade2175d558ac4d9bf12a57ab04ff4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 863}
+  - name: f6_draugarlord_Frame_22
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 936
+      width: 68
+      height: 50
+    spriteID: 05c4face576384443ab1cca59a61650e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 921}
+  - name: f6_draugarlord_Frame_23
+    originalName: 
+    pivot: {x: 0.4637681, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 120
+      width: 69
+      height: 51
+    spriteID: 79583309abdb87547b16da8326cc50c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 105}
+  - name: f6_draugarlord_Frame_24
+    originalName: 
+    pivot: {x: 0.4571429, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 238
+      width: 70
+      height: 50
+    spriteID: 553222e7f484d004db630a5275393426
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 223}
+  - name: f6_draugarlord_Frame_25
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 4
+      width: 68
+      height: 50
+    spriteID: 714b429f5d0c2384685bdae5e6ea3998
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: -11}
+  - name: f6_draugarlord_Frame_26
+    originalName: 
+    pivot: {x: 0.4637681, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 179
+      width: 69
+      height: 51
+    spriteID: edc8c25a44ae2cd4fb7d93e06890b325
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 164}
+  - name: f6_draugarlord_Frame_27
+    originalName: 
+    pivot: {x: 0.4571429, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 296
+      width: 70
+      height: 50
+    spriteID: e609001f5c43b3f4cb5af824aec189f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 281}
+  - name: f6_draugarlord_Frame_28
+    originalName: 
+    pivot: {x: 0.45070425, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 824
+      width: 71
+      height: 50
+    spriteID: df798488237b44f4e8073b41bc164634
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -4, y: 809}
+  - name: f6_draugarlord_Frame_29
+    originalName: 
+    pivot: {x: 0.4571429, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 354
+      width: 70
+      height: 50
+    spriteID: 63f7c4022416ffb41a470d3b29c69a93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 339}
+  - name: f6_draugarlord_Frame_30
+    originalName: 
+    pivot: {x: 0.45070425, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 882
+      width: 71
+      height: 50
+    spriteID: e20e8370598966444b361815d1d2b499
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -4, y: 867}
+  - name: f6_draugarlord_Frame_31
+    originalName: 
+    pivot: {x: 0.45833334, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 4
+      width: 72
+      height: 49
+    spriteID: 613bf0e049692474a9d128b88463c811
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: -11}
+  - name: f6_draugarlord_Frame_32
+    originalName: 
+    pivot: {x: 0.46478873, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 940
+      width: 71
+      height: 50
+    spriteID: f86228de486a98b41817d83e5d6097a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -3, y: 925}
+  - name: f6_draugarlord_Frame_33
+    originalName: 
+    pivot: {x: 0.46478873, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 4
+      width: 71
+      height: 50
+    spriteID: a15ec8b979453024399c695e49ee0ecd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: -11}
+  - name: f6_draugarlord_Frame_34
+    originalName: 
+    pivot: {x: 0.46478873, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 62
+      width: 71
+      height: 50
+    spriteID: ec07a2188a6f20b4cadf256bb2ac242a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 47}
+  - name: f6_draugarlord_Frame_35
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 62
+      width: 68
+      height: 50
+    spriteID: a908db299501e4649882138b9be11d8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 47}
+  - name: f6_draugarlord_Frame_36
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 120
+      width: 68
+      height: 50
+    spriteID: f2e3334c9a428a64b8718b122c8880f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 105}
+  - name: f6_draugarlord_Frame_37
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 178
+      width: 68
+      height: 50
+    spriteID: 35097b2afad548d48a7eb95fdc8322f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 163}
+  - name: f6_draugarlord_Frame_38
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 236
+      width: 68
+      height: 50
+    spriteID: 446de7b530d171f4ca4d976bca4769c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 221}
+  - name: f6_draugarlord_Frame_39
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 294
+      width: 68
+      height: 50
+    spriteID: 57e040e15aa6ccd45aba2803631e3a08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 279}
+  - name: f6_draugarlord_Frame_40
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 352
+      width: 68
+      height: 50
+    spriteID: 3b767121bd10d3644b1f749bd50f86e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 337}
+  - name: f6_draugarlord_Frame_41
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 410
+      width: 68
+      height: 50
+    spriteID: 3d1729e555e07834e9a40f49477d0ca5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 395}
+  - name: f6_draugarlord_Frame_42
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 825
+      width: 68
+      height: 51
+    spriteID: 4d548e085cdc4c945b4baa25f4ce2924
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 810}
+  - name: f6_draugarlord_Frame_43
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 884
+      width: 68
+      height: 51
+    spriteID: a639a537453fd334b962d9e55d30754f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 869}
+  - name: f6_draugarlord_Frame_44
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 943
+      width: 68
+      height: 51
+    spriteID: dea70979d4ab50e4abb1798049fa3203
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 928}
+  - name: f6_draugarlord_Frame_45
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 61
+      width: 68
+      height: 51
+    spriteID: 89bd5e754322092458670bcd4749cffb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 46}
+  - name: f6_draugarlord_Frame_46
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 120
+      width: 68
+      height: 51
+    spriteID: 4a7be02266a78d542b5be6de5073b82c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 105}
+  - name: f6_draugarlord_Frame_47
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 179
+      width: 68
+      height: 51
+    spriteID: e739ba998df1b4c4cbe6ccc779e6d4f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 164}
+  - name: f6_draugarlord_Frame_48
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 238
+      width: 68
+      height: 51
+    spriteID: f825f744b767baa4199a2b9cea861c35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 223}
+  - name: f6_draugarlord_Frame_49
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 468
+      width: 68
+      height: 50
+    spriteID: 2336441cd46326444824ecbb1c9ac14e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 453}
+  - name: f6_draugarlord_Frame_50
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 641
+      width: 65
+      height: 51
+    spriteID: bf471f5072e9eea4d83b67122ff775c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 626}
+  - name: f6_draugarlord_Frame_51
+    originalName: 
+    pivot: {x: 0.5849056, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 518
+      width: 53
+      height: 51
+    spriteID: dd457a8ecafb002438430c74b0834a9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 503}
+  - name: f6_draugarlord_Frame_52
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.32000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 4
+      width: 56
+      height: 50
+    spriteID: 075f4d3e01fd68f4ea3231d7768e337d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 448, y: -12}
+  - name: f6_draugarlord_Frame_53
+    originalName: 
+    pivot: {x: 0.6909091, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 389
+      y: 4
+      width: 55
+      height: 52
+    spriteID: b01ada276ec088f4a90dda47b85cbcd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 387, y: -11}
+  - name: f6_draugarlord_Frame_54
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.26785713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 134
+      width: 54
+      height: 56
+    spriteID: 05e18c991ab415143b2dd391c76e05c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 119}
+  - name: f6_draugarlord_Frame_55
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 198
+      width: 54
+      height: 56
+    spriteID: e96aaacda9f23d84788b78b226f3d90e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 182}
+  - name: f6_draugarlord_Frame_56
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 262
+      width: 54
+      height: 56
+    spriteID: deb82dd334ec6874286c1e612c093753
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 246}
+  - name: f6_draugarlord_Frame_57
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 4
+      width: 54
+      height: 57
+    spriteID: 434dfe9c28fc4cc4ebdd4b64b0546375
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: -11}
+  - name: f6_draugarlord_Frame_58
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.26785713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 326
+      width: 54
+      height: 56
+    spriteID: 33b4085032221704fa143a0f235b5a16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 311}
+  - name: f6_draugarlord_Frame_59
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 390
+      width: 54
+      height: 56
+    spriteID: 79db6d8355904a448a314e2a11be3808
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 374}
+  - name: f6_draugarlord_Frame_60
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 454
+      width: 54
+      height: 56
+    spriteID: f9cf93f3937b4884e8613dd9f7a905e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 438}
+  - name: f6_draugarlord_Frame_61
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 69
+      width: 54
+      height: 57
+    spriteID: 6175e4e2b4a46d24e89e91674af38413
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 54}
+  - name: f6_draugarlord_Frame_62
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.25862068}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 944
+      width: 54
+      height: 58
+    spriteID: fe765bfa5bf20164a9888502bacedffd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 249, y: 929}
+  - name: f6_draugarlord_Frame_63
+    originalName: 
+    pivot: {x: 0.6964286, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 815
+      width: 56
+      height: 57
+    spriteID: 68688bf12c810184982cd5409f3afde8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 250, y: 799}
+  - name: f6_draugarlord_Frame_64
+    originalName: 
+    pivot: {x: 0.7017544, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 880
+      width: 57
+      height: 56
+    spriteID: 04fa0d96870e9b446a6c088546e351d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 864}
+  - name: f6_draugarlord_Frame_65
+    originalName: 
+    pivot: {x: 0.4936709, y: -0.078125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 537
+      width: 79
+      height: 64
+    spriteID: b13b6cd0de71da743945207e3679510a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 532}
+  - name: f6_draugarlord_Frame_66
+    originalName: 
+    pivot: {x: 0.5, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 80
+      height: 69
+    spriteID: 0bb1af8c28708664286b844bdb01a364
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1}
+  - name: f6_draugarlord_Frame_67
+    originalName: 
+    pivot: {x: 0.5, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 81
+      width: 80
+      height: 69
+    spriteID: bc8e217bd6e67a74db145c048ec04538
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 78}
+  - name: f6_draugarlord_Frame_68
+    originalName: 
+    pivot: {x: 0.5, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 158
+      width: 80
+      height: 69
+    spriteID: 9f1b3d66276236e4aa6818a42038be50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 155}
+  - name: f6_draugarlord_Frame_69
+    originalName: 
+    pivot: {x: 0.5, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 235
+      width: 80
+      height: 69
+    spriteID: cd3cc040ef25fa44cbe1033d36eec60f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 232}
+  - name: f6_draugarlord_Frame_70
+    originalName: 
+    pivot: {x: 0.5, y: -0.058823533}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 312
+      width: 80
+      height: 68
+    spriteID: 02db1d68ec3a5be4ba64eb8a379f703d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 308}
+  - name: f6_draugarlord_Frame_71
+    originalName: 
+    pivot: {x: 0.4936709, y: -0.05970149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 388
+      width: 79
+      height: 67
+    spriteID: 5ae7474c42d7ef74faeb4efe0a667e15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 384}
+  - name: f6_draugarlord_Frame_72
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.045454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 463
+      width: 78
+      height: 66
+    spriteID: 6e487b5f8cd6ba741aac25461352304f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 460}
+  - name: f6_draugarlord_Frame_73
+    originalName: 
+    pivot: {x: 0.45070425, y: -0.04615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 609
+      width: 71
+      height: 65
+    spriteID: 699a61a701d7b1247a8f47ec6a398986
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -4, y: 606}
+  - name: f6_draugarlord_Frame_74
+    originalName: 
+    pivot: {x: 0.45070425, y: -0.030769233}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 682
+      width: 71
+      height: 65
+    spriteID: fa30e0d1caf9ae543ba2b70d5f2ecc73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -4, y: 680}
+  - name: f6_draugarlord_Frame_75
+    originalName: 
+    pivot: {x: 0.45070425, y: -0.065573774}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 755
+      width: 71
+      height: 61
+    spriteID: 4c28d01d82aa2fd40b5f14ffe1d591a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -4, y: 751}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1233570204
+    name: f6_draugarlord
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: f6_draugarlord_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0549ca75798800242b44c9a7370fed00
+    - name: f6_draugarlord_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9290f80d36138f04eb2efc3f5472ac4b
+    - name: f6_draugarlord_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4bf73963028b62149b9128a654d7f087
+    - name: f6_draugarlord_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1cd1a4b2722c608428658cbcfb83a778
+    - name: f6_draugarlord_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b0ca2464f9cca8541b6cba8612dfaad9
+    - name: f6_draugarlord_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b37e58efda018be41aeb5391666750f4
+    - name: f6_draugarlord_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9f6513a90f45dfa48b2c5bbadaa12d50
+    - name: f6_draugarlord_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b89cd3cf26f972c4d999852679ca0a4f
+    - name: f6_draugarlord_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 165a162f9466958489e91931b0f55d24
+    - name: f6_draugarlord_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ec24d60ee29d7424f950e9ddbd539408
+    - name: f6_draugarlord_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 935d6027f7d00f74dbdd4f5f8b23f2ff
+    - name: f6_draugarlord_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 24e5019e666be584e80988b260aafa2c
+    - name: f6_draugarlord_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 209248704d6bc6846a8e45b80ec76578
+    - name: f6_draugarlord_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d43befab9e2178c4f86b25286e94babd
+    - name: f6_draugarlord_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2d121ac18cd16ed4290c5a8520af0c22
+    - name: f6_draugarlord_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b2ce0d6aee938de48b47e17fa1d140a7
+    - name: f6_draugarlord_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ddf09a94a9b6b7d43a3e027f97bc3a1f
+    - name: f6_draugarlord_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 73eacad4d0774ed489b5ed55be1cd489
+    - name: f6_draugarlord_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 10bcf541e8ea00c4f85aac99de54777a
+    - name: f6_draugarlord_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9fbef8c0543d16948a86d0dd08e32bdf
+    - name: f6_draugarlord_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 316cd5af69fb94641baaa9af5259f891
+    - name: f6_draugarlord_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8eade2175d558ac4d9bf12a57ab04ff4
+    - name: f6_draugarlord_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 05c4face576384443ab1cca59a61650e
+    - name: f6_draugarlord_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 79583309abdb87547b16da8326cc50c7
+    - name: f6_draugarlord_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 553222e7f484d004db630a5275393426
+    - name: f6_draugarlord_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 714b429f5d0c2384685bdae5e6ea3998
+    - name: f6_draugarlord_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: edc8c25a44ae2cd4fb7d93e06890b325
+    - name: f6_draugarlord_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e609001f5c43b3f4cb5af824aec189f2
+    - name: f6_draugarlord_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: df798488237b44f4e8073b41bc164634
+    - name: f6_draugarlord_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 63f7c4022416ffb41a470d3b29c69a93
+    - name: f6_draugarlord_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e20e8370598966444b361815d1d2b499
+    - name: f6_draugarlord_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 613bf0e049692474a9d128b88463c811
+    - name: f6_draugarlord_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f86228de486a98b41817d83e5d6097a2
+    - name: f6_draugarlord_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a15ec8b979453024399c695e49ee0ecd
+    - name: f6_draugarlord_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ec07a2188a6f20b4cadf256bb2ac242a
+    - name: f6_draugarlord_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a908db299501e4649882138b9be11d8d
+    - name: f6_draugarlord_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f2e3334c9a428a64b8718b122c8880f3
+    - name: f6_draugarlord_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 35097b2afad548d48a7eb95fdc8322f5
+    - name: f6_draugarlord_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 446de7b530d171f4ca4d976bca4769c3
+    - name: f6_draugarlord_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 57e040e15aa6ccd45aba2803631e3a08
+    - name: f6_draugarlord_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3b767121bd10d3644b1f749bd50f86e1
+    - name: f6_draugarlord_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3d1729e555e07834e9a40f49477d0ca5
+    - name: f6_draugarlord_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4d548e085cdc4c945b4baa25f4ce2924
+    - name: f6_draugarlord_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a639a537453fd334b962d9e55d30754f
+    - name: f6_draugarlord_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dea70979d4ab50e4abb1798049fa3203
+    - name: f6_draugarlord_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 89bd5e754322092458670bcd4749cffb
+    - name: f6_draugarlord_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4a7be02266a78d542b5be6de5073b82c
+    - name: f6_draugarlord_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e739ba998df1b4c4cbe6ccc779e6d4f6
+    - name: f6_draugarlord_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f825f744b767baa4199a2b9cea861c35
+    - name: f6_draugarlord_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2336441cd46326444824ecbb1c9ac14e
+    - name: f6_draugarlord_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bf471f5072e9eea4d83b67122ff775c1
+    - name: f6_draugarlord_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dd457a8ecafb002438430c74b0834a9c
+    - name: f6_draugarlord_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 075f4d3e01fd68f4ea3231d7768e337d
+    - name: f6_draugarlord_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b01ada276ec088f4a90dda47b85cbcd5
+    - name: f6_draugarlord_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 05e18c991ab415143b2dd391c76e05c7
+    - name: f6_draugarlord_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e96aaacda9f23d84788b78b226f3d90e
+    - name: f6_draugarlord_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: deb82dd334ec6874286c1e612c093753
+    - name: f6_draugarlord_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 434dfe9c28fc4cc4ebdd4b64b0546375
+    - name: f6_draugarlord_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 33b4085032221704fa143a0f235b5a16
+    - name: f6_draugarlord_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 79db6d8355904a448a314e2a11be3808
+    - name: f6_draugarlord_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f9cf93f3937b4884e8613dd9f7a905e7
+    - name: f6_draugarlord_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6175e4e2b4a46d24e89e91674af38413
+    - name: f6_draugarlord_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fe765bfa5bf20164a9888502bacedffd
+    - name: f6_draugarlord_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 68688bf12c810184982cd5409f3afde8
+    - name: f6_draugarlord_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 04fa0d96870e9b446a6c088546e351d0
+    - name: f6_draugarlord_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b13b6cd0de71da743945207e3679510a
+    - name: f6_draugarlord_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0bb1af8c28708664286b844bdb01a364
+    - name: f6_draugarlord_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bc8e217bd6e67a74db145c048ec04538
+    - name: f6_draugarlord_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9f1b3d66276236e4aa6818a42038be50
+    - name: f6_draugarlord_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cd3cc040ef25fa44cbe1033d36eec60f
+    - name: f6_draugarlord_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 02db1d68ec3a5be4ba64eb8a379f703d
+    - name: f6_draugarlord_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5ae7474c42d7ef74faeb4efe0a667e15
+    - name: f6_draugarlord_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6e487b5f8cd6ba741aac25461352304f
+    - name: f6_draugarlord_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 699a61a701d7b1247a8f47ec6a398986
+    - name: f6_draugarlord_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fa30e0d1caf9ae543ba2b70d5f2ecc73
+    - name: f6_draugarlord_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4c28d01d82aa2fd40b5f14ffe1d591a2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

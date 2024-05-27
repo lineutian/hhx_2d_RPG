@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ea60df8a422289a4dbadfd0b4b8dc1ac
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_carddraw_Frame_0
+    originalName: 
+    pivot: {x: 0.47916666, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 192
+      height: 200
+    spriteID: 0aec17176aa1acf418ffbd86ad65daf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -4, y: 4}
+  - name: fx_carddraw_Frame_1
+    originalName: 
+    pivot: {x: 0.49090907, y: -0.43636364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 389
+      width: 110
+      height: 110
+    spriteID: 2d9366d0e8556814a8f3ef87bb8db75d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -42, y: 341}
+  - name: fx_carddraw_Frame_2
+    originalName: 
+    pivot: {x: 0.4929578, y: -0.90140843}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 389
+      width: 71
+      height: 71
+    spriteID: 5d1277293466c6946bea81f5bf13c550
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 325}
+  - name: fx_carddraw_Frame_3
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 389
+      width: 0
+      height: 0
+    spriteID: 7b370a5f87b39924597dcaecd65c30c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 189}
+  - name: fx_carddraw_Frame_4
+    originalName: 
+    pivot: {x: 0.55944055, y: -0.37692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 583
+      y: 212
+      width: 143
+      height: 130
+    spriteID: 5e49658201813c2428b453368086e6de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 563, y: 163}
+  - name: fx_carddraw_Frame_5
+    originalName: 
+    pivot: {x: 0.5586207, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 212
+      width: 145
+      height: 148
+    spriteID: 9406e869cc34d4649817d3ec8189b81a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 180}
+  - name: fx_carddraw_Frame_6
+    originalName: 
+    pivot: {x: 0.5578231, y: -0.21153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 4
+      width: 147
+      height: 156
+    spriteID: 2ec5f1035d0fea34fb1c4dc659ddabdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 344, y: -29}
+  - name: fx_carddraw_Frame_7
+    originalName: 
+    pivot: {x: 0.57046986, y: -0.23529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 517
+      y: 4
+      width: 149
+      height: 153
+    spriteID: 55ab42f778651fe47b3c7e67c7b27bff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 502, y: -32}
+  - name: fx_carddraw_Frame_8
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.10303031}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 674
+      y: 4
+      width: 133
+      height: 165
+    spriteID: 9a7dc69e2ee6c544389bdb7085567bfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 650, y: -13}
+  - name: fx_carddraw_Frame_9
+    originalName: 
+    pivot: {x: 0.5666667, y: -0.15243903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 4
+      width: 150
+      height: 164
+    spriteID: 0247660df5290624eaf487567ff48d50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: -21}
+  - name: fx_carddraw_Frame_10
+    originalName: 
+    pivot: {x: 0.59090906, y: -0.11515152}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 815
+      y: 4
+      width: 132
+      height: 165
+    spriteID: a6075f89286dbde4392b89e0fe62ee0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 793, y: -15}
+  - name: fx_carddraw_Frame_11
+    originalName: 
+    pivot: {x: 0.6141732, y: -0.08284024}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 212
+      width: 127
+      height: 169
+    spriteID: c642e78dc7fd14949a3ec6188e859c56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 198}
+  - name: fx_carddraw_Frame_12
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 397
+      width: 0
+      height: 0
+    spriteID: 20e3d73861ea0a647950c128404afcfe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 197}
+  - name: fx_carddraw_Frame_13
+    originalName: 
+    pivot: {x: 0.6141732, y: -0.08284024}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 212
+      width: 127
+      height: 169
+    spriteID: 45f3a6a04352f3a46bc8e9f369ea424f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 198}
+  - name: fx_carddraw_Frame_14
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 405
+      width: 0
+      height: 0
+    spriteID: b58f8d85ddbe80c40a730c2a667cc84e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 205}
+  - name: fx_carddraw_Frame_15
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 413
+      width: 0
+      height: 0
+    spriteID: 1a8cf88b8e7f1d344abdfbd21089be7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 213}
+  - name: fx_carddraw_Frame_16
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 421
+      width: 0
+      height: 0
+    spriteID: 314e7316d281fb444912531db9ccdfef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 221}
+  - name: fx_carddraw_Frame_17
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 429
+      width: 0
+      height: 0
+    spriteID: ac03a2e398569fd4aa2b99083ad8d056
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 229}
+  - name: fx_carddraw_Frame_18
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 437
+      width: 0
+      height: 0
+    spriteID: 764c5a17515d28e4c8cff3454e1308eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 237}
+  - name: fx_carddraw_Frame_19
+    originalName: 
+    pivot: {x: 0.49324328, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 212
+      width: 148
+      height: 132
+    spriteID: be913ae04ee131c4297c189c6ecd403c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 400, y: 178}
+  - name: fx_carddraw_Frame_20
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 445
+      width: 0
+      height: 0
+    spriteID: 2211cc22d28a2224d9e6cdbde4b9b319
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 245}
+  - name: fx_carddraw_Frame_21
+    originalName: 
+    pivot: {x: 0.48795182, y: -1.0169492}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 368
+      width: 166
+      height: 59
+    spriteID: 65abbd054ebeb9640b15d180b0679273
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 308}
+  - name: fx_carddraw_Frame_22
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 453
+      width: 0
+      height: 0
+    spriteID: ca889e087b3ba5643a143c33ce8a54b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 253}
+  - name: fx_carddraw_Frame_23
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 389
+      width: 0
+      height: 0
+    spriteID: da00d34db4a645c4599703cb0bd04ae3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 189}
+  - name: fx_carddraw_Frame_24
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 397
+      width: 0
+      height: 0
+    spriteID: e4dca6760762cb2438c7efd0f3da609e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 197}
+  - name: fx_carddraw_Frame_25
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 405
+      width: 0
+      height: 0
+    spriteID: 92bb8e80d3090794fa1aa22319f14e8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 205}
+  - name: fx_carddraw_Frame_26
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 413
+      width: 0
+      height: 0
+    spriteID: a2900bf8d6f47b843b8009b3988edfd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 213}
+  - name: fx_carddraw_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -0.3046875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 734
+      y: 212
+      width: 130
+      height: 128
+    spriteID: d7c78e7f47c97d345af504149384df33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 699, y: 173}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -961350603
+    name: fx_carddraw
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_carddraw_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 0aec17176aa1acf418ffbd86ad65daf9
+    - name: fx_carddraw_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 2d9366d0e8556814a8f3ef87bb8db75d
+    - name: fx_carddraw_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 5d1277293466c6946bea81f5bf13c550
+    - name: fx_carddraw_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 7b370a5f87b39924597dcaecd65c30c9
+    - name: fx_carddraw_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 5e49658201813c2428b453368086e6de
+    - name: fx_carddraw_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 9406e869cc34d4649817d3ec8189b81a
+    - name: fx_carddraw_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 2ec5f1035d0fea34fb1c4dc659ddabdb
+    - name: fx_carddraw_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 55ab42f778651fe47b3c7e67c7b27bff
+    - name: fx_carddraw_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 9a7dc69e2ee6c544389bdb7085567bfc
+    - name: fx_carddraw_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 0247660df5290624eaf487567ff48d50
+    - name: fx_carddraw_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: a6075f89286dbde4392b89e0fe62ee0d
+    - name: fx_carddraw_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: c642e78dc7fd14949a3ec6188e859c56
+    - name: fx_carddraw_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 20e3d73861ea0a647950c128404afcfe
+    - name: fx_carddraw_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 45f3a6a04352f3a46bc8e9f369ea424f
+    - name: fx_carddraw_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: b58f8d85ddbe80c40a730c2a667cc84e
+    - name: fx_carddraw_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 1a8cf88b8e7f1d344abdfbd21089be7d
+    - name: fx_carddraw_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 314e7316d281fb444912531db9ccdfef
+    - name: fx_carddraw_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: ac03a2e398569fd4aa2b99083ad8d056
+    - name: fx_carddraw_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 764c5a17515d28e4c8cff3454e1308eb
+    - name: fx_carddraw_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: be913ae04ee131c4297c189c6ecd403c
+    - name: fx_carddraw_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 2211cc22d28a2224d9e6cdbde4b9b319
+    - name: fx_carddraw_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 65abbd054ebeb9640b15d180b0679273
+    - name: fx_carddraw_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: ca889e087b3ba5643a143c33ce8a54b4
+    - name: fx_carddraw_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: da00d34db4a645c4599703cb0bd04ae3
+    - name: fx_carddraw_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: e4dca6760762cb2438c7efd0f3da609e
+    - name: fx_carddraw_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 92bb8e80d3090794fa1aa22319f14e8d
+    - name: fx_carddraw_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: a2900bf8d6f47b843b8009b3988edfd8
+    - name: fx_carddraw_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: d7c78e7f47c97d345af504149384df33
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 200, y: 200}

@@ -1,0 +1,1384 @@
+fileFormatVersion: 2
+guid: 2789e6850381ffe4092314bd93bace3c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_f4_bbs_abyssalscar_Frame_0
+    originalName: 
+    pivot: {x: 0.28099173, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 980
+      width: 121
+      height: 40
+    spriteID: e6fabe8703b948e45b248cd128ea7df0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -52, y: 930}
+  - name: fx_f4_bbs_abyssalscar_Frame_1
+    originalName: 
+    pivot: {x: 0.41379306, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 790
+      y: 4
+      width: 145
+      height: 66
+    spriteID: 1d7487a0629df2140b911d7094f42aa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 760, y: -13}
+  - name: fx_f4_bbs_abyssalscar_Frame_2
+    originalName: 
+    pivot: {x: 0.41428572, y: -0.16037737}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 4
+      width: 140
+      height: 106
+    spriteID: d8e89309a7891ac42863c7ba492d17f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: -13}
+  - name: fx_f4_bbs_abyssalscar_Frame_3
+    originalName: 
+    pivot: {x: 0.3934426, y: -0.16346155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 118
+      width: 122
+      height: 104
+    spriteID: 02903f4e586de4c449b0493c29c12a68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 278, y: 101}
+  - name: fx_f4_bbs_abyssalscar_Frame_4
+    originalName: 
+    pivot: {x: 0.43137252, y: -0.17171718}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 113
+      width: 102
+      height: 99
+    spriteID: fc6e863e3720cac4a9cfd2ce9d429d1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 518, y: 96}
+  - name: fx_f4_bbs_abyssalscar_Frame_5
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.16346155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 344
+      width: 120
+      height: 104
+    spriteID: b4ff6753e8b769449aa2b2d205ad6330
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 294, y: 327}
+  - name: fx_f4_bbs_abyssalscar_Frame_6
+    originalName: 
+    pivot: {x: 0.5169492, y: -0.16037737}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 230
+      width: 118
+      height: 106
+    spriteID: f31178e0e9c6fe844a5765d63b7fd0f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 291, y: 213}
+  - name: fx_f4_bbs_abyssalscar_Frame_7
+    originalName: 
+    pivot: {x: 0.41818184, y: -0.16346155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 897
+      width: 110
+      height: 104
+    spriteID: 93e52bdfcc8c7e14d8c7002053ebb878
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 880}
+  - name: fx_f4_bbs_abyssalscar_Frame_8
+    originalName: 
+    pivot: {x: 0.4245283, y: -0.17171718}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 4
+      width: 106
+      height: 99
+    spriteID: b9a26a94b256aac419a22f045561ecdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 631, y: -13}
+  - name: fx_f4_bbs_abyssalscar_Frame_9
+    originalName: 
+    pivot: {x: 0.43298966, y: -0.16346155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 220
+      width: 97
+      height: 104
+    spriteID: 95fb7d7f7a81f9b49a2fbd61f75a002e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 516, y: 203}
+  - name: fx_f4_bbs_abyssalscar_Frame_10
+    originalName: 
+    pivot: {x: 0.51449275, y: -0.06410257}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 530
+      width: 138
+      height: 156
+    spriteID: 8a0a4935e63556a4899cf4c1aaec80ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 520}
+  - name: fx_f4_bbs_abyssalscar_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.04878049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 358
+      width: 162
+      height: 164
+    spriteID: d7a0677a2f6893f40ba00214cbf02bbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 350}
+  - name: fx_f4_bbs_abyssalscar_Frame_12
+    originalName: 
+    pivot: {x: 0.502994, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 182
+      width: 167
+      height: 168
+    spriteID: 89b93af16b3062e49b1d4acd67510c17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 176}
+  - name: fx_f4_bbs_abyssalscar_Frame_13
+    originalName: 
+    pivot: {x: 0.50295854, y: -0.029411767}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 169
+      height: 170
+    spriteID: b69c5448f1e993c4183442cb0cd11b2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: -1}
+  - name: fx_f4_bbs_abyssalscar_Frame_14
+    originalName: 
+    pivot: {x: 0.4488189, y: -0.029850746}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 286
+      width: 127
+      height: 134
+    spriteID: 93f4ac089b93d7440995f2fd9aeb82b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 282}
+  - name: fx_f4_bbs_abyssalscar_Frame_15
+    originalName: 
+    pivot: {x: 0.4488189, y: -0.021739133}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 834
+      width: 127
+      height: 138
+    spriteID: fe400583512bfdf4b9d9733c7ccd9c5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -29, y: 831}
+  - name: fx_f4_bbs_abyssalscar_Frame_16
+    originalName: 
+    pivot: {x: 0.41836733, y: -0.082706764}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 841
+      width: 98
+      height: 133
+    spriteID: b85dae93b521add458e7ca600b4fb1bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 830}
+  - name: fx_f4_bbs_abyssalscar_Frame_17
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.08148149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 4
+      width: 88
+      height: 135
+    spriteID: ceaef948a3fd02e4bb6f16bba6b66c95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 419, y: -7}
+  - name: fx_f4_bbs_abyssalscar_Frame_18
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.07971015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 751
+      width: 88
+      height: 138
+    spriteID: d8da85e0e9cb130429235426a852e15e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 271, y: 740}
+  - name: fx_f4_bbs_abyssalscar_Frame_19
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.07913669}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 604
+      width: 88
+      height: 139
+    spriteID: d20347a93d9a503429f5923fd3612980
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 271, y: 593}
+  - name: fx_f4_bbs_abyssalscar_Frame_20
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.07857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 456
+      width: 88
+      height: 140
+    spriteID: 4e84734872269e841a16fc562b57504f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 271, y: 445}
+  - name: fx_f4_bbs_abyssalscar_Frame_21
+    originalName: 
+    pivot: {x: 0.47, y: -0.07801418}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 692
+      width: 100
+      height: 141
+    spriteID: 04e79afe184b7644d9a9f3b76357adde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 681}
+  - name: fx_f4_bbs_abyssalscar_Frame_22
+    originalName: 
+    pivot: {x: 0.49999997, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 982
+      width: 104
+      height: 33
+    spriteID: 2df57eb5135e55c4db342b1b8e474093
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 902}
+  - name: fx_f4_bbs_abyssalscar_Frame_23
+    originalName: 
+    pivot: {x: 0.4950495, y: -1.03125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 426
+      width: 101
+      height: 64
+    spriteID: 841fdd8b7e86ecc4c8eaf122515041c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 524, y: 360}
+  - name: fx_f4_bbs_abyssalscar_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: -0.9014085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 147
+      width: 74
+      height: 71
+    spriteID: d6a9841ac91e33648a085b7e526bad82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 415, y: 83}
+  - name: fx_f4_bbs_abyssalscar_Frame_25
+    originalName: 
+    pivot: {x: 0.484375, y: -0.8513513}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 226
+      width: 64
+      height: 74
+    spriteID: 13e3151f742c5d942be8656771f00cac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 409, y: 163}
+  - name: fx_f4_bbs_abyssalscar_Frame_26
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.7948718}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 308
+      width: 60
+      height: 78
+    spriteID: 9a3ac1c11f6bbd4478e96c2ef385b20b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 407, y: 246}
+  - name: fx_f4_bbs_abyssalscar_Frame_27
+    originalName: 
+    pivot: {x: 0.48235297, y: -0.6511628}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 332
+      width: 85
+      height: 86
+    spriteID: 2d129704a9054994fa495a98f7f8add7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 515, y: 276}
+  - name: fx_f4_bbs_abyssalscar_Frame_28
+    originalName: 
+    pivot: {x: 0.49038464, y: -0.4851485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 4
+      width: 104
+      height: 101
+    spriteID: 57c22fa79b8087b4c8208226d7849794
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 525, y: -45}
+  - name: fx_f4_bbs_abyssalscar_Frame_29
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 564
+      width: 120
+      height: 120
+    spriteID: 8ea0339fc7c3e294cb5b3b95a9979ae6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 524}
+  - name: fx_f4_bbs_abyssalscar_Frame_30
+    originalName: 
+    pivot: {x: 0.48031497, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 428
+      width: 127
+      height: 128
+    spriteID: 6be5446f23a13e04eb890f82ad45cc31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 392}
+  - name: fx_f4_bbs_abyssalscar_Frame_31
+    originalName: 
+    pivot: {x: 0.48091605, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 4
+      width: 131
+      height: 132
+    spriteID: 0098854758ace5142b6b69b1efa620f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: -30}
+  - name: fx_f4_bbs_abyssalscar_Frame_32
+    originalName: 
+    pivot: {x: 0.48120296, y: -0.26515153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 694
+      width: 133
+      height: 132
+    spriteID: 1f13ac0f9bc25ce43870c50e70702615
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 659}
+  - name: fx_f4_bbs_abyssalscar_Frame_33
+    originalName: 
+    pivot: {x: 0.45736432, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 144
+      width: 129
+      height: 134
+    spriteID: 8bf46eaa238c6af4ab769137a6efd680
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 110}
+  - name: fx_f4_bbs_abyssalscar_Frame_34
+    originalName: 
+    pivot: {x: 0.45588234, y: -0.78205127}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 919
+      width: 68
+      height: 78
+    spriteID: da2e73ce524e2784cabf993ca691a6f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 505, y: 858}
+  - name: fx_f4_bbs_abyssalscar_Frame_35
+    originalName: 
+    pivot: {x: 0.4637681, y: -0.77500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 746
+      width: 69
+      height: 80
+    spriteID: 2c58309b4a58b5244bbc276a4459e32e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 506, y: 684}
+  - name: fx_f4_bbs_abyssalscar_Frame_36
+    originalName: 
+    pivot: {x: 0.4722222, y: -0.77108437}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 590
+      width: 72
+      height: 83
+    spriteID: 71fced5ffa89676408edf496b58c1f87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 526}
+  - name: fx_f4_bbs_abyssalscar_Frame_37
+    originalName: 
+    pivot: {x: 0.47945204, y: -0.7380952}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 498
+      width: 73
+      height: 84
+    spriteID: 849c30bc7d8d53b439489460a5dc3e95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 509, y: 436}
+  - name: fx_f4_bbs_abyssalscar_Frame_38
+    originalName: 
+    pivot: {x: 0.47142857, y: -0.8701298}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 834
+      width: 70
+      height: 77
+    spriteID: 696fd9c4ff76e6b4bb03acad834b9d8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 507, y: 767}
+  - name: fx_f4_bbs_abyssalscar_Frame_39
+    originalName: 
+    pivot: {x: 0.47, y: -1.3508772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 681
+      width: 100
+      height: 57
+    spriteID: 23fe6b92b05d9b34da76bcecd109f830
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 521, y: 604}
+  - name: fx_f4_bbs_abyssalscar_Frame_40
+    originalName: 
+    pivot: {x: 0.39999998, y: -2.3142855}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 980
+      width: 20
+      height: 35
+    spriteID: 27bff16eb8f08724987ffa94db37cdf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 899}
+  - name: fx_f4_bbs_abyssalscar_Frame_41
+    originalName: 
+    pivot: {x: 0.41666663, y: -1.7906977}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 642
+      y: 834
+      width: 24
+      height: 43
+    spriteID: 493e315ac0bb5854bad6951dd8549e02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 562, y: 757}
+  - name: fx_f4_bbs_abyssalscar_Frame_42
+    originalName: 
+    pivot: {x: -2.0000052, y: -1.6888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 550
+      y: 147
+      width: 1
+      height: 45
+    spriteID: f53af9cb68b2b5744ad51397b4e2bef0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 71}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 393291038
+    name: fx_f4_bbs_abyssalscar
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_f4_bbs_abyssalscar_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: e6fabe8703b948e45b248cd128ea7df0
+    - name: fx_f4_bbs_abyssalscar_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 1d7487a0629df2140b911d7094f42aa9
+    - name: fx_f4_bbs_abyssalscar_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d8e89309a7891ac42863c7ba492d17f5
+    - name: fx_f4_bbs_abyssalscar_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 02903f4e586de4c449b0493c29c12a68
+    - name: fx_f4_bbs_abyssalscar_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: fc6e863e3720cac4a9cfd2ce9d429d1a
+    - name: fx_f4_bbs_abyssalscar_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: b4ff6753e8b769449aa2b2d205ad6330
+    - name: fx_f4_bbs_abyssalscar_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: f31178e0e9c6fe844a5765d63b7fd0f7
+    - name: fx_f4_bbs_abyssalscar_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 93e52bdfcc8c7e14d8c7002053ebb878
+    - name: fx_f4_bbs_abyssalscar_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: b9a26a94b256aac419a22f045561ecdb
+    - name: fx_f4_bbs_abyssalscar_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 95fb7d7f7a81f9b49a2fbd61f75a002e
+    - name: fx_f4_bbs_abyssalscar_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 8a0a4935e63556a4899cf4c1aaec80ab
+    - name: fx_f4_bbs_abyssalscar_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d7a0677a2f6893f40ba00214cbf02bbd
+    - name: fx_f4_bbs_abyssalscar_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 89b93af16b3062e49b1d4acd67510c17
+    - name: fx_f4_bbs_abyssalscar_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: b69c5448f1e993c4183442cb0cd11b2d
+    - name: fx_f4_bbs_abyssalscar_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 93f4ac089b93d7440995f2fd9aeb82b2
+    - name: fx_f4_bbs_abyssalscar_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: fe400583512bfdf4b9d9733c7ccd9c5b
+    - name: fx_f4_bbs_abyssalscar_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: b85dae93b521add458e7ca600b4fb1bc
+    - name: fx_f4_bbs_abyssalscar_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: ceaef948a3fd02e4bb6f16bba6b66c95
+    - name: fx_f4_bbs_abyssalscar_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d8da85e0e9cb130429235426a852e15e
+    - name: fx_f4_bbs_abyssalscar_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d20347a93d9a503429f5923fd3612980
+    - name: fx_f4_bbs_abyssalscar_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 4e84734872269e841a16fc562b57504f
+    - name: fx_f4_bbs_abyssalscar_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 04e79afe184b7644d9a9f3b76357adde
+    - name: fx_f4_bbs_abyssalscar_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 2df57eb5135e55c4db342b1b8e474093
+    - name: fx_f4_bbs_abyssalscar_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 841fdd8b7e86ecc4c8eaf122515041c8
+    - name: fx_f4_bbs_abyssalscar_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d6a9841ac91e33648a085b7e526bad82
+    - name: fx_f4_bbs_abyssalscar_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 13e3151f742c5d942be8656771f00cac
+    - name: fx_f4_bbs_abyssalscar_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9a3ac1c11f6bbd4478e96c2ef385b20b
+    - name: fx_f4_bbs_abyssalscar_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 2d129704a9054994fa495a98f7f8add7
+    - name: fx_f4_bbs_abyssalscar_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 57c22fa79b8087b4c8208226d7849794
+    - name: fx_f4_bbs_abyssalscar_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 8ea0339fc7c3e294cb5b3b95a9979ae6
+    - name: fx_f4_bbs_abyssalscar_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 6be5446f23a13e04eb890f82ad45cc31
+    - name: fx_f4_bbs_abyssalscar_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 0098854758ace5142b6b69b1efa620f8
+    - name: fx_f4_bbs_abyssalscar_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 1f13ac0f9bc25ce43870c50e70702615
+    - name: fx_f4_bbs_abyssalscar_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 8bf46eaa238c6af4ab769137a6efd680
+    - name: fx_f4_bbs_abyssalscar_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: da2e73ce524e2784cabf993ca691a6f2
+    - name: fx_f4_bbs_abyssalscar_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 2c58309b4a58b5244bbc276a4459e32e
+    - name: fx_f4_bbs_abyssalscar_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 71fced5ffa89676408edf496b58c1f87
+    - name: fx_f4_bbs_abyssalscar_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 849c30bc7d8d53b439489460a5dc3e95
+    - name: fx_f4_bbs_abyssalscar_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 696fd9c4ff76e6b4bb03acad834b9d8a
+    - name: fx_f4_bbs_abyssalscar_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 23fe6b92b05d9b34da76bcecd109f830
+    - name: fx_f4_bbs_abyssalscar_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 27bff16eb8f08724987ffa94db37cdf7
+    - name: fx_f4_bbs_abyssalscar_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 493e315ac0bb5854bad6951dd8549e02
+    - name: fx_f4_bbs_abyssalscar_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: f53af9cb68b2b5744ad51397b4e2bef0
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 180, y: 180}

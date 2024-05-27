@@ -6,7 +6,7 @@ using UnityEngine;
 public class Ceshi : MonoBehaviour
 {
     //public Dictionary<Item,string> wup=new Dictionary<Item, string>();
-    public List<Item> item;
+    public List<ItemUI> item;
     public List<equip> equip;
     public GameObject lizhi;
     public GameObject ui_rwwc;
@@ -16,11 +16,18 @@ public class Ceshi : MonoBehaviour
     {
         foreach (var ite in item)
         {
-            GlobalController.Instance.Data.AddItemToInventory(ite.ItemID, 20);
+            if (!ite.IsStack)
+            {
+                Player.Instance.playerData.AddItemToInventory(ite.ItemID, 2);
+            }
+            else
+            {
+                Player.Instance.playerData.AddItemToInventory(ite.ItemID, 20);
+            }
         }
         foreach (var ite in equip)
         {
-            GlobalController.Instance.Data.AddItemToInventory(ite.ItemID, 2);
+            Player.Instance.playerData.AddItemToInventory(ite.ItemID, 2);
             if (ite.Type==ItemType.装备)
             {
                 ite.EquipData.Atk += 100;

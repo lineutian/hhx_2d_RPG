@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: e571c23b08a4a7446b35dbe5c9f46b30
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_f5_manaburn_Frame_0
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 1001
+      width: 0
+      height: 0
+    spriteID: ea846208ee2905b459c1ebf9fcf325ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 821}
+  - name: fx_f5_manaburn_Frame_1
+    originalName: 
+    pivot: {x: 0.47058818, y: -16.666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 1001
+      width: 17
+      height: 3
+    spriteID: 54a00025610290a4b9583faa2ac02f40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 951}
+  - name: fx_f5_manaburn_Frame_2
+    originalName: 
+    pivot: {x: 0.5125, y: -0.3030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 572
+      width: 80
+      height: 132
+    spriteID: cd3a998e1910c4349aa6df29c46cf6e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 532}
+  - name: fx_f5_manaburn_Frame_3
+    originalName: 
+    pivot: {x: 0.5454545, y: -0.2835821}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 859
+      width: 88
+      height: 134
+    spriteID: 1fceaf9c7086c5c45881c9d6affed39c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 821}
+  - name: fx_f5_manaburn_Frame_4
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.26277372}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 99
+      height: 137
+    spriteID: ba36839e585950749aacbaefdd3b8a2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -35, y: -32}
+  - name: fx_f5_manaburn_Frame_5
+    originalName: 
+    pivot: {x: 0.47777778, y: -0.31060606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 293
+      width: 90
+      height: 132
+    spriteID: 9888d90c554b9f94991142b0f2d352b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 252}
+  - name: fx_f5_manaburn_Frame_6
+    originalName: 
+    pivot: {x: 0.48936173, y: -0.30075186}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 439
+      width: 94
+      height: 133
+    spriteID: 9baf2ea4b0d5e054582e0d948c107467
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -40, y: 399}
+  - name: fx_f5_manaburn_Frame_7
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.2761194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 144
+      width: 91
+      height: 134
+    spriteID: 224f5a9a2953b334a97cd45bc047263e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 107}
+  - name: fx_f5_manaburn_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.26277372}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 4
+      width: 90
+      height: 137
+    spriteID: df8998e190b5451488afb40529e86488
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: -32}
+  - name: fx_f5_manaburn_Frame_9
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.30075186}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 580
+      width: 94
+      height: 133
+    spriteID: 5ea9c3ec7cd120e48935b57357a19872
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -38, y: 540}
+  - name: fx_f5_manaburn_Frame_10
+    originalName: 
+    pivot: {x: 0.46666664, y: -0.2720588}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 149
+      width: 90
+      height: 136
+    spriteID: a3beb6561c5443a47861fec34ac05f8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 112}
+  - name: fx_f5_manaburn_Frame_11
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.26277372}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 286
+      width: 84
+      height: 137
+    spriteID: 6d532fde82a07e540b0eae6b0fc88356
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 250}
+  - name: fx_f5_manaburn_Frame_12
+    originalName: 
+    pivot: {x: 0.5113636, y: -0.2814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 433
+      width: 88
+      height: 135
+    spriteID: db49ffce0343bc647b4d008090e33df2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 395}
+  - name: fx_f5_manaburn_Frame_13
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.26277372}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 294
+      width: 96
+      height: 137
+    spriteID: 89690d91d0e0a284a84ba15ed45f8c04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -38, y: 258}
+  - name: fx_f5_manaburn_Frame_14
+    originalName: 
+    pivot: {x: 0.5125, y: -0.30075186}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 431
+      width: 80
+      height: 133
+    spriteID: 7b4309fbc90a1b341a0ca94f94d04962
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 391}
+  - name: fx_f5_manaburn_Frame_15
+    originalName: 
+    pivot: {x: 0.5454545, y: -0.2814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 576
+      width: 88
+      height: 135
+    spriteID: 3511104bbcadbdc41b4e76f06ecdb94b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 538}
+  - name: fx_f5_manaburn_Frame_16
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.26277372}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 149
+      width: 99
+      height: 137
+    spriteID: 7bc4562946868ca40a5c4b50ea051dd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -35, y: 113}
+  - name: fx_f5_manaburn_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -0.31060606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 719
+      width: 90
+      height: 132
+    spriteID: dc399276e95abde4daeaee0fe4347c0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 678}
+  - name: fx_f5_manaburn_Frame_18
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.30075186}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 721
+      width: 94
+      height: 133
+    spriteID: 2887b922fff071246b4e9f2a5ed5a901
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -38, y: 681}
+  - name: fx_f5_manaburn_Frame_19
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.31060606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 4
+      width: 93
+      height: 132
+    spriteID: a92f782f06710e346be80273eeb48d12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: -37}
+  - name: fx_f5_manaburn_Frame_20
+    originalName: 
+    pivot: {x: 0.48936173, y: -0.30075186}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 862
+      width: 94
+      height: 133
+    spriteID: 3d4b54e8485f78b4ebaba75453532324
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -40, y: 822}
+  - name: fx_f5_manaburn_Frame_21
+    originalName: 
+    pivot: {x: 0.49295777, y: -0.93333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 764
+      width: 71
+      height: 45
+    spriteID: a58e1d7f82511a54ca59bfa7fccf4a80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 722}
+  - name: fx_f5_manaburn_Frame_22
+    originalName: 
+    pivot: {x: 0.49333337, y: -0.9772727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 712
+      width: 75
+      height: 44
+    spriteID: 59696e3d171b5314990012eacfffa1fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 669}
+  - name: fx_f5_manaburn_Frame_23
+    originalName: 
+    pivot: {x: 0.48148155, y: -16.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 1001
+      width: 27
+      height: 5
+    spriteID: 3aa936fd099b82c4fba35827553e809e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 919}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -663830959
+    name: fx_f5_manaburn
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_f5_manaburn_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: ea846208ee2905b459c1ebf9fcf325ba
+    - name: fx_f5_manaburn_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 54a00025610290a4b9583faa2ac02f40
+    - name: fx_f5_manaburn_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: cd3a998e1910c4349aa6df29c46cf6e6
+    - name: fx_f5_manaburn_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 1fceaf9c7086c5c45881c9d6affed39c
+    - name: fx_f5_manaburn_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: ba36839e585950749aacbaefdd3b8a2d
+    - name: fx_f5_manaburn_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9888d90c554b9f94991142b0f2d352b4
+    - name: fx_f5_manaburn_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9baf2ea4b0d5e054582e0d948c107467
+    - name: fx_f5_manaburn_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 224f5a9a2953b334a97cd45bc047263e
+    - name: fx_f5_manaburn_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: df8998e190b5451488afb40529e86488
+    - name: fx_f5_manaburn_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 5ea9c3ec7cd120e48935b57357a19872
+    - name: fx_f5_manaburn_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: a3beb6561c5443a47861fec34ac05f8a
+    - name: fx_f5_manaburn_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 6d532fde82a07e540b0eae6b0fc88356
+    - name: fx_f5_manaburn_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: db49ffce0343bc647b4d008090e33df2
+    - name: fx_f5_manaburn_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 89690d91d0e0a284a84ba15ed45f8c04
+    - name: fx_f5_manaburn_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 7b4309fbc90a1b341a0ca94f94d04962
+    - name: fx_f5_manaburn_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 3511104bbcadbdc41b4e76f06ecdb94b
+    - name: fx_f5_manaburn_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 7bc4562946868ca40a5c4b50ea051dd2
+    - name: fx_f5_manaburn_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: dc399276e95abde4daeaee0fe4347c0f
+    - name: fx_f5_manaburn_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 2887b922fff071246b4e9f2a5ed5a901
+    - name: fx_f5_manaburn_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: a92f782f06710e346be80273eeb48d12
+    - name: fx_f5_manaburn_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 3d4b54e8485f78b4ebaba75453532324
+    - name: fx_f5_manaburn_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: a58e1d7f82511a54ca59bfa7fccf4a80
+    - name: fx_f5_manaburn_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 59696e3d171b5314990012eacfffa1fb
+    - name: fx_f5_manaburn_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 3aa936fd099b82c4fba35827553e809e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 180, y: 180}

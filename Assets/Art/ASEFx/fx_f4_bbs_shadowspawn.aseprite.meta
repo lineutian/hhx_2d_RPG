@@ -1,0 +1,1413 @@
+fileFormatVersion: 2
+guid: d3e57c65fe795bb45949f4fe5f0730e8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_f4_bbs_shadowspawn_Frame_0
+    originalName: 
+    pivot: {x: 0.28099173, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 550
+      y: 118
+      width: 121
+      height: 40
+    spriteID: dc4aaa6928caa9843a0ca740d7a11da9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 68}
+  - name: fx_f4_bbs_shadowspawn_Frame_1
+    originalName: 
+    pivot: {x: 0.41379306, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 118
+      width: 145
+      height: 66
+    spriteID: d19877b73d9826848892fe157ca9beb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 367, y: 101}
+  - name: fx_f4_bbs_shadowspawn_Frame_2
+    originalName: 
+    pivot: {x: 0.41428572, y: -0.16037737}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 4
+      width: 140
+      height: 106
+    spriteID: b9bc60a37f1156745ad357062ecede76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: -13}
+  - name: fx_f4_bbs_shadowspawn_Frame_3
+    originalName: 
+    pivot: {x: 0.3934426, y: -0.16346155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 4
+      width: 122
+      height: 104
+    spriteID: e025fd4489b1be841a7ba9f5ce2d49d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: -13}
+  - name: fx_f4_bbs_shadowspawn_Frame_4
+    originalName: 
+    pivot: {x: 0.43137252, y: -0.17171718}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 118
+      width: 102
+      height: 99
+    spriteID: 9d64d2e963864b542bcae0c72a1df147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 101}
+  - name: fx_f4_bbs_shadowspawn_Frame_5
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.16346155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 585
+      y: 4
+      width: 120
+      height: 104
+    spriteID: 6a9593cc11d57dd4f8885eae6e532c17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 559, y: -13}
+  - name: fx_f4_bbs_shadowspawn_Frame_6
+    originalName: 
+    pivot: {x: 0.5169492, y: -0.16037737}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 459
+      y: 4
+      width: 118
+      height: 106
+    spriteID: c56a49fb7626858498efd7ca23097114
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: -13}
+  - name: fx_f4_bbs_shadowspawn_Frame_7
+    originalName: 
+    pivot: {x: 0.41818184, y: -0.16346155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 713
+      y: 4
+      width: 110
+      height: 104
+    spriteID: d3e57c69c74fc664ca5831ae0ea8d1fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 669, y: -13}
+  - name: fx_f4_bbs_shadowspawn_Frame_8
+    originalName: 
+    pivot: {x: 0.4245283, y: -0.17171718}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 831
+      y: 4
+      width: 106
+      height: 99
+    spriteID: 987b80af81765b94abf185e213775082
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 786, y: -13}
+  - name: fx_f4_bbs_shadowspawn_Frame_9
+    originalName: 
+    pivot: {x: 0.43298966, y: -0.16346155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 225
+      width: 97
+      height: 104
+    spriteID: 7d536582c25ab0d428f029f3d0b96dca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 208}
+  - name: fx_f4_bbs_shadowspawn_Frame_10
+    originalName: 
+    pivot: {x: 0.51449275, y: -0.06410257}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 530
+      width: 138
+      height: 156
+    spriteID: 9f14f40c8f22e0b46915fd3a2dd81121
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 520}
+  - name: fx_f4_bbs_shadowspawn_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.04878049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 358
+      width: 162
+      height: 164
+    spriteID: e91d04239cdbbe24a8aeea50409cffd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 350}
+  - name: fx_f4_bbs_shadowspawn_Frame_12
+    originalName: 
+    pivot: {x: 0.502994, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 182
+      width: 167
+      height: 168
+    spriteID: cc4d3a13f4d15b442a74676830a13d7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 176}
+  - name: fx_f4_bbs_shadowspawn_Frame_13
+    originalName: 
+    pivot: {x: 0.50295854, y: -0.029411767}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 169
+      height: 170
+    spriteID: bd2f45fe1088f9c4bb7dd1a0fc5382a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: -1}
+  - name: fx_f4_bbs_shadowspawn_Frame_14
+    originalName: 
+    pivot: {x: 0.4488189, y: -0.029850746}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 840
+      width: 127
+      height: 134
+    spriteID: 68b8ac906fe00af4e905487f7a9b5856
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -29, y: 836}
+  - name: fx_f4_bbs_shadowspawn_Frame_15
+    originalName: 
+    pivot: {x: 0.4488189, y: -0.021739133}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 694
+      width: 127
+      height: 138
+    spriteID: 6f1a02465d6dc7640afee5b71baf65ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -29, y: 691}
+  - name: fx_f4_bbs_shadowspawn_Frame_16
+    originalName: 
+    pivot: {x: 0.41836733, y: -0.082706764}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 118
+      width: 98
+      height: 133
+    spriteID: 62c97103e63293a409263d42166661c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 107}
+  - name: fx_f4_bbs_shadowspawn_Frame_17
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.08148149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 849
+      width: 88
+      height: 135
+    spriteID: 4129f1342eabf8847af213702aaf303e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 838}
+  - name: fx_f4_bbs_shadowspawn_Frame_18
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.07971015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 703
+      width: 88
+      height: 138
+    spriteID: aa6428dbc95b12e49bf8e808c33bac4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 692}
+  - name: fx_f4_bbs_shadowspawn_Frame_19
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.07913669}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 556
+      width: 88
+      height: 139
+    spriteID: 31cddfdb3c103c44bb99794bb2b4062c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 545}
+  - name: fx_f4_bbs_shadowspawn_Frame_20
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.07857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 408
+      width: 88
+      height: 140
+    spriteID: 290729fb6b4602f4c8118716125a552b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 397}
+  - name: fx_f4_bbs_shadowspawn_Frame_21
+    originalName: 
+    pivot: {x: 0.4659091, y: -0.07801418}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 259
+      width: 88
+      height: 141
+    spriteID: 95b0bb51370f8f04b83f768047dcac91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 248}
+  - name: fx_f4_bbs_shadowspawn_Frame_22
+    originalName: 
+    pivot: {x: 0.35294116, y: -5.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 960
+      width: 34
+      height: 16
+    spriteID: c6bef5a04f1081140a50b30e2672f370
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 879}
+  - name: fx_f4_bbs_shadowspawn_Frame_23
+    originalName: 
+    pivot: {x: 0.38636366, y: -4.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 936
+      width: 44
+      height: 16
+    spriteID: 2738dc0949cb6e44cb32601a47180765
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 860}
+  - name: fx_f4_bbs_shadowspawn_Frame_24
+    originalName: 
+    pivot: {x: 0.40740737, y: -4.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 945
+      y: 90
+      width: 54
+      height: 16
+    spriteID: 77c2c1c513321224982bbb29f85fe880
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 877, y: 19}
+  - name: fx_f4_bbs_shadowspawn_Frame_25
+    originalName: 
+    pivot: {x: 0.43835613, y: -2.56}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 992
+      width: 73
+      height: 25
+    spriteID: 4a4af7a96ee9554479208c19c64287b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 928}
+  - name: fx_f4_bbs_shadowspawn_Frame_26
+    originalName: 
+    pivot: {x: 0.44594595, y: -1.5897436}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 826
+      width: 74
+      height: 39
+    spriteID: 559568c6efa6ada4faec5f3e8d0a0302
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 764}
+  - name: fx_f4_bbs_shadowspawn_Frame_27
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3469387}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 769
+      width: 62
+      height: 49
+    spriteID: 0384df05abae5fb478025b4893e17d41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 703}
+  - name: fx_f4_bbs_shadowspawn_Frame_28
+    originalName: 
+    pivot: {x: 0.46153843, y: -1.2727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 873
+      width: 52
+      height: 55
+    spriteID: d40faa0614b66ae4db59ffb907f8051c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 803}
+  - name: fx_f4_bbs_shadowspawn_Frame_29
+    originalName: 
+    pivot: {x: 0.46153843, y: -1.1587301}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 698
+      width: 52
+      height: 63
+    spriteID: 101d25d5c51f47242a93a7804984a4da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 625}
+  - name: fx_f4_bbs_shadowspawn_Frame_30
+    originalName: 
+    pivot: {x: 0.47368425, y: -1.0694444}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 618
+      width: 57
+      height: 72
+    spriteID: 3fd45d8f26febbd47bdbb1b5bc4e64a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 541}
+  - name: fx_f4_bbs_shadowspawn_Frame_31
+    originalName: 
+    pivot: {x: 0.49230766, y: -0.98717946}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 367
+      width: 65
+      height: 78
+    spriteID: 30148a6c6c3a708408fa0e69b6ede7e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 339, y: 290}
+  - name: fx_f4_bbs_shadowspawn_Frame_32
+    originalName: 
+    pivot: {x: 0.525641, y: -0.8390804}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 192
+      width: 78
+      height: 87
+    spriteID: 9fff0d7eb69d37d4d9c1568ddc57955f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 119}
+  - name: fx_f4_bbs_shadowspawn_Frame_33
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.76344085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 548
+      width: 85
+      height: 93
+    spriteID: fff8905f605ccdd4399b5c3072cb795b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 477}
+  - name: fx_f4_bbs_shadowspawn_Frame_34
+    originalName: 
+    pivot: {x: 0.5280899, y: -0.7113402}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 443
+      width: 89
+      height: 97
+    spriteID: 9a403ef32c1de5d4fa827559af030876
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 374}
+  - name: fx_f4_bbs_shadowspawn_Frame_35
+    originalName: 
+    pivot: {x: 0.5274725, y: -0.7040816}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 337
+      width: 91
+      height: 98
+    spriteID: 4299fbf13c62189419400b3465a48111
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 268}
+  - name: fx_f4_bbs_shadowspawn_Frame_36
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.94186044}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 649
+      width: 91
+      height: 86
+    spriteID: d4152ef74124273419982c10e06ce465
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 568}
+  - name: fx_f4_bbs_shadowspawn_Frame_37
+    originalName: 
+    pivot: {x: 0.5068493, y: -1.1944444}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 287
+      width: 73
+      height: 72
+    spriteID: 9782878ddffd12747be58238f785ec32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 344, y: 201}
+  - name: fx_f4_bbs_shadowspawn_Frame_38
+    originalName: 
+    pivot: {x: 0.52380955, y: -1.1466668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 535
+      width: 63
+      height: 75
+    spriteID: c829cb900516a054aac29e74832dea62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 449}
+  - name: fx_f4_bbs_shadowspawn_Frame_39
+    originalName: 
+    pivot: {x: 0.46268657, y: -1.2162162}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 453
+      width: 67
+      height: 74
+    spriteID: dfee6ddfd7cf4634a866dbd656a5cf8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 338, y: 363}
+  - name: fx_f4_bbs_shadowspawn_Frame_40
+    originalName: 
+    pivot: {x: 0.472973, y: -1.1282052}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 945
+      y: 4
+      width: 74
+      height: 78
+    spriteID: 01742f3c2687754438f80da9078d3c30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 890, y: -84}
+  - name: fx_f4_bbs_shadowspawn_Frame_41
+    originalName: 
+    pivot: {x: 0.47435898, y: -1.0240964}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 934
+      width: 78
+      height: 83
+    spriteID: 2e187cd598fc16a4d95c59e2c19ebb25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 234, y: 849}
+  - name: fx_f4_bbs_shadowspawn_Frame_42
+    originalName: 
+    pivot: {x: 0.48148152, y: -0.96511626}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 840
+      width: 81
+      height: 86
+    spriteID: 2da50ab9cfc463340b55c924f1abf190
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 757}
+  - name: fx_f4_bbs_shadowspawn_Frame_43
+    originalName: 
+    pivot: {x: 0.47619042, y: -0.92134833}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 743
+      width: 84
+      height: 89
+    spriteID: 3d7850e205a3ea54f91fabc6b6599299
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 661}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -448421059
+    name: fx_f4_bbs_shadowspawn
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_f4_bbs_shadowspawn_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: dc4aaa6928caa9843a0ca740d7a11da9
+    - name: fx_f4_bbs_shadowspawn_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d19877b73d9826848892fe157ca9beb0
+    - name: fx_f4_bbs_shadowspawn_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: b9bc60a37f1156745ad357062ecede76
+    - name: fx_f4_bbs_shadowspawn_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: e025fd4489b1be841a7ba9f5ce2d49d0
+    - name: fx_f4_bbs_shadowspawn_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9d64d2e963864b542bcae0c72a1df147
+    - name: fx_f4_bbs_shadowspawn_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 6a9593cc11d57dd4f8885eae6e532c17
+    - name: fx_f4_bbs_shadowspawn_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: c56a49fb7626858498efd7ca23097114
+    - name: fx_f4_bbs_shadowspawn_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d3e57c69c74fc664ca5831ae0ea8d1fb
+    - name: fx_f4_bbs_shadowspawn_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 987b80af81765b94abf185e213775082
+    - name: fx_f4_bbs_shadowspawn_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 7d536582c25ab0d428f029f3d0b96dca
+    - name: fx_f4_bbs_shadowspawn_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9f14f40c8f22e0b46915fd3a2dd81121
+    - name: fx_f4_bbs_shadowspawn_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: e91d04239cdbbe24a8aeea50409cffd6
+    - name: fx_f4_bbs_shadowspawn_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: cc4d3a13f4d15b442a74676830a13d7d
+    - name: fx_f4_bbs_shadowspawn_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: bd2f45fe1088f9c4bb7dd1a0fc5382a7
+    - name: fx_f4_bbs_shadowspawn_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 68b8ac906fe00af4e905487f7a9b5856
+    - name: fx_f4_bbs_shadowspawn_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 6f1a02465d6dc7640afee5b71baf65ab
+    - name: fx_f4_bbs_shadowspawn_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 62c97103e63293a409263d42166661c6
+    - name: fx_f4_bbs_shadowspawn_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 4129f1342eabf8847af213702aaf303e
+    - name: fx_f4_bbs_shadowspawn_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: aa6428dbc95b12e49bf8e808c33bac4c
+    - name: fx_f4_bbs_shadowspawn_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 31cddfdb3c103c44bb99794bb2b4062c
+    - name: fx_f4_bbs_shadowspawn_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 290729fb6b4602f4c8118716125a552b
+    - name: fx_f4_bbs_shadowspawn_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 95b0bb51370f8f04b83f768047dcac91
+    - name: fx_f4_bbs_shadowspawn_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: c6bef5a04f1081140a50b30e2672f370
+    - name: fx_f4_bbs_shadowspawn_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 2738dc0949cb6e44cb32601a47180765
+    - name: fx_f4_bbs_shadowspawn_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 77c2c1c513321224982bbb29f85fe880
+    - name: fx_f4_bbs_shadowspawn_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 4a4af7a96ee9554479208c19c64287b2
+    - name: fx_f4_bbs_shadowspawn_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 559568c6efa6ada4faec5f3e8d0a0302
+    - name: fx_f4_bbs_shadowspawn_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 0384df05abae5fb478025b4893e17d41
+    - name: fx_f4_bbs_shadowspawn_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d40faa0614b66ae4db59ffb907f8051c
+    - name: fx_f4_bbs_shadowspawn_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 101d25d5c51f47242a93a7804984a4da
+    - name: fx_f4_bbs_shadowspawn_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 3fd45d8f26febbd47bdbb1b5bc4e64a9
+    - name: fx_f4_bbs_shadowspawn_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 30148a6c6c3a708408fa0e69b6ede7e4
+    - name: fx_f4_bbs_shadowspawn_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9fff0d7eb69d37d4d9c1568ddc57955f
+    - name: fx_f4_bbs_shadowspawn_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: fff8905f605ccdd4399b5c3072cb795b
+    - name: fx_f4_bbs_shadowspawn_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9a403ef32c1de5d4fa827559af030876
+    - name: fx_f4_bbs_shadowspawn_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 4299fbf13c62189419400b3465a48111
+    - name: fx_f4_bbs_shadowspawn_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d4152ef74124273419982c10e06ce465
+    - name: fx_f4_bbs_shadowspawn_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9782878ddffd12747be58238f785ec32
+    - name: fx_f4_bbs_shadowspawn_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: c829cb900516a054aac29e74832dea62
+    - name: fx_f4_bbs_shadowspawn_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: dfee6ddfd7cf4634a866dbd656a5cf8c
+    - name: fx_f4_bbs_shadowspawn_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 01742f3c2687754438f80da9078d3c30
+    - name: fx_f4_bbs_shadowspawn_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 2e187cd598fc16a4d95c59e2c19ebb25
+    - name: fx_f4_bbs_shadowspawn_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 2da50ab9cfc463340b55c924f1abf190
+    - name: fx_f4_bbs_shadowspawn_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 3d7850e205a3ea54f91fabc6b6599299
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 180, y: 180}

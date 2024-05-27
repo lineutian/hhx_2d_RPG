@@ -1,0 +1,2979 @@
+fileFormatVersion: 2
+guid: c8b67e5e935ec2447bfc7c3a4cd80480
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_paddo_ashen_Frame_0
+    originalName: 
+    pivot: {x: 0.61333334, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 518
+      y: 534
+      width: 75
+      height: 51
+    spriteID: 242f83fcbc6a72648ac7e8b977716980
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 464, y: 516}
+  - name: neutral_paddo_ashen_Frame_1
+    originalName: 
+    pivot: {x: 0.62337667, y: -0.3958333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 257
+      y: 345
+      width: 77
+      height: 48
+    spriteID: feec631e713e9334293ff273db759443
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 326}
+  - name: neutral_paddo_ashen_Frame_2
+    originalName: 
+    pivot: {x: 0.6329114, y: -0.3877551}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 431
+      y: 534
+      width: 79
+      height: 49
+    spriteID: c1bbf649350a91a4c99edd64cf2aae14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 515}
+  - name: neutral_paddo_ashen_Frame_3
+    originalName: 
+    pivot: {x: 0.62025315, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 259
+      y: 534
+      width: 79
+      height: 50
+    spriteID: e7c12ccb993ba2b448149c58fbc72b57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 515}
+  - name: neutral_paddo_ashen_Frame_4
+    originalName: 
+    pivot: {x: 0.6282052, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 534
+      width: 78
+      height: 51
+    spriteID: 9bf8f5adb7553f749822713b7b0fa7cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 516}
+  - name: neutral_paddo_ashen_Frame_5
+    originalName: 
+    pivot: {x: 0.6329114, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 762
+      y: 253
+      width: 79
+      height: 52
+    spriteID: 84a189f3bf8cc194f820280eaf914c99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 712, y: 238}
+  - name: neutral_paddo_ashen_Frame_6
+    originalName: 
+    pivot: {x: 0.62337667, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 534
+      width: 77
+      height: 51
+    spriteID: 81c272833e6dd6641b2cdc5a81181572
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 294, y: 519}
+  - name: neutral_paddo_ashen_Frame_7
+    originalName: 
+    pivot: {x: 0.64102566, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 849
+      y: 253
+      width: 78
+      height: 52
+    spriteID: 49cc6981d61c0a74583ebc61b0c547db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 799, y: 237}
+  - name: neutral_paddo_ashen_Frame_8
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 585
+      y: 345
+      width: 70
+      height: 52
+    spriteID: 15e4315f665016d49aaea6995b5282c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 530, y: 329}
+  - name: neutral_paddo_ashen_Frame_9
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 663
+      y: 345
+      width: 70
+      height: 52
+    spriteID: 3cc52fcf58a2af34ab44293084285db4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 608, y: 329}
+  - name: neutral_paddo_ashen_Frame_10
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 741
+      y: 345
+      width: 70
+      height: 52
+    spriteID: 7ef2a755f125ab64a88e84c737ec9e5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 686, y: 329}
+  - name: neutral_paddo_ashen_Frame_11
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 819
+      y: 345
+      width: 70
+      height: 52
+    spriteID: 472c452bd2174514c96dd306118bf64f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 329}
+  - name: neutral_paddo_ashen_Frame_12
+    originalName: 
+    pivot: {x: 0.6376812, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 876
+      y: 439
+      width: 69
+      height: 52
+    spriteID: 8e7d3b34e3a08c84cb675a9cb0220991
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 820, y: 423}
+  - name: neutral_paddo_ashen_Frame_13
+    originalName: 
+    pivot: {x: 0.63235295, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 633
+      width: 68
+      height: 51
+    spriteID: f9fa10d42e1322f45b3597f1e296fd39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 617}
+  - name: neutral_paddo_ashen_Frame_14
+    originalName: 
+    pivot: {x: 0.6268657, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 311
+      y: 633
+      width: 67
+      height: 51
+    spriteID: 960f09d3c7db1804ab19124bb160224e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 617}
+  - name: neutral_paddo_ashen_Frame_15
+    originalName: 
+    pivot: {x: 0.6268657, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 386
+      y: 633
+      width: 67
+      height: 51
+    spriteID: f3c684cd881f40441a65bd7e113cbbb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 617}
+  - name: neutral_paddo_ashen_Frame_16
+    originalName: 
+    pivot: {x: 0.6268657, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 763
+      y: 633
+      width: 67
+      height: 50
+    spriteID: df9436db758daa44dbd64cc1f857fdab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 705, y: 617}
+  - name: neutral_paddo_ashen_Frame_17
+    originalName: 
+    pivot: {x: 0.6363637, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 838
+      y: 633
+      width: 66
+      height: 50
+    spriteID: 963fcec27c8f1d540a7e1510c2da1215
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 780, y: 617}
+  - name: neutral_paddo_ashen_Frame_18
+    originalName: 
+    pivot: {x: 0.6515152, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 633
+      width: 66
+      height: 50
+    spriteID: 6ae574e90e22ca04599ad12e6c260e6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 855, y: 617}
+  - name: neutral_paddo_ashen_Frame_19
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 693
+      width: 66
+      height: 50
+    spriteID: 7d4d27417688ebc469656ba71c5f753c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 21, y: 677}
+  - name: neutral_paddo_ashen_Frame_20
+    originalName: 
+    pivot: {x: 0.6769231, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 693
+      width: 65
+      height: 50
+    spriteID: 590bb1f101d417e42b7bd370254bd548
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 677}
+  - name: neutral_paddo_ashen_Frame_21
+    originalName: 
+    pivot: {x: 0.6818181, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 693
+      width: 66
+      height: 50
+    spriteID: 309193b528fc9534e93deafd2bb304ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 677}
+  - name: neutral_paddo_ashen_Frame_22
+    originalName: 
+    pivot: {x: 0.6969696, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 611
+      y: 633
+      width: 66
+      height: 51
+    spriteID: 2eac57cbaea4f5a4f928085920268878
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 557, y: 617}
+  - name: neutral_paddo_ashen_Frame_23
+    originalName: 
+    pivot: {x: 0.6865671, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 633
+      width: 67
+      height: 51
+    spriteID: 41310b6dd7279794ca5d827bddc171a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 407, y: 617}
+  - name: neutral_paddo_ashen_Frame_24
+    originalName: 
+    pivot: {x: 0.6865671, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 536
+      y: 633
+      width: 67
+      height: 51
+    spriteID: 83391e7652d72ce41a38e1b40ff60dc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 482, y: 617}
+  - name: neutral_paddo_ashen_Frame_25
+    originalName: 
+    pivot: {x: 0.6521739, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 633
+      width: 69
+      height: 52
+    spriteID: 51c1e1aee5902a24c8d61b7642ad7b10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -51, y: 617}
+  - name: neutral_paddo_ashen_Frame_26
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 897
+      y: 345
+      width: 70
+      height: 52
+    spriteID: a04597b2009f64b40be4e46f2a8d9343
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 842, y: 329}
+  - name: neutral_paddo_ashen_Frame_27
+    originalName: 
+    pivot: {x: 0.6086957, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 633
+      width: 69
+      height: 51
+    spriteID: 6923537a0873c4d41b88cb0baefbcb92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 23, y: 617}
+  - name: neutral_paddo_ashen_Frame_28
+    originalName: 
+    pivot: {x: 0.6164383, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 345
+      width: 73
+      height: 50
+    spriteID: 8116b662e45c1f24b9288ed007131a0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 329}
+  - name: neutral_paddo_ashen_Frame_29
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 439
+      width: 70
+      height: 52
+    spriteID: 18c0155b63bcd95439496a5cfe8f56b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 423}
+  - name: neutral_paddo_ashen_Frame_30
+    originalName: 
+    pivot: {x: 0.6086957, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 633
+      width: 69
+      height: 51
+    spriteID: 98c0cfda738f41e4a8e5db0df5f46da5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 617}
+  - name: neutral_paddo_ashen_Frame_31
+    originalName: 
+    pivot: {x: 0.6164383, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 423
+      y: 345
+      width: 73
+      height: 50
+    spriteID: 53df4895338579942ad4563b4995edf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 329}
+  - name: neutral_paddo_ashen_Frame_32
+    originalName: 
+    pivot: {x: 0.6575343, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 504
+      y: 345
+      width: 73
+      height: 50
+    spriteID: 144fd6bfa4e553948b164d2de5c62e9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 329}
+  - name: neutral_paddo_ashen_Frame_33
+    originalName: 
+    pivot: {x: 0.6875, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 602
+      y: 693
+      width: 64
+      height: 50
+    spriteID: cb466a526bcda7d44ba17a216756cb4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 546, y: 677}
+  - name: neutral_paddo_ashen_Frame_34
+    originalName: 
+    pivot: {x: 0.7096774, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 754
+      width: 62
+      height: 50
+    spriteID: f66b9e80dd5415c4d8e235b181c363e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -52, y: 738}
+  - name: neutral_paddo_ashen_Frame_35
+    originalName: 
+    pivot: {x: 0.71428573, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 674
+      y: 693
+      width: 63
+      height: 50
+    spriteID: ef01adbe24c1ed84fb08c6193bdf1a6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 619, y: 677}
+  - name: neutral_paddo_ashen_Frame_36
+    originalName: 
+    pivot: {x: 0.723077, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 693
+      width: 65
+      height: 50
+    spriteID: e7c784b13c73d4246999619a37fbfe29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 677}
+  - name: neutral_paddo_ashen_Frame_37
+    originalName: 
+    pivot: {x: 0.73134327, y: -0.22222221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 801
+      y: 439
+      width: 67
+      height: 54
+    spriteID: e29aac47baae4074caebcb8634fe07c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 750, y: 427}
+  - name: neutral_paddo_ashen_Frame_38
+    originalName: 
+    pivot: {x: 0.73846155, y: -0.22641508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 693
+      width: 65
+      height: 53
+    spriteID: f5b9176b8c0459742a4f4be67ed5f40c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -48, y: 681}
+  - name: neutral_paddo_ashen_Frame_39
+    originalName: 
+    pivot: {x: 0.7619048, y: -0.21818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 953
+      y: 439
+      width: 63
+      height: 55
+    spriteID: dd34c61ac8eeb14489e286a7b4789d49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 901, y: 427}
+  - name: neutral_paddo_ashen_Frame_40
+    originalName: 
+    pivot: {x: 0.73846155, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 371
+      y: 693
+      width: 65
+      height: 50
+    spriteID: b1155822877acc7489358ffa2b97e288
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 678}
+  - name: neutral_paddo_ashen_Frame_41
+    originalName: 
+    pivot: {x: 0.6956522, y: -0.33333337}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 909
+      y: 693
+      width: 69
+      height: 45
+    spriteID: 2962f2a5bd515af4bbed713b6959b81d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 857, y: 678}
+  - name: neutral_paddo_ashen_Frame_42
+    originalName: 
+    pivot: {x: 0.6551724, y: -0.3488372}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 754
+      width: 58
+      height: 43
+    spriteID: f20296767fdbeba4c83537658d90452d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12, y: 739}
+  - name: neutral_paddo_ashen_Frame_43
+    originalName: 
+    pivot: {x: 0.6842105, y: -0.3488372}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 754
+      width: 57
+      height: 43
+    spriteID: b230a04dad5ebed44a1b7186da328e95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 739}
+  - name: neutral_paddo_ashen_Frame_44
+    originalName: 
+    pivot: {x: 0.6603774, y: -0.3181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 754
+      width: 53
+      height: 44
+    spriteID: 494ca07a7b6b84745ac363700b75ea51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 740}
+  - name: neutral_paddo_ashen_Frame_45
+    originalName: 
+    pivot: {x: 0.6730769, y: -0.2888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 754
+      width: 52
+      height: 45
+    spriteID: 6b99d16fec8ff2448af9b3e3822b302b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 741}
+  - name: neutral_paddo_ashen_Frame_46
+    originalName: 
+    pivot: {x: 0.63461536, y: -0.2173913}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 754
+      width: 52
+      height: 46
+    spriteID: 09053ea73ea382c448516d63677d9bcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 744}
+  - name: neutral_paddo_ashen_Frame_47
+    originalName: 
+    pivot: {x: 0.625, y: -0.19148937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 386
+      y: 754
+      width: 48
+      height: 47
+    spriteID: 0de336ba0bce7784f8009f1f70399f37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 745}
+  - name: neutral_paddo_ashen_Frame_48
+    originalName: 
+    pivot: {x: 0.625, y: -0.19148937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 754
+      width: 48
+      height: 47
+    spriteID: 881bbdfb0b895b44eb70e60c11fc8964
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 745}
+  - name: neutral_paddo_ashen_Frame_49
+    originalName: 
+    pivot: {x: 0.625, y: -0.19148937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 754
+      width: 48
+      height: 47
+    spriteID: 48855b01d86c3f141ae28e45b69634da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 745}
+  - name: neutral_paddo_ashen_Frame_50
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 439
+      width: 70
+      height: 52
+    spriteID: 28247408015de8a42bb20cecdbfb55ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 423}
+  - name: neutral_paddo_ashen_Frame_51
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 439
+      width: 70
+      height: 52
+    spriteID: cfdc21e0e4b63564e8453ef44a0621d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 423}
+  - name: neutral_paddo_ashen_Frame_52
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 439
+      width: 70
+      height: 52
+    spriteID: 10a5c6e36b77aed438e7c832b3794999
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 278, y: 423}
+  - name: neutral_paddo_ashen_Frame_53
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 439
+      width: 70
+      height: 52
+    spriteID: c285b5191d7eaff459fd6a2bfc53f75f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 423}
+  - name: neutral_paddo_ashen_Frame_54
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 439
+      width: 70
+      height: 52
+    spriteID: 8a881dd2a04aed94e86dd238e8d74748
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 434, y: 423}
+  - name: neutral_paddo_ashen_Frame_55
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 567
+      y: 439
+      width: 70
+      height: 52
+    spriteID: 9a64bc83f57f3524fa441c88eede5d38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 512, y: 423}
+  - name: neutral_paddo_ashen_Frame_56
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 601
+      y: 534
+      width: 70
+      height: 53
+    spriteID: 3806d3c578c27f34fa42150bfec8752c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 546, y: 518}
+  - name: neutral_paddo_ashen_Frame_57
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 679
+      y: 534
+      width: 70
+      height: 53
+    spriteID: 9b6a91bdb2c035641bb0ee6c60e99d56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 624, y: 518}
+  - name: neutral_paddo_ashen_Frame_58
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 757
+      y: 534
+      width: 70
+      height: 53
+    spriteID: e6667deb11ca44f40a4ef5527b587fae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 702, y: 518}
+  - name: neutral_paddo_ashen_Frame_59
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 835
+      y: 534
+      width: 70
+      height: 53
+    spriteID: 56d4a42958d72b14081fc70e8acdc7f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 780, y: 518}
+  - name: neutral_paddo_ashen_Frame_60
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 913
+      y: 534
+      width: 70
+      height: 53
+    spriteID: ecf5be47e26b17545aa564da23135db0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 858, y: 518}
+  - name: neutral_paddo_ashen_Frame_61
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 345
+      width: 70
+      height: 53
+    spriteID: 3b8d429d17feefd4a9715bfee3817327
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 329}
+  - name: neutral_paddo_ashen_Frame_62
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 179
+      y: 345
+      width: 70
+      height: 53
+    spriteID: fd2bac05c996c6445b896a17577b6a73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 329}
+  - name: neutral_paddo_ashen_Frame_63
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 645
+      y: 439
+      width: 70
+      height: 52
+    spriteID: 1d5347b321e973e49a9f8a44bb823736
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 590, y: 423}
+  - name: neutral_paddo_ashen_Frame_64
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 723
+      y: 439
+      width: 70
+      height: 52
+    spriteID: aa6af37fb2d287844ac50c867d0a9ce1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 668, y: 423}
+  - name: neutral_paddo_ashen_Frame_65
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 633
+      width: 70
+      height: 48
+    spriteID: fd5bee4d610af0b4ba5d5c1c49818adc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 630, y: 617}
+  - name: neutral_paddo_ashen_Frame_66
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.34782606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 693
+      width: 70
+      height: 46
+    spriteID: c8149ffc01d921e448e36f570c4a3576
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 469, y: 677}
+  - name: neutral_paddo_ashen_Frame_67
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 693
+      width: 72
+      height: 45
+    spriteID: d33e294ffef710b49835437914e5469e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 677}
+  - name: neutral_paddo_ashen_Frame_68
+    originalName: 
+    pivot: {x: 0.6216216, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 745
+      y: 693
+      width: 74
+      height: 42
+    spriteID: d725715a5a56a864fa8fa69a9175c818
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 691, y: 677}
+  - name: neutral_paddo_ashen_Frame_69
+    originalName: 
+    pivot: {x: 0.6216216, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 827
+      y: 693
+      width: 74
+      height: 42
+    spriteID: 3d1c9997780c0ed42a5d2bd62fa63000
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 773, y: 677}
+  - name: neutral_paddo_ashen_Frame_70
+    originalName: 
+    pivot: {x: 0.78787875, y: -0.4754098}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 935
+      y: 253
+      width: 66
+      height: 61
+    spriteID: ed2a5c61f3dc60d47a763370ce90c26d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 887, y: 224}
+  - name: neutral_paddo_ashen_Frame_71
+    originalName: 
+    pivot: {x: 0.76923084, y: -0.56666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 253
+      width: 78
+      height: 60
+    spriteID: 99b2f76ab08e83949b3dee50e048f1ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 636, y: 219}
+  - name: neutral_paddo_ashen_Frame_72
+    originalName: 
+    pivot: {x: 0.7375001, y: -0.4782609}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 588
+      y: 253
+      width: 80
+      height: 69
+    spriteID: 16482328aebc0734f9e077111c9ae9e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 547, y: 220}
+  - name: neutral_paddo_ashen_Frame_73
+    originalName: 
+    pivot: {x: 0.7183099, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 534
+      width: 71
+      height: 90
+    spriteID: 0fd0c7a6e83e65749b24c6be2432706f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 507}
+  - name: neutral_paddo_ashen_Frame_74
+    originalName: 
+    pivot: {x: 0.7701149, y: -0.35632184}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 439
+      width: 87
+      height: 87
+    spriteID: 16815529ec21d634a932195d04276588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -29, y: 408}
+  - name: neutral_paddo_ashen_Frame_75
+    originalName: 
+    pivot: {x: 0.69148934, y: -0.3666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 606
+      y: 143
+      width: 94
+      height: 90
+    spriteID: 53469b4d1de6a0340937582bfdfb6e9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 571, y: 110}
+  - name: neutral_paddo_ashen_Frame_76
+    originalName: 
+    pivot: {x: 0.68085104, y: -0.45238096}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 253
+      width: 94
+      height: 84
+    spriteID: 936f0d1b32f11a640a55accc598a898a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -32, y: 215}
+  - name: neutral_paddo_ashen_Frame_77
+    originalName: 
+    pivot: {x: 0.69512194, y: -0.37362638}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 534
+      width: 82
+      height: 91
+    spriteID: f30c539ba00799b4ca43e6187c57f856
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -39, y: 500}
+  - name: neutral_paddo_ashen_Frame_78
+    originalName: 
+    pivot: {x: 0.7701149, y: -0.34020618}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 708
+      y: 143
+      width: 87
+      height: 97
+    spriteID: 6f8fb1e95d913eb45b33cce24c6c4e74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 675, y: 110}
+  - name: neutral_paddo_ashen_Frame_79
+    originalName: 
+    pivot: {x: 0.82568806, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 893
+      y: 4
+      width: 109
+      height: 98
+    spriteID: d5e464a4c923571478b7695c7df6875b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 883, y: -45}
+  - name: neutral_paddo_ashen_Frame_80
+    originalName: 
+    pivot: {x: 0.8910891, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 143
+      width: 101
+      height: 98
+    spriteID: 439eddd8f2ded0d409c0a47ea7a74b85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 94}
+  - name: neutral_paddo_ashen_Frame_81
+    originalName: 
+    pivot: {x: 0.88888884, y: -0.5104167}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 387
+      y: 143
+      width: 99
+      height: 96
+    spriteID: c41a9afb0179dcd4c803a6139bd71cb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 94}
+  - name: neutral_paddo_ashen_Frame_82
+    originalName: 
+    pivot: {x: 0.87640446, y: -0.64772725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 931
+      y: 143
+      width: 89
+      height: 88
+    spriteID: b8b378a49d16ab74c9a2ac713f89f7ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 909, y: 86}
+  - name: neutral_paddo_ashen_Frame_83
+    originalName: 
+    pivot: {x: 0.87640446, y: -0.66279066}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 345
+      width: 89
+      height: 86
+    spriteID: 030f66a5d9f727f4288de877d6688523
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 288}
+  - name: neutral_paddo_ashen_Frame_84
+    originalName: 
+    pivot: {x: 0.9111112, y: -0.7125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 253
+      width: 90
+      height: 80
+    spriteID: eea36a37c130df1438bba657ce4962ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 196}
+  - name: neutral_paddo_ashen_Frame_85
+    originalName: 
+    pivot: {x: 0.9213483, y: -0.7792208}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 253
+      width: 89
+      height: 77
+    spriteID: 307acd9371bd3f743ae62fd55257b5a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 193}
+  - name: neutral_paddo_ashen_Frame_86
+    originalName: 
+    pivot: {x: 0.4326923, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 143
+      width: 104
+      height: 90
+    spriteID: 05e35fc84cd313b4fa83ef770e31d9d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 439, y: 108}
+  - name: neutral_paddo_ashen_Frame_87
+    originalName: 
+    pivot: {x: 0.31249997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 144
+      height: 131
+    spriteID: ffdba358c1f5ed0498ac5daefff51d03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -51, y: 4}
+  - name: neutral_paddo_ashen_Frame_88
+    originalName: 
+    pivot: {x: 0.28467152, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 4
+      width: 137
+      height: 128
+    spriteID: b4846107a9bb8664c939ab824d40ebe5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 4}
+  - name: neutral_paddo_ashen_Frame_89
+    originalName: 
+    pivot: {x: 0.29496405, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 301
+      y: 4
+      width: 139
+      height: 122
+    spriteID: 6581eb624a89ddd42ab0570b19e63d0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 4}
+  - name: neutral_paddo_ashen_Frame_90
+    originalName: 
+    pivot: {x: 0.2992701, y: -0.009009009}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 4
+      width: 137
+      height: 111
+    spriteID: ff80786185def0944b2ad7d8646f3564
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 389, y: 3}
+  - name: neutral_paddo_ashen_Frame_91
+    originalName: 
+    pivot: {x: 0.32394364, y: -0.009523809}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 593
+      y: 4
+      width: 142
+      height: 105
+    spriteID: 09f640d97cb8ae940a3e82b2ab6b99f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 539, y: 3}
+  - name: neutral_paddo_ashen_Frame_92
+    originalName: 
+    pivot: {x: 0.31690142, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 743
+      y: 4
+      width: 142
+      height: 103
+    spriteID: 3a86a694d62a29f479d2a887cdababbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 688, y: 4}
+  - name: neutral_paddo_ashen_Frame_93
+    originalName: 
+    pivot: {x: 0.30714288, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 143
+      width: 140
+      height: 102
+    spriteID: 3349c51de30ccdf49b862ce7509bc006
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -53, y: 143}
+  - name: neutral_paddo_ashen_Frame_94
+    originalName: 
+    pivot: {x: 0.17796609, y: -0.046511624}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 143
+      width: 118
+      height: 86
+    spriteID: e0c04b300589fd540b41021240541998
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 139}
+  - name: neutral_paddo_ashen_Frame_95
+    originalName: 
+    pivot: {x: 0.22499998, y: -0.058823526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 803
+      y: 143
+      width: 120
+      height: 68
+    spriteID: 38bc474928a699e469ca7df3c37d89f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 139}
+  - name: neutral_paddo_ashen_Frame_96
+    originalName: 
+    pivot: {x: 0.29007632, y: -0.09803922}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 301
+      y: 253
+      width: 131
+      height: 51
+    spriteID: a0e8604652415d5428dcad71c574cc3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 248}
+  - name: neutral_paddo_ashen_Frame_97
+    originalName: 
+    pivot: {x: 0.3285714, y: -0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 440
+      y: 253
+      width: 140
+      height: 46
+    spriteID: 510edddd82e7f5b4787d46e920e73068
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 386, y: 241}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1483719442
+    name: neutral_paddo_ashen
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_paddo_ashen_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 242f83fcbc6a72648ac7e8b977716980
+    - name: neutral_paddo_ashen_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: feec631e713e9334293ff273db759443
+    - name: neutral_paddo_ashen_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: c1bbf649350a91a4c99edd64cf2aae14
+    - name: neutral_paddo_ashen_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: e7c12ccb993ba2b448149c58fbc72b57
+    - name: neutral_paddo_ashen_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 9bf8f5adb7553f749822713b7b0fa7cc
+    - name: neutral_paddo_ashen_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 84a189f3bf8cc194f820280eaf914c99
+    - name: neutral_paddo_ashen_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 81c272833e6dd6641b2cdc5a81181572
+    - name: neutral_paddo_ashen_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 49cc6981d61c0a74583ebc61b0c547db
+    - name: neutral_paddo_ashen_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 15e4315f665016d49aaea6995b5282c1
+    - name: neutral_paddo_ashen_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 3cc52fcf58a2af34ab44293084285db4
+    - name: neutral_paddo_ashen_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 7ef2a755f125ab64a88e84c737ec9e5e
+    - name: neutral_paddo_ashen_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 472c452bd2174514c96dd306118bf64f
+    - name: neutral_paddo_ashen_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 8e7d3b34e3a08c84cb675a9cb0220991
+    - name: neutral_paddo_ashen_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: f9fa10d42e1322f45b3597f1e296fd39
+    - name: neutral_paddo_ashen_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 960f09d3c7db1804ab19124bb160224e
+    - name: neutral_paddo_ashen_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: f3c684cd881f40441a65bd7e113cbbb2
+    - name: neutral_paddo_ashen_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: df9436db758daa44dbd64cc1f857fdab
+    - name: neutral_paddo_ashen_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 963fcec27c8f1d540a7e1510c2da1215
+    - name: neutral_paddo_ashen_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 6ae574e90e22ca04599ad12e6c260e6c
+    - name: neutral_paddo_ashen_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 7d4d27417688ebc469656ba71c5f753c
+    - name: neutral_paddo_ashen_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 590bb1f101d417e42b7bd370254bd548
+    - name: neutral_paddo_ashen_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 309193b528fc9534e93deafd2bb304ed
+    - name: neutral_paddo_ashen_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 2eac57cbaea4f5a4f928085920268878
+    - name: neutral_paddo_ashen_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 41310b6dd7279794ca5d827bddc171a7
+    - name: neutral_paddo_ashen_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 83391e7652d72ce41a38e1b40ff60dc6
+    - name: neutral_paddo_ashen_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 51c1e1aee5902a24c8d61b7642ad7b10
+    - name: neutral_paddo_ashen_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: a04597b2009f64b40be4e46f2a8d9343
+    - name: neutral_paddo_ashen_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 6923537a0873c4d41b88cb0baefbcb92
+    - name: neutral_paddo_ashen_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 8116b662e45c1f24b9288ed007131a0e
+    - name: neutral_paddo_ashen_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 18c0155b63bcd95439496a5cfe8f56b2
+    - name: neutral_paddo_ashen_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 98c0cfda738f41e4a8e5db0df5f46da5
+    - name: neutral_paddo_ashen_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 53df4895338579942ad4563b4995edf2
+    - name: neutral_paddo_ashen_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 144fd6bfa4e553948b164d2de5c62e9e
+    - name: neutral_paddo_ashen_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: cb466a526bcda7d44ba17a216756cb4b
+    - name: neutral_paddo_ashen_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: f66b9e80dd5415c4d8e235b181c363e0
+    - name: neutral_paddo_ashen_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: ef01adbe24c1ed84fb08c6193bdf1a6a
+    - name: neutral_paddo_ashen_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: e7c784b13c73d4246999619a37fbfe29
+    - name: neutral_paddo_ashen_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: e29aac47baae4074caebcb8634fe07c2
+    - name: neutral_paddo_ashen_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: f5b9176b8c0459742a4f4be67ed5f40c
+    - name: neutral_paddo_ashen_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: dd34c61ac8eeb14489e286a7b4789d49
+    - name: neutral_paddo_ashen_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: b1155822877acc7489358ffa2b97e288
+    - name: neutral_paddo_ashen_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 2962f2a5bd515af4bbed713b6959b81d
+    - name: neutral_paddo_ashen_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: f20296767fdbeba4c83537658d90452d
+    - name: neutral_paddo_ashen_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: b230a04dad5ebed44a1b7186da328e95
+    - name: neutral_paddo_ashen_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 494ca07a7b6b84745ac363700b75ea51
+    - name: neutral_paddo_ashen_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 6b99d16fec8ff2448af9b3e3822b302b
+    - name: neutral_paddo_ashen_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 09053ea73ea382c448516d63677d9bcb
+    - name: neutral_paddo_ashen_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 0de336ba0bce7784f8009f1f70399f37
+    - name: neutral_paddo_ashen_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 881bbdfb0b895b44eb70e60c11fc8964
+    - name: neutral_paddo_ashen_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 48855b01d86c3f141ae28e45b69634da
+    - name: neutral_paddo_ashen_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 28247408015de8a42bb20cecdbfb55ee
+    - name: neutral_paddo_ashen_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: cfdc21e0e4b63564e8453ef44a0621d2
+    - name: neutral_paddo_ashen_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 10a5c6e36b77aed438e7c832b3794999
+    - name: neutral_paddo_ashen_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: c285b5191d7eaff459fd6a2bfc53f75f
+    - name: neutral_paddo_ashen_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 8a881dd2a04aed94e86dd238e8d74748
+    - name: neutral_paddo_ashen_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 9a64bc83f57f3524fa441c88eede5d38
+    - name: neutral_paddo_ashen_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 3806d3c578c27f34fa42150bfec8752c
+    - name: neutral_paddo_ashen_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 9b6a91bdb2c035641bb0ee6c60e99d56
+    - name: neutral_paddo_ashen_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: e6667deb11ca44f40a4ef5527b587fae
+    - name: neutral_paddo_ashen_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 56d4a42958d72b14081fc70e8acdc7f6
+    - name: neutral_paddo_ashen_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: ecf5be47e26b17545aa564da23135db0
+    - name: neutral_paddo_ashen_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 3b8d429d17feefd4a9715bfee3817327
+    - name: neutral_paddo_ashen_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: fd2bac05c996c6445b896a17577b6a73
+    - name: neutral_paddo_ashen_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 1d5347b321e973e49a9f8a44bb823736
+    - name: neutral_paddo_ashen_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: aa6af37fb2d287844ac50c867d0a9ce1
+    - name: neutral_paddo_ashen_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: fd5bee4d610af0b4ba5d5c1c49818adc
+    - name: neutral_paddo_ashen_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: c8149ffc01d921e448e36f570c4a3576
+    - name: neutral_paddo_ashen_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: d33e294ffef710b49835437914e5469e
+    - name: neutral_paddo_ashen_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: d725715a5a56a864fa8fa69a9175c818
+    - name: neutral_paddo_ashen_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 3d1c9997780c0ed42a5d2bd62fa63000
+    - name: neutral_paddo_ashen_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: ed2a5c61f3dc60d47a763370ce90c26d
+    - name: neutral_paddo_ashen_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 99b2f76ab08e83949b3dee50e048f1ed
+    - name: neutral_paddo_ashen_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 16482328aebc0734f9e077111c9ae9e3
+    - name: neutral_paddo_ashen_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 0fd0c7a6e83e65749b24c6be2432706f
+    - name: neutral_paddo_ashen_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 16815529ec21d634a932195d04276588
+    - name: neutral_paddo_ashen_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 53469b4d1de6a0340937582bfdfb6e9f
+    - name: neutral_paddo_ashen_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 936f0d1b32f11a640a55accc598a898a
+    - name: neutral_paddo_ashen_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: f30c539ba00799b4ca43e6187c57f856
+    - name: neutral_paddo_ashen_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 6f8fb1e95d913eb45b33cce24c6c4e74
+    - name: neutral_paddo_ashen_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: d5e464a4c923571478b7695c7df6875b
+    - name: neutral_paddo_ashen_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 439eddd8f2ded0d409c0a47ea7a74b85
+    - name: neutral_paddo_ashen_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: c41a9afb0179dcd4c803a6139bd71cb2
+    - name: neutral_paddo_ashen_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: b8b378a49d16ab74c9a2ac713f89f7ff
+    - name: neutral_paddo_ashen_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 030f66a5d9f727f4288de877d6688523
+    - name: neutral_paddo_ashen_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: eea36a37c130df1438bba657ce4962ae
+    - name: neutral_paddo_ashen_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 307acd9371bd3f743ae62fd55257b5a4
+    - name: neutral_paddo_ashen_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 05e35fc84cd313b4fa83ef770e31d9d6
+    - name: neutral_paddo_ashen_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: ffdba358c1f5ed0498ac5daefff51d03
+    - name: neutral_paddo_ashen_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: b4846107a9bb8664c939ab824d40ebe5
+    - name: neutral_paddo_ashen_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 6581eb624a89ddd42ab0570b19e63d0c
+    - name: neutral_paddo_ashen_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: ff80786185def0944b2ad7d8646f3564
+    - name: neutral_paddo_ashen_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 09f640d97cb8ae940a3e82b2ab6b99f0
+    - name: neutral_paddo_ashen_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 3a86a694d62a29f479d2a887cdababbb
+    - name: neutral_paddo_ashen_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 3349c51de30ccdf49b862ce7509bc006
+    - name: neutral_paddo_ashen_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: e0c04b300589fd540b41021240541998
+    - name: neutral_paddo_ashen_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 38bc474928a699e469ca7df3c37d89f6
+    - name: neutral_paddo_ashen_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: a0e8604652415d5428dcad71c574cc3c
+    - name: neutral_paddo_ashen_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      spriteId: 510edddd82e7f5b4787d46e920e73068
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 200, y: 200}

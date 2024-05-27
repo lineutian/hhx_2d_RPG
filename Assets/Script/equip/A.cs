@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEngine;
 
-public class A : EquipObject
+public class A : WeaponAtk
 {
     public GameObject atkPef;
     public override void ATK()

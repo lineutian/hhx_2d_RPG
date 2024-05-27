@@ -1,0 +1,2776 @@
+fileFormatVersion: 2
+guid: fb432eb16d4a4714f901cb9cb275cd47
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_moonlitsorcerer_Frame_0
+    originalName: 
+    pivot: {x: 0.5925926, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 357
+      width: 27
+      height: 61
+    spriteID: 039260ed5875c114db4487a96cb1405c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 341}
+  - name: neutral_moonlitsorcerer_Frame_1
+    originalName: 
+    pivot: {x: 0.6071428, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 287
+      width: 28
+      height: 62
+    spriteID: 03703276935b07d459d6d6c6ceb58c7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 271}
+  - name: neutral_moonlitsorcerer_Frame_2
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 75
+      width: 30
+      height: 63
+    spriteID: f2b45d86a33de304d9b2794bdcf0bb38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 59}
+  - name: neutral_moonlitsorcerer_Frame_3
+    originalName: 
+    pivot: {x: 0.58620685, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 216
+      width: 29
+      height: 63
+    spriteID: 89931034bad20a54eb41d8261b0305e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 200}
+  - name: neutral_moonlitsorcerer_Frame_4
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 146
+      width: 30
+      height: 62
+    spriteID: 7ac4d8ef4bfdbf04f9381308d09841e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 130}
+  - name: neutral_moonlitsorcerer_Frame_5
+    originalName: 
+    pivot: {x: 0.576923, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 426
+      width: 26
+      height: 61
+    spriteID: 786cbe98011c8d54b9fc546cd6429c26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 410}
+  - name: neutral_moonlitsorcerer_Frame_6
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 708
+      width: 21
+      height: 62
+    spriteID: 5812a4f21fc75d84f9dd11fc3d886969
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 692}
+  - name: neutral_moonlitsorcerer_Frame_7
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 706
+      width: 20
+      height: 62
+    spriteID: 48f847df4d8bf4543a91b8bd465bf1fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 690}
+  - name: neutral_moonlitsorcerer_Frame_8
+    originalName: 
+    pivot: {x: 0.6190476, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 778
+      width: 21
+      height: 62
+    spriteID: d01b4a6b4cbe7834a836bf7faca1389f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 762}
+  - name: neutral_moonlitsorcerer_Frame_9
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 776
+      width: 20
+      height: 62
+    spriteID: 7b3f22e97c405ad43b638c982767006c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 760}
+  - name: neutral_moonlitsorcerer_Frame_10
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 846
+      width: 20
+      height: 62
+    spriteID: 35e64fb9ebe7345459a05587ae2f9928
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 830}
+  - name: neutral_moonlitsorcerer_Frame_11
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 916
+      width: 20
+      height: 62
+    spriteID: 692d2c764f31b2947891fa3465f6f052
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 900}
+  - name: neutral_moonlitsorcerer_Frame_12
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 4
+      width: 20
+      height: 62
+    spriteID: f7230d86fd1688f448cb117be174fe16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: -12}
+  - name: neutral_moonlitsorcerer_Frame_13
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 74
+      width: 20
+      height: 62
+    spriteID: 73c1aeecf5659554588de294388fb48d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 58}
+  - name: neutral_moonlitsorcerer_Frame_14
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 144
+      width: 20
+      height: 62
+    spriteID: a794994082e156549ac20653b2026159
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 128}
+  - name: neutral_moonlitsorcerer_Frame_15
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 214
+      width: 20
+      height: 62
+    spriteID: ac2696b3ecc542043a454564d60a80c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 198}
+  - name: neutral_moonlitsorcerer_Frame_16
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 284
+      width: 20
+      height: 62
+    spriteID: 3437e63687c85b9479edbdaf0b321473
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 268}
+  - name: neutral_moonlitsorcerer_Frame_17
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 354
+      width: 20
+      height: 62
+    spriteID: 225debce6612a9f418a6f5a0ff04e2ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 338}
+  - name: neutral_moonlitsorcerer_Frame_18
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 424
+      width: 20
+      height: 62
+    spriteID: ea9fa2791a191b54fbd7421b507bafb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 408}
+  - name: neutral_moonlitsorcerer_Frame_19
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 848
+      width: 21
+      height: 62
+    spriteID: 1f234398999146b4486b0e1173b3f1f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 832}
+  - name: neutral_moonlitsorcerer_Frame_20
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 825
+      width: 23
+      height: 62
+    spriteID: 93f28a27a8f17b14f80f42e3987e3041
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 809}
+  - name: neutral_moonlitsorcerer_Frame_21
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 918
+      width: 21
+      height: 62
+    spriteID: 7b1b096bab991904bbe167ae65af5e52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 902}
+  - name: neutral_moonlitsorcerer_Frame_22
+    originalName: 
+    pivot: {x: 0.54999995, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 494
+      width: 20
+      height: 62
+    spriteID: 0e6c8c1b2047d2f4b9c29ce9bd66cc47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 478}
+  - name: neutral_moonlitsorcerer_Frame_23
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 567
+      width: 23
+      height: 62
+    spriteID: 6a9dd560706086141be2d9c1d7200afa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 551}
+  - name: neutral_moonlitsorcerer_Frame_24
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 4
+      width: 21
+      height: 62
+    spriteID: 87e159b0491e0c3488b45770d4d20682
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: -12}
+  - name: neutral_moonlitsorcerer_Frame_25
+    originalName: 
+    pivot: {x: 0.54999995, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 564
+      width: 20
+      height: 62
+    spriteID: 333c5f31a33b2e2438c7603b4572c389
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 548}
+  - name: neutral_moonlitsorcerer_Frame_26
+    originalName: 
+    pivot: {x: 0.6129032, y: -0.23809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 4
+      width: 31
+      height: 63
+    spriteID: e574a2b6d725fb34d88a194180d81825
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: -11}
+  - name: neutral_moonlitsorcerer_Frame_27
+    originalName: 
+    pivot: {x: 0.65789473, y: -0.21875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 642
+      width: 38
+      height: 64
+    spriteID: 043176db3213646468e004101fd2a148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 628}
+  - name: neutral_moonlitsorcerer_Frame_28
+    originalName: 
+    pivot: {x: 0.65853655, y: -0.21875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 500
+      width: 41
+      height: 64
+    spriteID: cb7a7c3c8a0942347b16916e489a5b43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 486}
+  - name: neutral_moonlitsorcerer_Frame_29
+    originalName: 
+    pivot: {x: 0.65116274, y: -0.23809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 429
+      width: 43
+      height: 63
+    spriteID: 02085b4005d3f12488c93e3ba1ea8bab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 414}
+  - name: neutral_moonlitsorcerer_Frame_30
+    originalName: 
+    pivot: {x: 0.63043475, y: -0.21875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 147
+      width: 46
+      height: 64
+    spriteID: f174a012789c0014ba55dcd69721b5b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 133}
+  - name: neutral_moonlitsorcerer_Frame_31
+    originalName: 
+    pivot: {x: 0.6170212, y: -0.24193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 219
+      width: 47
+      height: 62
+    spriteID: 663200f07b2f76d4e81f1e6bb3887b87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 204}
+  - name: neutral_moonlitsorcerer_Frame_32
+    originalName: 
+    pivot: {x: 0.6170212, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 76
+      width: 47
+      height: 63
+    spriteID: 8dc585db35b4b1b47b338ce3193af204
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 62}
+  - name: neutral_moonlitsorcerer_Frame_33
+    originalName: 
+    pivot: {x: 0.5135135, y: -0.23809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 856
+      width: 37
+      height: 63
+    spriteID: 1974f6e07c93384468193d1dabca41a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 841}
+  - name: neutral_moonlitsorcerer_Frame_34
+    originalName: 
+    pivot: {x: 0.58823526, y: -0.21875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 927
+      width: 34
+      height: 64
+    spriteID: 929d203ccb2ea664d987f862b4780819
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 913}
+  - name: neutral_moonlitsorcerer_Frame_35
+    originalName: 
+    pivot: {x: 0.59374994, y: -0.23809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 909
+      width: 32
+      height: 63
+    spriteID: 36e8f3d35f7f13f458eb34d3ef9f1285
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 894}
+  - name: neutral_moonlitsorcerer_Frame_36
+    originalName: 
+    pivot: {x: 0.58823526, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 980
+      width: 34
+      height: 36
+    spriteID: 23e1a26bf6eadef45bcae6f8663d27b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 966}
+  - name: neutral_moonlitsorcerer_Frame_37
+    originalName: 
+    pivot: {x: 0.59374994, y: -0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 309
+      y: 45
+      width: 32
+      height: 34
+    spriteID: 09cdaf4a921f6f8499396e92cb24ea8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 30}
+  - name: neutral_moonlitsorcerer_Frame_38
+    originalName: 
+    pivot: {x: 0.58823526, y: -0.42424244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 309
+      y: 4
+      width: 34
+      height: 33
+    spriteID: f6debc69a4721564c8c298e0ae5bada5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 264, y: -10}
+  - name: neutral_moonlitsorcerer_Frame_39
+    originalName: 
+    pivot: {x: 0.59374994, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 993
+      width: 32
+      height: 27
+    spriteID: f9b8545b7df94b343a06e178b098860e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -42, y: 978}
+  - name: neutral_moonlitsorcerer_Frame_40
+    originalName: 
+    pivot: {x: 0.62068963, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 993
+      width: 29
+      height: 21
+    spriteID: e5763624572dffa489d12657712b2075
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -3, y: 978}
+  - name: neutral_moonlitsorcerer_Frame_41
+    originalName: 
+    pivot: {x: 0.58620685, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 988
+      width: 29
+      height: 17
+    spriteID: 4509b153275b3354eb755a392a11b12a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 973}
+  - name: neutral_moonlitsorcerer_Frame_42
+    originalName: 
+    pivot: {x: 0.576923, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 999
+      width: 26
+      height: 15
+    spriteID: f39c899c5c5690e47b1669b42f271066
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 984}
+  - name: neutral_moonlitsorcerer_Frame_43
+    originalName: 
+    pivot: {x: 0.57894737, y: -1.0714285}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 986
+      width: 19
+      height: 14
+    spriteID: af10377663fead04481fb2c1f6ade00c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 971}
+  - name: neutral_moonlitsorcerer_Frame_44
+    originalName: 
+    pivot: {x: 0.58823526, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 1008
+      width: 17
+      height: 11
+    spriteID: 543a8fbff4836c34d81f225e3df3b29d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 992}
+  - name: neutral_moonlitsorcerer_Frame_45
+    originalName: 
+    pivot: {x: 0.59999996, y: -1.8888891}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 984
+      width: 15
+      height: 9
+    spriteID: ec40b2d043be5ba499deac1614bf541d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 967}
+  - name: neutral_moonlitsorcerer_Frame_46
+    originalName: 
+    pivot: {x: 0.88888884, y: -2.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 999
+      width: 9
+      height: 8
+    spriteID: b38fb9d58798a0241b0ce21bb1e56dc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 982}
+  - name: neutral_moonlitsorcerer_Frame_47
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 1015
+      width: 0
+      height: 0
+    spriteID: d2d41cdb7fd571343a3ff702a75ec4b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 885}
+  - name: neutral_moonlitsorcerer_Frame_48
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 74
+      width: 21
+      height: 62
+    spriteID: b72549f81ebac2646ad00b209ca8b20a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 58}
+  - name: neutral_moonlitsorcerer_Frame_49
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 144
+      width: 21
+      height: 62
+    spriteID: 70b1c3ec7093a31409ac5a589751e494
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 128}
+  - name: neutral_moonlitsorcerer_Frame_50
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 214
+      width: 21
+      height: 62
+    spriteID: 9eac3a0e32ce8fd48b19760467c71b25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 198}
+  - name: neutral_moonlitsorcerer_Frame_51
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 284
+      width: 21
+      height: 62
+    spriteID: 784454f56137eea41ae956399e5ab16d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 268}
+  - name: neutral_moonlitsorcerer_Frame_52
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 354
+      width: 21
+      height: 62
+    spriteID: 3764067d3e3eea04b88affe03b3a498d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 338}
+  - name: neutral_moonlitsorcerer_Frame_53
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 634
+      width: 20
+      height: 62
+    spriteID: 3b5596f409fd8584bbd94b7b4ef3c78c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 618}
+  - name: neutral_moonlitsorcerer_Frame_54
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 704
+      width: 20
+      height: 62
+    spriteID: 159785a1d80ab3f40bf6558a8acd6c9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 688}
+  - name: neutral_moonlitsorcerer_Frame_55
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 774
+      width: 20
+      height: 62
+    spriteID: 3a8f8a908facb194794286aaa78d7196
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 758}
+  - name: neutral_moonlitsorcerer_Frame_56
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 844
+      width: 20
+      height: 62
+    spriteID: 290d90eb0582a3c49802eee8e58521dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 828}
+  - name: neutral_moonlitsorcerer_Frame_57
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 914
+      width: 20
+      height: 62
+    spriteID: 8bbc9c58fa7d1034d89bec660206554c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 898}
+  - name: neutral_moonlitsorcerer_Frame_58
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 4
+      width: 20
+      height: 62
+    spriteID: 9b341c6bfe202c94d92aceb6beecea78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: -12}
+  - name: neutral_moonlitsorcerer_Frame_59
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 74
+      width: 20
+      height: 62
+    spriteID: ea57e559adcd9c74c840a98221b26eb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 58}
+  - name: neutral_moonlitsorcerer_Frame_60
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 144
+      width: 20
+      height: 62
+    spriteID: c2bf77e9c58eb88428edf691a3616ef6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 128}
+  - name: neutral_moonlitsorcerer_Frame_61
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 214
+      width: 20
+      height: 62
+    spriteID: 2fd0a3c86fe98724f909d972f5b33681
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 198}
+  - name: neutral_moonlitsorcerer_Frame_62
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 424
+      width: 21
+      height: 62
+    spriteID: 09e17a25a6ac4db4989627b2766f0de2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 408}
+  - name: neutral_moonlitsorcerer_Frame_63
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 284
+      width: 20
+      height: 62
+    spriteID: cca8b0fe60808f74da50446904c18c07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 268}
+  - name: neutral_moonlitsorcerer_Frame_64
+    originalName: 
+    pivot: {x: 0.6190476, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 637
+      width: 21
+      height: 63
+    spriteID: c3828008f8bb3a448808cb4cf0dbf8ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 621}
+  - name: neutral_moonlitsorcerer_Frame_65
+    originalName: 
+    pivot: {x: 0.65, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 564
+      width: 20
+      height: 63
+    spriteID: e6eae5c405fe2a74faa8173d0d09cd55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 548}
+  - name: neutral_moonlitsorcerer_Frame_66
+    originalName: 
+    pivot: {x: 0.65, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 633
+      width: 20
+      height: 60
+    spriteID: 3442d04318bc94349bc0f9d152f33db8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 617}
+  - name: neutral_moonlitsorcerer_Frame_67
+    originalName: 
+    pivot: {x: 0.65, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 564
+      width: 20
+      height: 61
+    spriteID: 1ff42e373357c7c4aa9c133204bac8ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 548}
+  - name: neutral_moonlitsorcerer_Frame_68
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 354
+      width: 20
+      height: 62
+    spriteID: 0aec76f408f73444abfa32c482cc2594
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 338}
+  - name: neutral_moonlitsorcerer_Frame_69
+    originalName: 
+    pivot: {x: 0.65, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 635
+      width: 20
+      height: 63
+    spriteID: 13978d190e2677f40821108e68531869
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 619}
+  - name: neutral_moonlitsorcerer_Frame_70
+    originalName: 
+    pivot: {x: 0.58333325, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 495
+      width: 24
+      height: 64
+    spriteID: 47f6b3fca134e3e49be07fc13a3ad2b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 479}
+  - name: neutral_moonlitsorcerer_Frame_71
+    originalName: 
+    pivot: {x: 0.59459454, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 714
+      width: 37
+      height: 64
+    spriteID: 7bea65c81fbed32438a628fdb4113b59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 698}
+  - name: neutral_moonlitsorcerer_Frame_72
+    originalName: 
+    pivot: {x: 0.58536583, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 572
+      width: 41
+      height: 62
+    spriteID: 05f0db66cb7b05c4893733020f31cedd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 556}
+  - name: neutral_moonlitsorcerer_Frame_73
+    originalName: 
+    pivot: {x: 0.5681818, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 359
+      width: 44
+      height: 62
+    spriteID: d0fc353299d341849a600d8fab8472f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 343}
+  - name: neutral_moonlitsorcerer_Frame_74
+    originalName: 
+    pivot: {x: 0.5652174, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 289
+      width: 46
+      height: 62
+    spriteID: b38caf278812c80458cd06a13a21d065
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 273}
+  - name: neutral_moonlitsorcerer_Frame_75
+    originalName: 
+    pivot: {x: 0.56249994, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 4
+      width: 48
+      height: 64
+    spriteID: 2cea8df4e7219eb41a6c67c229820bba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: -12}
+  - name: neutral_moonlitsorcerer_Frame_76
+    originalName: 
+    pivot: {x: 0.4189189, y: -0.02631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 909
+      width: 74
+      height: 76
+    spriteID: 0a1fbfb691163294fafc03c1d1cb8552
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -30, y: 907}
+  - name: neutral_moonlitsorcerer_Frame_77
+    originalName: 
+    pivot: {x: 0.44186044, y: -0.013157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 825
+      width: 86
+      height: 76
+    spriteID: 56b5a2931ac5ba843a0a6501f99b5726
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 824}
+  - name: neutral_moonlitsorcerer_Frame_78
+    originalName: 
+    pivot: {x: 0.47524747, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 648
+      width: 101
+      height: 81
+    spriteID: 626e14c1a92227b4080839911f74ef88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 648}
+  - name: neutral_moonlitsorcerer_Frame_79
+    originalName: 
+    pivot: {x: 0.48623854, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 376
+      width: 109
+      height: 84
+    spriteID: dec90c9576a2be8478f56bfadeb28291
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 376}
+  - name: neutral_moonlitsorcerer_Frame_80
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 283
+      width: 112
+      height: 85
+    spriteID: 819d5cec2cad54546b0536584dd5a402
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 283}
+  - name: neutral_moonlitsorcerer_Frame_81
+    originalName: 
+    pivot: {x: 0.5043478, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 190
+      width: 115
+      height: 85
+    spriteID: 598d2c4a9ef373549bfb82f2eab3723c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -3, y: 190}
+  - name: neutral_moonlitsorcerer_Frame_82
+    originalName: 
+    pivot: {x: 0.50427353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 117
+      height: 86
+    spriteID: 351b18eb7402caf44a8fdc08057637dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 4}
+  - name: neutral_moonlitsorcerer_Frame_83
+    originalName: 
+    pivot: {x: 0.50427353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 98
+      width: 117
+      height: 84
+    spriteID: 0bddacae165e44248918ee43c21e159e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 98}
+  - name: neutral_moonlitsorcerer_Frame_84
+    originalName: 
+    pivot: {x: 0.46296299, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 468
+      width: 108
+      height: 82
+    spriteID: f52a46f1d86f85344bef9f660c41a058
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 468}
+  - name: neutral_moonlitsorcerer_Frame_85
+    originalName: 
+    pivot: {x: 0.46728975, y: -0.012195122}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 558
+      width: 107
+      height: 82
+    spriteID: 3093b1beb71e1f041beb80187765db9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 557}
+  - name: neutral_moonlitsorcerer_Frame_86
+    originalName: 
+    pivot: {x: 0.46875, y: -0.025}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 737
+      width: 96
+      height: 80
+    spriteID: 65353fe17b742a6429c42880d4191fdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 735}
+  - name: neutral_moonlitsorcerer_Frame_87
+    originalName: 
+    pivot: {x: 0.39473683, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 786
+      width: 38
+      height: 62
+    spriteID: 8f37e9007031e9e42b79e5b90980cb6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 770}
+  - name: neutral_moonlitsorcerer_Frame_88
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 424
+      width: 20
+      height: 62
+    spriteID: 7ecf639883bf7b7408c7285a0e16925a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 408}
+  - name: neutral_moonlitsorcerer_Frame_89
+    originalName: 
+    pivot: {x: 0.65, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 494
+      width: 20
+      height: 62
+    spriteID: bd0690c70ec7d2a44a7d1a45a4da4a18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 478}
+  - name: neutral_moonlitsorcerer_Frame_90
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 494
+      width: 21
+      height: 62
+    spriteID: 324b35d3c10e80b4c97c882a7daf0d40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 478}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -282016831
+    name: neutral_moonlitsorcerer
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_moonlitsorcerer_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 039260ed5875c114db4487a96cb1405c
+    - name: neutral_moonlitsorcerer_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 03703276935b07d459d6d6c6ceb58c7f
+    - name: neutral_moonlitsorcerer_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f2b45d86a33de304d9b2794bdcf0bb38
+    - name: neutral_moonlitsorcerer_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 89931034bad20a54eb41d8261b0305e5
+    - name: neutral_moonlitsorcerer_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7ac4d8ef4bfdbf04f9381308d09841e0
+    - name: neutral_moonlitsorcerer_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 786cbe98011c8d54b9fc546cd6429c26
+    - name: neutral_moonlitsorcerer_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5812a4f21fc75d84f9dd11fc3d886969
+    - name: neutral_moonlitsorcerer_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 48f847df4d8bf4543a91b8bd465bf1fc
+    - name: neutral_moonlitsorcerer_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d01b4a6b4cbe7834a836bf7faca1389f
+    - name: neutral_moonlitsorcerer_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7b3f22e97c405ad43b638c982767006c
+    - name: neutral_moonlitsorcerer_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 35e64fb9ebe7345459a05587ae2f9928
+    - name: neutral_moonlitsorcerer_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 692d2c764f31b2947891fa3465f6f052
+    - name: neutral_moonlitsorcerer_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f7230d86fd1688f448cb117be174fe16
+    - name: neutral_moonlitsorcerer_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 73c1aeecf5659554588de294388fb48d
+    - name: neutral_moonlitsorcerer_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a794994082e156549ac20653b2026159
+    - name: neutral_moonlitsorcerer_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ac2696b3ecc542043a454564d60a80c5
+    - name: neutral_moonlitsorcerer_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3437e63687c85b9479edbdaf0b321473
+    - name: neutral_moonlitsorcerer_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 225debce6612a9f418a6f5a0ff04e2ec
+    - name: neutral_moonlitsorcerer_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ea9fa2791a191b54fbd7421b507bafb6
+    - name: neutral_moonlitsorcerer_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 1f234398999146b4486b0e1173b3f1f6
+    - name: neutral_moonlitsorcerer_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 93f28a27a8f17b14f80f42e3987e3041
+    - name: neutral_moonlitsorcerer_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7b1b096bab991904bbe167ae65af5e52
+    - name: neutral_moonlitsorcerer_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0e6c8c1b2047d2f4b9c29ce9bd66cc47
+    - name: neutral_moonlitsorcerer_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 6a9dd560706086141be2d9c1d7200afa
+    - name: neutral_moonlitsorcerer_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 87e159b0491e0c3488b45770d4d20682
+    - name: neutral_moonlitsorcerer_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 333c5f31a33b2e2438c7603b4572c389
+    - name: neutral_moonlitsorcerer_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e574a2b6d725fb34d88a194180d81825
+    - name: neutral_moonlitsorcerer_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 043176db3213646468e004101fd2a148
+    - name: neutral_moonlitsorcerer_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cb7a7c3c8a0942347b16916e489a5b43
+    - name: neutral_moonlitsorcerer_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 02085b4005d3f12488c93e3ba1ea8bab
+    - name: neutral_moonlitsorcerer_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f174a012789c0014ba55dcd69721b5b6
+    - name: neutral_moonlitsorcerer_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 663200f07b2f76d4e81f1e6bb3887b87
+    - name: neutral_moonlitsorcerer_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8dc585db35b4b1b47b338ce3193af204
+    - name: neutral_moonlitsorcerer_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 1974f6e07c93384468193d1dabca41a9
+    - name: neutral_moonlitsorcerer_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 929d203ccb2ea664d987f862b4780819
+    - name: neutral_moonlitsorcerer_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 36e8f3d35f7f13f458eb34d3ef9f1285
+    - name: neutral_moonlitsorcerer_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 23e1a26bf6eadef45bcae6f8663d27b2
+    - name: neutral_moonlitsorcerer_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 09cdaf4a921f6f8499396e92cb24ea8f
+    - name: neutral_moonlitsorcerer_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f6debc69a4721564c8c298e0ae5bada5
+    - name: neutral_moonlitsorcerer_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f9b8545b7df94b343a06e178b098860e
+    - name: neutral_moonlitsorcerer_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e5763624572dffa489d12657712b2075
+    - name: neutral_moonlitsorcerer_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4509b153275b3354eb755a392a11b12a
+    - name: neutral_moonlitsorcerer_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f39c899c5c5690e47b1669b42f271066
+    - name: neutral_moonlitsorcerer_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: af10377663fead04481fb2c1f6ade00c
+    - name: neutral_moonlitsorcerer_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 543a8fbff4836c34d81f225e3df3b29d
+    - name: neutral_moonlitsorcerer_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ec40b2d043be5ba499deac1614bf541d
+    - name: neutral_moonlitsorcerer_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: b38fb9d58798a0241b0ce21bb1e56dc2
+    - name: neutral_moonlitsorcerer_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d2d41cdb7fd571343a3ff702a75ec4b2
+    - name: neutral_moonlitsorcerer_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: b72549f81ebac2646ad00b209ca8b20a
+    - name: neutral_moonlitsorcerer_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 70b1c3ec7093a31409ac5a589751e494
+    - name: neutral_moonlitsorcerer_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 9eac3a0e32ce8fd48b19760467c71b25
+    - name: neutral_moonlitsorcerer_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 784454f56137eea41ae956399e5ab16d
+    - name: neutral_moonlitsorcerer_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3764067d3e3eea04b88affe03b3a498d
+    - name: neutral_moonlitsorcerer_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3b5596f409fd8584bbd94b7b4ef3c78c
+    - name: neutral_moonlitsorcerer_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 159785a1d80ab3f40bf6558a8acd6c9b
+    - name: neutral_moonlitsorcerer_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3a8f8a908facb194794286aaa78d7196
+    - name: neutral_moonlitsorcerer_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 290d90eb0582a3c49802eee8e58521dd
+    - name: neutral_moonlitsorcerer_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8bbc9c58fa7d1034d89bec660206554c
+    - name: neutral_moonlitsorcerer_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 9b341c6bfe202c94d92aceb6beecea78
+    - name: neutral_moonlitsorcerer_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ea57e559adcd9c74c840a98221b26eb3
+    - name: neutral_moonlitsorcerer_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: c2bf77e9c58eb88428edf691a3616ef6
+    - name: neutral_moonlitsorcerer_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2fd0a3c86fe98724f909d972f5b33681
+    - name: neutral_moonlitsorcerer_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 09e17a25a6ac4db4989627b2766f0de2
+    - name: neutral_moonlitsorcerer_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cca8b0fe60808f74da50446904c18c07
+    - name: neutral_moonlitsorcerer_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: c3828008f8bb3a448808cb4cf0dbf8ac
+    - name: neutral_moonlitsorcerer_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e6eae5c405fe2a74faa8173d0d09cd55
+    - name: neutral_moonlitsorcerer_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3442d04318bc94349bc0f9d152f33db8
+    - name: neutral_moonlitsorcerer_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 1ff42e373357c7c4aa9c133204bac8ce
+    - name: neutral_moonlitsorcerer_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0aec76f408f73444abfa32c482cc2594
+    - name: neutral_moonlitsorcerer_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 13978d190e2677f40821108e68531869
+    - name: neutral_moonlitsorcerer_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 47f6b3fca134e3e49be07fc13a3ad2b7
+    - name: neutral_moonlitsorcerer_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7bea65c81fbed32438a628fdb4113b59
+    - name: neutral_moonlitsorcerer_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 05f0db66cb7b05c4893733020f31cedd
+    - name: neutral_moonlitsorcerer_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d0fc353299d341849a600d8fab8472f7
+    - name: neutral_moonlitsorcerer_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: b38caf278812c80458cd06a13a21d065
+    - name: neutral_moonlitsorcerer_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2cea8df4e7219eb41a6c67c229820bba
+    - name: neutral_moonlitsorcerer_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0a1fbfb691163294fafc03c1d1cb8552
+    - name: neutral_moonlitsorcerer_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 56b5a2931ac5ba843a0a6501f99b5726
+    - name: neutral_moonlitsorcerer_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 626e14c1a92227b4080839911f74ef88
+    - name: neutral_moonlitsorcerer_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: dec90c9576a2be8478f56bfadeb28291
+    - name: neutral_moonlitsorcerer_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 819d5cec2cad54546b0536584dd5a402
+    - name: neutral_moonlitsorcerer_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 598d2c4a9ef373549bfb82f2eab3723c
+    - name: neutral_moonlitsorcerer_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 351b18eb7402caf44a8fdc08057637dd
+    - name: neutral_moonlitsorcerer_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0bddacae165e44248918ee43c21e159e
+    - name: neutral_moonlitsorcerer_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f52a46f1d86f85344bef9f660c41a058
+    - name: neutral_moonlitsorcerer_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3093b1beb71e1f041beb80187765db9d
+    - name: neutral_moonlitsorcerer_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 65353fe17b742a6429c42880d4191fdc
+    - name: neutral_moonlitsorcerer_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8f37e9007031e9e42b79e5b90980cb6a
+    - name: neutral_moonlitsorcerer_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7ecf639883bf7b7408c7285a0e16925a
+    - name: neutral_moonlitsorcerer_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: bd0690c70ec7d2a44a7d1a45a4da4a18
+    - name: neutral_moonlitsorcerer_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 324b35d3c10e80b4c97c882a7daf0d40
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 130, y: 130}

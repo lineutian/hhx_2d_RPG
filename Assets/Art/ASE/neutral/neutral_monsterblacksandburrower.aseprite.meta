@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: ce53da781bce7bd46b36116b707fe591
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_monsterblacksandburrower_Frame_0
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 400
+      y: 79
+      width: 35
+      height: 25
+    spriteID: 9a0900df16ace11498fb28930a902ddd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_1
+    originalName: 
+    pivot: {x: 0.43243238, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 42
+      width: 37
+      height: 25
+    spriteID: 5cc6680b1016ec84380fe91d6c82f21f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_2
+    originalName: 
+    pivot: {x: 0.43243238, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 42
+      width: 37
+      height: 25
+    spriteID: af0bd0a88b5c32348b580ebc7346caaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_3
+    originalName: 
+    pivot: {x: 0.44117647, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 112
+      width: 34
+      height: 25
+    spriteID: bcabd2abbb0741e4b94cdc1fa62a76e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 269, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_4
+    originalName: 
+    pivot: {x: 0.4193548, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 181
+      width: 31
+      height: 26
+    spriteID: 2edc65d318f736f44ab8f217fda40f7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 17, y: 165}
+  - name: neutral_monsterblacksandburrower_Frame_5
+    originalName: 
+    pivot: {x: 0.40625, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 181
+      width: 32
+      height: 26
+    spriteID: acfbe0f288877ae4fa07f4d6e37dd3c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 165}
+  - name: neutral_monsterblacksandburrower_Frame_6
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 79
+      width: 36
+      height: 25
+    spriteID: dfc8a5324dd6818459aa56a107a0a1b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_7
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 79
+      width: 36
+      height: 25
+    spriteID: 40009ea8c35fe854bb289ef441483fa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_8
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 79
+      width: 36
+      height: 25
+    spriteID: 4c3c8efcedbb6e64a9f433d96112bfa2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_9
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 4
+      width: 36
+      height: 26
+    spriteID: 44bbab5b480920049b0e465538689924
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_10
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 4
+      width: 35
+      height: 27
+    spriteID: 47a4509a913c2fb4496066585c892702
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_11
+    originalName: 
+    pivot: {x: 0.44117647, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 42
+      width: 34
+      height: 27
+    spriteID: 6c3f5f251e01be54e95b519de7c22f36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_12
+    originalName: 
+    pivot: {x: 0.44117647, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 42
+      width: 34
+      height: 27
+    spriteID: d7196f24e6ce38e44ba97b3bedaf02e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 191, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_13
+    originalName: 
+    pivot: {x: 0.45714286, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 4
+      width: 35
+      height: 27
+    spriteID: 17c06808b025be547a4cc3ad85ed30fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_14
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 4
+      width: 36
+      height: 27
+    spriteID: 6dd06e8b21a7f52439eaf24d777ad4f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 21, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_15
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 4
+      width: 36
+      height: 27
+    spriteID: cf37461e05de48e42b6183e1302a30a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_16
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 4
+      width: 36
+      height: 26
+    spriteID: 706d6e94bf5b9ad49b4eaf527b3659de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_17
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 443
+      y: 79
+      width: 35
+      height: 25
+    spriteID: 47433efa3bc28b949b19b0cea57724fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_18
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 149
+      width: 35
+      height: 24
+    spriteID: cb63d03bb2e3f2046be90b8d07b8563a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_19
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 149
+      width: 35
+      height: 24
+    spriteID: eb7c1190625cd9948825a24d76b9f5a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_20
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 149
+      width: 35
+      height: 23
+    spriteID: 4ff69c0280d94494b9ea6c73347103d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_21
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 112
+      width: 34
+      height: 25
+    spriteID: eda3d27fa2dcc1f4fbb844537d39a7b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_22
+    originalName: 
+    pivot: {x: 0.47058824, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 112
+      width: 34
+      height: 25
+    spriteID: ac20b990748e38a4abe8f6990713e2b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_23
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 149
+      width: 35
+      height: 23
+    spriteID: eb8d070e1792eb049a0b449fb9f96332
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_24
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 112
+      width: 34
+      height: 25
+    spriteID: dd6c1d9486669d7478d0644c21461e03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 397, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_25
+    originalName: 
+    pivot: {x: 0.47058824, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 462
+      y: 112
+      width: 34
+      height: 25
+    spriteID: 5c681610a0e39cd44b03fc2a47c2e40d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_26
+    originalName: 
+    pivot: {x: 0.45714286, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 149
+      width: 35
+      height: 24
+    spriteID: ca80878cb76622b4080432fedf18c760
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_27
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 395
+      y: 4
+      width: 49
+      height: 19
+    spriteID: 6577c76cb1563264aa3479a930eef834
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_28
+    originalName: 
+    pivot: {x: 0.3548387, y: -1.7777779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 367
+      y: 149
+      width: 62
+      height: 9
+    spriteID: fdec0bbd7c4380d4eaf858b77bf5d757
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_29
+    originalName: 
+    pivot: {x: 0.36507937, y: -1.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 437
+      y: 149
+      width: 63
+      height: 8
+    spriteID: 699cbbc3c3f94e74b9b6b591065580d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 134}
+  - name: neutral_monsterblacksandburrower_Frame_30
+    originalName: 
+    pivot: {x: 0.36507937, y: -1.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 437
+      y: 165
+      width: 63
+      height: 8
+    spriteID: a9a620f998774864b9cab9be80117321
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 150}
+  - name: neutral_monsterblacksandburrower_Frame_31
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 79
+      width: 36
+      height: 25
+    spriteID: 8e6ce765bb181644c90d39598ad232bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_32
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 79
+      width: 36
+      height: 25
+    spriteID: 903d3a2e54b040944b72ee5a6837d71b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_33
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 79
+      width: 36
+      height: 25
+    spriteID: 182cdffa228c8994daab0ccadb64be16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_34
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 79
+      width: 36
+      height: 25
+    spriteID: 3f3447fd177892b45bcf04389d72abeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_35
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 312
+      y: 79
+      width: 36
+      height: 25
+    spriteID: 831c3dbbf4bd2d445a827e14dc69dd39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_36
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 79
+      width: 36
+      height: 25
+    spriteID: e9e51176830ea60489cce4e126eff563
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 63}
+  - name: neutral_monsterblacksandburrower_Frame_37
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 4
+      width: 36
+      height: 26
+    spriteID: c70f9a634337bd94f88fba5929687644
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_38
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 351
+      y: 4
+      width: 36
+      height: 26
+    spriteID: 1b4c24fbcd1d88540aa9746e931f97e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_39
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 42
+      width: 35
+      height: 26
+    spriteID: 163f804040e040148a55043052970588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_40
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 301
+      y: 42
+      width: 35
+      height: 26
+    spriteID: 8cff52903227c3442b0775d7d6b4e320
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_41
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 344
+      y: 42
+      width: 35
+      height: 26
+    spriteID: 03cb47b320b224147b100d935fd3c575
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_42
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 387
+      y: 42
+      width: 35
+      height: 26
+    spriteID: fa005b280b71ed247864f5e3b8d24eeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_43
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 42
+      width: 35
+      height: 26
+    spriteID: ec89e57381b07c8419ccbac669edc583
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_44
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 112
+      width: 35
+      height: 25
+    spriteID: 84db7dfec3da9e943b104bdfd53f3038
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_45
+    originalName: 
+    pivot: {x: 0.45714286, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 112
+      width: 35
+      height: 25
+    spriteID: 254f2a22636b96b40a4f0313ed66c8cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_46
+    originalName: 
+    pivot: {x: 0.48484847, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 112
+      width: 33
+      height: 27
+    spriteID: 5c8ce953e6a8b3144854bf54f17e2e64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_47
+    originalName: 
+    pivot: {x: 0.46875, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 112
+      width: 32
+      height: 28
+    spriteID: bfc41716692f05e4c8cfff2962edf0a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_48
+    originalName: 
+    pivot: {x: 0.46875, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 4
+      width: 32
+      height: 29
+    spriteID: 4da95892310e5b44497b32d592e2d830
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_49
+    originalName: 
+    pivot: {x: 0.45161292, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 473
+      y: 42
+      width: 31
+      height: 29
+    spriteID: 68b64345a46397f41962c46287cb3660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 447, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_50
+    originalName: 
+    pivot: {x: 0.45161292, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 112
+      width: 31
+      height: 29
+    spriteID: e6124c0dce19fbc43bdff235282eb6d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_51
+    originalName: 
+    pivot: {x: 0.45161292, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 112
+      width: 31
+      height: 29
+    spriteID: 6ec9524bcbb40f44589bde0ec17aaca6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 17, y: 96}
+  - name: neutral_monsterblacksandburrower_Frame_52
+    originalName: 
+    pivot: {x: 0.46875, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 32
+      height: 29
+    spriteID: fe9ca654d97f7f446bc3f50eeb0142d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_53
+    originalName: 
+    pivot: {x: 0.46875, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 42
+      width: 32
+      height: 29
+    spriteID: c9f2cde1fe682b74286aed3e0cdbf89b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 26}
+  - name: neutral_monsterblacksandburrower_Frame_54
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 33
+      height: 30
+    spriteID: d6e062184080cee40b08b53375e163e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: -12}
+  - name: neutral_monsterblacksandburrower_Frame_55
+    originalName: 
+    pivot: {x: 0.38095236, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 149
+      width: 42
+      height: 20
+    spriteID: facc0673b2580b84bb92662eb5324a8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_56
+    originalName: 
+    pivot: {x: 0.38095236, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 317
+      y: 149
+      width: 42
+      height: 19
+    spriteID: 08254c7db092b4745abedf6382db54dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 293, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_57
+    originalName: 
+    pivot: {x: 0.425, y: -0.7619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 149
+      width: 40
+      height: 21
+    spriteID: a1009a5c3107f1344ba62b30678b744a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 133}
+  - name: neutral_monsterblacksandburrower_Frame_58
+    originalName: 
+    pivot: {x: 0.43243238, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 112
+      width: 37
+      height: 23
+    spriteID: df007c479262aff40855c16d6951702b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 96}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2029455877
+    name: neutral_monsterblacksandburrower
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_monsterblacksandburrower_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9a0900df16ace11498fb28930a902ddd
+    - name: neutral_monsterblacksandburrower_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5cc6680b1016ec84380fe91d6c82f21f
+    - name: neutral_monsterblacksandburrower_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: af0bd0a88b5c32348b580ebc7346caaa
+    - name: neutral_monsterblacksandburrower_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bcabd2abbb0741e4b94cdc1fa62a76e8
+    - name: neutral_monsterblacksandburrower_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2edc65d318f736f44ab8f217fda40f7f
+    - name: neutral_monsterblacksandburrower_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: acfbe0f288877ae4fa07f4d6e37dd3c4
+    - name: neutral_monsterblacksandburrower_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dfc8a5324dd6818459aa56a107a0a1b0
+    - name: neutral_monsterblacksandburrower_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 40009ea8c35fe854bb289ef441483fa8
+    - name: neutral_monsterblacksandburrower_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4c3c8efcedbb6e64a9f433d96112bfa2
+    - name: neutral_monsterblacksandburrower_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 44bbab5b480920049b0e465538689924
+    - name: neutral_monsterblacksandburrower_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 47a4509a913c2fb4496066585c892702
+    - name: neutral_monsterblacksandburrower_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6c3f5f251e01be54e95b519de7c22f36
+    - name: neutral_monsterblacksandburrower_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d7196f24e6ce38e44ba97b3bedaf02e1
+    - name: neutral_monsterblacksandburrower_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 17c06808b025be547a4cc3ad85ed30fa
+    - name: neutral_monsterblacksandburrower_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6dd06e8b21a7f52439eaf24d777ad4f4
+    - name: neutral_monsterblacksandburrower_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cf37461e05de48e42b6183e1302a30a4
+    - name: neutral_monsterblacksandburrower_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 706d6e94bf5b9ad49b4eaf527b3659de
+    - name: neutral_monsterblacksandburrower_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 47433efa3bc28b949b19b0cea57724fa
+    - name: neutral_monsterblacksandburrower_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cb63d03bb2e3f2046be90b8d07b8563a
+    - name: neutral_monsterblacksandburrower_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eb7c1190625cd9948825a24d76b9f5a7
+    - name: neutral_monsterblacksandburrower_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4ff69c0280d94494b9ea6c73347103d3
+    - name: neutral_monsterblacksandburrower_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eda3d27fa2dcc1f4fbb844537d39a7b7
+    - name: neutral_monsterblacksandburrower_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ac20b990748e38a4abe8f6990713e2b1
+    - name: neutral_monsterblacksandburrower_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eb8d070e1792eb049a0b449fb9f96332
+    - name: neutral_monsterblacksandburrower_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dd6c1d9486669d7478d0644c21461e03
+    - name: neutral_monsterblacksandburrower_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5c681610a0e39cd44b03fc2a47c2e40d
+    - name: neutral_monsterblacksandburrower_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ca80878cb76622b4080432fedf18c760
+    - name: neutral_monsterblacksandburrower_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6577c76cb1563264aa3479a930eef834
+    - name: neutral_monsterblacksandburrower_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fdec0bbd7c4380d4eaf858b77bf5d757
+    - name: neutral_monsterblacksandburrower_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 699cbbc3c3f94e74b9b6b591065580d5
+    - name: neutral_monsterblacksandburrower_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a9a620f998774864b9cab9be80117321
+    - name: neutral_monsterblacksandburrower_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8e6ce765bb181644c90d39598ad232bc
+    - name: neutral_monsterblacksandburrower_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 903d3a2e54b040944b72ee5a6837d71b
+    - name: neutral_monsterblacksandburrower_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 182cdffa228c8994daab0ccadb64be16
+    - name: neutral_monsterblacksandburrower_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3f3447fd177892b45bcf04389d72abeb
+    - name: neutral_monsterblacksandburrower_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 831c3dbbf4bd2d445a827e14dc69dd39
+    - name: neutral_monsterblacksandburrower_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e9e51176830ea60489cce4e126eff563
+    - name: neutral_monsterblacksandburrower_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c70f9a634337bd94f88fba5929687644
+    - name: neutral_monsterblacksandburrower_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1b4c24fbcd1d88540aa9746e931f97e1
+    - name: neutral_monsterblacksandburrower_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 163f804040e040148a55043052970588
+    - name: neutral_monsterblacksandburrower_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8cff52903227c3442b0775d7d6b4e320
+    - name: neutral_monsterblacksandburrower_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 03cb47b320b224147b100d935fd3c575
+    - name: neutral_monsterblacksandburrower_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fa005b280b71ed247864f5e3b8d24eeb
+    - name: neutral_monsterblacksandburrower_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ec89e57381b07c8419ccbac669edc583
+    - name: neutral_monsterblacksandburrower_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 84db7dfec3da9e943b104bdfd53f3038
+    - name: neutral_monsterblacksandburrower_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 254f2a22636b96b40a4f0313ed66c8cd
+    - name: neutral_monsterblacksandburrower_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5c8ce953e6a8b3144854bf54f17e2e64
+    - name: neutral_monsterblacksandburrower_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bfc41716692f05e4c8cfff2962edf0a5
+    - name: neutral_monsterblacksandburrower_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4da95892310e5b44497b32d592e2d830
+    - name: neutral_monsterblacksandburrower_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 68b64345a46397f41962c46287cb3660
+    - name: neutral_monsterblacksandburrower_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e6124c0dce19fbc43bdff235282eb6d0
+    - name: neutral_monsterblacksandburrower_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6ec9524bcbb40f44589bde0ec17aaca6
+    - name: neutral_monsterblacksandburrower_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fe9ca654d97f7f446bc3f50eeb0142d5
+    - name: neutral_monsterblacksandburrower_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c9f2cde1fe682b74286aed3e0cdbf89b
+    - name: neutral_monsterblacksandburrower_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d6e062184080cee40b08b53375e163e5
+    - name: neutral_monsterblacksandburrower_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: facc0673b2580b84bb92662eb5324a8b
+    - name: neutral_monsterblacksandburrower_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 08254c7db092b4745abedf6382db54dd
+    - name: neutral_monsterblacksandburrower_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a1009a5c3107f1344ba62b30678b744a
+    - name: neutral_monsterblacksandburrower_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: df007c479262aff40855c16d6951702b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

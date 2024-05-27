@@ -1,0 +1,3240 @@
+fileFormatVersion: 2
+guid: 5a5726251f1978740b5beb9b871e4db2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_giantcrab_Frame_0
+    originalName: 
+    pivot: {x: 0.43396223, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 44
+      width: 53
+      height: 32
+    spriteID: 46473a2db2331c94eb8e6ff0a275d6a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 27}
+  - name: neutral_giantcrab_Frame_1
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 4
+      width: 55
+      height: 32
+    spriteID: bcb1636e7a5397842bd3272f6fedf043
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: -13}
+  - name: neutral_giantcrab_Frame_2
+    originalName: 
+    pivot: {x: 0.4642857, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 4
+      width: 56
+      height: 31
+    spriteID: b700295891010b742bb07da1bc643c49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: -13}
+  - name: neutral_giantcrab_Frame_3
+    originalName: 
+    pivot: {x: 0.47368416, y: -0.6785714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 41
+      width: 57
+      height: 28
+    spriteID: 3944c1dc750294546a37caf0071e2001
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 22}
+  - name: neutral_giantcrab_Frame_4
+    originalName: 
+    pivot: {x: 0.4230769, y: -0.6896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 875
+      width: 52
+      height: 29
+    spriteID: c9524e5e9cd4e504f90ecd51cb66b6cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 855}
+  - name: neutral_giantcrab_Frame_5
+    originalName: 
+    pivot: {x: 0.4230769, y: -0.6896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 912
+      width: 52
+      height: 29
+    spriteID: 74b83e72a7938f14bb843715d4f6077b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 892}
+  - name: neutral_giantcrab_Frame_6
+    originalName: 
+    pivot: {x: 0.4230769, y: -0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 988
+      width: 52
+      height: 28
+    spriteID: 205d8af893726824e8112a198fa12473
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 968}
+  - name: neutral_giantcrab_Frame_7
+    originalName: 
+    pivot: {x: 0.4230769, y: -0.7407407}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 77
+      width: 52
+      height: 27
+    spriteID: 4c8c763303e7fbf4696618b84e264487
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 57}
+  - name: neutral_giantcrab_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 450
+      width: 48
+      height: 35
+    spriteID: ce4c72b283a35874eb99e9ab7537e4be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 434}
+  - name: neutral_giantcrab_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 281
+      width: 48
+      height: 33
+    spriteID: da69e74bd1cef044e945cd8ef89233ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 265}
+  - name: neutral_giantcrab_Frame_10
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.46875003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 445
+      width: 49
+      height: 32
+    spriteID: b5aba4967ec6fc849ad313de027ff5e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 430}
+  - name: neutral_giantcrab_Frame_11
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.48387098}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 797
+      width: 49
+      height: 31
+    spriteID: 6edd0178377394d4892fff558ba2be75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 782}
+  - name: neutral_giantcrab_Frame_12
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 836
+      width: 49
+      height: 31
+    spriteID: 596d248ff7143c54aaa7df5c7c161f0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 819}
+  - name: neutral_giantcrab_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 949
+      width: 48
+      height: 31
+    spriteID: 89d667f31687e7b4bac8ac189be5e9fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 932}
+  - name: neutral_giantcrab_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 709
+      width: 48
+      height: 34
+    spriteID: f041800e13757ff4c811af341287bcb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 692}
+  - name: neutral_giantcrab_Frame_15
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 621
+      width: 46
+      height: 36
+    spriteID: 709a65b5bb518d34fa53263b0f882780
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 604}
+  - name: neutral_giantcrab_Frame_16
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 665
+      width: 46
+      height: 36
+    spriteID: df78f5bd36a7b3448ba7f965e62fe9f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 648}
+  - name: neutral_giantcrab_Frame_17
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.51428574}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 162
+      width: 46
+      height: 35
+    spriteID: a6b331ce3d983414ab544696c8e87890
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 144}
+  - name: neutral_giantcrab_Frame_18
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 318
+      width: 47
+      height: 36
+    spriteID: c4c5fa4f2e07e6f4c9ade094cbf85f1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 301}
+  - name: neutral_giantcrab_Frame_19
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.45945948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 273
+      width: 46
+      height: 37
+    spriteID: 849d6a5fb6ea9df4a87338c9aa62658d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 256}
+  - name: neutral_giantcrab_Frame_20
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.45945948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 184
+      width: 47
+      height: 37
+    spriteID: fd921f0f0f7a730479b8c57ff59f8df0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 167}
+  - name: neutral_giantcrab_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: -0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 229
+      width: 48
+      height: 36
+    spriteID: cd1e471191fba614596f30d27d31a5a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 212}
+  - name: neutral_giantcrab_Frame_22
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 579
+      width: 49
+      height: 34
+    spriteID: d6225130d3255b749854d445810734ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 562}
+  - name: neutral_giantcrab_Frame_23
+    originalName: 
+    pivot: {x: 0.5535714, y: -0.48571432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 838
+      width: 56
+      height: 35
+    spriteID: bce260f0970b42d46a5fa8f7cb02deb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 821}
+  - name: neutral_giantcrab_Frame_24
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.43589747}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 711
+      width: 54
+      height: 39
+    spriteID: 11a60b5983ef5eb4bb92e8876dc08e01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 694}
+  - name: neutral_giantcrab_Frame_25
+    originalName: 
+    pivot: {x: 0.49019608, y: -0.45945948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 4
+      width: 51
+      height: 37
+    spriteID: ebbb22f900cae7c4d8650dfcca6a8b91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: -13}
+  - name: neutral_giantcrab_Frame_26
+    originalName: 
+    pivot: {x: 0.5535714, y: -0.48571432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 881
+      width: 56
+      height: 35
+    spriteID: 22287e0a011685542829d087d34d1d38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 864}
+  - name: neutral_giantcrab_Frame_27
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.43589747}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 758
+      width: 54
+      height: 39
+    spriteID: e3d9215c1a6ab1d48932f5f7b79f764d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 741}
+  - name: neutral_giantcrab_Frame_28
+    originalName: 
+    pivot: {x: 0.49019608, y: -0.45945948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 49
+      width: 51
+      height: 37
+    spriteID: a2cfeef5ef02b6d47ac23940d6a35fb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 32}
+  - name: neutral_giantcrab_Frame_29
+    originalName: 
+    pivot: {x: 0.47272727, y: -0.45945948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 190
+      width: 55
+      height: 37
+    spriteID: 4b5fb70e4d9f9bd4ea32e7a88b4bcf51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 173}
+  - name: neutral_giantcrab_Frame_30
+    originalName: 
+    pivot: {x: 0.42622948, y: -0.51428574}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 668
+      width: 61
+      height: 35
+    spriteID: 390b3098938cabf429074d4d289901fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 650}
+  - name: neutral_giantcrab_Frame_31
+    originalName: 
+    pivot: {x: 0.3833333, y: -0.4117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 965
+      width: 60
+      height: 34
+    spriteID: 353fef1a04c193a449d1d453be713ccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 951}
+  - name: neutral_giantcrab_Frame_32
+    originalName: 
+    pivot: {x: 0.3275862, y: -0.3448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 4
+      width: 58
+      height: 29
+    spriteID: 57ae244fd2f1d1444811c802ba3decff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: -6}
+  - name: neutral_giantcrab_Frame_33
+    originalName: 
+    pivot: {x: 0.30909088, y: -0.39285713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 601
+      width: 55
+      height: 28
+    spriteID: d7f0e4b361fdde14ea5d291bc6f5280e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 590}
+  - name: neutral_giantcrab_Frame_34
+    originalName: 
+    pivot: {x: 0.30909088, y: -0.4583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 112
+      width: 55
+      height: 24
+    spriteID: 63d9131a4bad5b7448d84e9b3455e604
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 101}
+  - name: neutral_giantcrab_Frame_35
+    originalName: 
+    pivot: {x: 0.32142857, y: -0.57894737}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 144
+      width: 56
+      height: 19
+    spriteID: b42c3c82b8d0a8242970b851800d5018
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 133}
+  - name: neutral_giantcrab_Frame_36
+    originalName: 
+    pivot: {x: 0.3333333, y: -0.6111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1002
+      width: 57
+      height: 18
+    spriteID: 1ed713ca47dcafa4ab84696452bf70dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 991}
+  - name: neutral_giantcrab_Frame_37
+    originalName: 
+    pivot: {x: 0.3333333, y: -0.6111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 171
+      width: 57
+      height: 18
+    spriteID: d62606a51adfae846aaeb2ea953f7387
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 160}
+  - name: neutral_giantcrab_Frame_38
+    originalName: 
+    pivot: {x: 0.3333333, y: -0.6111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 197
+      width: 57
+      height: 18
+    spriteID: be8f6e9ff2d695b47ae06bb618a09b01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 186}
+  - name: neutral_giantcrab_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 493
+      width: 48
+      height: 35
+    spriteID: a0f135e027739dd40891229f41cb42fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 477}
+  - name: neutral_giantcrab_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 536
+      width: 48
+      height: 35
+    spriteID: 14207eb1899ed4b46ae0c2bcf82c1fde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 520}
+  - name: neutral_giantcrab_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 751
+      width: 48
+      height: 34
+    spriteID: 81789dc6fbf01b34290f777171e08a27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 735}
+  - name: neutral_giantcrab_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 793
+      width: 48
+      height: 34
+    spriteID: 28726cd5cc20a5541a87bdc838344328
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 777}
+  - name: neutral_giantcrab_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 322
+      width: 48
+      height: 33
+    spriteID: ac7162ee553d9264bba085f89a95484f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 306}
+  - name: neutral_giantcrab_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 637
+      width: 48
+      height: 32
+    spriteID: a3658f8699326d5459faa23eedf515b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 621}
+  - name: neutral_giantcrab_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 677
+      width: 48
+      height: 32
+    spriteID: 86b55c88c49fcb04abe2700ab40dd452
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 661}
+  - name: neutral_giantcrab_Frame_46
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.46875003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 485
+      width: 49
+      height: 32
+    spriteID: 575826a1284f55c4198abc49e44cd240
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 470}
+  - name: neutral_giantcrab_Frame_47
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 835
+      width: 49
+      height: 33
+    spriteID: 31a565b4d531c8243acd9c0d009dab02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 820}
+  - name: neutral_giantcrab_Frame_48
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 876
+      width: 49
+      height: 33
+    spriteID: 5d701889aaa489945a34d46f2e30a216
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 861}
+  - name: neutral_giantcrab_Frame_49
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 917
+      width: 49
+      height: 33
+    spriteID: 2c7a8af87e1b5f64bbf9578c3dd2a982
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 902}
+  - name: neutral_giantcrab_Frame_50
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 958
+      width: 49
+      height: 33
+    spriteID: 53f2d6ea2537b2243bf8b80fd47e84f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 943}
+  - name: neutral_giantcrab_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 363
+      width: 48
+      height: 33
+    spriteID: e4acc5ad2f87f734c83d901056181b16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 347}
+  - name: neutral_giantcrab_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 404
+      width: 48
+      height: 33
+    spriteID: 77a72d2896b051a47a20bd509794afa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 388}
+  - name: neutral_giantcrab_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 717
+      width: 48
+      height: 32
+    spriteID: 2ba25f7d005bff8458790a76ce26e189
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 700}
+  - name: neutral_giantcrab_Frame_54
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 362
+      width: 47
+      height: 36
+    spriteID: 3a9954993ff300b4cb624b5701c0e82c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 345}
+  - name: neutral_giantcrab_Frame_55
+    originalName: 
+    pivot: {x: 0.52941173, y: -0.45945948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 94
+      width: 51
+      height: 37
+    spriteID: 34cd8d83fea0a6042bf714ab4b36e409
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 77}
+  - name: neutral_giantcrab_Frame_56
+    originalName: 
+    pivot: {x: 0.7111111, y: -0.4047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 4
+      width: 45
+      height: 42
+    spriteID: b67779e420b8e0e4ea510c6a0f9eb08c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: -13}
+  - name: neutral_giantcrab_Frame_57
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.4047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 235
+      width: 48
+      height: 42
+    spriteID: ba22bbd9cde36fa4098fe3e1fea8c9d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 218}
+  - name: neutral_giantcrab_Frame_58
+    originalName: 
+    pivot: {x: 0.6530612, y: -0.41463417}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 547
+      width: 49
+      height: 41
+    spriteID: 4c62278972f5188418781e978349f8bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 530}
+  - name: neutral_giantcrab_Frame_59
+    originalName: 
+    pivot: {x: 0.64, y: -0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 694
+      width: 50
+      height: 40
+    spriteID: fd41a8d5cee7afc4ea68b89e54315db4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 677}
+  - name: neutral_giantcrab_Frame_60
+    originalName: 
+    pivot: {x: 0.7111111, y: -0.4047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 54
+      width: 45
+      height: 42
+    spriteID: 4b7b3728df9893e41a6249ead49e2dde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 37}
+  - name: neutral_giantcrab_Frame_61
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.4047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 285
+      width: 48
+      height: 42
+    spriteID: dd0202dbeb20f8746a500bc259caf8cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 268}
+  - name: neutral_giantcrab_Frame_62
+    originalName: 
+    pivot: {x: 0.6530612, y: -0.41463417}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 596
+      width: 49
+      height: 41
+    spriteID: 75af4b7c4f6836540b33c0471dafaa6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 579}
+  - name: neutral_giantcrab_Frame_63
+    originalName: 
+    pivot: {x: 0.64, y: -0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 742
+      width: 50
+      height: 40
+    spriteID: 45688a4654e7acf49b50842150ae8e0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 725}
+  - name: neutral_giantcrab_Frame_64
+    originalName: 
+    pivot: {x: 0.7111111, y: -0.4047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 104
+      width: 45
+      height: 42
+    spriteID: aee1cdeae769ce34ab7fb4c56b06467e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 87}
+  - name: neutral_giantcrab_Frame_65
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.4047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 335
+      width: 48
+      height: 42
+    spriteID: af1282c592125fd448a6463c225a8f63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 318}
+  - name: neutral_giantcrab_Frame_66
+    originalName: 
+    pivot: {x: 0.6530612, y: -0.41463417}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 645
+      width: 49
+      height: 41
+    spriteID: b1ad55b7314055f4caca6d4c88dd6b86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 628}
+  - name: neutral_giantcrab_Frame_67
+    originalName: 
+    pivot: {x: 0.64, y: -0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 790
+      width: 50
+      height: 40
+    spriteID: e1e9d4930af12374f88e2cfb94c7acad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 773}
+  - name: neutral_giantcrab_Frame_68
+    originalName: 
+    pivot: {x: 0.484375, y: -0.48571432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 332
+      width: 64
+      height: 35
+    spriteID: 56441dbd2a7db0e439312602e77d1a67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 315}
+  - name: neutral_giantcrab_Frame_69
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.4473684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 98
+      width: 72
+      height: 38
+    spriteID: 19cc2496381e6a14f8df878e14595cc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 81}
+  - name: neutral_giantcrab_Frame_70
+    originalName: 
+    pivot: {x: 0.43055555, y: -0.43589747}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 72
+      height: 39
+    spriteID: ab4df09cc268bc54c860ef632e88b209
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: -13}
+  - name: neutral_giantcrab_Frame_71
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.56666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 205
+      width: 53
+      height: 30
+    spriteID: 6ed827f61431f454795200d495c1d462
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 188}
+  - name: neutral_giantcrab_Frame_72
+    originalName: 
+    pivot: {x: 0.47540987, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 465
+      width: 61
+      height: 33
+    spriteID: 3603b5ec07194e3499b698f08f03efc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 449}
+  - name: neutral_giantcrab_Frame_73
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 805
+      width: 62
+      height: 33
+    spriteID: a6937b32572e8314da41f00a4e0dc152
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 788}
+  - name: neutral_giantcrab_Frame_74
+    originalName: 
+    pivot: {x: 0.46969697, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 846
+      width: 66
+      height: 31
+    spriteID: ff3aa255eeac2b04a8ff33c2bf22d01a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 829}
+  - name: neutral_giantcrab_Frame_75
+    originalName: 
+    pivot: {x: 0.40540543, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 86
+      width: 74
+      height: 33
+    spriteID: e3ba6f7ca7558394e9f076c286fbf55e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 69}
+  - name: neutral_giantcrab_Frame_76
+    originalName: 
+    pivot: {x: 0.41333336, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 4
+      width: 75
+      height: 33
+    spriteID: 5a088ded9fc66ed4798adf544af5a3e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: -13}
+  - name: neutral_giantcrab_Frame_77
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 84
+      width: 53
+      height: 31
+    spriteID: 6b4a08296c55f2541a0952f4b54815cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 67}
+  - name: neutral_giantcrab_Frame_78
+    originalName: 
+    pivot: {x: 0.4603175, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 500
+      width: 63
+      height: 34
+    spriteID: 75f369b838df04648af0be4b0f8f5cc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 483}
+  - name: neutral_giantcrab_Frame_79
+    originalName: 
+    pivot: {x: 0.4761905, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 542
+      width: 63
+      height: 34
+    spriteID: d193339afa39459488e57990fb907733
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 525}
+  - name: neutral_giantcrab_Frame_80
+    originalName: 
+    pivot: {x: 0.4920635, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 924
+      width: 63
+      height: 31
+    spriteID: 1cdc009d6b8788547ac2be4764b9b90a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 907}
+  - name: neutral_giantcrab_Frame_81
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 250
+      width: 72
+      height: 33
+    spriteID: 438f90c0974ab664a99972a34cf2d9db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 233}
+  - name: neutral_giantcrab_Frame_82
+    originalName: 
+    pivot: {x: 0.41891894, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 127
+      width: 74
+      height: 33
+    spriteID: 1732f840e81d75143b63db0be95b67ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 110}
+  - name: neutral_giantcrab_Frame_83
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.56666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 525
+      width: 52
+      height: 30
+    spriteID: e8554479bd005f9438f1cf27c6725681
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 508}
+  - name: neutral_giantcrab_Frame_84
+    originalName: 
+    pivot: {x: 0.4603175, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 385
+      width: 63
+      height: 32
+    spriteID: 125261bbb67360f41ba6c8f3f5c5bab4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 368}
+  - name: neutral_giantcrab_Frame_85
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 418
+      width: 65
+      height: 33
+    spriteID: cf71911b1c9a6824aad2e35c253e60e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 401}
+  - name: neutral_giantcrab_Frame_86
+    originalName: 
+    pivot: {x: 0.484375, y: -0.48571432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 375
+      width: 64
+      height: 35
+    spriteID: 064c6b5676df49642ba1f397ff4e83da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 358}
+  - name: neutral_giantcrab_Frame_87
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.4473684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 144
+      width: 72
+      height: 38
+    spriteID: fd5f355744342fe46b35e98e2583027c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 127}
+  - name: neutral_giantcrab_Frame_88
+    originalName: 
+    pivot: {x: 0.43055555, y: -0.43589747}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 51
+      width: 72
+      height: 39
+    spriteID: 78aeff9012d5e79449e6df02c5836eac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 34}
+  - name: neutral_giantcrab_Frame_89
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.56666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 243
+      width: 53
+      height: 30
+    spriteID: 093b60c53ea35464fb1f03d5f1681b85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 226}
+  - name: neutral_giantcrab_Frame_90
+    originalName: 
+    pivot: {x: 0.47540987, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 506
+      width: 61
+      height: 33
+    spriteID: a2dbbd50aa3d9394d8f01a13dfd506d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 490}
+  - name: neutral_giantcrab_Frame_91
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 885
+      width: 62
+      height: 33
+    spriteID: 295a2e8866ebca244b19728fe3e0833b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 868}
+  - name: neutral_giantcrab_Frame_92
+    originalName: 
+    pivot: {x: 0.46969697, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 926
+      width: 66
+      height: 31
+    spriteID: 0587cd1a2bb0ca64c87b055ebab54633
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 909}
+  - name: neutral_giantcrab_Frame_93
+    originalName: 
+    pivot: {x: 0.40540543, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 168
+      width: 74
+      height: 33
+    spriteID: 5015d38e09e1e2b469b0635f1c21d3f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 151}
+  - name: neutral_giantcrab_Frame_94
+    originalName: 
+    pivot: {x: 0.41333336, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 45
+      width: 75
+      height: 33
+    spriteID: a961a8796a168694eaec0ed422aef929
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 28}
+  - name: neutral_giantcrab_Frame_95
+    originalName: 
+    pivot: {x: 0.5660378, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 123
+      width: 53
+      height: 31
+    spriteID: afa80980b34ec284baa3b71720f03238
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 106}
+  - name: neutral_giantcrab_Frame_96
+    originalName: 
+    pivot: {x: 0.4603175, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 584
+      width: 63
+      height: 34
+    spriteID: 5d7b8a0f20fedb74c92032037631f21f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 567}
+  - name: neutral_giantcrab_Frame_97
+    originalName: 
+    pivot: {x: 0.4761905, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 626
+      width: 63
+      height: 34
+    spriteID: c5eccfa0f82559c4b93a15d80dfaff9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 609}
+  - name: neutral_giantcrab_Frame_98
+    originalName: 
+    pivot: {x: 0.4920635, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 963
+      width: 63
+      height: 31
+    spriteID: 2783e66e72930ff41b4b221766f0cd1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 946}
+  - name: neutral_giantcrab_Frame_99
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 291
+      width: 72
+      height: 33
+    spriteID: ddeb105a1aa4c78449865e246a6e4a48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 274}
+  - name: neutral_giantcrab_Frame_100
+    originalName: 
+    pivot: {x: 0.41891894, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 209
+      width: 74
+      height: 33
+    spriteID: b508817c4cd92ec4984f8c7a3bf1ad1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 192}
+  - name: neutral_giantcrab_Frame_101
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.56666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 563
+      width: 52
+      height: 30
+    spriteID: 085bd6278683eda41bfa8fe86798de72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 546}
+  - name: neutral_giantcrab_Frame_102
+    originalName: 
+    pivot: {x: 0.4603175, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 425
+      width: 63
+      height: 32
+    spriteID: f0bdebf85246ddd4a9bbf5bd584f607c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 408}
+  - name: neutral_giantcrab_Frame_103
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 459
+      width: 65
+      height: 33
+    spriteID: d2d5c4b0c10c70b4598080e5e43c634e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 442}
+  - name: neutral_giantcrab_Frame_104
+    originalName: 
+    pivot: {x: 0.52941173, y: -0.45945948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 139
+      width: 51
+      height: 37
+    spriteID: be8b9b63ec8985b4fa9a292c5a841946
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 122}
+  - name: neutral_giantcrab_Frame_105
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 406
+      width: 47
+      height: 36
+    spriteID: f87f309b7c598d646a6166496e7fe220
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 389}
+  - name: neutral_giantcrab_Frame_106
+    originalName: 
+    pivot: {x: 0.5, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 757
+      width: 48
+      height: 32
+    spriteID: ab84c3fef5bd9e441bfaa9bede99c88f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 740}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1599369257
+    name: neutral_giantcrab
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_giantcrab_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 46473a2db2331c94eb8e6ff0a275d6a5
+    - name: neutral_giantcrab_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bcb1636e7a5397842bd3272f6fedf043
+    - name: neutral_giantcrab_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b700295891010b742bb07da1bc643c49
+    - name: neutral_giantcrab_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3944c1dc750294546a37caf0071e2001
+    - name: neutral_giantcrab_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c9524e5e9cd4e504f90ecd51cb66b6cb
+    - name: neutral_giantcrab_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 74b83e72a7938f14bb843715d4f6077b
+    - name: neutral_giantcrab_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 205d8af893726824e8112a198fa12473
+    - name: neutral_giantcrab_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4c8c763303e7fbf4696618b84e264487
+    - name: neutral_giantcrab_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ce4c72b283a35874eb99e9ab7537e4be
+    - name: neutral_giantcrab_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: da69e74bd1cef044e945cd8ef89233ce
+    - name: neutral_giantcrab_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b5aba4967ec6fc849ad313de027ff5e4
+    - name: neutral_giantcrab_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6edd0178377394d4892fff558ba2be75
+    - name: neutral_giantcrab_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 596d248ff7143c54aaa7df5c7c161f0d
+    - name: neutral_giantcrab_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 89d667f31687e7b4bac8ac189be5e9fd
+    - name: neutral_giantcrab_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f041800e13757ff4c811af341287bcb1
+    - name: neutral_giantcrab_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 709a65b5bb518d34fa53263b0f882780
+    - name: neutral_giantcrab_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: df78f5bd36a7b3448ba7f965e62fe9f9
+    - name: neutral_giantcrab_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a6b331ce3d983414ab544696c8e87890
+    - name: neutral_giantcrab_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c4c5fa4f2e07e6f4c9ade094cbf85f1b
+    - name: neutral_giantcrab_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 849d6a5fb6ea9df4a87338c9aa62658d
+    - name: neutral_giantcrab_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fd921f0f0f7a730479b8c57ff59f8df0
+    - name: neutral_giantcrab_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cd1e471191fba614596f30d27d31a5a8
+    - name: neutral_giantcrab_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d6225130d3255b749854d445810734ff
+    - name: neutral_giantcrab_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bce260f0970b42d46a5fa8f7cb02deb5
+    - name: neutral_giantcrab_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 11a60b5983ef5eb4bb92e8876dc08e01
+    - name: neutral_giantcrab_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ebbb22f900cae7c4d8650dfcca6a8b91
+    - name: neutral_giantcrab_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 22287e0a011685542829d087d34d1d38
+    - name: neutral_giantcrab_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e3d9215c1a6ab1d48932f5f7b79f764d
+    - name: neutral_giantcrab_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a2cfeef5ef02b6d47ac23940d6a35fb6
+    - name: neutral_giantcrab_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4b5fb70e4d9f9bd4ea32e7a88b4bcf51
+    - name: neutral_giantcrab_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 390b3098938cabf429074d4d289901fb
+    - name: neutral_giantcrab_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 353fef1a04c193a449d1d453be713ccc
+    - name: neutral_giantcrab_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 57ae244fd2f1d1444811c802ba3decff
+    - name: neutral_giantcrab_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d7f0e4b361fdde14ea5d291bc6f5280e
+    - name: neutral_giantcrab_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 63d9131a4bad5b7448d84e9b3455e604
+    - name: neutral_giantcrab_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b42c3c82b8d0a8242970b851800d5018
+    - name: neutral_giantcrab_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1ed713ca47dcafa4ab84696452bf70dd
+    - name: neutral_giantcrab_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d62606a51adfae846aaeb2ea953f7387
+    - name: neutral_giantcrab_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: be8f6e9ff2d695b47ae06bb618a09b01
+    - name: neutral_giantcrab_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a0f135e027739dd40891229f41cb42fd
+    - name: neutral_giantcrab_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 14207eb1899ed4b46ae0c2bcf82c1fde
+    - name: neutral_giantcrab_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 81789dc6fbf01b34290f777171e08a27
+    - name: neutral_giantcrab_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 28726cd5cc20a5541a87bdc838344328
+    - name: neutral_giantcrab_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ac7162ee553d9264bba085f89a95484f
+    - name: neutral_giantcrab_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a3658f8699326d5459faa23eedf515b0
+    - name: neutral_giantcrab_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 86b55c88c49fcb04abe2700ab40dd452
+    - name: neutral_giantcrab_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 575826a1284f55c4198abc49e44cd240
+    - name: neutral_giantcrab_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 31a565b4d531c8243acd9c0d009dab02
+    - name: neutral_giantcrab_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5d701889aaa489945a34d46f2e30a216
+    - name: neutral_giantcrab_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2c7a8af87e1b5f64bbf9578c3dd2a982
+    - name: neutral_giantcrab_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 53f2d6ea2537b2243bf8b80fd47e84f1
+    - name: neutral_giantcrab_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e4acc5ad2f87f734c83d901056181b16
+    - name: neutral_giantcrab_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 77a72d2896b051a47a20bd509794afa8
+    - name: neutral_giantcrab_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2ba25f7d005bff8458790a76ce26e189
+    - name: neutral_giantcrab_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3a9954993ff300b4cb624b5701c0e82c
+    - name: neutral_giantcrab_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 34cd8d83fea0a6042bf714ab4b36e409
+    - name: neutral_giantcrab_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b67779e420b8e0e4ea510c6a0f9eb08c
+    - name: neutral_giantcrab_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ba22bbd9cde36fa4098fe3e1fea8c9d0
+    - name: neutral_giantcrab_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4c62278972f5188418781e978349f8bb
+    - name: neutral_giantcrab_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fd41a8d5cee7afc4ea68b89e54315db4
+    - name: neutral_giantcrab_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4b7b3728df9893e41a6249ead49e2dde
+    - name: neutral_giantcrab_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dd0202dbeb20f8746a500bc259caf8cb
+    - name: neutral_giantcrab_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 75af4b7c4f6836540b33c0471dafaa6d
+    - name: neutral_giantcrab_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 45688a4654e7acf49b50842150ae8e0a
+    - name: neutral_giantcrab_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: aee1cdeae769ce34ab7fb4c56b06467e
+    - name: neutral_giantcrab_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: af1282c592125fd448a6463c225a8f63
+    - name: neutral_giantcrab_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b1ad55b7314055f4caca6d4c88dd6b86
+    - name: neutral_giantcrab_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e1e9d4930af12374f88e2cfb94c7acad
+    - name: neutral_giantcrab_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 56441dbd2a7db0e439312602e77d1a67
+    - name: neutral_giantcrab_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 19cc2496381e6a14f8df878e14595cc7
+    - name: neutral_giantcrab_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ab4df09cc268bc54c860ef632e88b209
+    - name: neutral_giantcrab_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6ed827f61431f454795200d495c1d462
+    - name: neutral_giantcrab_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3603b5ec07194e3499b698f08f03efc3
+    - name: neutral_giantcrab_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a6937b32572e8314da41f00a4e0dc152
+    - name: neutral_giantcrab_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ff3aa255eeac2b04a8ff33c2bf22d01a
+    - name: neutral_giantcrab_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e3ba6f7ca7558394e9f076c286fbf55e
+    - name: neutral_giantcrab_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5a088ded9fc66ed4798adf544af5a3e2
+    - name: neutral_giantcrab_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6b4a08296c55f2541a0952f4b54815cc
+    - name: neutral_giantcrab_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 75f369b838df04648af0be4b0f8f5cc3
+    - name: neutral_giantcrab_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d193339afa39459488e57990fb907733
+    - name: neutral_giantcrab_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1cdc009d6b8788547ac2be4764b9b90a
+    - name: neutral_giantcrab_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 438f90c0974ab664a99972a34cf2d9db
+    - name: neutral_giantcrab_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1732f840e81d75143b63db0be95b67ad
+    - name: neutral_giantcrab_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e8554479bd005f9438f1cf27c6725681
+    - name: neutral_giantcrab_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 125261bbb67360f41ba6c8f3f5c5bab4
+    - name: neutral_giantcrab_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cf71911b1c9a6824aad2e35c253e60e3
+    - name: neutral_giantcrab_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 064c6b5676df49642ba1f397ff4e83da
+    - name: neutral_giantcrab_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fd5f355744342fe46b35e98e2583027c
+    - name: neutral_giantcrab_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 78aeff9012d5e79449e6df02c5836eac
+    - name: neutral_giantcrab_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 093b60c53ea35464fb1f03d5f1681b85
+    - name: neutral_giantcrab_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a2dbbd50aa3d9394d8f01a13dfd506d0
+    - name: neutral_giantcrab_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 295a2e8866ebca244b19728fe3e0833b
+    - name: neutral_giantcrab_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0587cd1a2bb0ca64c87b055ebab54633
+    - name: neutral_giantcrab_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5015d38e09e1e2b469b0635f1c21d3f7
+    - name: neutral_giantcrab_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a961a8796a168694eaec0ed422aef929
+    - name: neutral_giantcrab_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: afa80980b34ec284baa3b71720f03238
+    - name: neutral_giantcrab_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5d7b8a0f20fedb74c92032037631f21f
+    - name: neutral_giantcrab_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c5eccfa0f82559c4b93a15d80dfaff9f
+    - name: neutral_giantcrab_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2783e66e72930ff41b4b221766f0cd1e
+    - name: neutral_giantcrab_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ddeb105a1aa4c78449865e246a6e4a48
+    - name: neutral_giantcrab_Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b508817c4cd92ec4984f8c7a3bf1ad1e
+    - name: neutral_giantcrab_Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 085bd6278683eda41bfa8fe86798de72
+    - name: neutral_giantcrab_Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f0bdebf85246ddd4a9bbf5bd584f607c
+    - name: neutral_giantcrab_Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d2d5c4b0c10c70b4598080e5e43c634e
+    - name: neutral_giantcrab_Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: be8b9b63ec8985b4fa9a292c5a841946
+    - name: neutral_giantcrab_Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f87f309b7c598d646a6166496e7fe220
+    - name: neutral_giantcrab_Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ab84c3fef5bd9e441bfaa9bede99c88f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

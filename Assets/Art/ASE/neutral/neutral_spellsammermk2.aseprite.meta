@@ -1,0 +1,2051 @@
+fileFormatVersion: 2
+guid: 671fa467b17b75649bd2b18b635b2bba
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_spellsammermk2_Frame_0
+    originalName: 
+    pivot: {x: 0.6097561, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 64
+      width: 41
+      height: 51
+    spriteID: afa605d4fea1e3a47bcdb4f1ad9cbda8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 48}
+  - name: neutral_spellsammermk2_Frame_1
+    originalName: 
+    pivot: {x: 0.6097561, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 4
+      width: 41
+      height: 52
+    spriteID: eff16c98b6148a346821af5907a29b67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: -12}
+  - name: neutral_spellsammermk2_Frame_2
+    originalName: 
+    pivot: {x: 0.6190476, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 450
+      width: 42
+      height: 51
+    spriteID: fe7dfa55424b83e43bdaa2d13023e6fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 434}
+  - name: neutral_spellsammermk2_Frame_3
+    originalName: 
+    pivot: {x: 0.6097561, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 123
+      width: 41
+      height: 49
+    spriteID: 1dd6990090e3e0c4d80e27fbe10bb8ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 107}
+  - name: neutral_spellsammermk2_Frame_4
+    originalName: 
+    pivot: {x: 0.6097561, y: -0.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 180
+      width: 41
+      height: 48
+    spriteID: ecf0bc9402ccbdf48a1af0524b1a6e7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 162}
+  - name: neutral_spellsammermk2_Frame_5
+    originalName: 
+    pivot: {x: 0.6, y: -0.38297874}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 405
+      width: 40
+      height: 47
+    spriteID: 2d288292168e5324ba53394f1b1d8241
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 387}
+  - name: neutral_spellsammermk2_Frame_6
+    originalName: 
+    pivot: {x: 0.6, y: -0.38297874}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 460
+      width: 40
+      height: 47
+    spriteID: d5edd2d23edce024ba3210ba970bb37f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 442}
+  - name: neutral_spellsammermk2_Frame_7
+    originalName: 
+    pivot: {x: 0.6, y: -0.36734694}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 236
+      width: 40
+      height: 49
+    spriteID: 21069590ab198154eb9d2963b9a0d9cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 218}
+  - name: neutral_spellsammermk2_Frame_8
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 250
+      width: 28
+      height: 58
+    spriteID: 4f339f6d4f44579469d78be42b93d969
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 234}
+  - name: neutral_spellsammermk2_Frame_9
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 190
+      width: 27
+      height: 56
+    spriteID: cc1a27085e9ecb34d82fb88d038e049a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 174}
+  - name: neutral_spellsammermk2_Frame_10
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 318
+      width: 27
+      height: 54
+    spriteID: 23e937b15c6336248865a23041dd2eaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 302}
+  - name: neutral_spellsammermk2_Frame_11
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 380
+      width: 27
+      height: 53
+    spriteID: 82db7f467b47c7241a437e72f0b32416
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 364}
+  - name: neutral_spellsammermk2_Frame_12
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 441
+      width: 27
+      height: 52
+    spriteID: 5a663735aa5c5fc489999cec6a79b323
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 425}
+  - name: neutral_spellsammermk2_Frame_13
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 316
+      width: 27
+      height: 60
+    spriteID: acef88521979a94408c44e826b97ef13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 300}
+  - name: neutral_spellsammermk2_Frame_14
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 384
+      width: 27
+      height: 60
+    spriteID: 97411adef1d228749ba6f280a5d31e9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 368}
+  - name: neutral_spellsammermk2_Frame_15
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 59
+      width: 27
+      height: 59
+    spriteID: 0412c16e6987ec44cb15a239232ab1fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 43}
+  - name: neutral_spellsammermk2_Frame_16
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 288
+      width: 29
+      height: 60
+    spriteID: 6270676adb454da4388758bb1008fa4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 272}
+  - name: neutral_spellsammermk2_Frame_17
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 356
+      width: 29
+      height: 59
+    spriteID: f518fcc56263e394ca1034800b63a308
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 340}
+  - name: neutral_spellsammermk2_Frame_18
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 114
+      width: 29
+      height: 58
+    spriteID: 7719ad917b8abba4886f3e1437642142
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 98}
+  - name: neutral_spellsammermk2_Frame_19
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 423
+      width: 29
+      height: 59
+    spriteID: 5a4d7c5e630e85c49a7c91ceacae6faa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 407}
+  - name: neutral_spellsammermk2_Frame_20
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 293
+      width: 40
+      height: 48
+    spriteID: 1fc1003869104a4428e5438efa202e6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 277}
+  - name: neutral_spellsammermk2_Frame_21
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 4
+      width: 40
+      height: 47
+    spriteID: 6d47786834c04314a91282b364ccfaa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: -12}
+  - name: neutral_spellsammermk2_Frame_22
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 452
+      width: 34
+      height: 47
+    spriteID: 4f3b51d8b2abd094d96c77b468371686
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 436}
+  - name: neutral_spellsammermk2_Frame_23
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 4
+      width: 34
+      height: 47
+    spriteID: 9722d4fae8e954f4dafd9f14bebdb6b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 266, y: -12}
+  - name: neutral_spellsammermk2_Frame_24
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 59
+      width: 40
+      height: 47
+    spriteID: 221139f741cd5dc46a7bd68204ea812c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 43}
+  - name: neutral_spellsammermk2_Frame_25
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 349
+      width: 40
+      height: 48
+    spriteID: 7c6b66cadcbf27f4e8cc80ea0dc1b4c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 333}
+  - name: neutral_spellsammermk2_Frame_26
+    originalName: 
+    pivot: {x: 0.55769235, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 393
+      width: 52
+      height: 49
+    spriteID: 263ef5e4bf9d7e24386b346d09c32087
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 377}
+  - name: neutral_spellsammermk2_Frame_27
+    originalName: 
+    pivot: {x: 0.53225803, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 335
+      width: 62
+      height: 50
+    spriteID: 4f6924cfe10ad534da41cfbcc89a2cf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 319}
+  - name: neutral_spellsammermk2_Frame_28
+    originalName: 
+    pivot: {x: 0.53521127, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 449
+      width: 71
+      height: 52
+    spriteID: 5b89bfef2384ec94fb22c265708d5482
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 433}
+  - name: neutral_spellsammermk2_Frame_29
+    originalName: 
+    pivot: {x: 0.515625, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 276
+      width: 64
+      height: 51
+    spriteID: b88a939792e21c94f985c4e2fef084c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 260}
+  - name: neutral_spellsammermk2_Frame_30
+    originalName: 
+    pivot: {x: 0.30769235, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 212
+      width: 26
+      height: 68
+    spriteID: 427ee13d6bf16774588fb815656c0811
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 196}
+  - name: neutral_spellsammermk2_Frame_31
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 254
+      width: 27
+      height: 56
+    spriteID: de5917cb11c5c904b830e85114532818
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 238}
+  - name: neutral_spellsammermk2_Frame_32
+    originalName: 
+    pivot: {x: 0.375, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 364
+      width: 24
+      height: 43
+    spriteID: 7635f4c32181f96408c0e53806e46cce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 348}
+  - name: neutral_spellsammermk2_Frame_33
+    originalName: 
+    pivot: {x: 0.40740746, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 314
+      width: 27
+      height: 42
+    spriteID: b91337ef803975e43af5c2b8d218873f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 338, y: 298}
+  - name: neutral_spellsammermk2_Frame_34
+    originalName: 
+    pivot: {x: 0.375, y: -0.57142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 415
+      width: 24
+      height: 28
+    spriteID: 98a7fa90b1166f2489ed2c2093eedc60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 399}
+  - name: neutral_spellsammermk2_Frame_35
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 379
+      width: 28
+      height: 44
+    spriteID: cf3d1b8f5953e204f9372e217049f83e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 363}
+  - name: neutral_spellsammermk2_Frame_36
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 160
+      width: 28
+      height: 43
+    spriteID: 00d2a69590ad7d844be3c22bd58e7e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 144}
+  - name: neutral_spellsammermk2_Frame_37
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 211
+      width: 28
+      height: 43
+    spriteID: 9fa493741475bf74cabe2f97037436ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 195}
+  - name: neutral_spellsammermk2_Frame_38
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 431
+      width: 28
+      height: 44
+    spriteID: 2b84cca7f2264854bbcef2db62630afd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 415}
+  - name: neutral_spellsammermk2_Frame_39
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 4
+      width: 28
+      height: 44
+    spriteID: 19520200c50d34c498feffc4f5fa7b47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: -12}
+  - name: neutral_spellsammermk2_Frame_40
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 56
+      width: 28
+      height: 44
+    spriteID: 9ac5bbe0de4eca94882c4c443f69656d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 40}
+  - name: neutral_spellsammermk2_Frame_41
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 114
+      width: 28
+      height: 45
+    spriteID: c59c7630b8fa25e4080dfa2f49cc7cf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 98}
+  - name: neutral_spellsammermk2_Frame_42
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 108
+      width: 28
+      height: 44
+    spriteID: b78ec601953e4464e9e61d364b483df5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 92}
+  - name: neutral_spellsammermk2_Frame_43
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 167
+      width: 28
+      height: 45
+    spriteID: 9578bfd588db39f459c88faafe1c8e3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 151}
+  - name: neutral_spellsammermk2_Frame_44
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 220
+      width: 28
+      height: 45
+    spriteID: 4d921b1300be5c84f8e2d406f96e3913
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 204}
+  - name: neutral_spellsammermk2_Frame_45
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 273
+      width: 28
+      height: 45
+    spriteID: ff33d0f8832bd964c8a261a37d5f6393
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 257}
+  - name: neutral_spellsammermk2_Frame_46
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 4
+      width: 28
+      height: 47
+    spriteID: fa9204259827fcd4aaa46cd6dc5752e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: -12}
+  - name: neutral_spellsammermk2_Frame_47
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 59
+      width: 28
+      height: 47
+    spriteID: 84555520a313dea4b8fbaf595c81242b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 43}
+  - name: neutral_spellsammermk2_Frame_48
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 326
+      width: 28
+      height: 45
+    spriteID: 2dc3d48b3ec7b12468d4c436fc8b1b29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 310}
+  - name: neutral_spellsammermk2_Frame_49
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 126
+      width: 28
+      height: 56
+    spriteID: 120015a6e762b1442b4cefc2f00e2b73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 110}
+  - name: neutral_spellsammermk2_Frame_50
+    originalName: 
+    pivot: {x: 0.51851845, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 180
+      width: 27
+      height: 62
+    spriteID: ee953d2167bb50447a94c8bcf09e4ce9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 164}
+  - name: neutral_spellsammermk2_Frame_51
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 262
+      width: 27
+      height: 44
+    spriteID: 9b84664d7f778284a8be2641b3828ee3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 246}
+  - name: neutral_spellsammermk2_Frame_52
+    originalName: 
+    pivot: {x: 0.55172414, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 413
+      y: 54
+      width: 29
+      height: 38
+    spriteID: 90e18d49d7dcad943a1c1fd9b2206ec2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 38}
+  - name: neutral_spellsammermk2_Frame_53
+    originalName: 
+    pivot: {x: 0.55172414, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 413
+      y: 4
+      width: 29
+      height: 42
+    spriteID: d956aae42601df14395fd299fdaefb1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: -12}
+  - name: neutral_spellsammermk2_Frame_54
+    originalName: 
+    pivot: {x: 0.55172414, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 413
+      y: 100
+      width: 29
+      height: 34
+    spriteID: d84c12379aa0c324491bf192916be3cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 84}
+  - name: neutral_spellsammermk2_Frame_55
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 74
+      width: 36
+      height: 61
+    spriteID: 8e0dbf218cb9eb8438ebad7e66d55e68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 58}
+  - name: neutral_spellsammermk2_Frame_56
+    originalName: 
+    pivot: {x: 0.44444442, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 4
+      width: 36
+      height: 62
+    spriteID: 0216cf52b52d2cd49b5badba3d031d17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: -12}
+  - name: neutral_spellsammermk2_Frame_57
+    originalName: 
+    pivot: {x: 0.44444442, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 143
+      width: 36
+      height: 61
+    spriteID: fabf652f9a2d3dd498e7f213e205d8b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 127}
+  - name: neutral_spellsammermk2_Frame_58
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.19512196}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 186
+      width: 50
+      height: 82
+    spriteID: 96b1ff5dd7ee2a5439e71f87fb49d91f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 170}
+  - name: neutral_spellsammermk2_Frame_59
+    originalName: 
+    pivot: {x: 0.48076922, y: -0.19277109}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 95
+      width: 52
+      height: 83
+    spriteID: 3f59266116f983f4482bfb8e3fb78fdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 79}
+  - name: neutral_spellsammermk2_Frame_60
+    originalName: 
+    pivot: {x: 0.484375, y: -0.19277109}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 4
+      width: 64
+      height: 83
+    spriteID: 8f1d87eae8234b2428b19c26878ca297
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: -12}
+  - name: neutral_spellsammermk2_Frame_61
+    originalName: 
+    pivot: {x: 0.48484847, y: -0.19512196}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 359
+      width: 66
+      height: 82
+    spriteID: 774292c8993676e4fab5bb72ec8b6b6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 343}
+  - name: neutral_spellsammermk2_Frame_62
+    originalName: 
+    pivot: {x: 0.48529407, y: -0.19753085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 270
+      width: 68
+      height: 81
+    spriteID: 5b54a067ac144a34f822b2d1076b57a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 254}
+  - name: neutral_spellsammermk2_Frame_63
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.19753085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 181
+      width: 70
+      height: 81
+    spriteID: 0e36e83282eb9da4397afc836a183ccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 165}
+  - name: neutral_spellsammermk2_Frame_64
+    originalName: 
+    pivot: {x: 0.48611107, y: -0.19753085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 72
+      height: 81
+    spriteID: a667c38d70116744e92269a5a9e38c54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 76}
+  - name: neutral_spellsammermk2_Frame_65
+    originalName: 
+    pivot: {x: 0.48648652, y: -0.19999999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 74
+      height: 80
+    spriteID: 906cef5f7b59ba24eae806a47b0e0412
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: -12}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -2477131
+    name: neutral_spellsammermk2
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_spellsammermk2_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: afa605d4fea1e3a47bcdb4f1ad9cbda8
+    - name: neutral_spellsammermk2_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: eff16c98b6148a346821af5907a29b67
+    - name: neutral_spellsammermk2_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fe7dfa55424b83e43bdaa2d13023e6fb
+    - name: neutral_spellsammermk2_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1dd6990090e3e0c4d80e27fbe10bb8ca
+    - name: neutral_spellsammermk2_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ecf0bc9402ccbdf48a1af0524b1a6e7a
+    - name: neutral_spellsammermk2_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2d288292168e5324ba53394f1b1d8241
+    - name: neutral_spellsammermk2_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d5edd2d23edce024ba3210ba970bb37f
+    - name: neutral_spellsammermk2_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 21069590ab198154eb9d2963b9a0d9cf
+    - name: neutral_spellsammermk2_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4f339f6d4f44579469d78be42b93d969
+    - name: neutral_spellsammermk2_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cc1a27085e9ecb34d82fb88d038e049a
+    - name: neutral_spellsammermk2_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 23e937b15c6336248865a23041dd2eaa
+    - name: neutral_spellsammermk2_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 82db7f467b47c7241a437e72f0b32416
+    - name: neutral_spellsammermk2_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5a663735aa5c5fc489999cec6a79b323
+    - name: neutral_spellsammermk2_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: acef88521979a94408c44e826b97ef13
+    - name: neutral_spellsammermk2_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 97411adef1d228749ba6f280a5d31e9c
+    - name: neutral_spellsammermk2_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0412c16e6987ec44cb15a239232ab1fb
+    - name: neutral_spellsammermk2_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6270676adb454da4388758bb1008fa4a
+    - name: neutral_spellsammermk2_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f518fcc56263e394ca1034800b63a308
+    - name: neutral_spellsammermk2_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7719ad917b8abba4886f3e1437642142
+    - name: neutral_spellsammermk2_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5a4d7c5e630e85c49a7c91ceacae6faa
+    - name: neutral_spellsammermk2_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1fc1003869104a4428e5438efa202e6e
+    - name: neutral_spellsammermk2_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6d47786834c04314a91282b364ccfaa8
+    - name: neutral_spellsammermk2_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4f3b51d8b2abd094d96c77b468371686
+    - name: neutral_spellsammermk2_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9722d4fae8e954f4dafd9f14bebdb6b8
+    - name: neutral_spellsammermk2_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 221139f741cd5dc46a7bd68204ea812c
+    - name: neutral_spellsammermk2_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7c6b66cadcbf27f4e8cc80ea0dc1b4c7
+    - name: neutral_spellsammermk2_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 263ef5e4bf9d7e24386b346d09c32087
+    - name: neutral_spellsammermk2_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4f6924cfe10ad534da41cfbcc89a2cf8
+    - name: neutral_spellsammermk2_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5b89bfef2384ec94fb22c265708d5482
+    - name: neutral_spellsammermk2_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b88a939792e21c94f985c4e2fef084c5
+    - name: neutral_spellsammermk2_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 427ee13d6bf16774588fb815656c0811
+    - name: neutral_spellsammermk2_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: de5917cb11c5c904b830e85114532818
+    - name: neutral_spellsammermk2_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7635f4c32181f96408c0e53806e46cce
+    - name: neutral_spellsammermk2_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b91337ef803975e43af5c2b8d218873f
+    - name: neutral_spellsammermk2_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 98a7fa90b1166f2489ed2c2093eedc60
+    - name: neutral_spellsammermk2_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cf3d1b8f5953e204f9372e217049f83e
+    - name: neutral_spellsammermk2_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 00d2a69590ad7d844be3c22bd58e7e22
+    - name: neutral_spellsammermk2_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9fa493741475bf74cabe2f97037436ee
+    - name: neutral_spellsammermk2_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2b84cca7f2264854bbcef2db62630afd
+    - name: neutral_spellsammermk2_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 19520200c50d34c498feffc4f5fa7b47
+    - name: neutral_spellsammermk2_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9ac5bbe0de4eca94882c4c443f69656d
+    - name: neutral_spellsammermk2_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c59c7630b8fa25e4080dfa2f49cc7cf7
+    - name: neutral_spellsammermk2_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b78ec601953e4464e9e61d364b483df5
+    - name: neutral_spellsammermk2_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9578bfd588db39f459c88faafe1c8e3c
+    - name: neutral_spellsammermk2_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4d921b1300be5c84f8e2d406f96e3913
+    - name: neutral_spellsammermk2_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ff33d0f8832bd964c8a261a37d5f6393
+    - name: neutral_spellsammermk2_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fa9204259827fcd4aaa46cd6dc5752e5
+    - name: neutral_spellsammermk2_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 84555520a313dea4b8fbaf595c81242b
+    - name: neutral_spellsammermk2_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2dc3d48b3ec7b12468d4c436fc8b1b29
+    - name: neutral_spellsammermk2_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 120015a6e762b1442b4cefc2f00e2b73
+    - name: neutral_spellsammermk2_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ee953d2167bb50447a94c8bcf09e4ce9
+    - name: neutral_spellsammermk2_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9b84664d7f778284a8be2641b3828ee3
+    - name: neutral_spellsammermk2_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 90e18d49d7dcad943a1c1fd9b2206ec2
+    - name: neutral_spellsammermk2_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d956aae42601df14395fd299fdaefb1e
+    - name: neutral_spellsammermk2_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d84c12379aa0c324491bf192916be3cb
+    - name: neutral_spellsammermk2_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8e0dbf218cb9eb8438ebad7e66d55e68
+    - name: neutral_spellsammermk2_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0216cf52b52d2cd49b5badba3d031d17
+    - name: neutral_spellsammermk2_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fabf652f9a2d3dd498e7f213e205d8b3
+    - name: neutral_spellsammermk2_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 96b1ff5dd7ee2a5439e71f87fb49d91f
+    - name: neutral_spellsammermk2_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3f59266116f983f4482bfb8e3fb78fdd
+    - name: neutral_spellsammermk2_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8f1d87eae8234b2428b19c26878ca297
+    - name: neutral_spellsammermk2_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 774292c8993676e4fab5bb72ec8b6b6d
+    - name: neutral_spellsammermk2_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5b54a067ac144a34f822b2d1076b57a0
+    - name: neutral_spellsammermk2_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0e36e83282eb9da4397afc836a183ccc
+    - name: neutral_spellsammermk2_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a667c38d70116744e92269a5a9e38c54
+    - name: neutral_spellsammermk2_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 906cef5f7b59ba24eae806a47b0e0412
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

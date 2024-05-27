@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 82af3c793c01196489be230d12c4bcc3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Attack
+    second: {fileID: 7400000, guid: 7017222aa1932bc4b8799854e9fcf66a, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Breathing
+    second: {fileID: 7400000, guid: 73b06f9c936446241b6fbdb565cd56d0, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Death
+    second: {fileID: 7400000, guid: cf3134626aeb33d41b5cca9980710306, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Hit
+    second: {fileID: 7400000, guid: 6a1e55648318282419ece7ad1da3b3da, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Idle
+    second: {fileID: 7400000, guid: 21e6f6182f2ebad4ca16763811a7b1ab, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Run
+    second: {fileID: 7400000, guid: 17b28d7aa2900344f93ee5df7228b04f, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638510615359056737
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Andromeda_Frame_0
+    originalName: 
+    pivot: {x: 0.44, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 64
+      width: 50
+      height: 51
+    spriteID: 7e84e62ae9710f645b73edbc934151a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 46}
+  - name: Andromeda_Frame_1
+    originalName: 
+    pivot: {x: 0.45999998, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 4
+      width: 50
+      height: 52
+    spriteID: 555b7eeac50f39143b08c780b539c5dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: -14}
+  - name: Andromeda_Frame_2
+    originalName: 
+    pivot: {x: 0.44680852, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 469
+      width: 47
+      height: 51
+    spriteID: 0b5424de72c1f964a9d51b6c90efe7d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 452}
+  - name: Andromeda_Frame_3
+    originalName: 
+    pivot: {x: 0.48888892, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 769
+      width: 45
+      height: 51
+    spriteID: 448ccf5eed2218240a8b894079b6c992
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 753}
+  - name: Andromeda_Frame_4
+    originalName: 
+    pivot: {x: 0.57894737, y: -0.35416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 816
+      width: 38
+      height: 48
+    spriteID: 880fdf80a856b0d46ad4e0e9c8e6c47a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 799}
+  - name: Andromeda_Frame_5
+    originalName: 
+    pivot: {x: 0.6, y: -0.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 872
+      width: 35
+      height: 48
+    spriteID: 3eac19fa91ddfd34687227e6bcaf1cfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 854}
+  - name: Andromeda_Frame_6
+    originalName: 
+    pivot: {x: 0.6, y: -0.3877551}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 849
+      width: 35
+      height: 49
+    spriteID: 55176aa82a49e31408c41a7315cfc647
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 830}
+  - name: Andromeda_Frame_7
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.40816328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 701
+      width: 40
+      height: 49
+    spriteID: 1c8fe9e7a85563646b84a1b1859ae5ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 681}
+  - name: Andromeda_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.42}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 643
+      width: 40
+      height: 50
+    spriteID: 84f49a2db2d014c439e8eaa63889a460
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 622}
+  - name: Andromeda_Frame_9
+    originalName: 
+    pivot: {x: 0.5365854, y: -0.44}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 531
+      width: 41
+      height: 50
+    spriteID: 7686ef978fc01ac4381e814410ab3b57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 509}
+  - name: Andromeda_Frame_10
+    originalName: 
+    pivot: {x: 0.6052631, y: -0.46}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 758
+      width: 38
+      height: 50
+    spriteID: fbfcaaa638ca98646a8c7375a72899f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 735}
+  - name: Andromeda_Frame_11
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.48}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 473
+      width: 43
+      height: 50
+    spriteID: 529814d3a06d305458a8c3b75abb2368
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 449}
+  - name: Andromeda_Frame_12
+    originalName: 
+    pivot: {x: 0.47727275, y: -0.4897959}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 359
+      width: 44
+      height: 49
+    spriteID: 5519029a4e4290e41ba3006b63ffb6b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 335}
+  - name: Andromeda_Frame_13
+    originalName: 
+    pivot: {x: 0.54347825, y: -0.46}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 711
+      width: 46
+      height: 50
+    spriteID: 1c9abf9a95ec7a24e936aec8c8e43a00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 688}
+  - name: Andromeda_Frame_14
+    originalName: 
+    pivot: {x: 0.52272725, y: -0.46938777}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 416
+      width: 44
+      height: 49
+    spriteID: 15d5c2bbbe1e007499e5269a318c5cde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 393}
+  - name: Andromeda_Frame_15
+    originalName: 
+    pivot: {x: 0.48275864, y: -0.171875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 567
+      width: 87
+      height: 64
+    spriteID: 02aba98df7bfa64418683ffd7406b268
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -4, y: 556}
+  - name: Andromeda_Frame_16
+    originalName: 
+    pivot: {x: 0.48888892, y: -0.09210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 90
+      height: 76
+    spriteID: 398ada90f1604cd4d930826983696f4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 81}
+  - name: Andromeda_Frame_17
+    originalName: 
+    pivot: {x: 0.4945055, y: -0.093333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 172
+      width: 91
+      height: 75
+    spriteID: a3cb8675895785d418a0753e22c89bba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: 165}
+  - name: Andromeda_Frame_18
+    originalName: 
+    pivot: {x: 0.50549453, y: -0.09210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 91
+      height: 76
+    spriteID: cc2987ac096feac43a6c4103930e231b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: -3}
+  - name: Andromeda_Frame_19
+    originalName: 
+    pivot: {x: 0.50549453, y: -0.093333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 255
+      width: 91
+      height: 75
+    spriteID: cda6f41e312baa243914911623d0f25c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 248}
+  - name: Andromeda_Frame_20
+    originalName: 
+    pivot: {x: 0.4945055, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 338
+      width: 91
+      height: 72
+    spriteID: 7d9bce2e53dd1974cbc799d2c69369ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: 329}
+  - name: Andromeda_Frame_21
+    originalName: 
+    pivot: {x: 0.48888892, y: -0.12857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 418
+      width: 90
+      height: 70
+    spriteID: 9e165f5cc62a77f41aa59823f9172962
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 409}
+  - name: Andromeda_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 496
+      width: 90
+      height: 63
+    spriteID: 87c0516f20656fb4d84039230b5722a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: 478}
+  - name: Andromeda_Frame_23
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.2903226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 281
+      width: 46
+      height: 62
+    spriteID: e6c8d785639d13b49b1a8cc33eb26e20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 263}
+  - name: Andromeda_Frame_24
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.29508197}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 754
+      width: 46
+      height: 61
+    spriteID: 95bc05bb2302322438e125661444bcf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 736}
+  - name: Andromeda_Frame_25
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.3220339}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 823
+      width: 47
+      height: 59
+    spriteID: 9ecdb6485bcaa244abba6618b09a3ded
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 804}
+  - name: Andromeda_Frame_26
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.3220339}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 890
+      width: 47
+      height: 59
+    spriteID: adae062e1ebaa1449b4eb1f67580a847
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 871}
+  - name: Andromeda_Frame_27
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.3220339}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 957
+      width: 47
+      height: 59
+    spriteID: 856e2fdac63d2b74bb40d499fb7870dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 938}
+  - name: Andromeda_Frame_28
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.3220339}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 4
+      width: 47
+      height: 59
+    spriteID: 53e6ea112dbed64448e7a89b4aa4e9a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: -15}
+  - name: Andromeda_Frame_29
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.3275862}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 272
+      width: 47
+      height: 58
+    spriteID: a8500454166ce1c4c9bd393076c9cb4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 253}
+  - name: Andromeda_Frame_30
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.30508476}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 71
+      width: 47
+      height: 59
+    spriteID: e98504ca31e8fb14b88844894b4c907e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 53}
+  - name: Andromeda_Frame_31
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 686
+      width: 47
+      height: 60
+    spriteID: 8097dada48b02c34bb122c9f140baf28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 668}
+  - name: Andromeda_Frame_32
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.29508197}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 212
+      width: 47
+      height: 61
+    spriteID: 4089962f18e0d3344b0ae5551ea44dd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 194}
+  - name: Andromeda_Frame_33
+    originalName: 
+    pivot: {x: 0.5102041, y: -0.31034485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 421
+      width: 49
+      height: 58
+    spriteID: 33ab4f777f02e3c4bb14dd5f05f34d0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 403}
+  - name: Andromeda_Frame_34
+    originalName: 
+    pivot: {x: 0.5208333, y: -0.3508772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 4
+      width: 48
+      height: 57
+    spriteID: df721d0e64a4bf346a4fe5d586a3a91a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: -16}
+  - name: Andromeda_Frame_35
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.33898306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 138
+      width: 47
+      height: 59
+    spriteID: 537e28ccc32f6fc47a41a57d9ecd91fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 118}
+  - name: Andromeda_Frame_36
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.2903226}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 351
+      width: 46
+      height: 62
+    spriteID: 24978b88b37a98140b3c8e96e0669a0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 333}
+  - name: Andromeda_Frame_37
+    originalName: 
+    pivot: {x: 0.48888892, y: -0.265625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 72
+      width: 45
+      height: 64
+    spriteID: 7a6a9f495adad3d4a8a1fb408b6dd998
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 55}
+  - name: Andromeda_Frame_38
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 849
+      width: 46
+      height: 65
+    spriteID: c58554a656d097c4abc8cc1ee6c30f64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 832}
+  - name: Andromeda_Frame_39
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.26984128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 338
+      width: 43
+      height: 63
+    spriteID: aeba6870ee32b534a81efa3e1c17153a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 321}
+  - name: Andromeda_Frame_40
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.3207547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 888
+      width: 43
+      height: 53
+    spriteID: 14aad9d29a917e945bf8e7136f960d0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 871}
+  - name: Andromeda_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: -0.36956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 589
+      width: 44
+      height: 46
+    spriteID: b9fa72951962fc74bb8bb6b795619b6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 572}
+  - name: Andromeda_Frame_42
+    originalName: 
+    pivot: {x: 0.5116279, y: -0.5862069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 991
+      width: 43
+      height: 29
+    spriteID: 3402bcb7306f5334e83a5cc376fdc3a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 974}
+  - name: Andromeda_Frame_43
+    originalName: 
+    pivot: {x: 0.5365854, y: -0.5862069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 928
+      width: 41
+      height: 29
+    spriteID: 71e1e93a864fa7548ac6fd10de652b80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 911}
+  - name: Andromeda_Frame_44
+    originalName: 
+    pivot: {x: 0.62857145, y: -0.60714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 991
+      width: 35
+      height: 28
+    spriteID: 716c61f79e665cd4ab324e3a79a7fc71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 974}
+  - name: Andromeda_Frame_45
+    originalName: 
+    pivot: {x: 0.62857145, y: -0.60714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 965
+      width: 35
+      height: 28
+    spriteID: 768dba0afc72ea043b8d319cd0b02eb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 948}
+  - name: Andromeda_Frame_46
+    originalName: 
+    pivot: {x: 0.5102041, y: -0.31034485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 487
+      width: 49
+      height: 58
+    spriteID: 9bba5158e94b63b47a16f9b3e93fa71a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 469}
+  - name: Andromeda_Frame_47
+    originalName: 
+    pivot: {x: 0.5208333, y: -0.3508772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 69
+      width: 48
+      height: 57
+    spriteID: 79127885d772b774b822a96beb202262
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 49}
+  - name: Andromeda_Frame_48
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.33898306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 205
+      width: 47
+      height: 59
+    spriteID: 5006db0b7d188f9498a467aa0a4f9974
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 185}
+  - name: Andromeda_Frame_49
+    originalName: 
+    pivot: {x: 0.44, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 123
+      width: 50
+      height: 51
+    spriteID: 37a2ca5f0b9168d41a5c6116aee62f4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 105}
+  - name: Andromeda_Frame_50
+    originalName: 
+    pivot: {x: 0.4375, y: -0.37254903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 182
+      width: 48
+      height: 51
+    spriteID: e9bfde10be9ab8048be8db1c6fc8a3c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 163}
+  - name: Andromeda_Frame_51
+    originalName: 
+    pivot: {x: 0.4583333, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 241
+      width: 48
+      height: 50
+    spriteID: c399aaa0818fa8b438492cc48a0fc578
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 222}
+  - name: Andromeda_Frame_52
+    originalName: 
+    pivot: {x: 0.44680852, y: -0.3653846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 409
+      width: 47
+      height: 52
+    spriteID: 42c146aa38baa9543a30911f5262d480
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 390}
+  - name: Andromeda_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 828
+      width: 44
+      height: 52
+    spriteID: c91971e6bfc2b8941a401ae5158454ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 810}
+  - name: Andromeda_Frame_54
+    originalName: 
+    pivot: {x: 0.5116279, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 949
+      width: 43
+      height: 52
+    spriteID: 624464db209bf724d80bd21372fb770e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 931}
+  - name: Andromeda_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: -0.3207547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 528
+      width: 44
+      height: 53
+    spriteID: 3729968c48f153143819427626dbf2c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 511}
+  - name: Andromeda_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: -0.32692307}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 299
+      width: 42
+      height: 52
+    spriteID: f98116efb2c29c24fae8fb9d3a3d7379
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 282}
+  - name: Andromeda_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: -0.3207547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 589
+      width: 44
+      height: 53
+    spriteID: afb3c6d91d181d04a8180f7597eb5663
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 572}
+  - name: Andromeda_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: -0.33962265}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 650
+      width: 44
+      height: 53
+    spriteID: 26f98ce738a7f164f9b7cf77f2263b76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 632}
+  - name: Andromeda_Frame_59
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.26984128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 709
+      width: 49
+      height: 63
+    spriteID: 30b813b4c56a95f4e8c6d0f2b9cabf39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 692}
+  - name: Andromeda_Frame_60
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.29508197}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 922
+      width: 49
+      height: 61
+    spriteID: cadf3b3b9ddde904ab2b7fbebf0aaea0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 904}
+  - name: Andromeda_Frame_61
+    originalName: 
+    pivot: {x: 0.35416663, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 144
+      width: 48
+      height: 60
+    spriteID: 8bf02bba6293c2546a4f3b6635c2e86e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 124}
+  - name: Andromeda_Frame_62
+    originalName: 
+    pivot: {x: 0.35416663, y: -0.33898306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 619
+      width: 48
+      height: 59
+    spriteID: f47e61cf6d95fc44c89798da4dbdac8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 599}
+  - name: Andromeda_Frame_63
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.3275862}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 553
+      width: 49
+      height: 58
+    spriteID: e6550ac8a6b536f4bbca4d0600321c19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 534}
+  - name: Andromeda_Frame_64
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.28333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 4
+      width: 49
+      height: 60
+    spriteID: 8d37d624c6ae37e4a920245f3d3785c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: -13}
+  - name: Andromeda_Frame_65
+    originalName: 
+    pivot: {x: 0.38, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 780
+      width: 50
+      height: 61
+    spriteID: 9d54eba646db7a24eb29df38b8b0ef72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 763}
+  - name: Andromeda_Frame_66
+    originalName: 
+    pivot: {x: 0.38, y: -0.27419356}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 639
+      width: 50
+      height: 62
+    spriteID: 5caa331e8cdcc824db5329dc30548d23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 622}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1805571327
+    name: Andromeda
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Andromeda_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7e84e62ae9710f645b73edbc934151a1
+    - name: Andromeda_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 555b7eeac50f39143b08c780b539c5dd
+    - name: Andromeda_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0b5424de72c1f964a9d51b6c90efe7d4
+    - name: Andromeda_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 448ccf5eed2218240a8b894079b6c992
+    - name: Andromeda_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 880fdf80a856b0d46ad4e0e9c8e6c47a
+    - name: Andromeda_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3eac19fa91ddfd34687227e6bcaf1cfd
+    - name: Andromeda_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 55176aa82a49e31408c41a7315cfc647
+    - name: Andromeda_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1c8fe9e7a85563646b84a1b1859ae5ec
+    - name: Andromeda_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 84f49a2db2d014c439e8eaa63889a460
+    - name: Andromeda_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7686ef978fc01ac4381e814410ab3b57
+    - name: Andromeda_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fbfcaaa638ca98646a8c7375a72899f8
+    - name: Andromeda_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 529814d3a06d305458a8c3b75abb2368
+    - name: Andromeda_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5519029a4e4290e41ba3006b63ffb6b8
+    - name: Andromeda_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1c9abf9a95ec7a24e936aec8c8e43a00
+    - name: Andromeda_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 15d5c2bbbe1e007499e5269a318c5cde
+    - name: Andromeda_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 02aba98df7bfa64418683ffd7406b268
+    - name: Andromeda_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 398ada90f1604cd4d930826983696f4d
+    - name: Andromeda_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a3cb8675895785d418a0753e22c89bba
+    - name: Andromeda_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cc2987ac096feac43a6c4103930e231b
+    - name: Andromeda_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cda6f41e312baa243914911623d0f25c
+    - name: Andromeda_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7d9bce2e53dd1974cbc799d2c69369ab
+    - name: Andromeda_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9e165f5cc62a77f41aa59823f9172962
+    - name: Andromeda_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 87c0516f20656fb4d84039230b5722a2
+    - name: Andromeda_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e6c8d785639d13b49b1a8cc33eb26e20
+    - name: Andromeda_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 95bc05bb2302322438e125661444bcf3
+    - name: Andromeda_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9ecdb6485bcaa244abba6618b09a3ded
+    - name: Andromeda_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: adae062e1ebaa1449b4eb1f67580a847
+    - name: Andromeda_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 856e2fdac63d2b74bb40d499fb7870dd
+    - name: Andromeda_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 53e6ea112dbed64448e7a89b4aa4e9a7
+    - name: Andromeda_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a8500454166ce1c4c9bd393076c9cb4b
+    - name: Andromeda_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e98504ca31e8fb14b88844894b4c907e
+    - name: Andromeda_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8097dada48b02c34bb122c9f140baf28
+    - name: Andromeda_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4089962f18e0d3344b0ae5551ea44dd9
+    - name: Andromeda_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 33ab4f777f02e3c4bb14dd5f05f34d0f
+    - name: Andromeda_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: df721d0e64a4bf346a4fe5d586a3a91a
+    - name: Andromeda_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 537e28ccc32f6fc47a41a57d9ecd91fd
+    - name: Andromeda_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 24978b88b37a98140b3c8e96e0669a0f
+    - name: Andromeda_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7a6a9f495adad3d4a8a1fb408b6dd998
+    - name: Andromeda_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c58554a656d097c4abc8cc1ee6c30f64
+    - name: Andromeda_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: aeba6870ee32b534a81efa3e1c17153a
+    - name: Andromeda_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 14aad9d29a917e945bf8e7136f960d0b
+    - name: Andromeda_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b9fa72951962fc74bb8bb6b795619b6d
+    - name: Andromeda_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3402bcb7306f5334e83a5cc376fdc3a0
+    - name: Andromeda_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 71e1e93a864fa7548ac6fd10de652b80
+    - name: Andromeda_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 716c61f79e665cd4ab324e3a79a7fc71
+    - name: Andromeda_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 768dba0afc72ea043b8d319cd0b02eb7
+    - name: Andromeda_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9bba5158e94b63b47a16f9b3e93fa71a
+    - name: Andromeda_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 79127885d772b774b822a96beb202262
+    - name: Andromeda_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5006db0b7d188f9498a467aa0a4f9974
+    - name: Andromeda_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 37a2ca5f0b9168d41a5c6116aee62f4f
+    - name: Andromeda_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e9bfde10be9ab8048be8db1c6fc8a3c2
+    - name: Andromeda_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c399aaa0818fa8b438492cc48a0fc578
+    - name: Andromeda_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 42c146aa38baa9543a30911f5262d480
+    - name: Andromeda_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c91971e6bfc2b8941a401ae5158454ec
+    - name: Andromeda_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 624464db209bf724d80bd21372fb770e
+    - name: Andromeda_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3729968c48f153143819427626dbf2c1
+    - name: Andromeda_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f98116efb2c29c24fae8fb9d3a3d7379
+    - name: Andromeda_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: afb3c6d91d181d04a8180f7597eb5663
+    - name: Andromeda_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 26f98ce738a7f164f9b7cf77f2263b76
+    - name: Andromeda_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 30b813b4c56a95f4e8c6d0f2b9cabf39
+    - name: Andromeda_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cadf3b3b9ddde904ab2b7fbebf0aaea0
+    - name: Andromeda_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8bf02bba6293c2546a4f3b6635c2e86e
+    - name: Andromeda_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f47e61cf6d95fc44c89798da4dbdac8b
+    - name: Andromeda_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e6550ac8a6b536f4bbca4d0600321c19
+    - name: Andromeda_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8d37d624c6ae37e4a920245f3d3785c1
+    - name: Andromeda_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9d54eba646db7a24eb29df38b8b0ef72
+    - name: Andromeda_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5caa331e8cdcc824db5329dc30548d23
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

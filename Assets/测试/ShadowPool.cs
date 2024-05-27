@@ -6,10 +6,19 @@ using UnityEngine;
 
 public class ShadowPool : Singleton<ShadowPool>
 {
-    public List<GameObject> shadowPrefab;
+    public List<GameObject> shadowPrefabs;
     private List<Queue<GameObject>> availableObjects=new List<Queue<GameObject>>();
     public int shadowCount;
-    
+
+    protected override void Awake()
+    {
+        base.Awake();
+        foreach (var gameObjectPef in shadowPrefabs)
+        {
+            new GameObject(gameObjectPef.ToString()).transform.parent=gameObject.transform;
+        }
+    }
+
     public void Start()
     {
         initialization();
@@ -21,7 +30,7 @@ public class ShadowPool : Singleton<ShadowPool>
 
     public void initialization()
     {
-        for (int i = 0; i < shadowPrefab.Count; i++)
+        for (int i = 0; i < shadowPrefabs.Count; i++)
         {
             availableObjects.Add(new Queue<GameObject>());
         }
@@ -31,7 +40,7 @@ public class ShadowPool : Singleton<ShadowPool>
     {
         for (int i = 0; i < shadowCount; i++)
         {
-            var newShadow = Instantiate(shadowPrefab[amount]);
+            var newShadow = Instantiate(shadowPrefabs[amount]);
             newShadow.transform.SetParent(transform.GetChild(amount).transform);
             //取消启用，返回对象池
             ReturnPool(newShadow,amount);

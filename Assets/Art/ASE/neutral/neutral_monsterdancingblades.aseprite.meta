@@ -1,0 +1,2863 @@
+fileFormatVersion: 2
+guid: b21e80bf06347e448bf47730884ef30c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_monsterdancingblades_Frame_0
+    originalName: 
+    pivot: {x: 0.4375, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 679
+      width: 64
+      height: 45
+    spriteID: 2989a53acc16d6749829e74d6b99e856
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 664}
+  - name: neutral_monsterdancingblades_Frame_1
+    originalName: 
+    pivot: {x: 0.43939397, y: -0.39534885}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 895
+      width: 66
+      height: 43
+    spriteID: c329f0aa6313f5c4fb87429ae4afff8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 878}
+  - name: neutral_monsterdancingblades_Frame_2
+    originalName: 
+    pivot: {x: 0.44776118, y: -0.37777779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 353
+      width: 67
+      height: 45
+    spriteID: 07a84de69fabdb84695948c559194db7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 336}
+  - name: neutral_monsterdancingblades_Frame_3
+    originalName: 
+    pivot: {x: 0.44615388, y: -0.37777779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 574
+      width: 65
+      height: 45
+    spriteID: 98491cb8c6593694dafbd0da11fb5bcc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 557}
+  - name: neutral_monsterdancingblades_Frame_4
+    originalName: 
+    pivot: {x: 0.4375, y: -0.32608694}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 520
+      width: 64
+      height: 46
+    spriteID: 3acc6baeb2f986145b04f863efeb5ce5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 505}
+  - name: neutral_monsterdancingblades_Frame_5
+    originalName: 
+    pivot: {x: 0.45000002, y: -0.31111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 792
+      width: 60
+      height: 45
+    spriteID: d5137641d5a96834f9e36f4062480d15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 778}
+  - name: neutral_monsterdancingblades_Frame_6
+    originalName: 
+    pivot: {x: 0.44067797, y: -0.31111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 58
+      width: 59
+      height: 45
+    spriteID: 18fc8fdc93b74d54186de60e412bc9e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 415, y: 44}
+  - name: neutral_monsterdancingblades_Frame_7
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.31111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 688
+      width: 61
+      height: 45
+    spriteID: 35fb540b70836c543bec6362e4fc35e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 674}
+  - name: neutral_monsterdancingblades_Frame_8
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.28}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 237
+      width: 61
+      height: 50
+    spriteID: bd4daf56ad9945c438f431e245fa93ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 223}
+  - name: neutral_monsterdancingblades_Frame_9
+    originalName: 
+    pivot: {x: 0.46666667, y: -0.27450982}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 178
+      width: 60
+      height: 51
+    spriteID: 06a917450252a0b4e875315e1e2aa207
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 164}
+  - name: neutral_monsterdancingblades_Frame_10
+    originalName: 
+    pivot: {x: 0.46666667, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 406
+      width: 60
+      height: 50
+    spriteID: 27c1b4e0d3b1eb24da33fed200001494
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 391}
+  - name: neutral_monsterdancingblades_Frame_11
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.3137255}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 928
+      width: 62
+      height: 51
+    spriteID: f124938f9c8593149a7d91aeb9669956
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 912}
+  - name: neutral_monsterdancingblades_Frame_12
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 464
+      width: 62
+      height: 48
+    spriteID: 590ed5473757e8c4fa45d03087c01af6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 444}
+  - name: neutral_monsterdancingblades_Frame_13
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 323
+      width: 62
+      height: 42
+    spriteID: db490c0cad09c884290f825213f850eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 419, y: 302}
+  - name: neutral_monsterdancingblades_Frame_14
+    originalName: 
+    pivot: {x: 0.4920635, y: -0.4883721}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 741
+      width: 63
+      height: 43
+    spriteID: 6fa9a8d40dfd7a245a35bfff40716455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 720}
+  - name: neutral_monsterdancingblades_Frame_15
+    originalName: 
+    pivot: {x: 0.47540984, y: -0.47727272}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 951
+      width: 61
+      height: 44
+    spriteID: ca57b675cbc82134fb26fa4b0f2daaed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 930}
+  - name: neutral_monsterdancingblades_Frame_16
+    originalName: 
+    pivot: {x: 0.46666667, y: -0.4347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 526
+      width: 60
+      height: 46
+    spriteID: 7a9d3c28669107f47b378527dad3b3bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 506}
+  - name: neutral_monsterdancingblades_Frame_17
+    originalName: 
+    pivot: {x: 0.4310345, y: -0.3958333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 415
+      width: 58
+      height: 48
+    spriteID: d9e1d8344e101c945b03e15f705a2938
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 396}
+  - name: neutral_monsterdancingblades_Frame_18
+    originalName: 
+    pivot: {x: 0.42372882, y: -0.4318182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 373
+      width: 59
+      height: 44
+    spriteID: fdfcb506f0271d7408671ec6521ef9d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 414, y: 354}
+  - name: neutral_monsterdancingblades_Frame_19
+    originalName: 
+    pivot: {x: 0.42372882, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 471
+      width: 59
+      height: 47
+    spriteID: eb9c20d766012864cb37ee7f0fe6dc0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 455}
+  - name: neutral_monsterdancingblades_Frame_20
+    originalName: 
+    pivot: {x: 0.42622948, y: -0.28}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 295
+      width: 61
+      height: 50
+    spriteID: 531593edeb1ea754f9439ebca674fe39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 281}
+  - name: neutral_monsterdancingblades_Frame_21
+    originalName: 
+    pivot: {x: 0.4516129, y: -0.27450982}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 119
+      width: 62
+      height: 51
+    spriteID: a9faaf1d926cc4140a10251eef9196cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 105}
+  - name: neutral_monsterdancingblades_Frame_22
+    originalName: 
+    pivot: {x: 0.4516129, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 787
+      width: 62
+      height: 46
+    spriteID: f32e962aa8daf2647be9cf9faa4048df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 771}
+  - name: neutral_monsterdancingblades_Frame_23
+    originalName: 
+    pivot: {x: 0.5205479, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 580
+      width: 73
+      height: 58
+    spriteID: 8424dd3fa88c6e0409c2ba65605fc7fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 572}
+  - name: neutral_monsterdancingblades_Frame_24
+    originalName: 
+    pivot: {x: 0.52000004, y: -0.13559322}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 868
+      width: 75
+      height: 59
+    spriteID: f19c73f269a80c749b59610de22229d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 860}
+  - name: neutral_monsterdancingblades_Frame_25
+    originalName: 
+    pivot: {x: 0.4516129, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 841
+      width: 62
+      height: 46
+    spriteID: 1814c534d4d06424dbd16eb232d4a715
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 825}
+  - name: neutral_monsterdancingblades_Frame_26
+    originalName: 
+    pivot: {x: 0.5205479, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 646
+      width: 73
+      height: 58
+    spriteID: f931c2aab5601974f975e5417c4a91c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 638}
+  - name: neutral_monsterdancingblades_Frame_27
+    originalName: 
+    pivot: {x: 0.52000004, y: -0.13559322}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 935
+      width: 75
+      height: 59
+    spriteID: b3ac3b41395d7b34ca16101133a7e376
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 927}
+  - name: neutral_monsterdancingblades_Frame_28
+    originalName: 
+    pivot: {x: 0.52000004, y: -0.13559322}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 291
+      width: 75
+      height: 59
+    spriteID: c460faeb33f3d3c43998079c465562dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 283}
+  - name: neutral_monsterdancingblades_Frame_29
+    originalName: 
+    pivot: {x: 0.5194805, y: -0.14516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 221
+      width: 77
+      height: 62
+    spriteID: 42430bdab564aa146b729f60fc3fd91f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 212}
+  - name: neutral_monsterdancingblades_Frame_30
+    originalName: 
+    pivot: {x: 0.5063291, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 4
+      width: 79
+      height: 58
+    spriteID: 7c4a4fd5449ef5e458bf21a18adb7f6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: -12}
+  - name: neutral_monsterdancingblades_Frame_31
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.16923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 4
+      width: 78
+      height: 65
+    spriteID: 4b2ab5deabe923048b67d06d5d97b9db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: -7}
+  - name: neutral_monsterdancingblades_Frame_32
+    originalName: 
+    pivot: {x: 0.4935065, y: -0.05479452}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 4
+      width: 77
+      height: 73
+    spriteID: 083e6a62543bcb748b6a31f87701f8e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 0}
+  - name: neutral_monsterdancingblades_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: -0.05405405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 88
+      width: 76
+      height: 74
+    spriteID: c2d8a9f1ae89eb345a96b953e2be0a54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 84}
+  - name: neutral_monsterdancingblades_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: -0.039473686}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 4
+      width: 76
+      height: 76
+    spriteID: 183c6d5ebde636e458aea01137b39c2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 1}
+  - name: neutral_monsterdancingblades_Frame_35
+    originalName: 
+    pivot: {x: 0.5064935, y: -0.05714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 85
+      width: 77
+      height: 70
+    spriteID: eb1ab573c21d15545a6b32ec8286cece
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 81}
+  - name: neutral_monsterdancingblades_Frame_36
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.080000006}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 835
+      width: 78
+      height: 50
+    spriteID: d2c1917776af148419903dbd58c24fb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 831}
+  - name: neutral_monsterdancingblades_Frame_37
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.061538465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 77
+      width: 78
+      height: 65
+    spriteID: 2d2cdb36098e35147b7b1a9fe3e701a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 73}
+  - name: neutral_monsterdancingblades_Frame_38
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.06349207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 150
+      width: 78
+      height: 63
+    spriteID: c20e12930da2c0743aa9a82e6bd94bed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 146}
+  - name: neutral_monsterdancingblades_Frame_39
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 712
+      width: 78
+      height: 52
+    spriteID: e3f9fdf00f853aa42a9e21fd2ba87a75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 708}
+  - name: neutral_monsterdancingblades_Frame_40
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.08695652}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 966
+      width: 78
+      height: 46
+    spriteID: 95d83961d92112840a02c8274287305c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 962}
+  - name: neutral_monsterdancingblades_Frame_41
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.09756098}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 70
+      width: 78
+      height: 41
+    spriteID: f3d00641d2432d84a9ebb8262fd2eebd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 66}
+  - name: neutral_monsterdancingblades_Frame_42
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 425
+      width: 78
+      height: 30
+    spriteID: 9ad8eaf73b447b04dbd3210492be45a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 429, y: 421}
+  - name: neutral_monsterdancingblades_Frame_43
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 591
+      width: 78
+      height: 24
+    spriteID: b23bbf1b331c8a748b03690e58662a29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 429, y: 587}
+  - name: neutral_monsterdancingblades_Frame_44
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 1000
+      width: 78
+      height: 12
+    spriteID: 6193b55a482de4c488076d145d9c1add
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 996}
+  - name: neutral_monsterdancingblades_Frame_45
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 946
+      width: 61
+      height: 46
+    spriteID: d85c80105bc328d4c90a9d2eb322d9f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 932}
+  - name: neutral_monsterdancingblades_Frame_46
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 61
+      height: 46
+    spriteID: 6a778aa2c17dc5c4b9b200006536cfc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 77}
+  - name: neutral_monsterdancingblades_Frame_47
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 61
+      height: 46
+    spriteID: 94e37f6e9b0905642a84e10314e35f05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 131}
+  - name: neutral_monsterdancingblades_Frame_48
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 199
+      width: 61
+      height: 46
+    spriteID: 703fd7c89a899e54b947034995cc508b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 185}
+  - name: neutral_monsterdancingblades_Frame_49
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 253
+      width: 61
+      height: 46
+    spriteID: bc2c794bcbceb6f44b9c5d0c14ad54f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 239}
+  - name: neutral_monsterdancingblades_Frame_50
+    originalName: 
+    pivot: {x: 0.46666667, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 580
+      width: 60
+      height: 46
+    spriteID: c2980c3ed1447bd4fac9796fe6c522f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 566}
+  - name: neutral_monsterdancingblades_Frame_51
+    originalName: 
+    pivot: {x: 0.46666667, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 845
+      width: 60
+      height: 45
+    spriteID: 34724906ff30e9a4384cbb6c81cee3df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 830}
+  - name: neutral_monsterdancingblades_Frame_52
+    originalName: 
+    pivot: {x: 0.46666667, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 898
+      width: 60
+      height: 45
+    spriteID: 7790272805ee43b4990443238fcdc568
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 882}
+  - name: neutral_monsterdancingblades_Frame_53
+    originalName: 
+    pivot: {x: 0.45762715, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 111
+      width: 59
+      height: 45
+    spriteID: 7a14deec6da7e8a4f87520e59db5c44f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 95}
+  - name: neutral_monsterdancingblades_Frame_54
+    originalName: 
+    pivot: {x: 0.45762715, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 164
+      width: 59
+      height: 45
+    spriteID: 1bfee00e5eb6904489587fce809d12cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 148}
+  - name: neutral_monsterdancingblades_Frame_55
+    originalName: 
+    pivot: {x: 0.44827586, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 4
+      width: 58
+      height: 46
+    spriteID: f7cf004bc0115ce48830d2292d4b64de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 415, y: -12}
+  - name: neutral_monsterdancingblades_Frame_56
+    originalName: 
+    pivot: {x: 0.44827586, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 270
+      width: 58
+      height: 45
+    spriteID: 5d4e562709a86ac46944e61fa1f9209d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 415, y: 254}
+  - name: neutral_monsterdancingblades_Frame_57
+    originalName: 
+    pivot: {x: 0.45762715, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 217
+      width: 59
+      height: 45
+    spriteID: 0ea68866f97b9b14d84c1a636b0825a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 202}
+  - name: neutral_monsterdancingblades_Frame_58
+    originalName: 
+    pivot: {x: 0.46666667, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 634
+      width: 60
+      height: 46
+    spriteID: f5e4d0e88a66720408cd9229d439fc04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 620}
+  - name: neutral_monsterdancingblades_Frame_59
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 307
+      width: 61
+      height: 46
+    spriteID: 36cf06ee15ae0964590d6cd769f959db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 293}
+  - name: neutral_monsterdancingblades_Frame_60
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.3043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 361
+      width: 61
+      height: 46
+    spriteID: 4906accb716c9214aaef6343e73b667f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 347}
+  - name: neutral_monsterdancingblades_Frame_61
+    originalName: 
+    pivot: {x: 0.45901638, y: -0.29787233}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 732
+      width: 61
+      height: 47
+    spriteID: be0da53e2f6ee0f4cbd139b0783cf70b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 718}
+  - name: neutral_monsterdancingblades_Frame_62
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.25454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 772
+      width: 72
+      height: 55
+    spriteID: 7f3304b3c8a6f4249bd3f1f93888d765
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 758}
+  - name: neutral_monsterdancingblades_Frame_63
+    originalName: 
+    pivot: {x: 0.6, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 870
+      width: 65
+      height: 50
+    spriteID: 7598899464e343841bcb79d2b945b788
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 851}
+  - name: neutral_monsterdancingblades_Frame_64
+    originalName: 
+    pivot: {x: 0.5846154, y: -0.39215687}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 811
+      width: 65
+      height: 51
+    spriteID: a21da398c106937498a41bd22e6a5ecf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 791}
+  - name: neutral_monsterdancingblades_Frame_65
+    originalName: 
+    pivot: {x: 0.5692308, y: -0.32727274}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 431
+      width: 65
+      height: 55
+    spriteID: 81acd9ce924fc7246a6744c427b9f8fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 413}
+  - name: neutral_monsterdancingblades_Frame_66
+    originalName: 
+    pivot: {x: 0.5692308, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 301
+      width: 65
+      height: 56
+    spriteID: 5b34af7a55d8dfe4cb1374d73f0c6701
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 285}
+  - name: neutral_monsterdancingblades_Frame_67
+    originalName: 
+    pivot: {x: 0.59677416, y: -0.25862068}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 365
+      width: 62
+      height: 58
+    spriteID: 1796022324761b048a27f7b19389821c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 350}
+  - name: neutral_monsterdancingblades_Frame_68
+    originalName: 
+    pivot: {x: 0.6166667, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 689
+      width: 60
+      height: 57
+    spriteID: dbaf193e85700514aa8359993ebf61f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 673}
+  - name: neutral_monsterdancingblades_Frame_69
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.23728813}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 555
+      width: 60
+      height: 59
+    spriteID: 53233288782da7b49b575f569edca5c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 541}
+  - name: neutral_monsterdancingblades_Frame_70
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.23728813}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 622
+      width: 60
+      height: 59
+    spriteID: 3af591e456018964a98caa11223fdff3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 608}
+  - name: neutral_monsterdancingblades_Frame_71
+    originalName: 
+    pivot: {x: 0.6557377, y: -0.1935484}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 163
+      width: 61
+      height: 62
+    spriteID: 9073cbcd77c1fe941a522404ebd5b503
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 151}
+  - name: neutral_monsterdancingblades_Frame_72
+    originalName: 
+    pivot: {x: 0.6557377, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 233
+      width: 61
+      height: 60
+    spriteID: ee86b88eec9edf14ab17af57f70994ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 219}
+  - name: neutral_monsterdancingblades_Frame_73
+    originalName: 
+    pivot: {x: 0.55, y: -0.21538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 893
+      width: 60
+      height: 65
+    spriteID: 41c4c1866da788a46a3fa9e13f97ccd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 249, y: 879}
+  - name: neutral_monsterdancingblades_Frame_74
+    originalName: 
+    pivot: {x: 0.45833334, y: -0.19047621}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 797
+      width: 72
+      height: 63
+    spriteID: 303479a07d8739f408654855692a0604
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 785}
+  - name: neutral_monsterdancingblades_Frame_75
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.203125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 508
+      width: 68
+      height: 64
+    spriteID: 0f3df8b52c9b6b04bb0489f29e05a38b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 495}
+  - name: neutral_monsterdancingblades_Frame_76
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.012658228}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 75
+      height: 79
+    spriteID: d3664b914648b0a4f85394f23520d81f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: 3}
+  - name: neutral_monsterdancingblades_Frame_77
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.013333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 714
+      width: 63
+      height: 75
+    spriteID: 0a20f0794b0b7a848b98709deb2037a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 713}
+  - name: neutral_monsterdancingblades_Frame_78
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.08450705}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 559
+      width: 68
+      height: 71
+    spriteID: 60e1b7f84dbcc7646935bdf9922eedc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 553}
+  - name: neutral_monsterdancingblades_Frame_79
+    originalName: 
+    pivot: {x: 0.44615388, y: -0.14705883}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 358
+      width: 65
+      height: 68
+    spriteID: c89c9a1a372fec74ab3cfa5d93ab63fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 348}
+  - name: neutral_monsterdancingblades_Frame_80
+    originalName: 
+    pivot: {x: 0.5277778, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 328
+      width: 72
+      height: 70
+    spriteID: 268bb66173182894880c440a251466c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 318}
+  - name: neutral_monsterdancingblades_Frame_81
+    originalName: 
+    pivot: {x: 0.50666666, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 170
+      width: 75
+      height: 70
+    spriteID: 99071d32041e1514d828959c2de04ca1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 160}
+  - name: neutral_monsterdancingblades_Frame_82
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.16176471}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 406
+      width: 73
+      height: 68
+    spriteID: 736ce28549e2e5742a82df0fa193ca6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 395}
+  - name: neutral_monsterdancingblades_Frame_83
+    originalName: 
+    pivot: {x: 0.47887328, y: -0.08333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 248
+      width: 71
+      height: 72
+    spriteID: c3eaf65ff6047d94cbb16cab6e5dffca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 242}
+  - name: neutral_monsterdancingblades_Frame_84
+    originalName: 
+    pivot: {x: 0.49295777, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 482
+      width: 71
+      height: 69
+    spriteID: 20b0f77f740bc6a45902129f7e1f754a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 482}
+  - name: neutral_monsterdancingblades_Frame_85
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.014705883}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 638
+      width: 70
+      height: 68
+    spriteID: 3b89f542022c0514c991cf4425ac5e03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 637}
+  - name: neutral_monsterdancingblades_Frame_86
+    originalName: 
+    pivot: {x: 0.43939397, y: -0.060606062}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 434
+      width: 66
+      height: 66
+    spriteID: ce67fb6647c8d20488c0f45a18e78635
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 430}
+  - name: neutral_monsterdancingblades_Frame_87
+    originalName: 
+    pivot: {x: 0.43283582, y: -0.094339624}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 494
+      width: 67
+      height: 53
+    spriteID: 96ee93dbfe2e7d948ba87f6a52d3bd7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 489}
+  - name: neutral_monsterdancingblades_Frame_88
+    originalName: 
+    pivot: {x: 0.4264706, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 754
+      width: 68
+      height: 49
+    spriteID: dfe3b7838b24c714296fb5f563520312
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 747}
+  - name: neutral_monsterdancingblades_Frame_89
+    originalName: 
+    pivot: {x: 0.42424244, y: -0.20454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 627
+      width: 66
+      height: 44
+    spriteID: e8eca54aa1202e042b752220d0434eb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 618}
+  - name: neutral_monsterdancingblades_Frame_90
+    originalName: 
+    pivot: {x: 0.43076923, y: -0.54545456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 987
+      width: 65
+      height: 33
+    spriteID: 7a65c45ac8e2d9e4e973f4eb6e7929e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 969}
+  - name: neutral_monsterdancingblades_Frame_91
+    originalName: 
+    pivot: {x: 0.4375, y: -0.50000006}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 463
+      width: 64
+      height: 34
+    spriteID: c23a76a15ca8b424994aee4eaad5a33d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 417, y: 446}
+  - name: neutral_monsterdancingblades_Frame_92
+    originalName: 
+    pivot: {x: 0.43548387, y: -0.50000006}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 505
+      width: 62
+      height: 34
+    spriteID: 23cc99012ab68a2468def94f18deae4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 488}
+  - name: neutral_monsterdancingblades_Frame_93
+    originalName: 
+    pivot: {x: 0.4107143, y: -0.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 547
+      width: 56
+      height: 36
+    spriteID: 60df400e16992b74fae4a3840d868a89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 532}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -40994129
+    name: neutral_monsterdancingblades
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_monsterdancingblades_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2989a53acc16d6749829e74d6b99e856
+    - name: neutral_monsterdancingblades_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c329f0aa6313f5c4fb87429ae4afff8e
+    - name: neutral_monsterdancingblades_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 07a84de69fabdb84695948c559194db7
+    - name: neutral_monsterdancingblades_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 98491cb8c6593694dafbd0da11fb5bcc
+    - name: neutral_monsterdancingblades_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3acc6baeb2f986145b04f863efeb5ce5
+    - name: neutral_monsterdancingblades_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d5137641d5a96834f9e36f4062480d15
+    - name: neutral_monsterdancingblades_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 18fc8fdc93b74d54186de60e412bc9e5
+    - name: neutral_monsterdancingblades_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 35fb540b70836c543bec6362e4fc35e2
+    - name: neutral_monsterdancingblades_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bd4daf56ad9945c438f431e245fa93ca
+    - name: neutral_monsterdancingblades_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 06a917450252a0b4e875315e1e2aa207
+    - name: neutral_monsterdancingblades_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 27c1b4e0d3b1eb24da33fed200001494
+    - name: neutral_monsterdancingblades_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f124938f9c8593149a7d91aeb9669956
+    - name: neutral_monsterdancingblades_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 590ed5473757e8c4fa45d03087c01af6
+    - name: neutral_monsterdancingblades_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: db490c0cad09c884290f825213f850eb
+    - name: neutral_monsterdancingblades_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6fa9a8d40dfd7a245a35bfff40716455
+    - name: neutral_monsterdancingblades_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ca57b675cbc82134fb26fa4b0f2daaed
+    - name: neutral_monsterdancingblades_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7a9d3c28669107f47b378527dad3b3bd
+    - name: neutral_monsterdancingblades_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d9e1d8344e101c945b03e15f705a2938
+    - name: neutral_monsterdancingblades_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fdfcb506f0271d7408671ec6521ef9d2
+    - name: neutral_monsterdancingblades_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eb9c20d766012864cb37ee7f0fe6dc0e
+    - name: neutral_monsterdancingblades_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 531593edeb1ea754f9439ebca674fe39
+    - name: neutral_monsterdancingblades_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a9faaf1d926cc4140a10251eef9196cd
+    - name: neutral_monsterdancingblades_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f32e962aa8daf2647be9cf9faa4048df
+    - name: neutral_monsterdancingblades_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8424dd3fa88c6e0409c2ba65605fc7fe
+    - name: neutral_monsterdancingblades_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f19c73f269a80c749b59610de22229d1
+    - name: neutral_monsterdancingblades_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1814c534d4d06424dbd16eb232d4a715
+    - name: neutral_monsterdancingblades_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f931c2aab5601974f975e5417c4a91c5
+    - name: neutral_monsterdancingblades_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b3ac3b41395d7b34ca16101133a7e376
+    - name: neutral_monsterdancingblades_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c460faeb33f3d3c43998079c465562dd
+    - name: neutral_monsterdancingblades_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 42430bdab564aa146b729f60fc3fd91f
+    - name: neutral_monsterdancingblades_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7c4a4fd5449ef5e458bf21a18adb7f6b
+    - name: neutral_monsterdancingblades_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4b2ab5deabe923048b67d06d5d97b9db
+    - name: neutral_monsterdancingblades_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 083e6a62543bcb748b6a31f87701f8e5
+    - name: neutral_monsterdancingblades_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c2d8a9f1ae89eb345a96b953e2be0a54
+    - name: neutral_monsterdancingblades_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 183c6d5ebde636e458aea01137b39c2a
+    - name: neutral_monsterdancingblades_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eb1ab573c21d15545a6b32ec8286cece
+    - name: neutral_monsterdancingblades_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d2c1917776af148419903dbd58c24fb9
+    - name: neutral_monsterdancingblades_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2d2cdb36098e35147b7b1a9fe3e701a5
+    - name: neutral_monsterdancingblades_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c20e12930da2c0743aa9a82e6bd94bed
+    - name: neutral_monsterdancingblades_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e3f9fdf00f853aa42a9e21fd2ba87a75
+    - name: neutral_monsterdancingblades_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 95d83961d92112840a02c8274287305c
+    - name: neutral_monsterdancingblades_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f3d00641d2432d84a9ebb8262fd2eebd
+    - name: neutral_monsterdancingblades_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9ad8eaf73b447b04dbd3210492be45a1
+    - name: neutral_monsterdancingblades_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b23bbf1b331c8a748b03690e58662a29
+    - name: neutral_monsterdancingblades_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6193b55a482de4c488076d145d9c1add
+    - name: neutral_monsterdancingblades_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d85c80105bc328d4c90a9d2eb322d9f5
+    - name: neutral_monsterdancingblades_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6a778aa2c17dc5c4b9b200006536cfc8
+    - name: neutral_monsterdancingblades_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 94e37f6e9b0905642a84e10314e35f05
+    - name: neutral_monsterdancingblades_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 703fd7c89a899e54b947034995cc508b
+    - name: neutral_monsterdancingblades_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bc2c794bcbceb6f44b9c5d0c14ad54f2
+    - name: neutral_monsterdancingblades_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c2980c3ed1447bd4fac9796fe6c522f7
+    - name: neutral_monsterdancingblades_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 34724906ff30e9a4384cbb6c81cee3df
+    - name: neutral_monsterdancingblades_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7790272805ee43b4990443238fcdc568
+    - name: neutral_monsterdancingblades_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7a14deec6da7e8a4f87520e59db5c44f
+    - name: neutral_monsterdancingblades_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1bfee00e5eb6904489587fce809d12cd
+    - name: neutral_monsterdancingblades_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f7cf004bc0115ce48830d2292d4b64de
+    - name: neutral_monsterdancingblades_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5d4e562709a86ac46944e61fa1f9209d
+    - name: neutral_monsterdancingblades_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0ea68866f97b9b14d84c1a636b0825a6
+    - name: neutral_monsterdancingblades_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f5e4d0e88a66720408cd9229d439fc04
+    - name: neutral_monsterdancingblades_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 36cf06ee15ae0964590d6cd769f959db
+    - name: neutral_monsterdancingblades_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4906accb716c9214aaef6343e73b667f
+    - name: neutral_monsterdancingblades_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: be0da53e2f6ee0f4cbd139b0783cf70b
+    - name: neutral_monsterdancingblades_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7f3304b3c8a6f4249bd3f1f93888d765
+    - name: neutral_monsterdancingblades_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7598899464e343841bcb79d2b945b788
+    - name: neutral_monsterdancingblades_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a21da398c106937498a41bd22e6a5ecf
+    - name: neutral_monsterdancingblades_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 81acd9ce924fc7246a6744c427b9f8fc
+    - name: neutral_monsterdancingblades_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5b34af7a55d8dfe4cb1374d73f0c6701
+    - name: neutral_monsterdancingblades_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1796022324761b048a27f7b19389821c
+    - name: neutral_monsterdancingblades_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dbaf193e85700514aa8359993ebf61f1
+    - name: neutral_monsterdancingblades_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 53233288782da7b49b575f569edca5c5
+    - name: neutral_monsterdancingblades_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3af591e456018964a98caa11223fdff3
+    - name: neutral_monsterdancingblades_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9073cbcd77c1fe941a522404ebd5b503
+    - name: neutral_monsterdancingblades_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ee86b88eec9edf14ab17af57f70994ba
+    - name: neutral_monsterdancingblades_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 41c4c1866da788a46a3fa9e13f97ccd6
+    - name: neutral_monsterdancingblades_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 303479a07d8739f408654855692a0604
+    - name: neutral_monsterdancingblades_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0f3df8b52c9b6b04bb0489f29e05a38b
+    - name: neutral_monsterdancingblades_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d3664b914648b0a4f85394f23520d81f
+    - name: neutral_monsterdancingblades_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0a20f0794b0b7a848b98709deb2037a5
+    - name: neutral_monsterdancingblades_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 60e1b7f84dbcc7646935bdf9922eedc9
+    - name: neutral_monsterdancingblades_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c89c9a1a372fec74ab3cfa5d93ab63fa
+    - name: neutral_monsterdancingblades_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 268bb66173182894880c440a251466c9
+    - name: neutral_monsterdancingblades_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 99071d32041e1514d828959c2de04ca1
+    - name: neutral_monsterdancingblades_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 736ce28549e2e5742a82df0fa193ca6e
+    - name: neutral_monsterdancingblades_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c3eaf65ff6047d94cbb16cab6e5dffca
+    - name: neutral_monsterdancingblades_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 20b0f77f740bc6a45902129f7e1f754a
+    - name: neutral_monsterdancingblades_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3b89f542022c0514c991cf4425ac5e03
+    - name: neutral_monsterdancingblades_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ce67fb6647c8d20488c0f45a18e78635
+    - name: neutral_monsterdancingblades_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 96ee93dbfe2e7d948ba87f6a52d3bd7d
+    - name: neutral_monsterdancingblades_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dfe3b7838b24c714296fb5f563520312
+    - name: neutral_monsterdancingblades_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e8eca54aa1202e042b752220d0434eb7
+    - name: neutral_monsterdancingblades_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7a65c45ac8e2d9e4e973f4eb6e7929e2
+    - name: neutral_monsterdancingblades_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c23a76a15ca8b424994aee4eaad5a33d
+    - name: neutral_monsterdancingblades_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 23cc99012ab68a2468def94f18deae4c
+    - name: neutral_monsterdancingblades_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 60df400e16992b74fae4a3840d868a89
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

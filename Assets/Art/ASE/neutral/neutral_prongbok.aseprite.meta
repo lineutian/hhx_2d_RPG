@@ -1,0 +1,2515 @@
+fileFormatVersion: 2
+guid: 9b236a769389d1a41857812b7fedbb0f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_prongbok_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 817
+      width: 58
+      height: 60
+    spriteID: 2a860297cf328e54891530bfcbe2db2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 801}
+  - name: neutral_prongbok_Frame_1
+    originalName: 
+    pivot: {x: 0.49152547, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 329
+      width: 59
+      height: 49
+    spriteID: a89ea8a4f45f501488faf5a40b8f88e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 301}
+  - name: neutral_prongbok_Frame_2
+    originalName: 
+    pivot: {x: 0.44642857, y: -0.37499997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 130
+      width: 56
+      height: 56
+    spriteID: 42ce37a36c3d25e4fa697b6bb7bd7315
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 109}
+  - name: neutral_prongbok_Frame_3
+    originalName: 
+    pivot: {x: 0.36170208, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 563
+      width: 47
+      height: 48
+    spriteID: 0427a15080ae6954c9c8b4285a268121
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 547}
+  - name: neutral_prongbok_Frame_4
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 619
+      width: 48
+      height: 43
+    spriteID: f4ab8f0ac993d444698f123766f3c491
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 603}
+  - name: neutral_prongbok_Frame_5
+    originalName: 
+    pivot: {x: 0.4716981, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 194
+      width: 53
+      height: 58
+    spriteID: 626a13f2a3373a44d96997c395189abd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 178}
+  - name: neutral_prongbok_Frame_6
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 749
+      width: 49
+      height: 34
+    spriteID: 72dcc24d5da203d4c961b23fdd42ee59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 733}
+  - name: neutral_prongbok_Frame_7
+    originalName: 
+    pivot: {x: 0.48936167, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 809
+      width: 47
+      height: 34
+    spriteID: 40893507c87ff8d46baeecc6e5358cef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 793}
+  - name: neutral_prongbok_Frame_8
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 340
+      width: 47
+      height: 35
+    spriteID: ed52ac966d5998f4d95184be60eb9175
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 324}
+  - name: neutral_prongbok_Frame_9
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 399
+      width: 47
+      height: 36
+    spriteID: 9562f092529034745ab6e5d96713bb3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 383}
+  - name: neutral_prongbok_Frame_10
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 443
+      width: 47
+      height: 36
+    spriteID: e40c2981d7075ef42a67333ed4394d38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 427}
+  - name: neutral_prongbok_Frame_11
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 383
+      width: 47
+      height: 35
+    spriteID: fb4ada04a81e52c48884efe292074f0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 367}
+  - name: neutral_prongbok_Frame_12
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 851
+      width: 47
+      height: 34
+    spriteID: 1281bf491ae909940be19e9c04f9f24c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 835}
+  - name: neutral_prongbok_Frame_13
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 426
+      width: 47
+      height: 35
+    spriteID: 06abdd6453934fe45979b263ff828414
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 410}
+  - name: neutral_prongbok_Frame_14
+    originalName: 
+    pivot: {x: 0.47916663, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 641
+      width: 48
+      height: 34
+    spriteID: e82db41121e87b24f8ded133e77a53de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 625}
+  - name: neutral_prongbok_Frame_15
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 791
+      width: 49
+      height: 34
+    spriteID: 30d0a591ab8156d41baa6b9949238c00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 775}
+  - name: neutral_prongbok_Frame_16
+    originalName: 
+    pivot: {x: 0.48936167, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 893
+      width: 47
+      height: 34
+    spriteID: bac7daa8077acc34b8a85c35b5990a4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 877}
+  - name: neutral_prongbok_Frame_17
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 469
+      width: 47
+      height: 35
+    spriteID: 765ae92c640715944a313ac7cbf2929c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 453}
+  - name: neutral_prongbok_Frame_18
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 487
+      width: 47
+      height: 36
+    spriteID: 2a8224ef7527c134fb1fc7fc94252c51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 471}
+  - name: neutral_prongbok_Frame_19
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 531
+      width: 47
+      height: 36
+    spriteID: ede8b150b381e1b428bbe88f1c286032
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 515}
+  - name: neutral_prongbok_Frame_20
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 512
+      width: 47
+      height: 35
+    spriteID: 8d70ae53eaa024e4fb9fa37ec60585b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 496}
+  - name: neutral_prongbok_Frame_21
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 935
+      width: 47
+      height: 34
+    spriteID: 7b7763a60c52b5f4d93466c0172e6ce2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 919}
+  - name: neutral_prongbok_Frame_22
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 555
+      width: 47
+      height: 35
+    spriteID: 2f585fbd5a4d2234aab3ac61ab834886
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 539}
+  - name: neutral_prongbok_Frame_23
+    originalName: 
+    pivot: {x: 0.47916663, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 683
+      width: 48
+      height: 34
+    spriteID: bd24d4e2fa4aa2340a1cbc909b72f7e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 667}
+  - name: neutral_prongbok_Frame_24
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 833
+      width: 49
+      height: 34
+    spriteID: e0aeca8dd6fb0dd449555328e918e2c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 817}
+  - name: neutral_prongbok_Frame_25
+    originalName: 
+    pivot: {x: 0.48936167, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 977
+      width: 47
+      height: 34
+    spriteID: bf294df9466716447aa80d5960a582d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 961}
+  - name: neutral_prongbok_Frame_26
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 598
+      width: 47
+      height: 35
+    spriteID: 6bd9f0bf81742014d932e8128f29aa0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 582}
+  - name: neutral_prongbok_Frame_27
+    originalName: 
+    pivot: {x: 0.4583333, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 663
+      width: 48
+      height: 35
+    spriteID: 1d6e4e6bf007b9749b3ab5642fced101
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 647}
+  - name: neutral_prongbok_Frame_28
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 575
+      width: 47
+      height: 36
+    spriteID: a5cec4eecb206b94f9d72283af23067e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 559}
+  - name: neutral_prongbok_Frame_29
+    originalName: 
+    pivot: {x: 0.4680851, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 619
+      width: 47
+      height: 36
+    spriteID: 90981dfab36e3754ca98b37212fb561b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 603}
+  - name: neutral_prongbok_Frame_30
+    originalName: 
+    pivot: {x: 0.4583333, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 725
+      width: 48
+      height: 34
+    spriteID: 82d81e5d4d8adbb4594c68f91695c382
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 709}
+  - name: neutral_prongbok_Frame_31
+    originalName: 
+    pivot: {x: 0.4583333, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 706
+      width: 48
+      height: 35
+    spriteID: 7bcc6d954fa4d6e459a55d3ce2afb3a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 690}
+  - name: neutral_prongbok_Frame_32
+    originalName: 
+    pivot: {x: 0.47916663, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 767
+      width: 48
+      height: 34
+    spriteID: 8bfffb53eec2e2e41bb9323a8856c114
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 751}
+  - name: neutral_prongbok_Frame_33
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 875
+      width: 49
+      height: 34
+    spriteID: ed949ce5d98c34947a6c972e14e39b9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 859}
+  - name: neutral_prongbok_Frame_34
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 917
+      width: 49
+      height: 34
+    spriteID: aeb232b0816c2924bbef535868e259dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 901}
+  - name: neutral_prongbok_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 670
+      width: 50
+      height: 35
+    spriteID: f106012df65e83f479ef6b0ef404edb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 654}
+  - name: neutral_prongbok_Frame_36
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 959
+      width: 49
+      height: 34
+    spriteID: 045a432372a9dce48a29a7ec3c3838e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 943}
+  - name: neutral_prongbok_Frame_37
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 4
+      width: 49
+      height: 34
+    spriteID: 27a3ba3e61ce3444b90d0e55b899c992
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: -12}
+  - name: neutral_prongbok_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 713
+      width: 50
+      height: 35
+    spriteID: 379a55ca9217e124489f648781827e3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 697}
+  - name: neutral_prongbok_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 756
+      width: 50
+      height: 35
+    spriteID: 729abcb329760ef4db638a302e8eeafd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 740}
+  - name: neutral_prongbok_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 283
+      y: 41
+      width: 50
+      height: 32
+    spriteID: 2160757149e35bf41953174031887186
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 25}
+  - name: neutral_prongbok_Frame_41
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 283
+      y: 4
+      width: 57
+      height: 29
+    spriteID: 02584638cf7b1f04b8a3c95e2a53dccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: -12}
+  - name: neutral_prongbok_Frame_42
+    originalName: 
+    pivot: {x: 0.52542377, y: -0.6153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 4
+      width: 59
+      height: 26
+    spriteID: d6198376578a6e349844b8637fbc4c36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 329, y: -12}
+  - name: neutral_prongbok_Frame_43
+    originalName: 
+    pivot: {x: 0.516129, y: -0.79999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 415
+      y: 4
+      width: 62
+      height: 20
+    spriteID: 1378628780f232242b68245acd429245
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 397, y: -12}
+  - name: neutral_prongbok_Frame_44
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.8421052}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 415
+      y: 32
+      width: 61
+      height: 19
+    spriteID: 75ef7c4643b7dc744af9424fa60deae3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 16}
+  - name: neutral_prongbok_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: -0.8421052}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 415
+      y: 59
+      width: 60
+      height: 19
+    spriteID: 1528baa2d7d05a54490e9054bd501a8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 395, y: 43}
+  - name: neutral_prongbok_Frame_46
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 46
+      width: 49
+      height: 34
+    spriteID: c5259b9351a9e5848965ab9dc7aa114e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 30}
+  - name: neutral_prongbok_Frame_47
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 88
+      width: 49
+      height: 34
+    spriteID: d1e58355663a2eb40b15243cb15dd848
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 72}
+  - name: neutral_prongbok_Frame_48
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 130
+      width: 49
+      height: 34
+    spriteID: 93911c7071e6d364c86e14f0e915a455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 114}
+  - name: neutral_prongbok_Frame_49
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 172
+      width: 49
+      height: 34
+    spriteID: 8c053e1725942464e86f4f227e2264fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 156}
+  - name: neutral_prongbok_Frame_50
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 214
+      width: 49
+      height: 34
+    spriteID: ff6a8ce40651b0a4c866295aacf11f34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 198}
+  - name: neutral_prongbok_Frame_51
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 842
+      width: 49
+      height: 35
+    spriteID: 825cc1bfbb152e44d8fc48314f2684fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 826}
+  - name: neutral_prongbok_Frame_52
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 885
+      width: 49
+      height: 35
+    spriteID: bccbc6fb5c1afd94c80c1f4809d88155
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 869}
+  - name: neutral_prongbok_Frame_53
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 928
+      width: 49
+      height: 35
+    spriteID: 707f00fb45216f44b9c8e3bc54255115
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 912}
+  - name: neutral_prongbok_Frame_54
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 971
+      width: 49
+      height: 35
+    spriteID: 693f6cc34eff98d429c6e10533445476
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 955}
+  - name: neutral_prongbok_Frame_55
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 227
+      width: 49
+      height: 35
+    spriteID: 450ced16c7e044e45820bfdb35d0f718
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 211}
+  - name: neutral_prongbok_Frame_56
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 270
+      width: 49
+      height: 35
+    spriteID: 3f982f9d7e2fdfa4280c83e06be91ef4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 254}
+  - name: neutral_prongbok_Frame_57
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 313
+      width: 49
+      height: 35
+    spriteID: ce45ea974040abb4e8a55c903fecb61a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 297}
+  - name: neutral_prongbok_Frame_58
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 356
+      width: 49
+      height: 35
+    spriteID: 6ed88ccffa031ee4cbb3eb83dc0fa3c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 340}
+  - name: neutral_prongbok_Frame_59
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 256
+      width: 49
+      height: 34
+    spriteID: c68adf5279dc6c94897088912ee1831b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 240}
+  - name: neutral_prongbok_Frame_60
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 298
+      width: 49
+      height: 34
+    spriteID: 8577d0e80bd2b234e98ecfa7ca9dd760
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 282}
+  - name: neutral_prongbok_Frame_61
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 386
+      width: 49
+      height: 59
+    spriteID: 80092be4761e7b847bbb14fac82cc00c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 370}
+  - name: neutral_prongbok_Frame_62
+    originalName: 
+    pivot: {x: 0.48979592, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 260
+      width: 49
+      height: 61
+    spriteID: 03241f7072208d0478510683301f0455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 244}
+  - name: neutral_prongbok_Frame_63
+    originalName: 
+    pivot: {x: 0.47916663, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 152
+      width: 48
+      height: 67
+    spriteID: a36e1135dadd7cd47bf40ed68b8642f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 136}
+  - name: neutral_prongbok_Frame_64
+    originalName: 
+    pivot: {x: 0.45999998, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 4
+      width: 50
+      height: 66
+    spriteID: 1cf694d9a338077439e6af090e6c763d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: -12}
+  - name: neutral_prongbok_Frame_65
+    originalName: 
+    pivot: {x: 0.4489796, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 78
+      width: 49
+      height: 66
+    spriteID: e65381e35a5e7ee42b2205af37954fd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 62}
+  - name: neutral_prongbok_Frame_66
+    originalName: 
+    pivot: {x: 0.49152547, y: -0.24193549}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 747
+      width: 59
+      height: 62
+    spriteID: e021085846452884ab9e119bfdfe2177
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 732}
+  - name: neutral_prongbok_Frame_67
+    originalName: 
+    pivot: {x: 0.5074627, y: -0.19999999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 679
+      width: 67
+      height: 60
+    spriteID: 3d6681e0656473b4c80caef64a68f56e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 667}
+  - name: neutral_prongbok_Frame_68
+    originalName: 
+    pivot: {x: 0.5074627, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 885
+      width: 67
+      height: 51
+    spriteID: fe67a42fe1aae76478f199c0a619579c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 873}
+  - name: neutral_prongbok_Frame_69
+    originalName: 
+    pivot: {x: 0.5090909, y: -0.27272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 453
+      width: 55
+      height: 44
+    spriteID: a96b5a264fc41414d9c9d9a2c890f67a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 441}
+  - name: neutral_prongbok_Frame_70
+    originalName: 
+    pivot: {x: 0.49253726, y: -0.24999999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 4
+      width: 67
+      height: 48
+    spriteID: 25e72efbb329e8e44bafe6b0a7f89d22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: -8}
+  - name: neutral_prongbok_Frame_71
+    originalName: 
+    pivot: {x: 0.5074627, y: -0.24}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 944
+      width: 67
+      height: 50
+    spriteID: 7de6c9634997bcb44abbfd37f51b602c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 932}
+  - name: neutral_prongbok_Frame_72
+    originalName: 
+    pivot: {x: 0.5263158, y: -0.13953488}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 585
+      width: 57
+      height: 86
+    spriteID: c52c4d264627a0240bd531e0f1a6e48b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 573}
+  - name: neutral_prongbok_Frame_73
+    originalName: 
+    pivot: {x: 0.5074627, y: -0.13953488}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 491
+      width: 67
+      height: 86
+    spriteID: c6632f566ffcf6740824490087f1159a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 479}
+  - name: neutral_prongbok_Frame_74
+    originalName: 
+    pivot: {x: 0.5, y: -0.06451613}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 295
+      width: 70
+      height: 93
+    spriteID: 1c3b37baf79e8174581f0ee737601332
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 289}
+  - name: neutral_prongbok_Frame_75
+    originalName: 
+    pivot: {x: 0.5375, y: -0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 102
+      width: 80
+      height: 90
+    spriteID: 7910a700965ff414997bdb163e66c28d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -3, y: 97}
+  - name: neutral_prongbok_Frame_76
+    originalName: 
+    pivot: {x: 0.5308642, y: -0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 81
+      height: 90
+    spriteID: 60b3a507340737b4eb97e5273eb91703
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -3, y: -1}
+  - name: neutral_prongbok_Frame_77
+    originalName: 
+    pivot: {x: 0.49333334, y: -0.09195402}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 200
+      width: 75
+      height: 87
+    spriteID: 2a34f2fb0bc148d44abd3f7fa8d0d1ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 192}
+  - name: neutral_prongbok_Frame_78
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.09195402}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 396
+      width: 70
+      height: 87
+    spriteID: 9ea8c1d0075ab8d478aa52cd88da30c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 388}
+  - name: neutral_prongbok_Frame_79
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 60
+      width: 51
+      height: 62
+    spriteID: 7b7aed8764dc9714bbc7c704571f9e0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 44}
+  - name: neutral_prongbok_Frame_80
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 505
+      width: 47
+      height: 50
+    spriteID: 98a726f1c022a0c46bb8fd29acafc427
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 489}
+  - name: neutral_prongbok_Frame_81
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 799
+      width: 50
+      height: 35
+    spriteID: d96da598bcc8c834c93b3dfc729657aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 783}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1351078358
+    name: neutral_prongbok
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_prongbok_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2a860297cf328e54891530bfcbe2db2c
+    - name: neutral_prongbok_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a89ea8a4f45f501488faf5a40b8f88e8
+    - name: neutral_prongbok_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 42ce37a36c3d25e4fa697b6bb7bd7315
+    - name: neutral_prongbok_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0427a15080ae6954c9c8b4285a268121
+    - name: neutral_prongbok_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f4ab8f0ac993d444698f123766f3c491
+    - name: neutral_prongbok_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 626a13f2a3373a44d96997c395189abd
+    - name: neutral_prongbok_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 72dcc24d5da203d4c961b23fdd42ee59
+    - name: neutral_prongbok_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 40893507c87ff8d46baeecc6e5358cef
+    - name: neutral_prongbok_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ed52ac966d5998f4d95184be60eb9175
+    - name: neutral_prongbok_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9562f092529034745ab6e5d96713bb3b
+    - name: neutral_prongbok_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e40c2981d7075ef42a67333ed4394d38
+    - name: neutral_prongbok_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fb4ada04a81e52c48884efe292074f0f
+    - name: neutral_prongbok_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1281bf491ae909940be19e9c04f9f24c
+    - name: neutral_prongbok_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 06abdd6453934fe45979b263ff828414
+    - name: neutral_prongbok_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e82db41121e87b24f8ded133e77a53de
+    - name: neutral_prongbok_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 30d0a591ab8156d41baa6b9949238c00
+    - name: neutral_prongbok_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bac7daa8077acc34b8a85c35b5990a4a
+    - name: neutral_prongbok_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 765ae92c640715944a313ac7cbf2929c
+    - name: neutral_prongbok_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2a8224ef7527c134fb1fc7fc94252c51
+    - name: neutral_prongbok_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ede8b150b381e1b428bbe88f1c286032
+    - name: neutral_prongbok_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8d70ae53eaa024e4fb9fa37ec60585b6
+    - name: neutral_prongbok_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7b7763a60c52b5f4d93466c0172e6ce2
+    - name: neutral_prongbok_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2f585fbd5a4d2234aab3ac61ab834886
+    - name: neutral_prongbok_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bd24d4e2fa4aa2340a1cbc909b72f7e3
+    - name: neutral_prongbok_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e0aeca8dd6fb0dd449555328e918e2c2
+    - name: neutral_prongbok_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bf294df9466716447aa80d5960a582d2
+    - name: neutral_prongbok_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6bd9f0bf81742014d932e8128f29aa0f
+    - name: neutral_prongbok_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1d6e4e6bf007b9749b3ab5642fced101
+    - name: neutral_prongbok_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a5cec4eecb206b94f9d72283af23067e
+    - name: neutral_prongbok_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 90981dfab36e3754ca98b37212fb561b
+    - name: neutral_prongbok_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 82d81e5d4d8adbb4594c68f91695c382
+    - name: neutral_prongbok_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7bcc6d954fa4d6e459a55d3ce2afb3a6
+    - name: neutral_prongbok_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8bfffb53eec2e2e41bb9323a8856c114
+    - name: neutral_prongbok_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ed949ce5d98c34947a6c972e14e39b9d
+    - name: neutral_prongbok_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: aeb232b0816c2924bbef535868e259dd
+    - name: neutral_prongbok_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f106012df65e83f479ef6b0ef404edb3
+    - name: neutral_prongbok_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 045a432372a9dce48a29a7ec3c3838e3
+    - name: neutral_prongbok_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 27a3ba3e61ce3444b90d0e55b899c992
+    - name: neutral_prongbok_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 379a55ca9217e124489f648781827e3e
+    - name: neutral_prongbok_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 729abcb329760ef4db638a302e8eeafd
+    - name: neutral_prongbok_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2160757149e35bf41953174031887186
+    - name: neutral_prongbok_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 02584638cf7b1f04b8a3c95e2a53dccc
+    - name: neutral_prongbok_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d6198376578a6e349844b8637fbc4c36
+    - name: neutral_prongbok_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1378628780f232242b68245acd429245
+    - name: neutral_prongbok_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 75ef7c4643b7dc744af9424fa60deae3
+    - name: neutral_prongbok_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1528baa2d7d05a54490e9054bd501a8a
+    - name: neutral_prongbok_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c5259b9351a9e5848965ab9dc7aa114e
+    - name: neutral_prongbok_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d1e58355663a2eb40b15243cb15dd848
+    - name: neutral_prongbok_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 93911c7071e6d364c86e14f0e915a455
+    - name: neutral_prongbok_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8c053e1725942464e86f4f227e2264fc
+    - name: neutral_prongbok_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ff6a8ce40651b0a4c866295aacf11f34
+    - name: neutral_prongbok_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 825cc1bfbb152e44d8fc48314f2684fe
+    - name: neutral_prongbok_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bccbc6fb5c1afd94c80c1f4809d88155
+    - name: neutral_prongbok_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 707f00fb45216f44b9c8e3bc54255115
+    - name: neutral_prongbok_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 693f6cc34eff98d429c6e10533445476
+    - name: neutral_prongbok_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 450ced16c7e044e45820bfdb35d0f718
+    - name: neutral_prongbok_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3f982f9d7e2fdfa4280c83e06be91ef4
+    - name: neutral_prongbok_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ce45ea974040abb4e8a55c903fecb61a
+    - name: neutral_prongbok_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6ed88ccffa031ee4cbb3eb83dc0fa3c9
+    - name: neutral_prongbok_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c68adf5279dc6c94897088912ee1831b
+    - name: neutral_prongbok_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8577d0e80bd2b234e98ecfa7ca9dd760
+    - name: neutral_prongbok_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 80092be4761e7b847bbb14fac82cc00c
+    - name: neutral_prongbok_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 03241f7072208d0478510683301f0455
+    - name: neutral_prongbok_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a36e1135dadd7cd47bf40ed68b8642f0
+    - name: neutral_prongbok_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1cf694d9a338077439e6af090e6c763d
+    - name: neutral_prongbok_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e65381e35a5e7ee42b2205af37954fd5
+    - name: neutral_prongbok_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e021085846452884ab9e119bfdfe2177
+    - name: neutral_prongbok_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3d6681e0656473b4c80caef64a68f56e
+    - name: neutral_prongbok_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fe67a42fe1aae76478f199c0a619579c
+    - name: neutral_prongbok_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a96b5a264fc41414d9c9d9a2c890f67a
+    - name: neutral_prongbok_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 25e72efbb329e8e44bafe6b0a7f89d22
+    - name: neutral_prongbok_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7de6c9634997bcb44abbfd37f51b602c
+    - name: neutral_prongbok_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c52c4d264627a0240bd531e0f1a6e48b
+    - name: neutral_prongbok_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c6632f566ffcf6740824490087f1159a
+    - name: neutral_prongbok_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1c3b37baf79e8174581f0ee737601332
+    - name: neutral_prongbok_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7910a700965ff414997bdb163e66c28d
+    - name: neutral_prongbok_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 60b3a507340737b4eb97e5273eb91703
+    - name: neutral_prongbok_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2a34f2fb0bc148d44abd3f7fa8d0d1ce
+    - name: neutral_prongbok_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9ea8c1d0075ab8d478aa52cd88da30c4
+    - name: neutral_prongbok_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7b7aed8764dc9714bbc7c704571f9e0d
+    - name: neutral_prongbok_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 98a726f1c022a0c46bb8fd29acafc427
+    - name: neutral_prongbok_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d96da598bcc8c834c93b3dfc729657aa
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

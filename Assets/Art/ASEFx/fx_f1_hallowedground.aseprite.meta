@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: 5bc46f648b0240e489948d6102e1cb32
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_f1_hallowedground_Frame_0
+    originalName: 
+    pivot: {x: 0.51470584, y: -0.51785713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 458
+      width: 68
+      height: 56
+    spriteID: e5dee3f9a80c7b04fa09f487d440988c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 429}
+  - name: fx_f1_hallowedground_Frame_1
+    originalName: 
+    pivot: {x: 0.51470584, y: -0.52459013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 389
+      width: 68
+      height: 61
+    spriteID: 1928d7ab2aacab343b42a011ca807a03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 357}
+  - name: fx_f1_hallowedground_Frame_2
+    originalName: 
+    pivot: {x: 0.5116279, y: -0.24742267}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 699
+      width: 86
+      height: 97
+    spriteID: cc504e9a5c1c9a2449c32ae692d05d91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 675}
+  - name: fx_f1_hallowedground_Frame_3
+    originalName: 
+    pivot: {x: 0.51086956, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 233
+      width: 92
+      height: 105
+    spriteID: 2ea91e83d8801e249808e569642ebb72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 212}
+  - name: fx_f1_hallowedground_Frame_4
+    originalName: 
+    pivot: {x: 0.5104166, y: -0.19230771}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 121
+      width: 96
+      height: 104
+    spriteID: 4d6911f3a8029c547b3c90f56238f0ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 101}
+  - name: fx_f1_hallowedground_Frame_5
+    originalName: 
+    pivot: {x: 0.510204, y: -0.17431192}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 4
+      width: 98
+      height: 109
+    spriteID: 1d2d071f32073c9488e9de8c3fb65064
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: -15}
+  - name: fx_f1_hallowedground_Frame_6
+    originalName: 
+    pivot: {x: 0.51, y: -0.16981132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 4
+      width: 100
+      height: 106
+    spriteID: 0611a497b5739c84299ea3ea425b2216
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: -14}
+  - name: fx_f1_hallowedground_Frame_7
+    originalName: 
+    pivot: {x: 0.51, y: -0.15315317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 774
+      width: 100
+      height: 111
+    spriteID: 2e34a29b49210cf49a689d4fb113563c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 757}
+  - name: fx_f1_hallowedground_Frame_8
+    originalName: 
+    pivot: {x: 0.5098039, y: -0.14782609}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 651
+      width: 102
+      height: 115
+    spriteID: adbed5120e192754fae2ef6de77b048e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 634}
+  - name: fx_f1_hallowedground_Frame_9
+    originalName: 
+    pivot: {x: 0.5098039, y: -0.13445379}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 524
+      width: 102
+      height: 119
+    spriteID: 9f68a99b5d4ab634cbce365f1ff93560
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 508}
+  - name: fx_f1_hallowedground_Frame_10
+    originalName: 
+    pivot: {x: 0.509434, y: -0.122950815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 265
+      width: 106
+      height: 122
+    spriteID: 85a50c3a030424b4ea0fbfded5347ac0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 250}
+  - name: fx_f1_hallowedground_Frame_11
+    originalName: 
+    pivot: {x: 0.5092592, y: -0.11382114}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 108
+      height: 123
+    spriteID: f706c5d5ace5f9143a03baafff9082e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: -10}
+  - name: fx_f1_hallowedground_Frame_12
+    originalName: 
+    pivot: {x: 0.5092592, y: -0.122950815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 135
+      width: 108
+      height: 122
+    spriteID: b515ff64220b54047ace87c686166b2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 120}
+  - name: fx_f1_hallowedground_Frame_13
+    originalName: 
+    pivot: {x: 0.5096154, y: -0.13223141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 395
+      width: 104
+      height: 121
+    spriteID: 9bd6c98b445ec2b46a075c60744aa4eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 379}
+  - name: fx_f1_hallowedground_Frame_14
+    originalName: 
+    pivot: {x: 0.5104166, y: -0.1652174}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 893
+      width: 96
+      height: 115
+    spriteID: 4f735471b3cdaa6469fdc4308e2a0c61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 874}
+  - name: fx_f1_hallowedground_Frame_15
+    originalName: 
+    pivot: {x: 0.51724136, y: -0.3882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 217
+      width: 58
+      height: 85
+    spriteID: 934b422a6ccf95340ad5e4a0fe6e80c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 184}
+  - name: fx_f1_hallowedground_Frame_16
+    originalName: 
+    pivot: {x: 0.51470584, y: -0.31182796}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 916
+      width: 68
+      height: 93
+    spriteID: 1bd14e2929b843443995b7957a4c2757
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 887}
+  - name: fx_f1_hallowedground_Frame_17
+    originalName: 
+    pivot: {x: 0.51315784, y: -0.24038462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 804
+      width: 76
+      height: 104
+    spriteID: 9ad6925ba45aa3f43aad4edcf20b8336
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 779}
+  - name: fx_f1_hallowedground_Frame_18
+    originalName: 
+    pivot: {x: 0.5128205, y: -0.22429906}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 584
+      width: 78
+      height: 107
+    spriteID: 17f9e556e3ca68544b2d394716633156
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 560}
+  - name: fx_f1_hallowedground_Frame_19
+    originalName: 
+    pivot: {x: 0.5124999, y: -0.20909092}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 466
+      width: 80
+      height: 110
+    spriteID: 232b59f137ddceb4cbba7d952e5aa9eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 443}
+  - name: fx_f1_hallowedground_Frame_20
+    originalName: 
+    pivot: {x: 0.5121951, y: -0.19642857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 346
+      width: 82
+      height: 112
+    spriteID: f9490f89245cebd428d32ce0d0140076
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 324}
+  - name: fx_f1_hallowedground_Frame_21
+    originalName: 
+    pivot: {x: 0.51470584, y: -0.3186813}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 118
+      width: 68
+      height: 91
+    spriteID: 81c158e14f1003d4ea86f0498245e920
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 89}
+  - name: fx_f1_hallowedground_Frame_22
+    originalName: 
+    pivot: {x: 0.51470584, y: -0.40845072}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 310
+      width: 68
+      height: 71
+    spriteID: 148009bbd24ea9c4fa6632551f5718cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 281}
+  - name: fx_f1_hallowedground_Frame_23
+    originalName: 
+    pivot: {x: 0.51470584, y: -0.51785713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 522
+      width: 68
+      height: 56
+    spriteID: e3a815137a2cff04daf3c449b7fad15c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 493}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1695753114
+    name: fx_f1_hallowedground
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_f1_hallowedground_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: e5dee3f9a80c7b04fa09f487d440988c
+    - name: fx_f1_hallowedground_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 1928d7ab2aacab343b42a011ca807a03
+    - name: fx_f1_hallowedground_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: cc504e9a5c1c9a2449c32ae692d05d91
+    - name: fx_f1_hallowedground_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 2ea91e83d8801e249808e569642ebb72
+    - name: fx_f1_hallowedground_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 4d6911f3a8029c547b3c90f56238f0ce
+    - name: fx_f1_hallowedground_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 1d2d071f32073c9488e9de8c3fb65064
+    - name: fx_f1_hallowedground_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 0611a497b5739c84299ea3ea425b2216
+    - name: fx_f1_hallowedground_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 2e34a29b49210cf49a689d4fb113563c
+    - name: fx_f1_hallowedground_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: adbed5120e192754fae2ef6de77b048e
+    - name: fx_f1_hallowedground_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 9f68a99b5d4ab634cbce365f1ff93560
+    - name: fx_f1_hallowedground_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 85a50c3a030424b4ea0fbfded5347ac0
+    - name: fx_f1_hallowedground_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: f706c5d5ace5f9143a03baafff9082e6
+    - name: fx_f1_hallowedground_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: b515ff64220b54047ace87c686166b2e
+    - name: fx_f1_hallowedground_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 9bd6c98b445ec2b46a075c60744aa4eb
+    - name: fx_f1_hallowedground_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 4f735471b3cdaa6469fdc4308e2a0c61
+    - name: fx_f1_hallowedground_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 934b422a6ccf95340ad5e4a0fe6e80c8
+    - name: fx_f1_hallowedground_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 1bd14e2929b843443995b7957a4c2757
+    - name: fx_f1_hallowedground_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 9ad6925ba45aa3f43aad4edcf20b8336
+    - name: fx_f1_hallowedground_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 17f9e556e3ca68544b2d394716633156
+    - name: fx_f1_hallowedground_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 232b59f137ddceb4cbba7d952e5aa9eb
+    - name: fx_f1_hallowedground_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: f9490f89245cebd428d32ce0d0140076
+    - name: fx_f1_hallowedground_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 81c158e14f1003d4ea86f0498245e920
+    - name: fx_f1_hallowedground_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 148009bbd24ea9c4fa6632551f5718cf
+    - name: fx_f1_hallowedground_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: e3a815137a2cff04daf3c449b7fad15c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 150, y: 150}

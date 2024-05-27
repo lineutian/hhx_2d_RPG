@@ -1,0 +1,2370 @@
+fileFormatVersion: 2
+guid: 5d7b512bcc04cad45a22390e3b4c8a8d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_serpenti_Frame_0
+    originalName: 
+    pivot: {x: 0.37704918, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 239
+      width: 61
+      height: 42
+    spriteID: 6d5602b34677d6e4a8df9223f29de036
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 223}
+  - name: neutral_serpenti_Frame_1
+    originalName: 
+    pivot: {x: 0.3870968, y: -0.4047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 189
+      width: 62
+      height: 42
+    spriteID: ea4a995b5b3290c44ab2f2ac06e44e9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 172}
+  - name: neutral_serpenti_Frame_2
+    originalName: 
+    pivot: {x: 0.36666667, y: -0.4390244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 915
+      width: 60
+      height: 41
+    spriteID: 030594d4b87c16c44b89837aaf4ee08f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 897}
+  - name: neutral_serpenti_Frame_3
+    originalName: 
+    pivot: {x: 0.36666667, y: -0.45}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 101
+      width: 60
+      height: 40
+    spriteID: abd5dcac7de6d5c45bba0cbb607b7816
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 83}
+  - name: neutral_serpenti_Frame_4
+    originalName: 
+    pivot: {x: 0.36666667, y: -0.45}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 149
+      width: 60
+      height: 40
+    spriteID: 59fb66c3291192f42bb863cd092d86ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 131}
+  - name: neutral_serpenti_Frame_5
+    originalName: 
+    pivot: {x: 0.37288138, y: -0.4390244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 52
+      width: 59
+      height: 41
+    spriteID: d2b7b557666458142a5739c2089f2854
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 34}
+  - name: neutral_serpenti_Frame_6
+    originalName: 
+    pivot: {x: 0.37704918, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 683
+      width: 61
+      height: 41
+    spriteID: 802359eebe439204fa8699396cb1292c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 667}
+  - name: neutral_serpenti_Frame_7
+    originalName: 
+    pivot: {x: 0.37704918, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 4
+      width: 61
+      height: 40
+    spriteID: eff237795f7a18b48b86592b21e29ff4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: -12}
+  - name: neutral_serpenti_Frame_8
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 145
+      width: 58
+      height: 38
+    spriteID: c7235fd1beb998d40bf8ecb66590ec1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 129}
+  - name: neutral_serpenti_Frame_9
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 191
+      width: 58
+      height: 38
+    spriteID: b0ece28c7b698f34e8e034e54b818bb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 175}
+  - name: neutral_serpenti_Frame_10
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 651
+      width: 57
+      height: 38
+    spriteID: b749bdb461808574bbcc3a1faf8dd917
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 635}
+  - name: neutral_serpenti_Frame_11
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 697
+      width: 57
+      height: 38
+    spriteID: 58cad3c51c9af9346b8183e47bbe50d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 681}
+  - name: neutral_serpenti_Frame_12
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 237
+      width: 58
+      height: 38
+    spriteID: 0c4e8566f0b59b745bda6c02321249fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 221}
+  - name: neutral_serpenti_Frame_13
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 98
+      width: 57
+      height: 39
+    spriteID: 8b51cde0d9f457d428ef9a5dd2b532f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 82}
+  - name: neutral_serpenti_Frame_14
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 673
+      width: 58
+      height: 39
+    spriteID: 779dec196d7fb294799af012f3617f60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 657}
+  - name: neutral_serpenti_Frame_15
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 579
+      width: 57
+      height: 40
+    spriteID: 210f277556d92c742abefb6aeb8f93a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 563}
+  - name: neutral_serpenti_Frame_16
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 720
+      width: 58
+      height: 39
+    spriteID: 28d045cbd46b61d48928b6db876837fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 704}
+  - name: neutral_serpenti_Frame_17
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 767
+      width: 58
+      height: 39
+    spriteID: f9cc786396726ff4cbaa70230a98c9be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 751}
+  - name: neutral_serpenti_Frame_18
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 814
+      width: 58
+      height: 39
+    spriteID: 6d5ab80842501c14abf9642f805124e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 798}
+  - name: neutral_serpenti_Frame_19
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 861
+      width: 58
+      height: 39
+    spriteID: b8f46fcdaeb877240a42f30c769b96e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 845}
+  - name: neutral_serpenti_Frame_20
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 908
+      width: 58
+      height: 39
+    spriteID: 59ea2295391278344929490f6d308ed6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 892}
+  - name: neutral_serpenti_Frame_21
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 955
+      width: 58
+      height: 39
+    spriteID: e15ec2d0ee7b1b547b6893980e8e57bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 939}
+  - name: neutral_serpenti_Frame_22
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 283
+      width: 58
+      height: 38
+    spriteID: 7a368b1d2299da041ac1b4d9ded43749
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 267}
+  - name: neutral_serpenti_Frame_23
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 743
+      width: 57
+      height: 38
+    spriteID: 13a89e1a203560d40b5f649861f457a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 727}
+  - name: neutral_serpenti_Frame_24
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 142
+      width: 57
+      height: 37
+    spriteID: d40d7abd441ad9242a9430bfca33bcd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 126}
+  - name: neutral_serpenti_Frame_25
+    originalName: 
+    pivot: {x: 0.40677968, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 438
+      width: 59
+      height: 39
+    spriteID: f129ea6e7486e5b4b89ac92b59cbd8f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 422}
+  - name: neutral_serpenti_Frame_26
+    originalName: 
+    pivot: {x: 0.47272727, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 49
+      width: 55
+      height: 41
+    spriteID: d246dce4e5e487d4dbb515e1ce2a1d12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 33}
+  - name: neutral_serpenti_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 245
+      width: 58
+      height: 41
+    spriteID: b67f97345efd5e2438f9e8ca742b0c58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 229}
+  - name: neutral_serpenti_Frame_28
+    originalName: 
+    pivot: {x: 0.40677968, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 485
+      width: 59
+      height: 39
+    spriteID: 7b9e877c67f1fcb4598576adfd77007d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 469}
+  - name: neutral_serpenti_Frame_29
+    originalName: 
+    pivot: {x: 0.46774194, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 585
+      width: 62
+      height: 41
+    spriteID: a235213f78181f8438f858e443cdda80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 569}
+  - name: neutral_serpenti_Frame_30
+    originalName: 
+    pivot: {x: 0.46774194, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 634
+      width: 62
+      height: 41
+    spriteID: 4a1317b32da9f3943a706534361c9c7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 618}
+  - name: neutral_serpenti_Frame_31
+    originalName: 
+    pivot: {x: 0.46666667, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 197
+      width: 60
+      height: 40
+    spriteID: a7f41654b75562c4788d574cb71299ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 181}
+  - name: neutral_serpenti_Frame_32
+    originalName: 
+    pivot: {x: 0.47457626, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 294
+      width: 59
+      height: 40
+    spriteID: 9688852663ca3cf43a21512508605456
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 278}
+  - name: neutral_serpenti_Frame_33
+    originalName: 
+    pivot: {x: 0.45762715, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 342
+      width: 59
+      height: 40
+    spriteID: b16169c808666b048bb018125c5520a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 326}
+  - name: neutral_serpenti_Frame_34
+    originalName: 
+    pivot: {x: 0.45000002, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 627
+      width: 60
+      height: 38
+    spriteID: 1b995c0158e78784482f5b3b78681069
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 611}
+  - name: neutral_serpenti_Frame_35
+    originalName: 
+    pivot: {x: 0.46296296, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 187
+      width: 54
+      height: 38
+    spriteID: 1f03ad717b8e1754192c4309d8540c03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 171}
+  - name: neutral_serpenti_Frame_36
+    originalName: 
+    pivot: {x: 0.40384614, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 276
+      width: 52
+      height: 38
+    spriteID: e6f2bc31f84547b428a887eff9c16374
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 260}
+  - name: neutral_serpenti_Frame_37
+    originalName: 
+    pivot: {x: 0.3584906, y: -0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 363
+      width: 53
+      height: 32
+    spriteID: e3d90cf7584d11f47a9cbb8cd3458945
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 348}
+  - name: neutral_serpenti_Frame_38
+    originalName: 
+    pivot: {x: 0.35185185, y: -0.5769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 403
+      width: 54
+      height: 26
+    spriteID: 620734aae7c869340b223f2438c308dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 388}
+  - name: neutral_serpenti_Frame_39
+    originalName: 
+    pivot: {x: 0.35185185, y: -0.5833333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 437
+      width: 54
+      height: 24
+    spriteID: 1e01dba3825439a4e8faff1723682c28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 423}
+  - name: neutral_serpenti_Frame_40
+    originalName: 
+    pivot: {x: 0.3584906, y: -0.6086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 531
+      width: 53
+      height: 23
+    spriteID: 4d229b4f6321b2c4cbb1987117c8b5f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 517}
+  - name: neutral_serpenti_Frame_41
+    originalName: 
+    pivot: {x: 0.3584906, y: -0.6086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 562
+      width: 53
+      height: 23
+    spriteID: 2bf9104358f6d2c4498ab09d309ade5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 548}
+  - name: neutral_serpenti_Frame_42
+    originalName: 
+    pivot: {x: 0.35185185, y: -0.6086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 469
+      width: 54
+      height: 23
+    spriteID: c4174993addacb24da93044a6fd476fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 455}
+  - name: neutral_serpenti_Frame_43
+    originalName: 
+    pivot: {x: 0.35185185, y: -0.6086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 500
+      width: 54
+      height: 23
+    spriteID: ab8adde0bfedb4046bdef6466b7fc0bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 486}
+  - name: neutral_serpenti_Frame_44
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 329
+      width: 58
+      height: 38
+    spriteID: 8941b7d16e5ccb24a98f72d3bcb36867
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 313}
+  - name: neutral_serpenti_Frame_45
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 375
+      width: 58
+      height: 38
+    spriteID: 7347e1e7900a2dc4d952ba9e174893fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 359}
+  - name: neutral_serpenti_Frame_46
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 421
+      width: 58
+      height: 38
+    spriteID: ecb57b6f0bd77734aa9aaf80b64b54be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 405}
+  - name: neutral_serpenti_Frame_47
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 467
+      width: 58
+      height: 38
+    spriteID: 667409ff7109989479312d2272fed21e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 451}
+  - name: neutral_serpenti_Frame_48
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 513
+      width: 58
+      height: 38
+    spriteID: aa5396039be309945bf368204c75f390
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 497}
+  - name: neutral_serpenti_Frame_49
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 559
+      width: 58
+      height: 38
+    spriteID: e123a482e3119a5469c324e3203386cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 543}
+  - name: neutral_serpenti_Frame_50
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 789
+      width: 57
+      height: 38
+    spriteID: 1b87b86d51abc074bba5c76ce41e34b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 773}
+  - name: neutral_serpenti_Frame_51
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 835
+      width: 57
+      height: 38
+    spriteID: c547fb78425dec84c8eb0fe05b17ba9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 819}
+  - name: neutral_serpenti_Frame_52
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 881
+      width: 57
+      height: 38
+    spriteID: 2d38ab2f5ea860e499a18576fde8941e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 865}
+  - name: neutral_serpenti_Frame_53
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 927
+      width: 57
+      height: 38
+    spriteID: 42457c4038167824dbcff4f9ddeda958
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 911}
+  - name: neutral_serpenti_Frame_54
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 973
+      width: 57
+      height: 38
+    spriteID: 97f4c2b0b22e4fe4d98e3e5968b6f353
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 957}
+  - name: neutral_serpenti_Frame_55
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 4
+      width: 57
+      height: 38
+    spriteID: 2293d9f30d45e4e4cba3561fa3ed76c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: -12}
+  - name: neutral_serpenti_Frame_56
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 50
+      width: 57
+      height: 38
+    spriteID: cec49eda234425d4eb8e7ca24166c1bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 34}
+  - name: neutral_serpenti_Frame_57
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 605
+      width: 58
+      height: 38
+    spriteID: 7ffc5130d771f17498aa432b7fbd01be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 589}
+  - name: neutral_serpenti_Frame_58
+    originalName: 
+    pivot: {x: 0.40677968, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 532
+      width: 59
+      height: 39
+    spriteID: c77ca5a165376a9468fde2238c71bea9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 516}
+  - name: neutral_serpenti_Frame_59
+    originalName: 
+    pivot: {x: 0.41379312, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 390
+      width: 58
+      height: 40
+    spriteID: 8c3461d2776df474bb0e4ca3ad17a700
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 374}
+  - name: neutral_serpenti_Frame_60
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 732
+      width: 47
+      height: 53
+    spriteID: be28fd1a5b19311438de6d77796a255d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 716}
+  - name: neutral_serpenti_Frame_61
+    originalName: 
+    pivot: {x: 0.51063836, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 793
+      width: 47
+      height: 53
+    spriteID: eab40895106ec614497ce2be4f448632
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 777}
+  - name: neutral_serpenti_Frame_62
+    originalName: 
+    pivot: {x: 0.5, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 341
+      width: 48
+      height: 53
+    spriteID: 82e3a9f85dce33b4a9c779c16b251435
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 325}
+  - name: neutral_serpenti_Frame_63
+    originalName: 
+    pivot: {x: 0.5208333, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 402
+      width: 48
+      height: 53
+    spriteID: f646194e01c343245bb515e313fb8b5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 386}
+  - name: neutral_serpenti_Frame_64
+    originalName: 
+    pivot: {x: 0.5208333, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 463
+      width: 48
+      height: 53
+    spriteID: 804b0d68744b50344a9f75734d046db0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 447}
+  - name: neutral_serpenti_Frame_65
+    originalName: 
+    pivot: {x: 0.5208333, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 524
+      width: 48
+      height: 53
+    spriteID: 1ae61efb9bad94445a4af4aab616a87f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 508}
+  - name: neutral_serpenti_Frame_66
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 854
+      width: 47
+      height: 53
+    spriteID: 5d79baa057746d145921569c7d489083
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 838}
+  - name: neutral_serpenti_Frame_67
+    originalName: 
+    pivot: {x: 0.54, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 127
+      width: 50
+      height: 54
+    spriteID: 91764a703fd31504883a141c4c52d4f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 111}
+  - name: neutral_serpenti_Frame_68
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 64
+      width: 55
+      height: 55
+    spriteID: 8fac8efc75841c948a02edc44a54408d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 48}
+  - name: neutral_serpenti_Frame_69
+    originalName: 
+    pivot: {x: 0.41791043, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 67
+      height: 52
+    spriteID: 0a647e29ec022b94e9a420dfd401bb86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: -12}
+  - name: neutral_serpenti_Frame_70
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.24390244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 964
+      width: 60
+      height: 41
+    spriteID: f69edd8645dcf8f4d87341f849c9fb8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 954}
+  - name: neutral_serpenti_Frame_71
+    originalName: 
+    pivot: {x: 0.40677968, y: -0.33333337}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 4
+      width: 59
+      height: 36
+    spriteID: f883c69f60478754393903d9a161eff2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 266, y: -8}
+  - name: neutral_serpenti_Frame_72
+    originalName: 
+    pivot: {x: 0.36065575, y: -0.2972973}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 4
+      width: 61
+      height: 37
+    spriteID: 5b981bc03ebf1bf40b3efd5eb0e0d2df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: -7}
+  - name: neutral_serpenti_Frame_73
+    originalName: 
+    pivot: {x: 0.36842105, y: -0.37142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 233
+      width: 57
+      height: 35
+    spriteID: c416d70c9565d2347a5baae914d0abd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 220}
+  - name: neutral_serpenti_Frame_74
+    originalName: 
+    pivot: {x: 0.36206895, y: -0.11363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 289
+      width: 58
+      height: 44
+    spriteID: 8893cb86749c63e42ba85f6f5e407a86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 284}
+  - name: neutral_serpenti_Frame_75
+    originalName: 
+    pivot: {x: 0.3962264, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 322
+      width: 53
+      height: 33
+    spriteID: e3931d6770a25e24980478b4db964583
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 306}
+  - name: neutral_serpenti_Frame_76
+    originalName: 
+    pivot: {x: 0.38596493, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 96
+      width: 57
+      height: 38
+    spriteID: 961d1a8fb20121c43886beae7747a9d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 80}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1674530968
+    name: neutral_serpenti
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_serpenti_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6d5602b34677d6e4a8df9223f29de036
+    - name: neutral_serpenti_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ea4a995b5b3290c44ab2f2ac06e44e9f
+    - name: neutral_serpenti_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 030594d4b87c16c44b89837aaf4ee08f
+    - name: neutral_serpenti_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: abd5dcac7de6d5c45bba0cbb607b7816
+    - name: neutral_serpenti_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 59fb66c3291192f42bb863cd092d86ca
+    - name: neutral_serpenti_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d2b7b557666458142a5739c2089f2854
+    - name: neutral_serpenti_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 802359eebe439204fa8699396cb1292c
+    - name: neutral_serpenti_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eff237795f7a18b48b86592b21e29ff4
+    - name: neutral_serpenti_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c7235fd1beb998d40bf8ecb66590ec1d
+    - name: neutral_serpenti_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b0ece28c7b698f34e8e034e54b818bb9
+    - name: neutral_serpenti_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b749bdb461808574bbcc3a1faf8dd917
+    - name: neutral_serpenti_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 58cad3c51c9af9346b8183e47bbe50d2
+    - name: neutral_serpenti_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0c4e8566f0b59b745bda6c02321249fe
+    - name: neutral_serpenti_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8b51cde0d9f457d428ef9a5dd2b532f7
+    - name: neutral_serpenti_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 779dec196d7fb294799af012f3617f60
+    - name: neutral_serpenti_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 210f277556d92c742abefb6aeb8f93a2
+    - name: neutral_serpenti_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 28d045cbd46b61d48928b6db876837fb
+    - name: neutral_serpenti_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f9cc786396726ff4cbaa70230a98c9be
+    - name: neutral_serpenti_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6d5ab80842501c14abf9642f805124e5
+    - name: neutral_serpenti_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b8f46fcdaeb877240a42f30c769b96e2
+    - name: neutral_serpenti_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 59ea2295391278344929490f6d308ed6
+    - name: neutral_serpenti_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e15ec2d0ee7b1b547b6893980e8e57bb
+    - name: neutral_serpenti_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7a368b1d2299da041ac1b4d9ded43749
+    - name: neutral_serpenti_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 13a89e1a203560d40b5f649861f457a5
+    - name: neutral_serpenti_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d40d7abd441ad9242a9430bfca33bcd1
+    - name: neutral_serpenti_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f129ea6e7486e5b4b89ac92b59cbd8f1
+    - name: neutral_serpenti_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d246dce4e5e487d4dbb515e1ce2a1d12
+    - name: neutral_serpenti_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b67f97345efd5e2438f9e8ca742b0c58
+    - name: neutral_serpenti_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7b9e877c67f1fcb4598576adfd77007d
+    - name: neutral_serpenti_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a235213f78181f8438f858e443cdda80
+    - name: neutral_serpenti_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4a1317b32da9f3943a706534361c9c7f
+    - name: neutral_serpenti_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a7f41654b75562c4788d574cb71299ff
+    - name: neutral_serpenti_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9688852663ca3cf43a21512508605456
+    - name: neutral_serpenti_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b16169c808666b048bb018125c5520a9
+    - name: neutral_serpenti_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1b995c0158e78784482f5b3b78681069
+    - name: neutral_serpenti_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1f03ad717b8e1754192c4309d8540c03
+    - name: neutral_serpenti_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e6f2bc31f84547b428a887eff9c16374
+    - name: neutral_serpenti_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e3d90cf7584d11f47a9cbb8cd3458945
+    - name: neutral_serpenti_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 620734aae7c869340b223f2438c308dc
+    - name: neutral_serpenti_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1e01dba3825439a4e8faff1723682c28
+    - name: neutral_serpenti_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4d229b4f6321b2c4cbb1987117c8b5f3
+    - name: neutral_serpenti_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2bf9104358f6d2c4498ab09d309ade5b
+    - name: neutral_serpenti_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c4174993addacb24da93044a6fd476fc
+    - name: neutral_serpenti_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ab8adde0bfedb4046bdef6466b7fc0bd
+    - name: neutral_serpenti_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8941b7d16e5ccb24a98f72d3bcb36867
+    - name: neutral_serpenti_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7347e1e7900a2dc4d952ba9e174893fa
+    - name: neutral_serpenti_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ecb57b6f0bd77734aa9aaf80b64b54be
+    - name: neutral_serpenti_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 667409ff7109989479312d2272fed21e
+    - name: neutral_serpenti_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: aa5396039be309945bf368204c75f390
+    - name: neutral_serpenti_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e123a482e3119a5469c324e3203386cd
+    - name: neutral_serpenti_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1b87b86d51abc074bba5c76ce41e34b0
+    - name: neutral_serpenti_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c547fb78425dec84c8eb0fe05b17ba9c
+    - name: neutral_serpenti_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2d38ab2f5ea860e499a18576fde8941e
+    - name: neutral_serpenti_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 42457c4038167824dbcff4f9ddeda958
+    - name: neutral_serpenti_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 97f4c2b0b22e4fe4d98e3e5968b6f353
+    - name: neutral_serpenti_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2293d9f30d45e4e4cba3561fa3ed76c8
+    - name: neutral_serpenti_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cec49eda234425d4eb8e7ca24166c1bc
+    - name: neutral_serpenti_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7ffc5130d771f17498aa432b7fbd01be
+    - name: neutral_serpenti_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c77ca5a165376a9468fde2238c71bea9
+    - name: neutral_serpenti_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8c3461d2776df474bb0e4ca3ad17a700
+    - name: neutral_serpenti_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: be28fd1a5b19311438de6d77796a255d
+    - name: neutral_serpenti_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eab40895106ec614497ce2be4f448632
+    - name: neutral_serpenti_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 82e3a9f85dce33b4a9c779c16b251435
+    - name: neutral_serpenti_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f646194e01c343245bb515e313fb8b5e
+    - name: neutral_serpenti_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 804b0d68744b50344a9f75734d046db0
+    - name: neutral_serpenti_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1ae61efb9bad94445a4af4aab616a87f
+    - name: neutral_serpenti_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5d79baa057746d145921569c7d489083
+    - name: neutral_serpenti_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 91764a703fd31504883a141c4c52d4f3
+    - name: neutral_serpenti_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8fac8efc75841c948a02edc44a54408d
+    - name: neutral_serpenti_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0a647e29ec022b94e9a420dfd401bb86
+    - name: neutral_serpenti_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f69edd8645dcf8f4d87341f849c9fb8f
+    - name: neutral_serpenti_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f883c69f60478754393903d9a161eff2
+    - name: neutral_serpenti_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5b981bc03ebf1bf40b3efd5eb0e0d2df
+    - name: neutral_serpenti_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c416d70c9565d2347a5baae914d0abd8
+    - name: neutral_serpenti_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8893cb86749c63e42ba85f6f5e407a86
+    - name: neutral_serpenti_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e3931d6770a25e24980478b4db964583
+    - name: neutral_serpenti_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 961d1a8fb20121c43886beae7747a9d1
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

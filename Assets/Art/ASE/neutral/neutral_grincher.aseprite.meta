@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 318b8fa64d72fba499996f17510f1c57
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_grincher_Frame_0
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 76
+      width: 72
+      height: 33
+    spriteID: 914e97089301d80449810d967f739c3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 409, y: 60}
+  - name: neutral_grincher_Frame_1
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 157
+      width: 72
+      height: 35
+    spriteID: 8afc9d8f39df3a84196f2ab11b4794f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 141}
+  - name: neutral_grincher_Frame_2
+    originalName: 
+    pivot: {x: 0.30985916, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 343
+      y: 157
+      width: 71
+      height: 35
+    spriteID: 4bccc24bcd0d0854fa218ad2ba5c0100
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 141}
+  - name: neutral_grincher_Frame_3
+    originalName: 
+    pivot: {x: 0.30985916, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 359
+      width: 71
+      height: 34
+    spriteID: 712119fc5c443ab49a44dfcba2aacf8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 343}
+  - name: neutral_grincher_Frame_4
+    originalName: 
+    pivot: {x: 0.29411763, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 440
+      y: 200
+      width: 68
+      height: 31
+    spriteID: 7c06b9426695946499550817d8bfeee9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 410, y: 184}
+  - name: neutral_grincher_Frame_5
+    originalName: 
+    pivot: {x: 0.29411763, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 359
+      width: 68
+      height: 34
+    spriteID: 8a4edf746be4cda45a36de13e9b1a33d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 343}
+  - name: neutral_grincher_Frame_6
+    originalName: 
+    pivot: {x: 0.3, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 359
+      width: 70
+      height: 34
+    spriteID: e7a86886b9b87ad4a89f25d2befde908
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 343}
+  - name: neutral_grincher_Frame_7
+    originalName: 
+    pivot: {x: 0.30985916, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 239
+      width: 71
+      height: 32
+    spriteID: c8259a6fd371c834e8075dfcdba0e4fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 407, y: 223}
+  - name: neutral_grincher_Frame_8
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 200
+      width: 79
+      height: 31
+    spriteID: 9c7664cca7dadb3488199182cec7fcc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 184}
+  - name: neutral_grincher_Frame_9
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 157
+      width: 80
+      height: 31
+    spriteID: d1633ef748935a34f95141a45f381769
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 141}
+  - name: neutral_grincher_Frame_10
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 4
+      width: 80
+      height: 32
+    spriteID: 8c3f306245ac78a4ab6811bb135c57c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 304, y: -12}
+  - name: neutral_grincher_Frame_11
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 4
+      width: 79
+      height: 33
+    spriteID: b65d648907093254a968ab795e440111
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: -12}
+  - name: neutral_grincher_Frame_12
+    originalName: 
+    pivot: {x: 0.36842105, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 157
+      width: 76
+      height: 33
+    spriteID: 034dbd5821a56034a827fcfd9dc6c3bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 141}
+  - name: neutral_grincher_Frame_13
+    originalName: 
+    pivot: {x: 0.36842105, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 319
+      width: 76
+      height: 32
+    spriteID: e0e75891258b8ae45863eae52147eca4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 303}
+  - name: neutral_grincher_Frame_14
+    originalName: 
+    pivot: {x: 0.40740737, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 157
+      width: 81
+      height: 31
+    spriteID: 55db5f125ec95ce46ab965f9280632bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 141}
+  - name: neutral_grincher_Frame_15
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 319
+      width: 79
+      height: 30
+    spriteID: b89003060d451024a83cb69a37c1ab73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 320, y: 303}
+  - name: neutral_grincher_Frame_16
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 76
+      width: 79
+      height: 32
+    spriteID: dca6f9dbfc72cca40bd993aac75f776b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 62}
+  - name: neutral_grincher_Frame_17
+    originalName: 
+    pivot: {x: 0.3766234, y: -0.42424244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 77
+      height: 33
+    spriteID: 4c9006d8e9c665147aec7e105387e458
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 62}
+  - name: neutral_grincher_Frame_18
+    originalName: 
+    pivot: {x: 0.35526314, y: -0.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 319
+      width: 76
+      height: 32
+    spriteID: 2e8242c60d300874692dbd795d2d9ae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 305}
+  - name: neutral_grincher_Frame_19
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 261
+      y: 76
+      width: 79
+      height: 32
+    spriteID: c5fee00cbe928064cab6a0466929b3b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 62}
+  - name: neutral_grincher_Frame_20
+    originalName: 
+    pivot: {x: 0.3766234, y: -0.42424244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 76
+      width: 77
+      height: 33
+    spriteID: f802be1b033c91844ad38c41aa9fc411
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 62}
+  - name: neutral_grincher_Frame_21
+    originalName: 
+    pivot: {x: 0.35526314, y: -0.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 319
+      width: 76
+      height: 32
+    spriteID: 9659b4bd4bdd7dd4287f0f5255c97365
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 305}
+  - name: neutral_grincher_Frame_22
+    originalName: 
+    pivot: {x: 0.3717949, y: -0.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 257
+      y: 157
+      width: 78
+      height: 32
+    spriteID: 99738d7de31886b4a8aa6bc167d040e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 143}
+  - name: neutral_grincher_Frame_23
+    originalName: 
+    pivot: {x: 0.3766234, y: -0.5384615}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 402
+      width: 77
+      height: 26
+    spriteID: 8537ecc5fc7487d409b373fe07b1b63b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 353, y: 388}
+  - name: neutral_grincher_Frame_24
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.56}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 280
+      width: 78
+      height: 25
+    spriteID: 67f3ab697d087f940b64e01f14fa22ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 314, y: 266}
+  - name: neutral_grincher_Frame_25
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.5384615}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 402
+      width: 78
+      height: 26
+    spriteID: 24c8ef2f1d4a2e542afc1fd371b3f0a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 388}
+  - name: neutral_grincher_Frame_26
+    originalName: 
+    pivot: {x: 0.39189193, y: -0.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 44
+      width: 74
+      height: 24
+    spriteID: 1986544b9d235214a98f0dfc24e6aa93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 28}
+  - name: neutral_grincher_Frame_27
+    originalName: 
+    pivot: {x: 0.39189193, y: -0.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 280
+      width: 74
+      height: 24
+    spriteID: ecf5c48b292c85142869d17e42b88b3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 399, y: 264}
+  - name: neutral_grincher_Frame_28
+    originalName: 
+    pivot: {x: 0.36111107, y: -0.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 410
+      y: 44
+      width: 72
+      height: 24
+    spriteID: 56371f0573cd387468ee9c74f19f81c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 386, y: 28}
+  - name: neutral_grincher_Frame_29
+    originalName: 
+    pivot: {x: 0.36111107, y: -0.79999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 47
+      width: 72
+      height: 20
+    spriteID: 0511d8bcf2d6eaf41919319619a45c45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 31}
+  - name: neutral_grincher_Frame_30
+    originalName: 
+    pivot: {x: 0.35211268, y: -1.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 436
+      width: 71
+      height: 12
+    spriteID: 6e47605fd0bd7ed4f830c9dce21b5e92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 420}
+  - name: neutral_grincher_Frame_31
+    originalName: 
+    pivot: {x: 0.35211268, y: -1.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 436
+      width: 71
+      height: 12
+    spriteID: ce3a2fb1110bfde4b81a902c8708c988
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 420}
+  - name: neutral_grincher_Frame_32
+    originalName: 
+    pivot: {x: 0.35211268, y: -1.5999999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 438
+      width: 71
+      height: 10
+    spriteID: 48bcad8cceccbcc4caceb902ea07173c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 422}
+  - name: neutral_grincher_Frame_33
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 179
+      y: 200
+      width: 79
+      height: 31
+    spriteID: 29428bf816a60334a937c96e42c1c2ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 184}
+  - name: neutral_grincher_Frame_34
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 200
+      width: 79
+      height: 31
+    spriteID: ae08b351715c41f48b80b151270a1efd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 247, y: 184}
+  - name: neutral_grincher_Frame_35
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 353
+      y: 200
+      width: 79
+      height: 31
+    spriteID: 7ed867799f22b6240923317d53f72d11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 184}
+  - name: neutral_grincher_Frame_36
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 239
+      width: 79
+      height: 31
+    spriteID: c82ac33dc3642c641aa89f97f477c7f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 223}
+  - name: neutral_grincher_Frame_37
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 239
+      width: 79
+      height: 31
+    spriteID: a8b3b95d98b738a409611acea8066d7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 223}
+  - name: neutral_grincher_Frame_38
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 261
+      y: 239
+      width: 79
+      height: 31
+    spriteID: f1059d36acab21645b1ab2da78c65f59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 223}
+  - name: neutral_grincher_Frame_39
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 239
+      width: 79
+      height: 31
+    spriteID: 0921ad2889638b949b29151d9cfc08c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 329, y: 223}
+  - name: neutral_grincher_Frame_40
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 76
+      width: 79
+      height: 32
+    spriteID: 9d6792793e6c9134eb050eea29772803
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 329, y: 60}
+  - name: neutral_grincher_Frame_41
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 117
+      width: 79
+      height: 32
+    spriteID: ed163a7d009e722419c9996c9a69e57d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 101}
+  - name: neutral_grincher_Frame_42
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 117
+      width: 79
+      height: 32
+    spriteID: 8dd9ec82c5065fc46adae91ed5e51235
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 101}
+  - name: neutral_grincher_Frame_43
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 117
+      width: 79
+      height: 32
+    spriteID: b98aabb30b2b0444baf0b69d4d98b241
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 101}
+  - name: neutral_grincher_Frame_44
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 117
+      width: 79
+      height: 32
+    spriteID: 9047bbfd9f28b514389036d4a80a3677
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 101}
+  - name: neutral_grincher_Frame_45
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 117
+      width: 79
+      height: 32
+    spriteID: 1b87fdaa3b68e2c49b75513f5d786867
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 101}
+  - name: neutral_grincher_Frame_46
+    originalName: 
+    pivot: {x: 0.39240506, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 280
+      width: 79
+      height: 31
+    spriteID: cab0aa9cec88f4c418fc69a71659622d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 264}
+  - name: neutral_grincher_Frame_47
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 200
+      width: 80
+      height: 31
+    spriteID: cde85b28c7a88954994b01f4ec40a91b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 184}
+  - name: neutral_grincher_Frame_48
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 410
+      y: 4
+      width: 80
+      height: 32
+    spriteID: 70a9196048c5b4e408b4adda4c5e6810
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: -12}
+  - name: neutral_grincher_Frame_49
+    originalName: 
+    pivot: {x: 0.3766234, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 314
+      y: 359
+      width: 77
+      height: 29
+    spriteID: 65767c0355709474e9a8f220b670229c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 293, y: 343}
+  - name: neutral_grincher_Frame_50
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.57142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 402
+      width: 75
+      height: 28
+    spriteID: 13c0cdb325716e84b96710a6d1a9e006
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 386}
+  - name: neutral_grincher_Frame_51
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.57142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 402
+      width: 75
+      height: 28
+    spriteID: e80d3dc672605ba49b04e59e3f6465db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 386}
+  - name: neutral_grincher_Frame_52
+    originalName: 
+    pivot: {x: 0.3972603, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 280
+      width: 73
+      height: 27
+    spriteID: 38316cb9262a4f144b7f0fd8a0ba0acb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 264}
+  - name: neutral_grincher_Frame_53
+    originalName: 
+    pivot: {x: 0.3972603, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 280
+      width: 73
+      height: 27
+    spriteID: d453622deae9fa7448d47c11f54fc068
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 264}
+  - name: neutral_grincher_Frame_54
+    originalName: 
+    pivot: {x: 0.3972603, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 280
+      width: 73
+      height: 27
+    spriteID: c1610a6624b7a5847b3c0de34564c311
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 264}
+  - name: neutral_grincher_Frame_55
+    originalName: 
+    pivot: {x: 0.3913043, y: -0.25714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 359
+      width: 69
+      height: 35
+    spriteID: 42103497572a8dc4a98aec80bc27e737
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 350}
+  - name: neutral_grincher_Frame_56
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.16279069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 402
+      width: 52
+      height: 43
+    spriteID: 2a5818ee3f120c24ba7566fa37053ed9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 395}
+  - name: neutral_grincher_Frame_57
+    originalName: 
+    pivot: {x: 0.84444445, y: -0.32558137}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 456
+      width: 45
+      height: 43
+    spriteID: 03ef459f5f35a68448c86630aefe93f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 442}
+  - name: neutral_grincher_Frame_58
+    originalName: 
+    pivot: {x: 0.78, y: -0.6086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 402
+      width: 50
+      height: 46
+    spriteID: f816e7a76b090ef4798d2884b25306b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 374}
+  - name: neutral_grincher_Frame_59
+    originalName: 
+    pivot: {x: 0.8181819, y: -0.8636363}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 459
+      y: 402
+      width: 44
+      height: 44
+    spriteID: de864023b05b81a4da88e4dbc06c44ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 445, y: 364}
+  - name: neutral_grincher_Frame_60
+    originalName: 
+    pivot: {x: 0.79411757, y: -1.6129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 117
+      width: 34
+      height: 31
+    spriteID: 1924533060f4a3e4885f444ab530fac2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 67}
+  - name: neutral_grincher_Frame_61
+    originalName: 
+    pivot: {x: 0.74285716, y: -1.2499999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 456
+      width: 35
+      height: 36
+    spriteID: b40ffb2e85f737840aa1d9454b4ebc26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 411}
+  - name: neutral_grincher_Frame_62
+    originalName: 
+    pivot: {x: 0.8611111, y: -1.361111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 456
+      width: 36
+      height: 36
+    spriteID: f8192de7c63de4d4fa6d3f07584e3163
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 407}
+  - name: neutral_grincher_Frame_63
+    originalName: 
+    pivot: {x: 0.76923084, y: -1.6486487}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 456
+      width: 39
+      height: 37
+    spriteID: d9989ac6d02dc39408e67a3963fc350f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 395}
+  - name: neutral_grincher_Frame_64
+    originalName: 
+    pivot: {x: 0.6666667, y: -1.6216217}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 456
+      width: 36
+      height: 37
+    spriteID: 436145eb1b73b584f91b4ea56d75db54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 396}
+  - name: neutral_grincher_Frame_65
+    originalName: 
+    pivot: {x: 0.71428573, y: -1.4722221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 456
+      width: 35
+      height: 36
+    spriteID: 85dc9b6a466d3784fadafa96352c4a60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 403}
+  - name: neutral_grincher_Frame_66
+    originalName: 
+    pivot: {x: 0.8235294, y: -1.5294117}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 456
+      width: 34
+      height: 34
+    spriteID: 776e1e44c473ab34ebed82214d94a309
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 404}
+  - name: neutral_grincher_Frame_67
+    originalName: 
+    pivot: {x: 0.41379312, y: -0.6481481}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 4
+      width: 58
+      height: 54
+    spriteID: dbf1cf4ebd0a8b2478faf4c9552d223a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: -31}
+  - name: neutral_grincher_Frame_68
+    originalName: 
+    pivot: {x: 0.35135135, y: -0.140625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 74
+      height: 64
+    spriteID: 64f7abd2ec17777498ac865e0960cfb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: -5}
+  - name: neutral_grincher_Frame_69
+    originalName: 
+    pivot: {x: 0.35135135, y: -0.34375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 426
+      y: 319
+      width: 74
+      height: 32
+    spriteID: 3c4d2414f2a5a0545b8edc334dc21592
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 308}
+  - name: neutral_grincher_Frame_70
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.39393938}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 239
+      width: 75
+      height: 33
+    spriteID: ea1fa3d22b4e3cf40a5defdfd58f3ca0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 226}
+  - name: neutral_grincher_Frame_71
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.37142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 4
+      width: 75
+      height: 35
+    spriteID: 7975f6e0af41d734fbc802b664091c46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: -9}
+  - name: neutral_grincher_Frame_72
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 319
+      width: 75
+      height: 32
+    spriteID: b69f3d8937b312141995c56990ae8f53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 306}
+  - name: neutral_grincher_Frame_73
+    originalName: 
+    pivot: {x: 0.3766234, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 399
+      y: 359
+      width: 77
+      height: 29
+    spriteID: 1713a22085ac354498a654b6b587e093
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 343}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1234975636
+    name: neutral_grincher
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_grincher_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 914e97089301d80449810d967f739c3b
+    - name: neutral_grincher_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8afc9d8f39df3a84196f2ab11b4794f0
+    - name: neutral_grincher_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4bccc24bcd0d0854fa218ad2ba5c0100
+    - name: neutral_grincher_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 712119fc5c443ab49a44dfcba2aacf8d
+    - name: neutral_grincher_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7c06b9426695946499550817d8bfeee9
+    - name: neutral_grincher_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8a4edf746be4cda45a36de13e9b1a33d
+    - name: neutral_grincher_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e7a86886b9b87ad4a89f25d2befde908
+    - name: neutral_grincher_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c8259a6fd371c834e8075dfcdba0e4fd
+    - name: neutral_grincher_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9c7664cca7dadb3488199182cec7fcc3
+    - name: neutral_grincher_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d1633ef748935a34f95141a45f381769
+    - name: neutral_grincher_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8c3f306245ac78a4ab6811bb135c57c5
+    - name: neutral_grincher_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b65d648907093254a968ab795e440111
+    - name: neutral_grincher_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 034dbd5821a56034a827fcfd9dc6c3bd
+    - name: neutral_grincher_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e0e75891258b8ae45863eae52147eca4
+    - name: neutral_grincher_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 55db5f125ec95ce46ab965f9280632bb
+    - name: neutral_grincher_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b89003060d451024a83cb69a37c1ab73
+    - name: neutral_grincher_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dca6f9dbfc72cca40bd993aac75f776b
+    - name: neutral_grincher_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4c9006d8e9c665147aec7e105387e458
+    - name: neutral_grincher_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2e8242c60d300874692dbd795d2d9ae9
+    - name: neutral_grincher_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c5fee00cbe928064cab6a0466929b3b3
+    - name: neutral_grincher_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f802be1b033c91844ad38c41aa9fc411
+    - name: neutral_grincher_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9659b4bd4bdd7dd4287f0f5255c97365
+    - name: neutral_grincher_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 99738d7de31886b4a8aa6bc167d040e9
+    - name: neutral_grincher_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8537ecc5fc7487d409b373fe07b1b63b
+    - name: neutral_grincher_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 67f3ab697d087f940b64e01f14fa22ae
+    - name: neutral_grincher_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 24c8ef2f1d4a2e542afc1fd371b3f0a7
+    - name: neutral_grincher_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1986544b9d235214a98f0dfc24e6aa93
+    - name: neutral_grincher_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ecf5c48b292c85142869d17e42b88b3a
+    - name: neutral_grincher_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 56371f0573cd387468ee9c74f19f81c8
+    - name: neutral_grincher_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0511d8bcf2d6eaf41919319619a45c45
+    - name: neutral_grincher_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6e47605fd0bd7ed4f830c9dce21b5e92
+    - name: neutral_grincher_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ce3a2fb1110bfde4b81a902c8708c988
+    - name: neutral_grincher_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 48bcad8cceccbcc4caceb902ea07173c
+    - name: neutral_grincher_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 29428bf816a60334a937c96e42c1c2ad
+    - name: neutral_grincher_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ae08b351715c41f48b80b151270a1efd
+    - name: neutral_grincher_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7ed867799f22b6240923317d53f72d11
+    - name: neutral_grincher_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c82ac33dc3642c641aa89f97f477c7f2
+    - name: neutral_grincher_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a8b3b95d98b738a409611acea8066d7d
+    - name: neutral_grincher_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f1059d36acab21645b1ab2da78c65f59
+    - name: neutral_grincher_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0921ad2889638b949b29151d9cfc08c2
+    - name: neutral_grincher_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9d6792793e6c9134eb050eea29772803
+    - name: neutral_grincher_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ed163a7d009e722419c9996c9a69e57d
+    - name: neutral_grincher_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8dd9ec82c5065fc46adae91ed5e51235
+    - name: neutral_grincher_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b98aabb30b2b0444baf0b69d4d98b241
+    - name: neutral_grincher_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9047bbfd9f28b514389036d4a80a3677
+    - name: neutral_grincher_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1b87fdaa3b68e2c49b75513f5d786867
+    - name: neutral_grincher_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cab0aa9cec88f4c418fc69a71659622d
+    - name: neutral_grincher_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cde85b28c7a88954994b01f4ec40a91b
+    - name: neutral_grincher_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 70a9196048c5b4e408b4adda4c5e6810
+    - name: neutral_grincher_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 65767c0355709474e9a8f220b670229c
+    - name: neutral_grincher_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 13c0cdb325716e84b96710a6d1a9e006
+    - name: neutral_grincher_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e80d3dc672605ba49b04e59e3f6465db
+    - name: neutral_grincher_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 38316cb9262a4f144b7f0fd8a0ba0acb
+    - name: neutral_grincher_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d453622deae9fa7448d47c11f54fc068
+    - name: neutral_grincher_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c1610a6624b7a5847b3c0de34564c311
+    - name: neutral_grincher_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 42103497572a8dc4a98aec80bc27e737
+    - name: neutral_grincher_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2a5818ee3f120c24ba7566fa37053ed9
+    - name: neutral_grincher_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 03ef459f5f35a68448c86630aefe93f6
+    - name: neutral_grincher_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f816e7a76b090ef4798d2884b25306b3
+    - name: neutral_grincher_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: de864023b05b81a4da88e4dbc06c44ac
+    - name: neutral_grincher_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1924533060f4a3e4885f444ab530fac2
+    - name: neutral_grincher_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b40ffb2e85f737840aa1d9454b4ebc26
+    - name: neutral_grincher_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f8192de7c63de4d4fa6d3f07584e3163
+    - name: neutral_grincher_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d9989ac6d02dc39408e67a3963fc350f
+    - name: neutral_grincher_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 436145eb1b73b584f91b4ea56d75db54
+    - name: neutral_grincher_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 85dc9b6a466d3784fadafa96352c4a60
+    - name: neutral_grincher_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 776e1e44c473ab34ebed82214d94a309
+    - name: neutral_grincher_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dbf1cf4ebd0a8b2478faf4c9552d223a
+    - name: neutral_grincher_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 64f7abd2ec17777498ac865e0960cfb1
+    - name: neutral_grincher_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3c4d2414f2a5a0545b8edc334dc21592
+    - name: neutral_grincher_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ea1fa3d22b4e3cf40a5defdfd58f3ca0
+    - name: neutral_grincher_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7975f6e0af41d734fbc802b664091c46
+    - name: neutral_grincher_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b69f3d8937b312141995c56990ae8f53
+    - name: neutral_grincher_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1713a22085ac354498a654b6b587e093
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

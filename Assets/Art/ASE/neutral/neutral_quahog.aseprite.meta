@@ -1,0 +1,2225 @@
+fileFormatVersion: 2
+guid: db30e18f2f64e5847a5cdaed4555b2a4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_quahog_Frame_0
+    originalName: 
+    pivot: {x: 0.45, y: -0.3469388}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 588
+      width: 60
+      height: 49
+    spriteID: 71c33bed6b1a35a4784f9d2c74978261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 571}
+  - name: neutral_quahog_Frame_1
+    originalName: 
+    pivot: {x: 0.45762712, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 530
+      width: 59
+      height: 50
+    spriteID: ac92b454bd1bc1743bbc5b2d89a1f1f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 515}
+  - name: neutral_quahog_Frame_2
+    originalName: 
+    pivot: {x: 0.46551722, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 935
+      width: 58
+      height: 49
+    spriteID: ffe70224aa5c0af48b28f56a584d6829
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 920}
+  - name: neutral_quahog_Frame_3
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 877
+      width: 57
+      height: 50
+    spriteID: 856a2309511e1b149835518da5004302
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 862}
+  - name: neutral_quahog_Frame_4
+    originalName: 
+    pivot: {x: 0.48214284, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 818
+      width: 56
+      height: 51
+    spriteID: 2ca59c48a75de174ea945dbbbc5f58b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 803}
+  - name: neutral_quahog_Frame_5
+    originalName: 
+    pivot: {x: 0.4642857, y: -0.35416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 932
+      width: 56
+      height: 48
+    spriteID: 1e4347c3420d38c4f881498a1c1e7af5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 915}
+  - name: neutral_quahog_Frame_6
+    originalName: 
+    pivot: {x: 0.45614037, y: -0.3617021}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 4
+      width: 57
+      height: 47
+    spriteID: cbdfe5d387607054a85f6aae1e04719f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 296, y: -13}
+  - name: neutral_quahog_Frame_7
+    originalName: 
+    pivot: {x: 0.44827583, y: -0.35416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 468
+      width: 58
+      height: 48
+    spriteID: f9a4b6c9cb69bbb4ea8b7a4e16351b6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 451}
+  - name: neutral_quahog_Frame_8
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 397
+      width: 58
+      height: 52
+    spriteID: 2b908093408b02f4ca902e557086710a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 382}
+  - name: neutral_quahog_Frame_9
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 457
+      width: 58
+      height: 52
+    spriteID: 3af33b7762072b94caf1e7c15c91e4ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 442}
+  - name: neutral_quahog_Frame_10
+    originalName: 
+    pivot: {x: 0.47457626, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 877
+      width: 59
+      height: 51
+    spriteID: 69615ed5c940284458c31815e6d4a764
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 862}
+  - name: neutral_quahog_Frame_11
+    originalName: 
+    pivot: {x: 0.47457626, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 936
+      width: 59
+      height: 51
+    spriteID: fbba46b49bcfc624cb43d4a58d1b7af5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 921}
+  - name: neutral_quahog_Frame_12
+    originalName: 
+    pivot: {x: 0.43333334, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 4
+      width: 60
+      height: 50
+    spriteID: 369525b4e05bd2b42a2e7874cc016aa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: -11}
+  - name: neutral_quahog_Frame_13
+    originalName: 
+    pivot: {x: 0.40677965, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 761
+      width: 59
+      height: 49
+    spriteID: c098034a0b6f4e54683c2435dbcd33ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 746}
+  - name: neutral_quahog_Frame_14
+    originalName: 
+    pivot: {x: 0.43103448, y: -0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 524
+      width: 58
+      height: 48
+    spriteID: 79b5367d2f46b154eb01f39dc244e6a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 509}
+  - name: neutral_quahog_Frame_15
+    originalName: 
+    pivot: {x: 0.44827583, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 240
+      width: 58
+      height: 49
+    spriteID: 980307fe86773e347b9b025568ef98ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 225}
+  - name: neutral_quahog_Frame_16
+    originalName: 
+    pivot: {x: 0.45614037, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 354
+      width: 57
+      height: 49
+    spriteID: 4ac86171b1e6eee4b95a603cf0595c09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 339}
+  - name: neutral_quahog_Frame_17
+    originalName: 
+    pivot: {x: 0.44827583, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 297
+      width: 58
+      height: 49
+    spriteID: 969a8337f7190cc4f9650d3ed97fd952
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 282}
+  - name: neutral_quahog_Frame_18
+    originalName: 
+    pivot: {x: 0.44827583, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 645
+      width: 58
+      height: 50
+    spriteID: 653ff75deb582074e8d329d90a956387
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 630}
+  - name: neutral_quahog_Frame_19
+    originalName: 
+    pivot: {x: 0.44827583, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 703
+      width: 58
+      height: 50
+    spriteID: 71691b37ff5a67a40b9bbce4c43073a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 688}
+  - name: neutral_quahog_Frame_20
+    originalName: 
+    pivot: {x: 0.46551722, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 294
+      width: 58
+      height: 51
+    spriteID: 7ce81e023e86dc24893227b2d7fa1714
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 279}
+  - name: neutral_quahog_Frame_21
+    originalName: 
+    pivot: {x: 0.46551722, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 517
+      width: 58
+      height: 52
+    spriteID: 6cbe515da3a6186438b01a8d8344fa3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 502}
+  - name: neutral_quahog_Frame_22
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 353
+      width: 58
+      height: 51
+    spriteID: a77a3c875f0636e4988ab8a3fad5c4e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 338}
+  - name: neutral_quahog_Frame_23
+    originalName: 
+    pivot: {x: 0.43548384, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 221
+      width: 62
+      height: 51
+    spriteID: 764a648b5c132264c9d16ccd267ee270
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 206}
+  - name: neutral_quahog_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 118
+      width: 54
+      height: 49
+    spriteID: 737e8fa3fe3dbc24ab7214aaa951367b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 297, y: 103}
+  - name: neutral_quahog_Frame_25
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 412
+      width: 58
+      height: 51
+    spriteID: e9f832030f655a543a6d58628ede233e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 397}
+  - name: neutral_quahog_Frame_26
+    originalName: 
+    pivot: {x: 0.43548384, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 280
+      width: 62
+      height: 51
+    spriteID: f6615549a20626f45beaf468243f2ea8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 265}
+  - name: neutral_quahog_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 175
+      width: 54
+      height: 49
+    spriteID: f0b118d4689c69740bd8825994b20ab0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 297, y: 160}
+  - name: neutral_quahog_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 758
+      width: 54
+      height: 50
+    spriteID: 7f0d4c4295be2c24c90aafb1a506439e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 743}
+  - name: neutral_quahog_Frame_29
+    originalName: 
+    pivot: {x: 0.49056602, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 232
+      width: 53
+      height: 49
+    spriteID: 925dca1359b5cda408c37a303ea0d607
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 296, y: 217}
+  - name: neutral_quahog_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 816
+      width: 54
+      height: 50
+    spriteID: b0885daaad445ac49a464aaa0a5314be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 801}
+  - name: neutral_quahog_Frame_31
+    originalName: 
+    pivot: {x: 0.49056602, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 289
+      width: 53
+      height: 49
+    spriteID: 2846f2f1f024a104b9545d4d980d22e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 296, y: 274}
+  - name: neutral_quahog_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 874
+      width: 54
+      height: 50
+    spriteID: 2b3de70ead42dd94b8b970716c4f699b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 859}
+  - name: neutral_quahog_Frame_33
+    originalName: 
+    pivot: {x: 0.55769235, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 59
+      width: 52
+      height: 51
+    spriteID: 755b557b733322d4db7269fc20ead294
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 44}
+  - name: neutral_quahog_Frame_34
+    originalName: 
+    pivot: {x: 0.5849056, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 640
+      width: 53
+      height: 51
+    spriteID: 4d38b068b77befd468cee6e2d7ebad26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 625}
+  - name: neutral_quahog_Frame_35
+    originalName: 
+    pivot: {x: 0.60377353, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 699
+      width: 53
+      height: 51
+    spriteID: c30c2d5e18f79214fbf29978b0862fbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 684}
+  - name: neutral_quahog_Frame_36
+    originalName: 
+    pivot: {x: 0.6346154, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 580
+      width: 52
+      height: 52
+    spriteID: 1cf8443db89b96c4b916c9996fe2e800
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 565}
+  - name: neutral_quahog_Frame_37
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 502
+      width: 52
+      height: 40
+    spriteID: 56f87871b1040204382e0220c027b599
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 302, y: 489}
+  - name: neutral_quahog_Frame_38
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.31707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 404
+      width: 52
+      height: 41
+    spriteID: 1709c29141941624eb1bdb5051798a9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 302, y: 391}
+  - name: neutral_quahog_Frame_39
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.31707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 453
+      width: 52
+      height: 41
+    spriteID: 8fcde7c639779e14591e0346cef3e0e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 302, y: 440}
+  - name: neutral_quahog_Frame_40
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 577
+      width: 58
+      height: 52
+    spriteID: c07f0e1b98f403b4a8006d9fce3a1aab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 562}
+  - name: neutral_quahog_Frame_41
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 637
+      width: 58
+      height: 52
+    spriteID: e6778a00edf0e2c4f902dc01ed3529d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 622}
+  - name: neutral_quahog_Frame_42
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 697
+      width: 58
+      height: 52
+    spriteID: f2fc8e7f364a61948af9fcfc7bf6c394
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 682}
+  - name: neutral_quahog_Frame_43
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 757
+      width: 58
+      height: 52
+    spriteID: b28ca72cc7c61844c880df4a66f7c142
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 742}
+  - name: neutral_quahog_Frame_44
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 817
+      width: 58
+      height: 52
+    spriteID: d84323d9c4346dd40bf92a787e975746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 802}
+  - name: neutral_quahog_Frame_45
+    originalName: 
+    pivot: {x: 0.47457626, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 4
+      width: 59
+      height: 51
+    spriteID: 02603c2977a67174ab41ebec9062eec2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: -11}
+  - name: neutral_quahog_Frame_46
+    originalName: 
+    pivot: {x: 0.47457626, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 63
+      width: 59
+      height: 51
+    spriteID: a14b8a1b1e6cf4148a996b7b91ec4309
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 48}
+  - name: neutral_quahog_Frame_47
+    originalName: 
+    pivot: {x: 0.45, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 62
+      width: 60
+      height: 50
+    spriteID: b05f6a0c49f6638468320f7a4c28dac4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 47}
+  - name: neutral_quahog_Frame_48
+    originalName: 
+    pivot: {x: 0.45, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 120
+      width: 60
+      height: 50
+    spriteID: e791e36c75c4a884587630040013ad9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 105}
+  - name: neutral_quahog_Frame_49
+    originalName: 
+    pivot: {x: 0.45, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 178
+      width: 60
+      height: 50
+    spriteID: ebbc3b8d5de70e04f80d7be71a93dfb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 163}
+  - name: neutral_quahog_Frame_50
+    originalName: 
+    pivot: {x: 0.45, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 236
+      width: 60
+      height: 50
+    spriteID: b8638aa406aa4e54680b610c40c7de94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 221}
+  - name: neutral_quahog_Frame_51
+    originalName: 
+    pivot: {x: 0.47457626, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 122
+      width: 59
+      height: 51
+    spriteID: 0f5788e3f6d5f364fbef2a97480dc6e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 107}
+  - name: neutral_quahog_Frame_52
+    originalName: 
+    pivot: {x: 0.47457626, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 181
+      width: 59
+      height: 51
+    spriteID: 0b1aaf6d22011174fbdf0fc1faf3c999
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 166}
+  - name: neutral_quahog_Frame_53
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 471
+      width: 58
+      height: 51
+    spriteID: 486921461df79164a9a57b4ba12457ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 456}
+  - name: neutral_quahog_Frame_54
+    originalName: 
+    pivot: {x: 0.45614037, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 411
+      width: 57
+      height: 49
+    spriteID: 6a3941012be263240ae1ea65d858734c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 396}
+  - name: neutral_quahog_Frame_55
+    originalName: 
+    pivot: {x: 0.33783785, y: -0.22641508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 841
+      width: 74
+      height: 53
+    spriteID: 05474ef0f4b3faa438d1065a00deda2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -31, y: 829}
+  - name: neutral_quahog_Frame_56
+    originalName: 
+    pivot: {x: 0.3424658, y: -0.25490198}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 902
+      width: 73
+      height: 51
+    spriteID: ee96705d45f68d040875b53d9272be18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -31, y: 889}
+  - name: neutral_quahog_Frame_57
+    originalName: 
+    pivot: {x: 0.35820895, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 103
+      width: 67
+      height: 52
+    spriteID: 63fb9fa7edc67f64093a737946722b3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 90}
+  - name: neutral_quahog_Frame_58
+    originalName: 
+    pivot: {x: 0.36363634, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 163
+      width: 66
+      height: 50
+    spriteID: a60dfb3d5a55b0a4abb1bbb9e2925703
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 148}
+  - name: neutral_quahog_Frame_59
+    originalName: 
+    pivot: {x: 0.38095236, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 339
+      width: 63
+      height: 50
+    spriteID: 18f9bfd16fe74e54c9bb0fa7d0557b48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 324}
+  - name: neutral_quahog_Frame_60
+    originalName: 
+    pivot: {x: 0.3181818, y: -0.13186814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 4
+      width: 88
+      height: 91
+    spriteID: 5f59f5e84bf86534eaa2f1e7c74d7960
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: -8}
+  - name: neutral_quahog_Frame_61
+    originalName: 
+    pivot: {x: 0.32183906, y: -0.11340206}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 87
+      height: 97
+    spriteID: ff6e996aa7d688e41bdbf2d653cf19f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: -7}
+  - name: neutral_quahog_Frame_62
+    originalName: 
+    pivot: {x: 0.32183906, y: -0.10309278}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 109
+      width: 87
+      height: 97
+    spriteID: ed64446b657bb534794ec15794d308fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 99}
+  - name: neutral_quahog_Frame_63
+    originalName: 
+    pivot: {x: 0.32558137, y: -0.091836736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 214
+      width: 86
+      height: 98
+    spriteID: ea38e835da8fa304099c076eb4cc206e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 205}
+  - name: neutral_quahog_Frame_64
+    originalName: 
+    pivot: {x: 0.32558137, y: -0.11594203}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 697
+      width: 86
+      height: 69
+    spriteID: 55825e39d35618949bb5fb129b4400c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 689}
+  - name: neutral_quahog_Frame_65
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.09859155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 529
+      width: 87
+      height: 71
+    spriteID: 83d3f4c8396635644a71fa45f976b925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 522}
+  - name: neutral_quahog_Frame_66
+    originalName: 
+    pivot: {x: 0.29999998, y: -0.36956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 961
+      width: 80
+      height: 46
+    spriteID: d3254b9f8c321e94780f5bf039d22433
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -32, y: 944}
+  - name: neutral_quahog_Frame_67
+    originalName: 
+    pivot: {x: 0.22972976, y: -0.086419754}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 608
+      width: 74
+      height: 81
+    spriteID: 51ef3cad5ddf8144f8ba53c1e6eb7a29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -39, y: 601}
+  - name: neutral_quahog_Frame_68
+    originalName: 
+    pivot: {x: 0.30952382, y: -0.010526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 426
+      width: 84
+      height: 95
+    spriteID: 136ce891025f70a41bf4d384b80c16b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -30, y: 425}
+  - name: neutral_quahog_Frame_69
+    originalName: 
+    pivot: {x: 0.36046508, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 320
+      width: 86
+      height: 98
+    spriteID: 839a80556fa1e05428ec358d511f0303
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 320}
+  - name: neutral_quahog_Frame_70
+    originalName: 
+    pivot: {x: 0.27777776, y: -0.27118647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 774
+      width: 72
+      height: 59
+    spriteID: 59dbb41be59f28849b00ba243e418dbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -36, y: 758}
+  - name: neutral_quahog_Frame_71
+    originalName: 
+    pivot: {x: 0.4897959, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 346
+      width: 49
+      height: 50
+    spriteID: 2e2633c09d21cf645b28f9e12fbf5bf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 294, y: 331}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1339534173
+    name: neutral_quahog
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_quahog_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 71c33bed6b1a35a4784f9d2c74978261
+    - name: neutral_quahog_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ac92b454bd1bc1743bbc5b2d89a1f1f6
+    - name: neutral_quahog_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ffe70224aa5c0af48b28f56a584d6829
+    - name: neutral_quahog_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 856a2309511e1b149835518da5004302
+    - name: neutral_quahog_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2ca59c48a75de174ea945dbbbc5f58b3
+    - name: neutral_quahog_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 1e4347c3420d38c4f881498a1c1e7af5
+    - name: neutral_quahog_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: cbdfe5d387607054a85f6aae1e04719f
+    - name: neutral_quahog_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f9a4b6c9cb69bbb4ea8b7a4e16351b6a
+    - name: neutral_quahog_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2b908093408b02f4ca902e557086710a
+    - name: neutral_quahog_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3af33b7762072b94caf1e7c15c91e4ae
+    - name: neutral_quahog_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 69615ed5c940284458c31815e6d4a764
+    - name: neutral_quahog_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: fbba46b49bcfc624cb43d4a58d1b7af5
+    - name: neutral_quahog_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 369525b4e05bd2b42a2e7874cc016aa6
+    - name: neutral_quahog_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: c098034a0b6f4e54683c2435dbcd33ba
+    - name: neutral_quahog_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 79b5367d2f46b154eb01f39dc244e6a3
+    - name: neutral_quahog_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 980307fe86773e347b9b025568ef98ce
+    - name: neutral_quahog_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 4ac86171b1e6eee4b95a603cf0595c09
+    - name: neutral_quahog_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 969a8337f7190cc4f9650d3ed97fd952
+    - name: neutral_quahog_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 653ff75deb582074e8d329d90a956387
+    - name: neutral_quahog_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 71691b37ff5a67a40b9bbce4c43073a3
+    - name: neutral_quahog_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7ce81e023e86dc24893227b2d7fa1714
+    - name: neutral_quahog_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 6cbe515da3a6186438b01a8d8344fa3e
+    - name: neutral_quahog_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: a77a3c875f0636e4988ab8a3fad5c4e8
+    - name: neutral_quahog_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 764a648b5c132264c9d16ccd267ee270
+    - name: neutral_quahog_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 737e8fa3fe3dbc24ab7214aaa951367b
+    - name: neutral_quahog_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e9f832030f655a543a6d58628ede233e
+    - name: neutral_quahog_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f6615549a20626f45beaf468243f2ea8
+    - name: neutral_quahog_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f0b118d4689c69740bd8825994b20ab0
+    - name: neutral_quahog_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7f0d4c4295be2c24c90aafb1a506439e
+    - name: neutral_quahog_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 925dca1359b5cda408c37a303ea0d607
+    - name: neutral_quahog_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b0885daaad445ac49a464aaa0a5314be
+    - name: neutral_quahog_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2846f2f1f024a104b9545d4d980d22e6
+    - name: neutral_quahog_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2b3de70ead42dd94b8b970716c4f699b
+    - name: neutral_quahog_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 755b557b733322d4db7269fc20ead294
+    - name: neutral_quahog_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 4d38b068b77befd468cee6e2d7ebad26
+    - name: neutral_quahog_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: c30c2d5e18f79214fbf29978b0862fbf
+    - name: neutral_quahog_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 1cf8443db89b96c4b916c9996fe2e800
+    - name: neutral_quahog_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 56f87871b1040204382e0220c027b599
+    - name: neutral_quahog_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 1709c29141941624eb1bdb5051798a9c
+    - name: neutral_quahog_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 8fcde7c639779e14591e0346cef3e0e7
+    - name: neutral_quahog_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: c07f0e1b98f403b4a8006d9fce3a1aab
+    - name: neutral_quahog_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e6778a00edf0e2c4f902dc01ed3529d3
+    - name: neutral_quahog_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f2fc8e7f364a61948af9fcfc7bf6c394
+    - name: neutral_quahog_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b28ca72cc7c61844c880df4a66f7c142
+    - name: neutral_quahog_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d84323d9c4346dd40bf92a787e975746
+    - name: neutral_quahog_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 02603c2977a67174ab41ebec9062eec2
+    - name: neutral_quahog_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: a14b8a1b1e6cf4148a996b7b91ec4309
+    - name: neutral_quahog_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b05f6a0c49f6638468320f7a4c28dac4
+    - name: neutral_quahog_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e791e36c75c4a884587630040013ad9c
+    - name: neutral_quahog_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ebbc3b8d5de70e04f80d7be71a93dfb8
+    - name: neutral_quahog_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b8638aa406aa4e54680b610c40c7de94
+    - name: neutral_quahog_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0f5788e3f6d5f364fbef2a97480dc6e0
+    - name: neutral_quahog_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0b1aaf6d22011174fbdf0fc1faf3c999
+    - name: neutral_quahog_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 486921461df79164a9a57b4ba12457ec
+    - name: neutral_quahog_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 6a3941012be263240ae1ea65d858734c
+    - name: neutral_quahog_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 05474ef0f4b3faa438d1065a00deda2b
+    - name: neutral_quahog_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ee96705d45f68d040875b53d9272be18
+    - name: neutral_quahog_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 63fb9fa7edc67f64093a737946722b3d
+    - name: neutral_quahog_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: a60dfb3d5a55b0a4abb1bbb9e2925703
+    - name: neutral_quahog_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 18f9bfd16fe74e54c9bb0fa7d0557b48
+    - name: neutral_quahog_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 5f59f5e84bf86534eaa2f1e7c74d7960
+    - name: neutral_quahog_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ff6e996aa7d688e41bdbf2d653cf19f4
+    - name: neutral_quahog_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ed64446b657bb534794ec15794d308fe
+    - name: neutral_quahog_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ea38e835da8fa304099c076eb4cc206e
+    - name: neutral_quahog_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 55825e39d35618949bb5fb129b4400c1
+    - name: neutral_quahog_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 83d3f4c8396635644a71fa45f976b925
+    - name: neutral_quahog_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d3254b9f8c321e94780f5bf039d22433
+    - name: neutral_quahog_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 51ef3cad5ddf8144f8ba53c1e6eb7a29
+    - name: neutral_quahog_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 136ce891025f70a41bf4d384b80c16b8
+    - name: neutral_quahog_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 839a80556fa1e05428ec358d511f0303
+    - name: neutral_quahog_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 59dbb41be59f28849b00ba243e418dbe
+    - name: neutral_quahog_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2e2633c09d21cf645b28f9e12fbf5bf5
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 120, y: 120}

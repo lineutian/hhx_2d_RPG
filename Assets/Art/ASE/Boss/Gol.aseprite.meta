@@ -1,0 +1,2979 @@
+fileFormatVersion: 2
+guid: 0607b2de589ad634dae69eb7af8faf88
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Gol_Frame_0
+    originalName: 
+    pivot: {x: 0.53658533, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 612
+      width: 41
+      height: 62
+    spriteID: bc5ba011bb44b5f4481a1283e7e48ccb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 596}
+  - name: Gol_Frame_1
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 612
+      width: 40
+      height: 65
+    spriteID: f6dcf8e955832cd4f9dafdeb623015c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 596}
+  - name: Gol_Frame_2
+    originalName: 
+    pivot: {x: 0.51162785, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 612
+      width: 43
+      height: 65
+    spriteID: 1aacae945a3ce4743a9ee374ab1b1dc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 596}
+  - name: Gol_Frame_3
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 538
+      width: 46
+      height: 66
+    spriteID: 5e53b252b8717b34eaeaf666cc74522d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -42, y: 522}
+  - name: Gol_Frame_4
+    originalName: 
+    pivot: {x: 0.5849057, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 933
+      y: 140
+      width: 53
+      height: 66
+    spriteID: 8220668761f58254c81b2b98d7f41e3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 894, y: 124}
+  - name: Gol_Frame_5
+    originalName: 
+    pivot: {x: 0.62711865, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 140
+      width: 59
+      height: 64
+    spriteID: f078b5ed55eeb9d4bb7b05598e8a2c48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 124}
+  - name: Gol_Frame_6
+    originalName: 
+    pivot: {x: 0.6393442, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 925
+      y: 336
+      width: 61
+      height: 62
+    spriteID: d6b9ef02d09f2584c9cab56a8d37bbca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 894, y: 320}
+  - name: Gol_Frame_7
+    originalName: 
+    pivot: {x: 0.6393442, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 336
+      width: 61
+      height: 65
+    spriteID: 20dbf909955a8354687db712deb8a933
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 434, y: 320}
+  - name: Gol_Frame_8
+    originalName: 
+    pivot: {x: 0.6333333, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 729
+      y: 336
+      width: 60
+      height: 65
+    spriteID: 8f9a2a4238cac454b8f62b75c8934c61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 697, y: 320}
+  - name: Gol_Frame_9
+    originalName: 
+    pivot: {x: 0.62711865, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 797
+      y: 336
+      width: 59
+      height: 66
+    spriteID: 88be84f758f407a4f87e9ec045e4152d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 320}
+  - name: Gol_Frame_10
+    originalName: 
+    pivot: {x: 0.62068963, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 867
+      y: 140
+      width: 58
+      height: 61
+    spriteID: 5214a468b8a693c45946d66fcb355165
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 124}
+  - name: Gol_Frame_11
+    originalName: 
+    pivot: {x: 0.58928573, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 648
+      y: 436
+      width: 56
+      height: 58
+    spriteID: f6446fd99120ba3449d29d1be4fc6cae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 611, y: 420}
+  - name: Gol_Frame_12
+    originalName: 
+    pivot: {x: 0.61403507, y: -0.101265825}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 336
+      width: 57
+      height: 79
+    spriteID: dbcc6816c973cb14aa57d69351793990
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 328}
+  - name: Gol_Frame_13
+    originalName: 
+    pivot: {x: 0.520548, y: -0.058823533}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 641
+      y: 235
+      width: 73
+      height: 85
+    spriteID: 8933491f0b637974eaf6e49986d530fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 609, y: 230}
+  - name: Gol_Frame_14
+    originalName: 
+    pivot: {x: 0.51807225, y: -0.045454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 235
+      width: 83
+      height: 88
+    spriteID: 3a77f53a889d4a047806dab83c99beda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 231}
+  - name: Gol_Frame_15
+    originalName: 
+    pivot: {x: 0.51807225, y: -0.044444446}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 277
+      y: 235
+      width: 83
+      height: 90
+    spriteID: fe395ff75d55aa242b6c3ab1dfe9c2bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 250, y: 231}
+  - name: Gol_Frame_16
+    originalName: 
+    pivot: {x: 0.51807225, y: -0.043956045}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 235
+      width: 83
+      height: 91
+    spriteID: 0517ba3848882e54fa6ad5ebc2b017ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 231}
+  - name: Gol_Frame_17
+    originalName: 
+    pivot: {x: 0.51807225, y: -0.04347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 235
+      width: 83
+      height: 92
+    spriteID: 2dd0e3d0d5104f146a8f578e1c9e3b1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 231}
+  - name: Gol_Frame_18
+    originalName: 
+    pivot: {x: 0.51807225, y: -0.043010753}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 235
+      width: 83
+      height: 93
+    spriteID: 7c0028d81a0335649a4039da600b36db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 231}
+  - name: Gol_Frame_19
+    originalName: 
+    pivot: {x: 0.51807225, y: -0.04819277}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 459
+      y: 235
+      width: 83
+      height: 83
+    spriteID: 3f033fbed689d5d438c17c1cd4ebe7df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 231}
+  - name: Gol_Frame_20
+    originalName: 
+    pivot: {x: 0.51807225, y: -0.050632913}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 550
+      y: 235
+      width: 83
+      height: 79
+    spriteID: d4775145afc135b418d6d359f123d79e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 523, y: 231}
+  - name: Gol_Frame_21
+    originalName: 
+    pivot: {x: 0.5102041, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 98
+      height: 87
+    spriteID: be987f8805aadcb4ca76cba394acb40c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 137}
+  - name: Gol_Frame_22
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.021505376}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 4
+      width: 105
+      height: 93
+    spriteID: 7b658263b3dad2043a7dbbeb8379871e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 834, y: 2}
+  - name: Gol_Frame_23
+    originalName: 
+    pivot: {x: 0.51937985, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 713
+      y: 4
+      width: 129
+      height: 117
+    spriteID: b70951b8acc44244cbacc8b9937df00a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 710, y: 4}
+  - name: Gol_Frame_24
+    originalName: 
+    pivot: {x: 0.5151515, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 4
+      width: 132
+      height: 119
+    spriteID: 197cd53ac6980c74bb40f48fdd2f840e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 571, y: 4}
+  - name: Gol_Frame_25
+    originalName: 
+    pivot: {x: 0.5074627, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 431
+      y: 4
+      width: 134
+      height: 123
+    spriteID: 6b90a83fa0368f841a46868ef326a8f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 429, y: 4}
+  - name: Gol_Frame_26
+    originalName: 
+    pivot: {x: 0.5037037, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 4
+      width: 135
+      height: 126
+    spriteID: f797d469229f4c542be8e1f8645d826d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 4}
+  - name: Gol_Frame_27
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 4
+      width: 134
+      height: 127
+    spriteID: d0b0b2e02fb972342a51e385017c62e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 4}
+  - name: Gol_Frame_28
+    originalName: 
+    pivot: {x: 0.4925373, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 134
+      height: 128
+    spriteID: 6da8793d3d3be7248a396e234916e92a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 4}
+  - name: Gol_Frame_29
+    originalName: 
+    pivot: {x: 0.5675676, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 538
+      width: 37
+      height: 56
+    spriteID: f20a7c6616bd7604aaf50884d596823a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 522}
+  - name: Gol_Frame_30
+    originalName: 
+    pivot: {x: 0.5675676, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 538
+      width: 37
+      height: 56
+    spriteID: 424437e00533a364f97ba2317563df0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 522}
+  - name: Gol_Frame_31
+    originalName: 
+    pivot: {x: 0.5526316, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 918
+      y: 612
+      width: 38
+      height: 56
+    spriteID: 6912ca88f700cfb4ba0a3ea0ef97fc77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 869, y: 596}
+  - name: Gol_Frame_32
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 782
+      y: 612
+      width: 40
+      height: 56
+    spriteID: 02690bac6e384e54ebee200cacc4faaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 733, y: 596}
+  - name: Gol_Frame_33
+    originalName: 
+    pivot: {x: 0.51219517, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 597
+      y: 612
+      width: 41
+      height: 56
+    spriteID: 6e09a1070e21720458c9fcb40c34decc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 548, y: 596}
+  - name: Gol_Frame_34
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 646
+      y: 612
+      width: 40
+      height: 57
+    spriteID: 755784254c7de884896c569c61c9116d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 596, y: 596}
+  - name: Gol_Frame_35
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 538
+      width: 36
+      height: 57
+    spriteID: ef62b71f0ce03994599d6c8baf7b4381
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 522}
+  - name: Gol_Frame_36
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 538
+      width: 36
+      height: 58
+    spriteID: c42f32329e4943147bc7a3ecdd93cac4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 522}
+  - name: Gol_Frame_37
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 964
+      y: 612
+      width: 36
+      height: 59
+    spriteID: 8868547be94aecf498ebedb4156eb86b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 914, y: 596}
+  - name: Gol_Frame_38
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 874
+      y: 612
+      width: 36
+      height: 60
+    spriteID: 14777d93b440e0c449664ea0b4fddaf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 824, y: 596}
+  - name: Gol_Frame_39
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 830
+      y: 612
+      width: 36
+      height: 62
+    spriteID: 57dba6ba03ca28d4d9ef41ce3533cdd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 780, y: 596}
+  - name: Gol_Frame_40
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 694
+      y: 612
+      width: 36
+      height: 63
+    spriteID: bad12a9117e3e004295a5a0ce49bb8c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 644, y: 596}
+  - name: Gol_Frame_41
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 738
+      y: 612
+      width: 36
+      height: 63
+    spriteID: a874fde1f1d4d4a4799703677ad89db9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 688, y: 596}
+  - name: Gol_Frame_42
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 538
+      width: 36
+      height: 57
+    spriteID: 7e79de5d624308e46aed72a28851b7c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 522}
+  - name: Gol_Frame_43
+    originalName: 
+    pivot: {x: 0.53658533, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 499
+      y: 612
+      width: 41
+      height: 62
+    spriteID: 2a0480357bd03ea46b919c797c245c6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 451, y: 596}
+  - name: Gol_Frame_44
+    originalName: 
+    pivot: {x: 0.53658533, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 612
+      width: 41
+      height: 65
+    spriteID: d943e8c4146aea24a811a7de29e42934
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 596}
+  - name: Gol_Frame_45
+    originalName: 
+    pivot: {x: 0.53488374, y: -0.23880596}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 612
+      width: 43
+      height: 67
+    spriteID: c528b07491114484897901bdc8f464c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7, y: 596}
+  - name: Gol_Frame_46
+    originalName: 
+    pivot: {x: 0.53658533, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 612
+      width: 41
+      height: 68
+    spriteID: f58f9bfbb202b2e44bd8790e53cac9f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 596}
+  - name: Gol_Frame_47
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.23188406}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 612
+      width: 40
+      height: 69
+    spriteID: 48c40e64e920a0049a652bf17655bb13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 596}
+  - name: Gol_Frame_48
+    originalName: 
+    pivot: {x: 0.6190476, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 612
+      width: 42
+      height: 72
+    spriteID: be9fd72a62dccd249a4071b5ee75e6f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -40, y: 596}
+  - name: Gol_Frame_49
+    originalName: 
+    pivot: {x: 0.65957445, y: -0.21917808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 436
+      width: 47
+      height: 73
+    spriteID: 314656117e2993d4d940b593eb9f64c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 420}
+  - name: Gol_Frame_50
+    originalName: 
+    pivot: {x: 0.69230765, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 432
+      y: 140
+      width: 52
+      height: 70
+    spriteID: ab95a66bda1faf247a8b0b18f83e087d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 398, y: 124}
+  - name: Gol_Frame_51
+    originalName: 
+    pivot: {x: 0.6981132, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 864
+      y: 336
+      width: 53
+      height: 72
+    spriteID: 29d7b2181221a1a4a9549e05b92de4ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 831, y: 320}
+  - name: Gol_Frame_52
+    originalName: 
+    pivot: {x: 0.69642854, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 665
+      y: 336
+      width: 56
+      height: 70
+    spriteID: 9b2ad47c91928154786b4527f778a38f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 634, y: 320}
+  - name: Gol_Frame_53
+    originalName: 
+    pivot: {x: 0.70175433, y: -0.23188406}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 600
+      y: 336
+      width: 57
+      height: 69
+    spriteID: 81a054bcd63c91340b398053c5a82f61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 570, y: 320}
+  - name: Gol_Frame_54
+    originalName: 
+    pivot: {x: 0.70689654, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 534
+      y: 336
+      width: 58
+      height: 68
+    spriteID: fcd7e730ae943b34c9e6570ce1c9fc92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 505, y: 320}
+  - name: Gol_Frame_55
+    originalName: 
+    pivot: {x: 0.6029412, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 235
+      width: 68
+      height: 70
+    spriteID: c29ec72cab998aa49bc0ac2e29f1a86d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 693, y: 219}
+  - name: Gol_Frame_56
+    originalName: 
+    pivot: {x: 0.47999996, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 963
+      y: 4
+      width: 50
+      height: 92
+    spriteID: d109af6627f43f64c8858a50fd384e71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 917, y: -12}
+  - name: Gol_Frame_57
+    originalName: 
+    pivot: {x: 0.47999996, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 798
+      y: 235
+      width: 50
+      height: 92
+    spriteID: ee465a125bceea443ba0571323ae9c75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 752, y: 219}
+  - name: Gol_Frame_58
+    originalName: 
+    pivot: {x: 0.4489796, y: -0.17977528}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 336
+      width: 49
+      height: 89
+    spriteID: 35ffdf6f0db0f3b40bb4220bfffd59e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 320}
+  - name: Gol_Frame_59
+    originalName: 
+    pivot: {x: 0.47999996, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 856
+      y: 235
+      width: 50
+      height: 92
+    spriteID: 70862eee669448a468acdb47a4c1fa79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 810, y: 219}
+  - name: Gol_Frame_60
+    originalName: 
+    pivot: {x: 0.47999996, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 235
+      width: 50
+      height: 92
+    spriteID: 87383d5679062b94aa8b6db30267cf80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 868, y: 219}
+  - name: Gol_Frame_61
+    originalName: 
+    pivot: {x: 0.4489796, y: -0.17977528}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 336
+      width: 49
+      height: 89
+    spriteID: b230efb5244daef41a127c297aaca8bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 320}
+  - name: Gol_Frame_62
+    originalName: 
+    pivot: {x: 0.47999996, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 336
+      width: 50
+      height: 92
+    spriteID: 5fe16d6c9c7cc9244acb2e6a3301560c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -42, y: 320}
+  - name: Gol_Frame_63
+    originalName: 
+    pivot: {x: 0.47999996, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 336
+      width: 50
+      height: 92
+    spriteID: 361f7e8253d96d947a582a65476be898
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 16, y: 320}
+  - name: Gol_Frame_64
+    originalName: 
+    pivot: {x: 0.4489796, y: -0.17977528}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 336
+      width: 49
+      height: 89
+    spriteID: 58e712b7155c8d24cac3eb71dbd6a719
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 320}
+  - name: Gol_Frame_65
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.17582418}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 336
+      width: 47
+      height: 91
+    spriteID: f408829cfa02e2b4faeccc71bdd0e118
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 309, y: 320}
+  - name: Gol_Frame_66
+    originalName: 
+    pivot: {x: 0.47826084, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 336
+      width: 46
+      height: 92
+    spriteID: de1daf2577ac92340b1112d31a9dac21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 320}
+  - name: Gol_Frame_67
+    originalName: 
+    pivot: {x: 0.47826084, y: -0.17204301}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 235
+      width: 46
+      height: 93
+    spriteID: ef488ee468a22a4468f0676d4e2044b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 924, y: 219}
+  - name: Gol_Frame_68
+    originalName: 
+    pivot: {x: 0.48888886, y: -0.17021276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 436
+      width: 45
+      height: 94
+    spriteID: b0fcbe99a293b19469d68211273f8a62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -44, y: 420}
+  - name: Gol_Frame_69
+    originalName: 
+    pivot: {x: 0.5526316, y: -0.29090908}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 538
+      width: 38
+      height: 55
+    spriteID: 1f4a2aaafd0ddeb4da3bde8cb2bea9dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 522}
+  - name: Gol_Frame_70
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 604
+      width: 0
+      height: 0
+    spriteID: d4a7a18a1a129ad4aadf6e6f9ec150b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -36, y: 464}
+  - name: Gol_Frame_71
+    originalName: 
+    pivot: {x: 0.53658533, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 548
+      y: 612
+      width: 41
+      height: 62
+    spriteID: ceaa68d0309a33a44a8663e53a0c1f5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 500, y: 596}
+  - name: Gol_Frame_72
+    originalName: 
+    pivot: {x: 0.53658533, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 353
+      y: 612
+      width: 41
+      height: 65
+    spriteID: 8167b0b509f5f554c8f0215caf5095dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 596}
+  - name: Gol_Frame_73
+    originalName: 
+    pivot: {x: 0.53488374, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 612
+      width: 43
+      height: 65
+    spriteID: 09c55de28339ef04483d9401dda412e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 596}
+  - name: Gol_Frame_74
+    originalName: 
+    pivot: {x: 0.6122449, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 887
+      y: 436
+      width: 49
+      height: 64
+    spriteID: d4015897d96919c44a1e44571abaf941
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 847, y: 420}
+  - name: Gol_Frame_75
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 769
+      y: 436
+      width: 51
+      height: 63
+    spriteID: e15da9bcc354c3843ad447166db112bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 731, y: 420}
+  - name: Gol_Frame_76
+    originalName: 
+    pivot: {x: 0.6415094, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 436
+      width: 53
+      height: 66
+    spriteID: 3e7bef19f3ef6c045bcd8779f45242e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 21, y: 420}
+  - name: Gol_Frame_77
+    originalName: 
+    pivot: {x: 0.66071427, y: -0.23880596}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 140
+      width: 56
+      height: 67
+    spriteID: 9f7dfd6b52c483f4794a6d1abb911169
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 124}
+  - name: Gol_Frame_78
+    originalName: 
+    pivot: {x: 0.6481481, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 140
+      width: 54
+      height: 68
+    spriteID: 57923c82a479cac4ba5af0a240edcaa5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 124}
+  - name: Gol_Frame_79
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 436
+      width: 51
+      height: 68
+    spriteID: 1dec6b766d3370144b60e8a990400d47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 420}
+  - name: Gol_Frame_80
+    originalName: 
+    pivot: {x: 0.6122449, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 712
+      y: 436
+      width: 49
+      height: 66
+    spriteID: 41721f41a2f9841409c9f63b2101c9b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 672, y: 420}
+  - name: Gol_Frame_81
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 589
+      y: 436
+      width: 51
+      height: 64
+    spriteID: 5f7da5046942df04aa001737744db2f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 551, y: 420}
+  - name: Gol_Frame_82
+    originalName: 
+    pivot: {x: 0.6415094, y: -0.23880596}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 806
+      y: 140
+      width: 53
+      height: 67
+    spriteID: e46385433ee56fe40a2321245e8bbd95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 770, y: 124}
+  - name: Gol_Frame_83
+    originalName: 
+    pivot: {x: 0.66071427, y: -0.23880596}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 306
+      y: 140
+      width: 56
+      height: 67
+    spriteID: 29e6ad14a74a7514da70dc8c2da8034e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 273, y: 124}
+  - name: Gol_Frame_84
+    originalName: 
+    pivot: {x: 0.6481481, y: -0.23880596}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 556
+      y: 140
+      width: 54
+      height: 67
+    spriteID: 92b851da9b4c6d4439aa9467f399ca0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 521, y: 124}
+  - name: Gol_Frame_85
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.23880596}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 353
+      y: 436
+      width: 51
+      height: 67
+    spriteID: 89614307fe61d664a98589205961ff49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 420}
+  - name: Gol_Frame_86
+    originalName: 
+    pivot: {x: 0.6122449, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 944
+      y: 436
+      width: 49
+      height: 64
+    spriteID: 124b09ef998f48043baae84bd2f6358c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 904, y: 420}
+  - name: Gol_Frame_87
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 828
+      y: 436
+      width: 51
+      height: 62
+    spriteID: d53907f625640684eb35b557e63b6088
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 790, y: 420}
+  - name: Gol_Frame_88
+    originalName: 
+    pivot: {x: 0.6415094, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 436
+      width: 53
+      height: 65
+    spriteID: 74ebf5a374b2c0f428d0ab48a629e04a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 420}
+  - name: Gol_Frame_89
+    originalName: 
+    pivot: {x: 0.66071427, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 492
+      y: 140
+      width: 56
+      height: 65
+    spriteID: 24d654e06d71fc740b1404fbc880e8f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: 124}
+  - name: Gol_Frame_90
+    originalName: 
+    pivot: {x: 0.6481481, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 744
+      y: 140
+      width: 54
+      height: 66
+    spriteID: f8ad7e87e6f1d7046a6fe4201591b489
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 124}
+  - name: Gol_Frame_91
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 472
+      y: 436
+      width: 51
+      height: 66
+    spriteID: 59cdfd3ba076316408649851725bff01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 434, y: 420}
+  - name: Gol_Frame_92
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 436
+      width: 50
+      height: 66
+    spriteID: 061375efdf5ccbd43bca14a074bd44fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 489, y: 418}
+  - name: Gol_Frame_93
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.29230773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 436
+      width: 52
+      height: 65
+    spriteID: faa6f91b2a8b57148b6cc651467fae94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 417}
+  - name: Gol_Frame_94
+    originalName: 
+    pivot: {x: 0.58181816, y: -0.29230773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 618
+      y: 140
+      width: 55
+      height: 65
+    spriteID: 35626a92dbf368749ab4d4e09fc25a81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 580, y: 121}
+  - name: Gol_Frame_95
+    originalName: 
+    pivot: {x: 0.61403507, y: -0.28787878}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 140
+      width: 57
+      height: 66
+    spriteID: db687acacf7e7214db30bd681f150c26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 121}
+  - name: Gol_Frame_96
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.27692312}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 681
+      y: 140
+      width: 55
+      height: 65
+    spriteID: 8266ceba77db34b4ebfef58c1a693565
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 644, y: 122}
+  - name: Gol_Frame_97
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 436
+      width: 52
+      height: 67
+    spriteID: d4901447d80e61348a250709254fc618
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 419}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -468482816
+    name: Gol
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Gol_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: bc5ba011bb44b5f4481a1283e7e48ccb
+    - name: Gol_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f6dcf8e955832cd4f9dafdeb623015c1
+    - name: Gol_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 1aacae945a3ce4743a9ee374ab1b1dc7
+    - name: Gol_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 5e53b252b8717b34eaeaf666cc74522d
+    - name: Gol_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 8220668761f58254c81b2b98d7f41e3c
+    - name: Gol_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f078b5ed55eeb9d4bb7b05598e8a2c48
+    - name: Gol_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d6b9ef02d09f2584c9cab56a8d37bbca
+    - name: Gol_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 20dbf909955a8354687db712deb8a933
+    - name: Gol_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 8f9a2a4238cac454b8f62b75c8934c61
+    - name: Gol_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 88be84f758f407a4f87e9ec045e4152d
+    - name: Gol_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 5214a468b8a693c45946d66fcb355165
+    - name: Gol_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f6446fd99120ba3449d29d1be4fc6cae
+    - name: Gol_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: dbcc6816c973cb14aa57d69351793990
+    - name: Gol_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 8933491f0b637974eaf6e49986d530fa
+    - name: Gol_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 3a77f53a889d4a047806dab83c99beda
+    - name: Gol_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: fe395ff75d55aa242b6c3ab1dfe9c2bb
+    - name: Gol_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 0517ba3848882e54fa6ad5ebc2b017ae
+    - name: Gol_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 2dd0e3d0d5104f146a8f578e1c9e3b1b
+    - name: Gol_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7c0028d81a0335649a4039da600b36db
+    - name: Gol_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 3f033fbed689d5d438c17c1cd4ebe7df
+    - name: Gol_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d4775145afc135b418d6d359f123d79e
+    - name: Gol_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: be987f8805aadcb4ca76cba394acb40c
+    - name: Gol_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7b658263b3dad2043a7dbbeb8379871e
+    - name: Gol_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: b70951b8acc44244cbacc8b9937df00a
+    - name: Gol_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 197cd53ac6980c74bb40f48fdd2f840e
+    - name: Gol_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 6b90a83fa0368f841a46868ef326a8f9
+    - name: Gol_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f797d469229f4c542be8e1f8645d826d
+    - name: Gol_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d0b0b2e02fb972342a51e385017c62e4
+    - name: Gol_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 6da8793d3d3be7248a396e234916e92a
+    - name: Gol_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f20a7c6616bd7604aaf50884d596823a
+    - name: Gol_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 424437e00533a364f97ba2317563df0e
+    - name: Gol_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 6912ca88f700cfb4ba0a3ea0ef97fc77
+    - name: Gol_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 02690bac6e384e54ebee200cacc4faaf
+    - name: Gol_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 6e09a1070e21720458c9fcb40c34decc
+    - name: Gol_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 755784254c7de884896c569c61c9116d
+    - name: Gol_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ef62b71f0ce03994599d6c8baf7b4381
+    - name: Gol_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: c42f32329e4943147bc7a3ecdd93cac4
+    - name: Gol_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 8868547be94aecf498ebedb4156eb86b
+    - name: Gol_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 14777d93b440e0c449664ea0b4fddaf3
+    - name: Gol_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 57dba6ba03ca28d4d9ef41ce3533cdd6
+    - name: Gol_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: bad12a9117e3e004295a5a0ce49bb8c1
+    - name: Gol_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: a874fde1f1d4d4a4799703677ad89db9
+    - name: Gol_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7e79de5d624308e46aed72a28851b7c9
+    - name: Gol_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 2a0480357bd03ea46b919c797c245c6e
+    - name: Gol_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d943e8c4146aea24a811a7de29e42934
+    - name: Gol_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: c528b07491114484897901bdc8f464c2
+    - name: Gol_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f58f9bfbb202b2e44bd8790e53cac9f9
+    - name: Gol_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 48c40e64e920a0049a652bf17655bb13
+    - name: Gol_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: be9fd72a62dccd249a4071b5ee75e6f3
+    - name: Gol_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 314656117e2993d4d940b593eb9f64c1
+    - name: Gol_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ab95a66bda1faf247a8b0b18f83e087d
+    - name: Gol_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 29d7b2181221a1a4a9549e05b92de4ec
+    - name: Gol_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 9b2ad47c91928154786b4527f778a38f
+    - name: Gol_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 81a054bcd63c91340b398053c5a82f61
+    - name: Gol_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: fcd7e730ae943b34c9e6570ce1c9fc92
+    - name: Gol_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: c29ec72cab998aa49bc0ac2e29f1a86d
+    - name: Gol_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d109af6627f43f64c8858a50fd384e71
+    - name: Gol_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ee465a125bceea443ba0571323ae9c75
+    - name: Gol_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 35ffdf6f0db0f3b40bb4220bfffd59e6
+    - name: Gol_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 70862eee669448a468acdb47a4c1fa79
+    - name: Gol_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 87383d5679062b94aa8b6db30267cf80
+    - name: Gol_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: b230efb5244daef41a127c297aaca8bd
+    - name: Gol_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 5fe16d6c9c7cc9244acb2e6a3301560c
+    - name: Gol_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 361f7e8253d96d947a582a65476be898
+    - name: Gol_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 58e712b7155c8d24cac3eb71dbd6a719
+    - name: Gol_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f408829cfa02e2b4faeccc71bdd0e118
+    - name: Gol_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: de1daf2577ac92340b1112d31a9dac21
+    - name: Gol_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ef488ee468a22a4468f0676d4e2044b7
+    - name: Gol_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: b0fcbe99a293b19469d68211273f8a62
+    - name: Gol_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 1f4a2aaafd0ddeb4da3bde8cb2bea9dd
+    - name: Gol_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d4a7a18a1a129ad4aadf6e6f9ec150b8
+    - name: Gol_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ceaa68d0309a33a44a8663e53a0c1f5d
+    - name: Gol_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 8167b0b509f5f554c8f0215caf5095dc
+    - name: Gol_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 09c55de28339ef04483d9401dda412e4
+    - name: Gol_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d4015897d96919c44a1e44571abaf941
+    - name: Gol_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: e15da9bcc354c3843ad447166db112bc
+    - name: Gol_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 3e7bef19f3ef6c045bcd8779f45242e4
+    - name: Gol_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 9f7dfd6b52c483f4794a6d1abb911169
+    - name: Gol_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 57923c82a479cac4ba5af0a240edcaa5
+    - name: Gol_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 1dec6b766d3370144b60e8a990400d47
+    - name: Gol_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 41721f41a2f9841409c9f63b2101c9b0
+    - name: Gol_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 5f7da5046942df04aa001737744db2f4
+    - name: Gol_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: e46385433ee56fe40a2321245e8bbd95
+    - name: Gol_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 29e6ad14a74a7514da70dc8c2da8034e
+    - name: Gol_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 92b851da9b4c6d4439aa9467f399ca0b
+    - name: Gol_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 89614307fe61d664a98589205961ff49
+    - name: Gol_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 124b09ef998f48043baae84bd2f6358c
+    - name: Gol_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d53907f625640684eb35b557e63b6088
+    - name: Gol_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 74ebf5a374b2c0f428d0ab48a629e04a
+    - name: Gol_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 24d654e06d71fc740b1404fbc880e8f9
+    - name: Gol_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f8ad7e87e6f1d7046a6fe4201591b489
+    - name: Gol_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 59cdfd3ba076316408649851725bff01
+    - name: Gol_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 061375efdf5ccbd43bca14a074bd44fd
+    - name: Gol_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: faa6f91b2a8b57148b6cc651467fae94
+    - name: Gol_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 35626a92dbf368749ab4d4e09fc25a81
+    - name: Gol_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: db687acacf7e7214db30bd681f150c26
+    - name: Gol_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 8266ceba77db34b4ebfef58c1a693565
+    - name: Gol_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d4901447d80e61348a250709254fc618
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 140, y: 140}

@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 1621283bd6cc9304f88c1b46009bfd4a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: f2_stormkage_Frame_0
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 296
+      width: 49
+      height: 52
+    spriteID: 4ef4906f3e67f4348871b5ce38b43b0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 278}
+  - name: f2_stormkage_Frame_1
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.33962265}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 695
+      width: 51
+      height: 53
+    spriteID: f2dc2d74a7aef9b47a760acc09260c88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 677}
+  - name: f2_stormkage_Frame_2
+    originalName: 
+    pivot: {x: 0.33962265, y: -0.3653846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 269
+      width: 53
+      height: 52
+    spriteID: 309f0344a9730ec4384284b557f089b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 250}
+  - name: f2_stormkage_Frame_3
+    originalName: 
+    pivot: {x: 0.3076923, y: -0.39215687}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 4
+      width: 52
+      height: 51
+    spriteID: c0daa047b79cc0f4386ce76a9d9b8890
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: -16}
+  - name: f2_stormkage_Frame_4
+    originalName: 
+    pivot: {x: 0.28846154, y: -0.3653846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 635
+      width: 52
+      height: 52
+    spriteID: 9c60a3afc4bdc8442abb88498f665628
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 616}
+  - name: f2_stormkage_Frame_5
+    originalName: 
+    pivot: {x: 0.28571433, y: -0.3773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 717
+      width: 49
+      height: 53
+    spriteID: 70b85af192bada844a7b487806ebe6fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 697}
+  - name: f2_stormkage_Frame_6
+    originalName: 
+    pivot: {x: 0.44117647, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 894
+      width: 34
+      height: 55
+    spriteID: 1fc8ee0ae27125c45950ae480aba50f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 874}
+  - name: f2_stormkage_Frame_7
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.33898306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 179
+      width: 27
+      height: 59
+    spriteID: 7600066fbcdc8a64e82a752cc953c2de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 159}
+  - name: f2_stormkage_Frame_8
+    originalName: 
+    pivot: {x: 0.5862069, y: -0.33898306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 61
+      width: 29
+      height: 59
+    spriteID: ceecff08d35a3244c93dfb4bf865e50b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 227, y: 41}
+  - name: f2_stormkage_Frame_9
+    originalName: 
+    pivot: {x: 0.6, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 957
+      width: 30
+      height: 60
+    spriteID: 4b5cfb4c7bfa5f64fa49fdfa54be372f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 937}
+  - name: f2_stormkage_Frame_10
+    originalName: 
+    pivot: {x: 0.631579, y: -0.3448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 660
+      width: 38
+      height: 58
+    spriteID: 9a09eade293f9a34f863ed2c8450ae2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 640}
+  - name: f2_stormkage_Frame_11
+    originalName: 
+    pivot: {x: 0.69767445, y: -0.40816328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 726
+      width: 43
+      height: 49
+    spriteID: 4074801b1b34fe04f897b7edcacf390f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 706}
+  - name: f2_stormkage_Frame_12
+    originalName: 
+    pivot: {x: 0.5609756, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 783
+      width: 41
+      height: 50
+    spriteID: 9b5bde49773327a4c8a32551622d87e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 763}
+  - name: f2_stormkage_Frame_13
+    originalName: 
+    pivot: {x: 0.35, y: -0.3114754}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 60
+      height: 61
+    spriteID: fdb17e15cbbb10349875ef520671f9ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: -15}
+  - name: f2_stormkage_Frame_14
+    originalName: 
+    pivot: {x: 0.31034482, y: -0.29508194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 73
+      width: 58
+      height: 61
+    spriteID: 51bdd3f31017da949a35f681595a892e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 55}
+  - name: f2_stormkage_Frame_15
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.32142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 142
+      width: 60
+      height: 56
+    spriteID: cffffc9c4a5aeff469d10ea6f4a65f4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 124}
+  - name: f2_stormkage_Frame_16
+    originalName: 
+    pivot: {x: 0.40384614, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 63
+      width: 52
+      height: 51
+    spriteID: 3fec30306c7c1ff40a896061053ad087
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 45}
+  - name: f2_stormkage_Frame_17
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 370
+      width: 49
+      height: 50
+    spriteID: baa36e1daf9f74f44b34afac38085343
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 351}
+  - name: f2_stormkage_Frame_18
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.40816328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 487
+      width: 49
+      height: 49
+    spriteID: 86d37810302e7d04d84aac61911e0f60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 467}
+  - name: f2_stormkage_Frame_19
+    originalName: 
+    pivot: {x: 0.31914896, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 602
+      width: 47
+      height: 50
+    spriteID: a11ad114857081e4089c8d6be7ec5e1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 583}
+  - name: f2_stormkage_Frame_20
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 536
+      width: 49
+      height: 51
+    spriteID: 32af6516ae75c244a99733fd692dbcce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 518}
+  - name: f2_stormkage_Frame_21
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 595
+      width: 49
+      height: 51
+    spriteID: 7c489bb44ab6f0c45950a7e7f8f4bcf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 577}
+  - name: f2_stormkage_Frame_22
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 654
+      width: 49
+      height: 51
+    spriteID: 3243705de1fd23b43916d0eae2078ed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 636}
+  - name: f2_stormkage_Frame_23
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 713
+      width: 49
+      height: 51
+    spriteID: bfde850da7aea7142a0f12d23526a593
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 695}
+  - name: f2_stormkage_Frame_24
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 421
+      width: 50
+      height: 52
+    spriteID: 07c357afa2d6046489fdd1bb876ff89e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 403}
+  - name: f2_stormkage_Frame_25
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 481
+      width: 50
+      height: 52
+    spriteID: ca03207b5a2b41845bd4ded5a4c52470
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 463}
+  - name: f2_stormkage_Frame_26
+    originalName: 
+    pivot: {x: 0.37254906, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 122
+      width: 51
+      height: 52
+    spriteID: aff1c4c5bbc47304bb84e525711c4efc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 104}
+  - name: f2_stormkage_Frame_27
+    originalName: 
+    pivot: {x: 0.37254906, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 182
+      width: 51
+      height: 52
+    spriteID: f4ce040ea825c5e4e989ef511cc2a93e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 164}
+  - name: f2_stormkage_Frame_28
+    originalName: 
+    pivot: {x: 0.37254906, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 242
+      width: 51
+      height: 52
+    spriteID: 523fdb3316942ff45a3d92a13057c18e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 224}
+  - name: f2_stormkage_Frame_29
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 356
+      width: 49
+      height: 52
+    spriteID: c479b3be5589b3c4cb3a82e088d497b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 338}
+  - name: f2_stormkage_Frame_30
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 416
+      width: 49
+      height: 52
+    spriteID: 17382729167a01c4da9a5a4012b94651
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 398}
+  - name: f2_stormkage_Frame_31
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 772
+      width: 49
+      height: 51
+    spriteID: a58ab810b55d4694d9f2b0b99ca3b1ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 754}
+  - name: f2_stormkage_Frame_32
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 831
+      width: 49
+      height: 51
+    spriteID: 4b3ef4a360c494346b57ee280e50fa51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 813}
+  - name: f2_stormkage_Frame_33
+    originalName: 
+    pivot: {x: 0.34, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 961
+      width: 50
+      height: 51
+    spriteID: 89f3de7a390b1f4479db4b03e1336dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 943}
+  - name: f2_stormkage_Frame_34
+    originalName: 
+    pivot: {x: 0.37037036, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 874
+      width: 54
+      height: 50
+    spriteID: c12835585d907b1419cbbb549f932b49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 855}
+  - name: f2_stormkage_Frame_35
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.37254903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 302
+      width: 52
+      height: 51
+    spriteID: d6df8e8b7265981488f74a74f80faafb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 283}
+  - name: f2_stormkage_Frame_36
+    originalName: 
+    pivot: {x: 0.3846154, y: -0.35999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 541
+      width: 52
+      height: 50
+    spriteID: 650300552ab90a547ade9cd98b3ff70a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 523}
+  - name: f2_stormkage_Frame_37
+    originalName: 
+    pivot: {x: 0.37499997, y: -0.32000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 544
+      width: 48
+      height: 50
+    spriteID: 9258797d478c0e04ea3ae831daf17978
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 528}
+  - name: f2_stormkage_Frame_38
+    originalName: 
+    pivot: {x: 0.41860464, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 841
+      width: 43
+      height: 45
+    spriteID: faf2c00b17a72b94389f1ddfbb53f61d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 825}
+  - name: f2_stormkage_Frame_39
+    originalName: 
+    pivot: {x: 0.46153846, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 128
+      width: 39
+      height: 43
+    spriteID: f1dc490cce0355d4e9379befb4e5b4ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 112}
+  - name: f2_stormkage_Frame_40
+    originalName: 
+    pivot: {x: 0.47058824, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 296
+      width: 34
+      height: 41
+    spriteID: 02dbafedc5599024bbc4a8e3e05c51bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 280}
+  - name: f2_stormkage_Frame_41
+    originalName: 
+    pivot: {x: 0.48484847, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 345
+      width: 33
+      height: 42
+    spriteID: 065386e918a1f7844a8eb7bbf43dc303
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 329}
+  - name: f2_stormkage_Frame_42
+    originalName: 
+    pivot: {x: 0.47058824, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 246
+      width: 34
+      height: 42
+    spriteID: 97b62b831dd5c3541a230ab27c50ef01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 230}
+  - name: f2_stormkage_Frame_43
+    originalName: 
+    pivot: {x: 0.3584906, y: -0.37254903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 756
+      width: 53
+      height: 51
+    spriteID: f3ddfc0dde66c61448200ee976026e04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 737}
+  - name: f2_stormkage_Frame_44
+    originalName: 
+    pivot: {x: 0.3584906, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 4
+      width: 53
+      height: 50
+    spriteID: c523485b25e23684a8783846307efcd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: -15}
+  - name: f2_stormkage_Frame_45
+    originalName: 
+    pivot: {x: 0.37254906, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 120
+      width: 51
+      height: 50
+    spriteID: 185531e5fba419f499a0519a22216a4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 101}
+  - name: f2_stormkage_Frame_46
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 890
+      width: 49
+      height: 51
+    spriteID: 0a336c5e01c299246aa7617e6eca7ebf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 872}
+  - name: f2_stormkage_Frame_47
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 949
+      width: 49
+      height: 51
+    spriteID: 37651ac4ed3794e4f978cd13bf6d4743
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 931}
+  - name: f2_stormkage_Frame_48
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 599
+      width: 50
+      height: 52
+    spriteID: 047f2c30fc5c51649800621f0a80c4aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 581}
+  - name: f2_stormkage_Frame_49
+    originalName: 
+    pivot: {x: 0.37254906, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 361
+      width: 51
+      height: 52
+    spriteID: d84f918132f639640a33bd67a2fd1bc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 343}
+  - name: f2_stormkage_Frame_50
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.37254903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 193
+      width: 49
+      height: 51
+    spriteID: e2dfd5197737c9a49904ef9843434764
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 174}
+  - name: f2_stormkage_Frame_51
+    originalName: 
+    pivot: {x: 0.3333333, y: -0.37254903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 428
+      width: 48
+      height: 51
+    spriteID: 9f56cb5ee8e40a942b36b8581f211bc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 409}
+  - name: f2_stormkage_Frame_52
+    originalName: 
+    pivot: {x: 0.34, y: -0.37254903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 178
+      width: 50
+      height: 51
+    spriteID: 53ed5da327708504fa0c69de9cf8f4dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 159}
+  - name: f2_stormkage_Frame_53
+    originalName: 
+    pivot: {x: 0.3269231, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 659
+      width: 52
+      height: 50
+    spriteID: a5605bad594d8c1469dd6fa7afc3d874
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 640}
+  - name: f2_stormkage_Frame_54
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.3877551}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 4
+      width: 50
+      height: 49
+    spriteID: 20e1b2e1f79502443aa6fdc99086f0de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: -15}
+  - name: f2_stormkage_Frame_55
+    originalName: 
+    pivot: {x: 0.3773585, y: -0.35999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 62
+      width: 53
+      height: 50
+    spriteID: 07fe7e782aad3fe4ba58c662ef1ea025
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 44}
+  - name: f2_stormkage_Frame_56
+    originalName: 
+    pivot: {x: 0.35185185, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 54
+      height: 51
+    spriteID: 35e235bdcd769554babfb59bf9633e07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 434}
+  - name: f2_stormkage_Frame_57
+    originalName: 
+    pivot: {x: 0.33962265, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 815
+      width: 53
+      height: 51
+    spriteID: 08c98b70c159cc84689cb873d8f6f70f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 798}
+  - name: f2_stormkage_Frame_58
+    originalName: 
+    pivot: {x: 0.34, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 237
+      width: 50
+      height: 51
+    spriteID: a8366667f587ba946b312461a014a697
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 220}
+  - name: f2_stormkage_Frame_59
+    originalName: 
+    pivot: {x: 0.3469388, y: -0.3269231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 476
+      width: 49
+      height: 52
+    spriteID: bd4ba09e62ec4ed49abb3bf4cae348b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 459}
+  - name: f2_stormkage_Frame_60
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 778
+      width: 49
+      height: 53
+    spriteID: 18b85eb93114f6a4bb97cd8ff5536a9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 762}
+  - name: f2_stormkage_Frame_61
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 839
+      width: 49
+      height: 53
+    spriteID: c5e093909c3ea684585ef989f13ba64b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 823}
+  - name: f2_stormkage_Frame_62
+    originalName: 
+    pivot: {x: 0.39215687, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 510
+      width: 51
+      height: 54
+    spriteID: f2cf6787e0266a54db0239668f41fbde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 494}
+  - name: f2_stormkage_Frame_63
+    originalName: 
+    pivot: {x: 0.40384614, y: -0.32075474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 329
+      width: 52
+      height: 53
+    spriteID: 3503afa7db1973e4c92c2dc3e259bdc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 312}
+  - name: f2_stormkage_Frame_64
+    originalName: 
+    pivot: {x: 0.38000003, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 572
+      width: 50
+      height: 55
+    spriteID: fc21148c8239eeb44b91bf5b90771f7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 556}
+  - name: f2_stormkage_Frame_65
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 4
+      width: 49
+      height: 55
+    spriteID: df6bdb8b29ce24e4ba006c4ac6d251ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: -12}
+  - name: f2_stormkage_Frame_66
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.39215687}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 252
+      width: 49
+      height: 51
+    spriteID: ecc7274c8981b274c9b646c56ed18fe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 232}
+  - name: f2_stormkage_Frame_67
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 67
+      width: 49
+      height: 55
+    spriteID: 438c0a6c48df01748b93b3e040d05852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 51}
+  - name: f2_stormkage_Frame_68
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 130
+      width: 49
+      height: 55
+    spriteID: 9725aefb46f05af49a6c82d0a234ced5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 114}
+  - name: f2_stormkage_Frame_69
+    originalName: 
+    pivot: {x: 0.39215687, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 206
+      width: 51
+      height: 55
+    spriteID: 4d6d2bdcab33d4445ad82030d5524ecc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 190}
+  - name: f2_stormkage_Frame_70
+    originalName: 
+    pivot: {x: 0.40384614, y: -0.32075474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 390
+      width: 52
+      height: 53
+    spriteID: 54ccd268e609863458c30138bcc24935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 373}
+  - name: f2_stormkage_Frame_71
+    originalName: 
+    pivot: {x: 0.38000003, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 932
+      width: 50
+      height: 54
+    spriteID: 18a296ec9651ebc40b21467c48da7696
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 916}
+  - name: f2_stormkage_Frame_72
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 900
+      width: 49
+      height: 53
+    spriteID: 7111eb2a3171ccb42bd7f24ce8e81912
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 884}
+  - name: f2_stormkage_Frame_73
+    originalName: 
+    pivot: {x: 0.36734694, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 311
+      width: 49
+      height: 51
+    spriteID: f5e46baa2c1039d4290ec074152bbb2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 293}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1978553248
+    name: f2_stormkage
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: f2_stormkage_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4ef4906f3e67f4348871b5ce38b43b0a
+    - name: f2_stormkage_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f2dc2d74a7aef9b47a760acc09260c88
+    - name: f2_stormkage_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 309f0344a9730ec4384284b557f089b6
+    - name: f2_stormkage_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c0daa047b79cc0f4386ce76a9d9b8890
+    - name: f2_stormkage_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9c60a3afc4bdc8442abb88498f665628
+    - name: f2_stormkage_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 70b85af192bada844a7b487806ebe6fe
+    - name: f2_stormkage_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1fc8ee0ae27125c45950ae480aba50f0
+    - name: f2_stormkage_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7600066fbcdc8a64e82a752cc953c2de
+    - name: f2_stormkage_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ceecff08d35a3244c93dfb4bf865e50b
+    - name: f2_stormkage_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4b5cfb4c7bfa5f64fa49fdfa54be372f
+    - name: f2_stormkage_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9a09eade293f9a34f863ed2c8450ae2c
+    - name: f2_stormkage_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4074801b1b34fe04f897b7edcacf390f
+    - name: f2_stormkage_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9b5bde49773327a4c8a32551622d87e0
+    - name: f2_stormkage_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fdb17e15cbbb10349875ef520671f9ab
+    - name: f2_stormkage_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 51bdd3f31017da949a35f681595a892e
+    - name: f2_stormkage_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cffffc9c4a5aeff469d10ea6f4a65f4c
+    - name: f2_stormkage_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3fec30306c7c1ff40a896061053ad087
+    - name: f2_stormkage_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: baa36e1daf9f74f44b34afac38085343
+    - name: f2_stormkage_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 86d37810302e7d04d84aac61911e0f60
+    - name: f2_stormkage_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a11ad114857081e4089c8d6be7ec5e1b
+    - name: f2_stormkage_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 32af6516ae75c244a99733fd692dbcce
+    - name: f2_stormkage_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7c489bb44ab6f0c45950a7e7f8f4bcf2
+    - name: f2_stormkage_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3243705de1fd23b43916d0eae2078ed3
+    - name: f2_stormkage_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bfde850da7aea7142a0f12d23526a593
+    - name: f2_stormkage_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 07c357afa2d6046489fdd1bb876ff89e
+    - name: f2_stormkage_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ca03207b5a2b41845bd4ded5a4c52470
+    - name: f2_stormkage_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: aff1c4c5bbc47304bb84e525711c4efc
+    - name: f2_stormkage_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f4ce040ea825c5e4e989ef511cc2a93e
+    - name: f2_stormkage_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 523fdb3316942ff45a3d92a13057c18e
+    - name: f2_stormkage_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c479b3be5589b3c4cb3a82e088d497b6
+    - name: f2_stormkage_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 17382729167a01c4da9a5a4012b94651
+    - name: f2_stormkage_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a58ab810b55d4694d9f2b0b99ca3b1ba
+    - name: f2_stormkage_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4b3ef4a360c494346b57ee280e50fa51
+    - name: f2_stormkage_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 89f3de7a390b1f4479db4b03e1336dec
+    - name: f2_stormkage_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c12835585d907b1419cbbb549f932b49
+    - name: f2_stormkage_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d6df8e8b7265981488f74a74f80faafb
+    - name: f2_stormkage_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 650300552ab90a547ade9cd98b3ff70a
+    - name: f2_stormkage_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9258797d478c0e04ea3ae831daf17978
+    - name: f2_stormkage_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: faf2c00b17a72b94389f1ddfbb53f61d
+    - name: f2_stormkage_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f1dc490cce0355d4e9379befb4e5b4ca
+    - name: f2_stormkage_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 02dbafedc5599024bbc4a8e3e05c51bb
+    - name: f2_stormkage_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 065386e918a1f7844a8eb7bbf43dc303
+    - name: f2_stormkage_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 97b62b831dd5c3541a230ab27c50ef01
+    - name: f2_stormkage_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f3ddfc0dde66c61448200ee976026e04
+    - name: f2_stormkage_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c523485b25e23684a8783846307efcd6
+    - name: f2_stormkage_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 185531e5fba419f499a0519a22216a4f
+    - name: f2_stormkage_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0a336c5e01c299246aa7617e6eca7ebf
+    - name: f2_stormkage_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 37651ac4ed3794e4f978cd13bf6d4743
+    - name: f2_stormkage_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 047f2c30fc5c51649800621f0a80c4aa
+    - name: f2_stormkage_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d84f918132f639640a33bd67a2fd1bc2
+    - name: f2_stormkage_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e2dfd5197737c9a49904ef9843434764
+    - name: f2_stormkage_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9f56cb5ee8e40a942b36b8581f211bc0
+    - name: f2_stormkage_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 53ed5da327708504fa0c69de9cf8f4dd
+    - name: f2_stormkage_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a5605bad594d8c1469dd6fa7afc3d874
+    - name: f2_stormkage_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 20e1b2e1f79502443aa6fdc99086f0de
+    - name: f2_stormkage_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 07fe7e782aad3fe4ba58c662ef1ea025
+    - name: f2_stormkage_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 35e235bdcd769554babfb59bf9633e07
+    - name: f2_stormkage_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 08c98b70c159cc84689cb873d8f6f70f
+    - name: f2_stormkage_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a8366667f587ba946b312461a014a697
+    - name: f2_stormkage_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bd4ba09e62ec4ed49abb3bf4cae348b7
+    - name: f2_stormkage_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 18b85eb93114f6a4bb97cd8ff5536a9c
+    - name: f2_stormkage_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c5e093909c3ea684585ef989f13ba64b
+    - name: f2_stormkage_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f2cf6787e0266a54db0239668f41fbde
+    - name: f2_stormkage_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3503afa7db1973e4c92c2dc3e259bdc3
+    - name: f2_stormkage_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fc21148c8239eeb44b91bf5b90771f7c
+    - name: f2_stormkage_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: df6bdb8b29ce24e4ba006c4ac6d251ca
+    - name: f2_stormkage_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ecc7274c8981b274c9b646c56ed18fe4
+    - name: f2_stormkage_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 438c0a6c48df01748b93b3e040d05852
+    - name: f2_stormkage_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9725aefb46f05af49a6c82d0a234ced5
+    - name: f2_stormkage_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4d6d2bdcab33d4445ad82030d5524ecc
+    - name: f2_stormkage_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 54ccd268e609863458c30138bcc24935
+    - name: f2_stormkage_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 18a296ec9651ebc40b21467c48da7696
+    - name: f2_stormkage_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7111eb2a3171ccb42bd7f24ce8e81912
+    - name: f2_stormkage_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f5e46baa2c1039d4290ec074152bbb2c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

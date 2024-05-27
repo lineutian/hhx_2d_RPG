@@ -1,0 +1,1935 @@
+fileFormatVersion: 2
+guid: 182563f08355b004dad529effb88a520
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_mechaz0rcannon_Frame_0
+    originalName: 
+    pivot: {x: 0.15909092, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 4
+      width: 44
+      height: 37
+    spriteID: 1749fe6487a97fc4c80c4cde35582fe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: -12}
+  - name: neutral_mechaz0rcannon_Frame_1
+    originalName: 
+    pivot: {x: 0.11904762, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 49
+      width: 42
+      height: 38
+    spriteID: 8bae119618fa97f46b39d5d3683682dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 281, y: 33}
+  - name: neutral_mechaz0rcannon_Frame_2
+    originalName: 
+    pivot: {x: 0.19565219, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 377
+      width: 46
+      height: 41
+    spriteID: b041ea5d6c72dcc44a41855ddcb1327a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 361}
+  - name: neutral_mechaz0rcannon_Frame_3
+    originalName: 
+    pivot: {x: 0.24000001, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 315
+      width: 50
+      height: 40
+    spriteID: 072abd599fd378849a5ffd4b0a5723ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 299}
+  - name: neutral_mechaz0rcannon_Frame_4
+    originalName: 
+    pivot: {x: 0.2830189, y: -0.51428574}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 4
+      width: 53
+      height: 35
+    spriteID: 988c7d8aeea99434da8f4056b0e29fe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: -14}
+  - name: neutral_mechaz0rcannon_Frame_5
+    originalName: 
+    pivot: {x: 0.22448978, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 362
+      width: 49
+      height: 36
+    spriteID: b45a3ba4c50d5c649bc6d26e287ee9ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 344}
+  - name: neutral_mechaz0rcannon_Frame_6
+    originalName: 
+    pivot: {x: 0.13636363, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 453
+      width: 44
+      height: 39
+    spriteID: d8793a1c2254c3849a1924094a0085be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 435}
+  - name: neutral_mechaz0rcannon_Frame_7
+    originalName: 
+    pivot: {x: 0.17777777, y: -0.43589747}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 406
+      width: 45
+      height: 39
+    spriteID: 54fa0959395942247bf657737c1c524a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 389}
+  - name: neutral_mechaz0rcannon_Frame_8
+    originalName: 
+    pivot: {x: 0.5416666, y: -3.3636365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 368
+      width: 24
+      height: 11
+    spriteID: e50f0e62828033142b253e3541031e68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 331}
+  - name: neutral_mechaz0rcannon_Frame_9
+    originalName: 
+    pivot: {x: 0.60714287, y: -3.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 494
+      width: 28
+      height: 10
+    spriteID: ecc2c58b7f9c7e84099999e2b0e6dbca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 456}
+  - name: neutral_mechaz0rcannon_Frame_10
+    originalName: 
+    pivot: {x: 0.6333334, y: -2.3333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 481
+      width: 30
+      height: 15
+    spriteID: 8567d59e94130dc42bc2142e2812c428
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 446}
+  - name: neutral_mechaz0rcannon_Frame_11
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 398
+      width: 51
+      height: 40
+    spriteID: 126112d4ab2c6524bbb96d2921d4da23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 382}
+  - name: neutral_mechaz0rcannon_Frame_12
+    originalName: 
+    pivot: {x: 0.3, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 98
+      width: 50
+      height: 39
+    spriteID: ef6cb40197218cc44bbf6eb4b3c55414
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 82}
+  - name: neutral_mechaz0rcannon_Frame_13
+    originalName: 
+    pivot: {x: 0.2708333, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 92
+      width: 48
+      height: 37
+    spriteID: 81cc3cef7b524b0428e1aba8e186737f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 76}
+  - name: neutral_mechaz0rcannon_Frame_14
+    originalName: 
+    pivot: {x: 0.26530612, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 471
+      width: 49
+      height: 37
+    spriteID: 5c8d29804f432cf498c5a1f49da7c98d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 455}
+  - name: neutral_mechaz0rcannon_Frame_15
+    originalName: 
+    pivot: {x: 0.26530612, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 47
+      width: 49
+      height: 37
+    spriteID: 6de44100a461fe642a9da4536bd1e052
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 31}
+  - name: neutral_mechaz0rcannon_Frame_16
+    originalName: 
+    pivot: {x: 0.28000003, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 426
+      width: 50
+      height: 37
+    spriteID: 1c13e3f3aae9acb4eacbfef0e26decd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 410}
+  - name: neutral_mechaz0rcannon_Frame_17
+    originalName: 
+    pivot: {x: 0.29411766, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 239
+      width: 51
+      height: 38
+    spriteID: 3d79a0af23622414e938a97018c00cbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 223}
+  - name: neutral_mechaz0rcannon_Frame_18
+    originalName: 
+    pivot: {x: 0.29411766, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 363
+      width: 51
+      height: 39
+    spriteID: 4f1aeb16b74527346ad8f3a60eda5811
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 347}
+  - name: neutral_mechaz0rcannon_Frame_19
+    originalName: 
+    pivot: {x: 0.3076923, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 268
+      width: 52
+      height: 39
+    spriteID: f4d594791ac86f946b378ac8b05e24e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 252}
+  - name: neutral_mechaz0rcannon_Frame_20
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 410
+      width: 51
+      height: 39
+    spriteID: c37448e40466a154aa42adf8d3becf25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 394}
+  - name: neutral_mechaz0rcannon_Frame_21
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 457
+      width: 51
+      height: 39
+    spriteID: 3b734e41d3861824d9f86d0c595b080f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 441}
+  - name: neutral_mechaz0rcannon_Frame_22
+    originalName: 
+    pivot: {x: 0.44230768, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 198
+      width: 52
+      height: 44
+    spriteID: d7bd74a8d0edf6e40b29e23b54a5f2a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 182}
+  - name: neutral_mechaz0rcannon_Frame_23
+    originalName: 
+    pivot: {x: 0.3846154, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 250
+      width: 52
+      height: 42
+    spriteID: 6e6a8ee0806dde646974ba0920599ae7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 234}
+  - name: neutral_mechaz0rcannon_Frame_24
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 300
+      width: 51
+      height: 41
+    spriteID: 7e40f1200d9846c448edcd58875688b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 284}
+  - name: neutral_mechaz0rcannon_Frame_25
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 349
+      width: 51
+      height: 41
+    spriteID: 5effa4fad165dd042bff59cc48b60a9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 333}
+  - name: neutral_mechaz0rcannon_Frame_26
+    originalName: 
+    pivot: {x: 0.4107143, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 56
+      height: 64
+    spriteID: c205fc1c93d9c4d45a5dff60f7179c5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: -12}
+  - name: neutral_mechaz0rcannon_Frame_27
+    originalName: 
+    pivot: {x: 0.37037036, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 299
+      width: 54
+      height: 60
+    spriteID: db21b1b740a2e78449592f18bf8ec818
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 283}
+  - name: neutral_mechaz0rcannon_Frame_28
+    originalName: 
+    pivot: {x: 0.3508772, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 73
+      width: 57
+      height: 60
+    spriteID: 906d8a0cc585cd5489989ff0cfcdc707
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 57}
+  - name: neutral_mechaz0rcannon_Frame_29
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.21311474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 4
+      width: 57
+      height: 61
+    spriteID: 70e0f941825c1674b90c840521a38ed6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: -9}
+  - name: neutral_mechaz0rcannon_Frame_30
+    originalName: 
+    pivot: {x: 0.29629627, y: -0.1846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 54
+      height: 65
+    spriteID: b216d0ea37f379f42827e599c5675d18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 70}
+  - name: neutral_mechaz0rcannon_Frame_31
+    originalName: 
+    pivot: {x: 0.27272728, y: -0.12857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 55
+      height: 70
+    spriteID: ac8aaccd0fbf8b2498b67069537409a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: -5}
+  - name: neutral_mechaz0rcannon_Frame_32
+    originalName: 
+    pivot: {x: 0.26415098, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 155
+      width: 53
+      height: 64
+    spriteID: 23f42b637ba88d143a8b75d82e9726ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 140}
+  - name: neutral_mechaz0rcannon_Frame_33
+    originalName: 
+    pivot: {x: 0.27450982, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 227
+      width: 51
+      height: 64
+    spriteID: 317c7edf12e950d4889075e887dc5b81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 212}
+  - name: neutral_mechaz0rcannon_Frame_34
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.53571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 332
+      width: 30
+      height: 28
+    spriteID: 17181423c700499448665f14ba7082e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 317}
+  - name: neutral_mechaz0rcannon_Frame_35
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 446
+      width: 51
+      height: 40
+    spriteID: 378c4967776db0948a8d150143b1ae4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 430}
+  - name: neutral_mechaz0rcannon_Frame_36
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 76
+      width: 51
+      height: 40
+    spriteID: c7bbe96302de9474fb7a4eb1b37ca909
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 60}
+  - name: neutral_mechaz0rcannon_Frame_37
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 124
+      width: 51
+      height: 40
+    spriteID: 8fdf01c4a285d55419fb5b9f0860c5a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 108}
+  - name: neutral_mechaz0rcannon_Frame_38
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 172
+      width: 51
+      height: 40
+    spriteID: 395f2f50279307141bc9d08b4a360156
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 156}
+  - name: neutral_mechaz0rcannon_Frame_39
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 220
+      width: 51
+      height: 40
+    spriteID: a34a7562c7e80aa47a664ac7752ac912
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 204}
+  - name: neutral_mechaz0rcannon_Frame_40
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 4
+      width: 51
+      height: 39
+    spriteID: 394b84bf16313d648a66e8f8770fb01e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: -12}
+  - name: neutral_mechaz0rcannon_Frame_41
+    originalName: 
+    pivot: {x: 0.3, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 285
+      width: 50
+      height: 38
+    spriteID: c78efd1a31051674e9e0fb766add909e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 269}
+  - name: neutral_mechaz0rcannon_Frame_42
+    originalName: 
+    pivot: {x: 0.2708333, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 137
+      width: 48
+      height: 37
+    spriteID: d03e1855f127fe6419a043139af7af83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 121}
+  - name: neutral_mechaz0rcannon_Frame_43
+    originalName: 
+    pivot: {x: 0.2708333, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 182
+      width: 48
+      height: 37
+    spriteID: 9fa7d312e0888124284a319e8b4b8677
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 166}
+  - name: neutral_mechaz0rcannon_Frame_44
+    originalName: 
+    pivot: {x: 0.2708333, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 227
+      width: 48
+      height: 37
+    spriteID: 677d14911c13bc549b83b6964de39dd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 211}
+  - name: neutral_mechaz0rcannon_Frame_45
+    originalName: 
+    pivot: {x: 0.2708333, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 272
+      width: 48
+      height: 37
+    spriteID: 92322a40745dc244f876ca12b4193aaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 256}
+  - name: neutral_mechaz0rcannon_Frame_46
+    originalName: 
+    pivot: {x: 0.2708333, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 317
+      width: 48
+      height: 37
+    spriteID: bc73ae5d98b88944a8141be04142ecba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 301}
+  - name: neutral_mechaz0rcannon_Frame_47
+    originalName: 
+    pivot: {x: 0.3, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 331
+      width: 50
+      height: 38
+    spriteID: c413ac19f0cdec24fb7273939de285f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 315}
+  - name: neutral_mechaz0rcannon_Frame_48
+    originalName: 
+    pivot: {x: 0.31372547, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 51
+      width: 51
+      height: 39
+    spriteID: fbb296859ab25d44298fd0f2a15fe5f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 35}
+  - name: neutral_mechaz0rcannon_Frame_49
+    originalName: 
+    pivot: {x: 0.28000003, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 145
+      width: 50
+      height: 39
+    spriteID: df84be1e1b406264aaa05b9262e76665
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 129}
+  - name: neutral_mechaz0rcannon_Frame_50
+    originalName: 
+    pivot: {x: 0.31111112, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 4
+      width: 45
+      height: 35
+    spriteID: 696ac7a2e94033b47ae0f39dcfc88f21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: -12}
+  - name: neutral_mechaz0rcannon_Frame_51
+    originalName: 
+    pivot: {x: 0.31111112, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 252
+      width: 45
+      height: 32
+    spriteID: 0b0fb70c375c4774d8ce02fa9d93f1de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 236}
+  - name: neutral_mechaz0rcannon_Frame_52
+    originalName: 
+    pivot: {x: 0.31111112, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 47
+      width: 45
+      height: 33
+    spriteID: b05e4b4302802df4c9adb2350a5048be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 31}
+  - name: neutral_mechaz0rcannon_Frame_53
+    originalName: 
+    pivot: {x: 0.31111112, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 88
+      width: 45
+      height: 33
+    spriteID: 4cc12795ac0cb594a935ca6659bbe997
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 72}
+  - name: neutral_mechaz0rcannon_Frame_54
+    originalName: 
+    pivot: {x: 0.31111112, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 129
+      width: 45
+      height: 33
+    spriteID: d01635e4d404a8c4eb2066ab120877b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 113}
+  - name: neutral_mechaz0rcannon_Frame_55
+    originalName: 
+    pivot: {x: 0.25925925, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 425
+      width: 54
+      height: 48
+    spriteID: 87521bc1bf9736b4e90e5e34da3cd442
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 409}
+  - name: neutral_mechaz0rcannon_Frame_56
+    originalName: 
+    pivot: {x: 0.26923078, y: -0.32653064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 141
+      width: 52
+      height: 49
+    spriteID: b3638e7c6ccdc7d40976695c0f8ae59e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 125}
+  - name: neutral_mechaz0rcannon_Frame_57
+    originalName: 
+    pivot: {x: 0.26923078, y: -0.32000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 367
+      width: 52
+      height: 50
+    spriteID: 366ec357c6d632742bae1d4dc64fb15a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 351}
+  - name: neutral_mechaz0rcannon_Frame_58
+    originalName: 
+    pivot: {x: 0.31111112, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 170
+      width: 45
+      height: 33
+    spriteID: 1f13457abcb29d94fa916db5655072fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 154}
+  - name: neutral_mechaz0rcannon_Frame_59
+    originalName: 
+    pivot: {x: 0.31111112, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 211
+      width: 45
+      height: 33
+    spriteID: 8b869dcb9a8f44e4285b6f0c1892f91b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 195}
+  - name: neutral_mechaz0rcannon_Frame_60
+    originalName: 
+    pivot: {x: 0.31111112, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 292
+      width: 45
+      height: 32
+    spriteID: a4b993b2429fa08498ba5aa9c8fc5b76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 276}
+  - name: neutral_mechaz0rcannon_Frame_61
+    originalName: 
+    pivot: {x: 0.28000003, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 192
+      width: 50
+      height: 39
+    spriteID: 561450e86c6cbb443b2bf27f1775feef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 176}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1695117305
+    name: neutral_mechaz0rcannon
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_mechaz0rcannon_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1749fe6487a97fc4c80c4cde35582fe1
+    - name: neutral_mechaz0rcannon_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8bae119618fa97f46b39d5d3683682dd
+    - name: neutral_mechaz0rcannon_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b041ea5d6c72dcc44a41855ddcb1327a
+    - name: neutral_mechaz0rcannon_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 072abd599fd378849a5ffd4b0a5723ea
+    - name: neutral_mechaz0rcannon_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 988c7d8aeea99434da8f4056b0e29fe4
+    - name: neutral_mechaz0rcannon_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b45a3ba4c50d5c649bc6d26e287ee9ba
+    - name: neutral_mechaz0rcannon_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d8793a1c2254c3849a1924094a0085be
+    - name: neutral_mechaz0rcannon_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 54fa0959395942247bf657737c1c524a
+    - name: neutral_mechaz0rcannon_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e50f0e62828033142b253e3541031e68
+    - name: neutral_mechaz0rcannon_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ecc2c58b7f9c7e84099999e2b0e6dbca
+    - name: neutral_mechaz0rcannon_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8567d59e94130dc42bc2142e2812c428
+    - name: neutral_mechaz0rcannon_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 126112d4ab2c6524bbb96d2921d4da23
+    - name: neutral_mechaz0rcannon_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ef6cb40197218cc44bbf6eb4b3c55414
+    - name: neutral_mechaz0rcannon_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 81cc3cef7b524b0428e1aba8e186737f
+    - name: neutral_mechaz0rcannon_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5c8d29804f432cf498c5a1f49da7c98d
+    - name: neutral_mechaz0rcannon_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6de44100a461fe642a9da4536bd1e052
+    - name: neutral_mechaz0rcannon_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1c13e3f3aae9acb4eacbfef0e26decd4
+    - name: neutral_mechaz0rcannon_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3d79a0af23622414e938a97018c00cbd
+    - name: neutral_mechaz0rcannon_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4f1aeb16b74527346ad8f3a60eda5811
+    - name: neutral_mechaz0rcannon_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f4d594791ac86f946b378ac8b05e24e2
+    - name: neutral_mechaz0rcannon_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c37448e40466a154aa42adf8d3becf25
+    - name: neutral_mechaz0rcannon_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3b734e41d3861824d9f86d0c595b080f
+    - name: neutral_mechaz0rcannon_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d7bd74a8d0edf6e40b29e23b54a5f2a0
+    - name: neutral_mechaz0rcannon_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6e6a8ee0806dde646974ba0920599ae7
+    - name: neutral_mechaz0rcannon_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7e40f1200d9846c448edcd58875688b5
+    - name: neutral_mechaz0rcannon_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5effa4fad165dd042bff59cc48b60a9a
+    - name: neutral_mechaz0rcannon_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c205fc1c93d9c4d45a5dff60f7179c5e
+    - name: neutral_mechaz0rcannon_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: db21b1b740a2e78449592f18bf8ec818
+    - name: neutral_mechaz0rcannon_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 906d8a0cc585cd5489989ff0cfcdc707
+    - name: neutral_mechaz0rcannon_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 70e0f941825c1674b90c840521a38ed6
+    - name: neutral_mechaz0rcannon_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b216d0ea37f379f42827e599c5675d18
+    - name: neutral_mechaz0rcannon_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ac8aaccd0fbf8b2498b67069537409a1
+    - name: neutral_mechaz0rcannon_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 23f42b637ba88d143a8b75d82e9726ea
+    - name: neutral_mechaz0rcannon_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 317c7edf12e950d4889075e887dc5b81
+    - name: neutral_mechaz0rcannon_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 17181423c700499448665f14ba7082e4
+    - name: neutral_mechaz0rcannon_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 378c4967776db0948a8d150143b1ae4e
+    - name: neutral_mechaz0rcannon_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c7bbe96302de9474fb7a4eb1b37ca909
+    - name: neutral_mechaz0rcannon_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8fdf01c4a285d55419fb5b9f0860c5a9
+    - name: neutral_mechaz0rcannon_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 395f2f50279307141bc9d08b4a360156
+    - name: neutral_mechaz0rcannon_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a34a7562c7e80aa47a664ac7752ac912
+    - name: neutral_mechaz0rcannon_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 394b84bf16313d648a66e8f8770fb01e
+    - name: neutral_mechaz0rcannon_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c78efd1a31051674e9e0fb766add909e
+    - name: neutral_mechaz0rcannon_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d03e1855f127fe6419a043139af7af83
+    - name: neutral_mechaz0rcannon_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9fa7d312e0888124284a319e8b4b8677
+    - name: neutral_mechaz0rcannon_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 677d14911c13bc549b83b6964de39dd6
+    - name: neutral_mechaz0rcannon_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 92322a40745dc244f876ca12b4193aaa
+    - name: neutral_mechaz0rcannon_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bc73ae5d98b88944a8141be04142ecba
+    - name: neutral_mechaz0rcannon_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c413ac19f0cdec24fb7273939de285f3
+    - name: neutral_mechaz0rcannon_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fbb296859ab25d44298fd0f2a15fe5f6
+    - name: neutral_mechaz0rcannon_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: df84be1e1b406264aaa05b9262e76665
+    - name: neutral_mechaz0rcannon_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 696ac7a2e94033b47ae0f39dcfc88f21
+    - name: neutral_mechaz0rcannon_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0b0fb70c375c4774d8ce02fa9d93f1de
+    - name: neutral_mechaz0rcannon_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b05e4b4302802df4c9adb2350a5048be
+    - name: neutral_mechaz0rcannon_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4cc12795ac0cb594a935ca6659bbe997
+    - name: neutral_mechaz0rcannon_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d01635e4d404a8c4eb2066ab120877b1
+    - name: neutral_mechaz0rcannon_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 87521bc1bf9736b4e90e5e34da3cd442
+    - name: neutral_mechaz0rcannon_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b3638e7c6ccdc7d40976695c0f8ae59e
+    - name: neutral_mechaz0rcannon_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 366ec357c6d632742bae1d4dc64fb15a
+    - name: neutral_mechaz0rcannon_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1f13457abcb29d94fa916db5655072fc
+    - name: neutral_mechaz0rcannon_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8b869dcb9a8f44e4285b6f0c1892f91b
+    - name: neutral_mechaz0rcannon_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a4b993b2429fa08498ba5aa9c8fc5b76
+    - name: neutral_mechaz0rcannon_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 561450e86c6cbb443b2bf27f1775feef
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

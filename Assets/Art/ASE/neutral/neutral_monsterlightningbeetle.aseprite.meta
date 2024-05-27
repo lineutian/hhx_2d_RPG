@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 8f38d2b46755d594fb69a1c814948e80
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_monsterlightningbeetle_Frame_0
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.41463417}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 54
+      width: 57
+      height: 41
+    spriteID: c26dca6ba1f5518418cac9593a8c9419
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 37}
+  - name: neutral_monsterlightningbeetle_Frame_1
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.41463417}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 347
+      width: 54
+      height: 41
+    spriteID: 4cf3e07e270c194408ade5a569c16a6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 330}
+  - name: neutral_monsterlightningbeetle_Frame_2
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.4047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 4
+      width: 57
+      height: 42
+    spriteID: 315ef537eaf74f84a960b020928b27e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: -13}
+  - name: neutral_monsterlightningbeetle_Frame_3
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 297
+      width: 54
+      height: 42
+    spriteID: e622f3436cf2b0d4bb50fcd97493af4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 279}
+  - name: neutral_monsterlightningbeetle_Frame_4
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.46341464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 103
+      width: 57
+      height: 41
+    spriteID: c27b4f6827a605a4788a3f7bedd6bf4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 84}
+  - name: neutral_monsterlightningbeetle_Frame_5
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.4878049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 396
+      width: 54
+      height: 41
+    spriteID: 62a50c9e7bd733440b22519d14e18e0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 376}
+  - name: neutral_monsterlightningbeetle_Frame_6
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.4878049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 152
+      width: 57
+      height: 41
+    spriteID: b719954455379c547bf53599182740a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 132}
+  - name: neutral_monsterlightningbeetle_Frame_7
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 59
+      width: 54
+      height: 40
+    spriteID: 6375b5a364675464e8060e8281423674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 39}
+  - name: neutral_monsterlightningbeetle_Frame_8
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 201
+      width: 57
+      height: 40
+    spriteID: ec9ca8f5a4b71504b816705f9e6124cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 181}
+  - name: neutral_monsterlightningbeetle_Frame_9
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.475}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 107
+      width: 54
+      height: 40
+    spriteID: d140ae38281990544b4926387ae1371d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 88}
+  - name: neutral_monsterlightningbeetle_Frame_10
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.45}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 249
+      width: 57
+      height: 40
+    spriteID: 5bb8dea07af65094e9336367ad5d5fe0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 231}
+  - name: neutral_monsterlightningbeetle_Frame_11
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.41463417}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 445
+      width: 54
+      height: 41
+    spriteID: ed4c48cc26473f54dbca0e1ea84bfbed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 428}
+  - name: neutral_monsterlightningbeetle_Frame_12
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 4
+      width: 47
+      height: 34
+    spriteID: d69f299c2d09b4044adb8b2062abd28b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: -12}
+  - name: neutral_monsterlightningbeetle_Frame_13
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 46
+      width: 47
+      height: 34
+    spriteID: 1662a04ed6fc13e4ba7f3ba4705b2125
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 30}
+  - name: neutral_monsterlightningbeetle_Frame_14
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 88
+      width: 47
+      height: 34
+    spriteID: c139e527f2c081d4a93059560d656cf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 72}
+  - name: neutral_monsterlightningbeetle_Frame_15
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 155
+      width: 47
+      height: 35
+    spriteID: 4c27adc805ba0814f8dbd13b5ebe6433
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 139}
+  - name: neutral_monsterlightningbeetle_Frame_16
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 229
+      width: 47
+      height: 36
+    spriteID: 3ed2344cb22d94445baaafb39cf3d4d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 213}
+  - name: neutral_monsterlightningbeetle_Frame_17
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 273
+      width: 47
+      height: 36
+    spriteID: 3ba600d477934b4439cda805a972a92e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 257}
+  - name: neutral_monsterlightningbeetle_Frame_18
+    originalName: 
+    pivot: {x: 0.45833334, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 361
+      width: 48
+      height: 35
+    spriteID: 10658a8c9a937f44cb81bca9d5ab3c5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 345}
+  - name: neutral_monsterlightningbeetle_Frame_19
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 130
+      width: 47
+      height: 34
+    spriteID: dfcd263a5f4eaf8468e96426e0d3831e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 114}
+  - name: neutral_monsterlightningbeetle_Frame_20
+    originalName: 
+    pivot: {x: 0.4347826, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 466
+      width: 46
+      height: 34
+    spriteID: 2e5fc0cfe7409ac4fb066637b7a29cf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 450}
+  - name: neutral_monsterlightningbeetle_Frame_21
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 413
+      width: 47
+      height: 32
+    spriteID: ca711b20a494b194eb93f8dad1fe6c61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 397}
+  - name: neutral_monsterlightningbeetle_Frame_22
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 127
+      width: 47
+      height: 33
+    spriteID: bfe34ccacf5f04044afea4fc4f2050f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 111}
+  - name: neutral_monsterlightningbeetle_Frame_23
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 168
+      width: 47
+      height: 33
+    spriteID: f99a6785f847cb5498954faf8fdbbbf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 152}
+  - name: neutral_monsterlightningbeetle_Frame_24
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 209
+      width: 47
+      height: 33
+    spriteID: 37356e0f2eaf97d4a8ae5fce74573652
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 193}
+  - name: neutral_monsterlightningbeetle_Frame_25
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 332
+      width: 48
+      height: 32
+    spriteID: a17da915f88ed4445ba3d9654998785d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 316}
+  - name: neutral_monsterlightningbeetle_Frame_26
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 250
+      width: 47
+      height: 33
+    spriteID: b325c96e4cbdcb542bebaeeb457c9712
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 234}
+  - name: neutral_monsterlightningbeetle_Frame_27
+    originalName: 
+    pivot: {x: 0.4347826, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 372
+      width: 46
+      height: 33
+    spriteID: c3ec7befea59819439c5bbec3beb4a5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 356}
+  - name: neutral_monsterlightningbeetle_Frame_28
+    originalName: 
+    pivot: {x: 0.42553192, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 453
+      width: 47
+      height: 32
+    spriteID: 1115290fcd65379428c936f5ed6bfe4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 437}
+  - name: neutral_monsterlightningbeetle_Frame_29
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 291
+      width: 47
+      height: 33
+    spriteID: b20c624d1227b234cb76a2cda17bb720
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 275}
+  - name: neutral_monsterlightningbeetle_Frame_30
+    originalName: 
+    pivot: {x: 0.45833334, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 456
+      width: 48
+      height: 34
+    spriteID: f1c6c60d570467a4c95c1eb6fc676f19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 440}
+  - name: neutral_monsterlightningbeetle_Frame_31
+    originalName: 
+    pivot: {x: 0.44897962, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 4
+      width: 49
+      height: 32
+    spriteID: 87e39917d88c36b4d84f8a8a5b4a60b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: -12}
+  - name: neutral_monsterlightningbeetle_Frame_32
+    originalName: 
+    pivot: {x: 0.44000003, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 4
+      width: 50
+      height: 30
+    spriteID: ab499e602040c874aa7293f6ee598d58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 344, y: -12}
+  - name: neutral_monsterlightningbeetle_Frame_33
+    originalName: 
+    pivot: {x: 0.40425536, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 154
+      width: 47
+      height: 28
+    spriteID: 9957756d42847d24891e4a7cb9218735
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 140}
+  - name: neutral_monsterlightningbeetle_Frame_34
+    originalName: 
+    pivot: {x: 0.39583334, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 190
+      width: 48
+      height: 24
+    spriteID: 455cd7ec245eb1141b955c6c568e4d0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 175}
+  - name: neutral_monsterlightningbeetle_Frame_35
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 172
+      width: 47
+      height: 34
+    spriteID: 495ebaf713e1d5144a5f27fd3ff2738c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 156}
+  - name: neutral_monsterlightningbeetle_Frame_36
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 214
+      width: 47
+      height: 34
+    spriteID: e586c28ede2f9be4cbbbebf3acee2fc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 198}
+  - name: neutral_monsterlightningbeetle_Frame_37
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 256
+      width: 47
+      height: 34
+    spriteID: 59da4ad8c54f6934884240ae7960aab0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 240}
+  - name: neutral_monsterlightningbeetle_Frame_38
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 298
+      width: 47
+      height: 34
+    spriteID: c24db785880a31c42b4341ea74a7f0f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 282}
+  - name: neutral_monsterlightningbeetle_Frame_39
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 340
+      width: 47
+      height: 34
+    spriteID: 3f6c9ae7051179043a6e24130259e60c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 324}
+  - name: neutral_monsterlightningbeetle_Frame_40
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 317
+      width: 47
+      height: 36
+    spriteID: d9cb8897d979aed41870c4860da5e147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 301}
+  - name: neutral_monsterlightningbeetle_Frame_41
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 382
+      width: 47
+      height: 34
+    spriteID: 6e304e71f00498c48be649da7a3442cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 366}
+  - name: neutral_monsterlightningbeetle_Frame_42
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 198
+      width: 47
+      height: 35
+    spriteID: 18f93e0553abb55419c3ba3dbaa63b03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 182}
+  - name: neutral_monsterlightningbeetle_Frame_43
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 241
+      width: 47
+      height: 35
+    spriteID: 74c12308c31ed2040b23b5a86cfaadcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 225}
+  - name: neutral_monsterlightningbeetle_Frame_44
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 284
+      width: 47
+      height: 35
+    spriteID: b991abec5c4136e469456c3396d1f9b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 268}
+  - name: neutral_monsterlightningbeetle_Frame_45
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 327
+      width: 47
+      height: 35
+    spriteID: 8a6ee7e1ac05d34459dd12828783e9f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 311}
+  - name: neutral_monsterlightningbeetle_Frame_46
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 370
+      width: 47
+      height: 35
+    spriteID: 765cc29863c967e41bcee766878ad3ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 354}
+  - name: neutral_monsterlightningbeetle_Frame_47
+    originalName: 
+    pivot: {x: 0.45833334, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 404
+      width: 48
+      height: 35
+    spriteID: fecaad4922fee1c439ff7a3ff15f0fe8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 388}
+  - name: neutral_monsterlightningbeetle_Frame_48
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 413
+      width: 47
+      height: 35
+    spriteID: 700bf7f01e2de5249a94da9f15fcae30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 397}
+  - name: neutral_monsterlightningbeetle_Frame_49
+    originalName: 
+    pivot: {x: 0.4468085, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 424
+      width: 47
+      height: 34
+    spriteID: 499256ec4a6827d449be0ad916e6a610
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 408}
+  - name: neutral_monsterlightningbeetle_Frame_50
+    originalName: 
+    pivot: {x: 0.45833334, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 4
+      width: 48
+      height: 33
+    spriteID: 2308efd7438a5634ca32ca3e4d4d7657
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: -12}
+  - name: neutral_monsterlightningbeetle_Frame_51
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 122
+      width: 48
+      height: 30
+    spriteID: fc6059df1a2dcdd42bdd16fb50221f8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 106}
+  - name: neutral_monsterlightningbeetle_Frame_52
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 80
+      width: 48
+      height: 29
+    spriteID: fd918168e48a3854082d6ef81025c8c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 343, y: 64}
+  - name: neutral_monsterlightningbeetle_Frame_53
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 160
+      width: 48
+      height: 30
+    spriteID: 14f1e352d7249064cbe237e361bcdb70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 144}
+  - name: neutral_monsterlightningbeetle_Frame_54
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 198
+      width: 48
+      height: 30
+    spriteID: ad15e8095cb3ce34786a241bd8f9ce59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 182}
+  - name: neutral_monsterlightningbeetle_Frame_55
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 236
+      width: 48
+      height: 30
+    spriteID: 9db12e599d84fa34f81a92af4d7a0bca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 220}
+  - name: neutral_monsterlightningbeetle_Frame_56
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 117
+      width: 48
+      height: 29
+    spriteID: d7c1f5fef8cd47249b14f28daaf5785d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 343, y: 101}
+  - name: neutral_monsterlightningbeetle_Frame_57
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 274
+      width: 48
+      height: 30
+    spriteID: 72e5e2cc749003e4793a9927c67afc9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 258}
+  - name: neutral_monsterlightningbeetle_Frame_58
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 312
+      width: 48
+      height: 30
+    spriteID: b1e13607227cff24c8f4a540d4cc01fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 296}
+  - name: neutral_monsterlightningbeetle_Frame_59
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 350
+      width: 48
+      height: 30
+    spriteID: d64189fdf747c4243acc7cf500ba0c92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 334}
+  - name: neutral_monsterlightningbeetle_Frame_60
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 45
+      width: 48
+      height: 33
+    spriteID: 8cb812c927c2dda489334f2187853df8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 29}
+  - name: neutral_monsterlightningbeetle_Frame_61
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 44
+      width: 48
+      height: 31
+    spriteID: 7dd8d68bf7724d74a9602b039d98efeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 28}
+  - name: neutral_monsterlightningbeetle_Frame_62
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 388
+      width: 48
+      height: 30
+    spriteID: 3ed50b1c6dc5bdf4487eaa8ef38d2ca2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 372}
+  - name: neutral_monsterlightningbeetle_Frame_63
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 426
+      width: 48
+      height: 30
+    spriteID: d55722690a8b67643be6c824ce07a5bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 410}
+  - name: neutral_monsterlightningbeetle_Frame_64
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 86
+      width: 48
+      height: 33
+    spriteID: bafb95bdf5cb18343a0afaf8b94493e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 70}
+  - name: neutral_monsterlightningbeetle_Frame_65
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 83
+      width: 48
+      height: 31
+    spriteID: 2561f27f44c4bf640bb894a4fb20c813
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 67}
+  - name: neutral_monsterlightningbeetle_Frame_66
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 464
+      width: 48
+      height: 30
+    spriteID: 3d5e392ebf4b2eb46817549774307136
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 448}
+  - name: neutral_monsterlightningbeetle_Frame_67
+    originalName: 
+    pivot: {x: 0.43749997, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 42
+      width: 48
+      height: 30
+    spriteID: dee06d21d1d6300409806dbe003f304a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 343, y: 26}
+  - name: neutral_monsterlightningbeetle_Frame_68
+    originalName: 
+    pivot: {x: 0.375, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 4
+      width: 56
+      height: 47
+    spriteID: 8c8489144c47ff14ca779af7db4becfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: -12}
+  - name: neutral_monsterlightningbeetle_Frame_69
+    originalName: 
+    pivot: {x: 0.33962265, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 53
+      height: 54
+    spriteID: ffd038e85a22e844f8a075013f789329
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: -12}
+  - name: neutral_monsterlightningbeetle_Frame_70
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 66
+      width: 52
+      height: 52
+    spriteID: 2188f47b1da7d11429025f01625adaf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 50}
+  - name: neutral_monsterlightningbeetle_Frame_71
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 126
+      width: 51
+      height: 48
+    spriteID: 17be51146ff47b149a0c4b61ddacac4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 110}
+  - name: neutral_monsterlightningbeetle_Frame_72
+    originalName: 
+    pivot: {x: 0.43181822, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 182
+      width: 44
+      height: 39
+    spriteID: e1c9204ef41647942afd1feabb9f352f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 166}
+  - name: neutral_monsterlightningbeetle_Frame_73
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 447
+      width: 45
+      height: 37
+    spriteID: 81c863063d1205d4c9b93808971b89e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 431}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -216499239
+    name: neutral_monsterlightningbeetle
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_monsterlightningbeetle_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c26dca6ba1f5518418cac9593a8c9419
+    - name: neutral_monsterlightningbeetle_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4cf3e07e270c194408ade5a569c16a6b
+    - name: neutral_monsterlightningbeetle_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 315ef537eaf74f84a960b020928b27e0
+    - name: neutral_monsterlightningbeetle_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e622f3436cf2b0d4bb50fcd97493af4a
+    - name: neutral_monsterlightningbeetle_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c27b4f6827a605a4788a3f7bedd6bf4f
+    - name: neutral_monsterlightningbeetle_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 62a50c9e7bd733440b22519d14e18e0b
+    - name: neutral_monsterlightningbeetle_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b719954455379c547bf53599182740a6
+    - name: neutral_monsterlightningbeetle_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6375b5a364675464e8060e8281423674
+    - name: neutral_monsterlightningbeetle_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ec9ca8f5a4b71504b816705f9e6124cb
+    - name: neutral_monsterlightningbeetle_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d140ae38281990544b4926387ae1371d
+    - name: neutral_monsterlightningbeetle_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5bb8dea07af65094e9336367ad5d5fe0
+    - name: neutral_monsterlightningbeetle_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ed4c48cc26473f54dbca0e1ea84bfbed
+    - name: neutral_monsterlightningbeetle_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d69f299c2d09b4044adb8b2062abd28b
+    - name: neutral_monsterlightningbeetle_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1662a04ed6fc13e4ba7f3ba4705b2125
+    - name: neutral_monsterlightningbeetle_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c139e527f2c081d4a93059560d656cf5
+    - name: neutral_monsterlightningbeetle_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4c27adc805ba0814f8dbd13b5ebe6433
+    - name: neutral_monsterlightningbeetle_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3ed2344cb22d94445baaafb39cf3d4d1
+    - name: neutral_monsterlightningbeetle_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3ba600d477934b4439cda805a972a92e
+    - name: neutral_monsterlightningbeetle_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 10658a8c9a937f44cb81bca9d5ab3c5a
+    - name: neutral_monsterlightningbeetle_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dfcd263a5f4eaf8468e96426e0d3831e
+    - name: neutral_monsterlightningbeetle_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2e5fc0cfe7409ac4fb066637b7a29cf9
+    - name: neutral_monsterlightningbeetle_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ca711b20a494b194eb93f8dad1fe6c61
+    - name: neutral_monsterlightningbeetle_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bfe34ccacf5f04044afea4fc4f2050f0
+    - name: neutral_monsterlightningbeetle_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f99a6785f847cb5498954faf8fdbbbf1
+    - name: neutral_monsterlightningbeetle_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 37356e0f2eaf97d4a8ae5fce74573652
+    - name: neutral_monsterlightningbeetle_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a17da915f88ed4445ba3d9654998785d
+    - name: neutral_monsterlightningbeetle_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b325c96e4cbdcb542bebaeeb457c9712
+    - name: neutral_monsterlightningbeetle_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c3ec7befea59819439c5bbec3beb4a5f
+    - name: neutral_monsterlightningbeetle_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1115290fcd65379428c936f5ed6bfe4c
+    - name: neutral_monsterlightningbeetle_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b20c624d1227b234cb76a2cda17bb720
+    - name: neutral_monsterlightningbeetle_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f1c6c60d570467a4c95c1eb6fc676f19
+    - name: neutral_monsterlightningbeetle_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 87e39917d88c36b4d84f8a8a5b4a60b4
+    - name: neutral_monsterlightningbeetle_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ab499e602040c874aa7293f6ee598d58
+    - name: neutral_monsterlightningbeetle_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9957756d42847d24891e4a7cb9218735
+    - name: neutral_monsterlightningbeetle_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 455cd7ec245eb1141b955c6c568e4d0b
+    - name: neutral_monsterlightningbeetle_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 495ebaf713e1d5144a5f27fd3ff2738c
+    - name: neutral_monsterlightningbeetle_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e586c28ede2f9be4cbbbebf3acee2fc5
+    - name: neutral_monsterlightningbeetle_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 59da4ad8c54f6934884240ae7960aab0
+    - name: neutral_monsterlightningbeetle_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c24db785880a31c42b4341ea74a7f0f1
+    - name: neutral_monsterlightningbeetle_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3f6c9ae7051179043a6e24130259e60c
+    - name: neutral_monsterlightningbeetle_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d9cb8897d979aed41870c4860da5e147
+    - name: neutral_monsterlightningbeetle_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6e304e71f00498c48be649da7a3442cd
+    - name: neutral_monsterlightningbeetle_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 18f93e0553abb55419c3ba3dbaa63b03
+    - name: neutral_monsterlightningbeetle_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 74c12308c31ed2040b23b5a86cfaadcf
+    - name: neutral_monsterlightningbeetle_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b991abec5c4136e469456c3396d1f9b1
+    - name: neutral_monsterlightningbeetle_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8a6ee7e1ac05d34459dd12828783e9f3
+    - name: neutral_monsterlightningbeetle_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 765cc29863c967e41bcee766878ad3ac
+    - name: neutral_monsterlightningbeetle_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fecaad4922fee1c439ff7a3ff15f0fe8
+    - name: neutral_monsterlightningbeetle_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 700bf7f01e2de5249a94da9f15fcae30
+    - name: neutral_monsterlightningbeetle_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 499256ec4a6827d449be0ad916e6a610
+    - name: neutral_monsterlightningbeetle_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2308efd7438a5634ca32ca3e4d4d7657
+    - name: neutral_monsterlightningbeetle_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fc6059df1a2dcdd42bdd16fb50221f8b
+    - name: neutral_monsterlightningbeetle_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fd918168e48a3854082d6ef81025c8c2
+    - name: neutral_monsterlightningbeetle_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 14f1e352d7249064cbe237e361bcdb70
+    - name: neutral_monsterlightningbeetle_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ad15e8095cb3ce34786a241bd8f9ce59
+    - name: neutral_monsterlightningbeetle_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9db12e599d84fa34f81a92af4d7a0bca
+    - name: neutral_monsterlightningbeetle_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d7c1f5fef8cd47249b14f28daaf5785d
+    - name: neutral_monsterlightningbeetle_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 72e5e2cc749003e4793a9927c67afc9a
+    - name: neutral_monsterlightningbeetle_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b1e13607227cff24c8f4a540d4cc01fd
+    - name: neutral_monsterlightningbeetle_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d64189fdf747c4243acc7cf500ba0c92
+    - name: neutral_monsterlightningbeetle_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8cb812c927c2dda489334f2187853df8
+    - name: neutral_monsterlightningbeetle_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7dd8d68bf7724d74a9602b039d98efeb
+    - name: neutral_monsterlightningbeetle_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3ed50b1c6dc5bdf4487eaa8ef38d2ca2
+    - name: neutral_monsterlightningbeetle_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d55722690a8b67643be6c824ce07a5bc
+    - name: neutral_monsterlightningbeetle_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bafb95bdf5cb18343a0afaf8b94493e8
+    - name: neutral_monsterlightningbeetle_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2561f27f44c4bf640bb894a4fb20c813
+    - name: neutral_monsterlightningbeetle_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3d5e392ebf4b2eb46817549774307136
+    - name: neutral_monsterlightningbeetle_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dee06d21d1d6300409806dbe003f304a
+    - name: neutral_monsterlightningbeetle_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8c8489144c47ff14ca779af7db4becfa
+    - name: neutral_monsterlightningbeetle_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ffd038e85a22e844f8a075013f789329
+    - name: neutral_monsterlightningbeetle_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2188f47b1da7d11429025f01625adaf0
+    - name: neutral_monsterlightningbeetle_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 17be51146ff47b149a0c4b61ddacac4a
+    - name: neutral_monsterlightningbeetle_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e1c9204ef41647942afd1feabb9f352f
+    - name: neutral_monsterlightningbeetle_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 81c863063d1205d4c9b93808971b89e7
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

@@ -1,0 +1,1935 @@
+fileFormatVersion: 2
+guid: 43d40f346eaa9d0498c93e67d61ba811
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_monsteronyxscorpion_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.42857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 457
+      width: 32
+      height: 35
+    spriteID: b523d9e9c1a156649b5b2b6bc6cb2b39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 442}
+  - name: neutral_monsteronyxscorpion_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 69
+      width: 36
+      height: 35
+    spriteID: 284a544f71cde5c4f8fdd125212320bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 55}
+  - name: neutral_monsteronyxscorpion_Frame_2
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 317
+      width: 38
+      height: 37
+    spriteID: 14f6737ed1341eb488376ec3bc23477c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 304}
+  - name: neutral_monsteronyxscorpion_Frame_3
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.34210527}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 271
+      width: 38
+      height: 38
+    spriteID: 4de8a5b3300e5a14b9f7a16073de8b2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 258}
+  - name: neutral_monsteronyxscorpion_Frame_4
+    originalName: 
+    pivot: {x: 0.44117647, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 112
+      width: 34
+      height: 37
+    spriteID: 1211050de4a0ca14ebfbcddfc24dee40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 99}
+  - name: neutral_monsteronyxscorpion_Frame_5
+    originalName: 
+    pivot: {x: 0.43750003, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 110
+      width: 32
+      height: 35
+    spriteID: d45ced69bc3de354bbce9523626d3ecc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 183, y: 96}
+  - name: neutral_monsteronyxscorpion_Frame_6
+    originalName: 
+    pivot: {x: 0.43333334, y: -0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 430
+      width: 30
+      height: 34
+    spriteID: 891ae73a11eed4e4598c9f73fcdd0068
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 415}
+  - name: neutral_monsteronyxscorpion_Frame_7
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.42857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 153
+      width: 31
+      height: 35
+    spriteID: d44d8364d534ad042ab440dc5c1c0722
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 138}
+  - name: neutral_monsteronyxscorpion_Frame_8
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 325
+      width: 36
+      height: 37
+    spriteID: 4d47e655a5d0192429faee0d6f77c755
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 312}
+  - name: neutral_monsteronyxscorpion_Frame_9
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 230
+      width: 35
+      height: 37
+    spriteID: ccc8e840028a12540b2eea45e60ae632
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 217}
+  - name: neutral_monsteronyxscorpion_Frame_10
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.38235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 289
+      width: 35
+      height: 34
+    spriteID: 6a2552391fe73e94babcc49ad7c99473
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 276}
+  - name: neutral_monsteronyxscorpion_Frame_11
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.4193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 196
+      width: 35
+      height: 31
+    spriteID: e69e115468ffa2843b84bec9e504dece
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 183}
+  - name: neutral_monsteronyxscorpion_Frame_12
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.38235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 331
+      width: 35
+      height: 34
+    spriteID: 8705d5a0a4d078b4f871b5233a1b1598
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 318}
+  - name: neutral_monsteronyxscorpion_Frame_13
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 370
+      width: 36
+      height: 37
+    spriteID: dbf5aafb462759c46ae8345f078cb27b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 357}
+  - name: neutral_monsteronyxscorpion_Frame_14
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 186
+      width: 36
+      height: 36
+    spriteID: 7f9cbb3bd36bee547b13c2005ef14638
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 172}
+  - name: neutral_monsteronyxscorpion_Frame_15
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.4117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 157
+      width: 36
+      height: 34
+    spriteID: 8c71e66842c9c04429dc9cf67c18274f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 143}
+  - name: neutral_monsteronyxscorpion_Frame_16
+    originalName: 
+    pivot: {x: 0.45945945, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 55
+      width: 37
+      height: 37
+    spriteID: d5d937b8028d53944b5ba5f34991e492
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 42}
+  - name: neutral_monsteronyxscorpion_Frame_17
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.37837836}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 362
+      width: 38
+      height: 37
+    spriteID: f7411b341efc42646908f096e39822bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 348}
+  - name: neutral_monsteronyxscorpion_Frame_18
+    originalName: 
+    pivot: {x: 0.48717955, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 452
+      width: 39
+      height: 36
+    spriteID: c4a5153515621cc4f99625cde4cc242a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 438}
+  - name: neutral_monsteronyxscorpion_Frame_19
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.37837836}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 407
+      width: 38
+      height: 37
+    spriteID: 85e5fccf6a4c6854baac0f58b97d4415
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 393}
+  - name: neutral_monsteronyxscorpion_Frame_20
+    originalName: 
+    pivot: {x: 0.45945945, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 100
+      width: 37
+      height: 37
+    spriteID: ce2ea0035d47a584a9b4203815b2737a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 87}
+  - name: neutral_monsteronyxscorpion_Frame_21
+    originalName: 
+    pivot: {x: 0.45945945, y: -0.37142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 275
+      width: 37
+      height: 35
+    spriteID: 63f82a9d10c3d8441b3ba90294e3789e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 262}
+  - name: neutral_monsteronyxscorpion_Frame_22
+    originalName: 
+    pivot: {x: 0.45945945, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 145
+      width: 37
+      height: 37
+    spriteID: ab3a719af33a1314ba702b16def8bcf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 132}
+  - name: neutral_monsteronyxscorpion_Frame_23
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 199
+      width: 33
+      height: 37
+    spriteID: 8bec0492565b0154883f8552f46bebe8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 186}
+  - name: neutral_monsteronyxscorpion_Frame_24
+    originalName: 
+    pivot: {x: 0.5882353, y: -0.34210527}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 408
+      width: 34
+      height: 38
+    spriteID: 51b7351dd0c84fe4d9496bb1e65a866b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 395}
+  - name: neutral_monsteronyxscorpion_Frame_25
+    originalName: 
+    pivot: {x: 0.16216213, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 190
+      width: 37
+      height: 37
+    spriteID: 9c9464187fbd6b44382df5a0a2ab0ae5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 20, y: 177}
+  - name: neutral_monsteronyxscorpion_Frame_26
+    originalName: 
+    pivot: {x: 0.21212123, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 244
+      width: 33
+      height: 37
+    spriteID: effdf0895c1e4494792294d351a343b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 231}
+  - name: neutral_monsteronyxscorpion_Frame_27
+    originalName: 
+    pivot: {x: 0.26470593, y: -0.34210527}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 454
+      width: 34
+      height: 38
+    spriteID: 40a778e82f8f0414691635cc3c1ddb9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 441}
+  - name: neutral_monsteronyxscorpion_Frame_28
+    originalName: 
+    pivot: {x: 0.20512821, y: -0.34146342}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 173
+      width: 39
+      height: 41
+    spriteID: f646bf703d21c064082c55d4ad3d7935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 159}
+  - name: neutral_monsteronyxscorpion_Frame_29
+    originalName: 
+    pivot: {x: 0.3125, y: -0.30769235}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 4
+      width: 48
+      height: 39
+    spriteID: 6fded9c34bdedcf4db3f8363452db01a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: -8}
+  - name: neutral_monsteronyxscorpion_Frame_30
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 36
+      width: 61
+      height: 25
+    spriteID: 7df356a9582aa6e45b95afedebf7ecdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 26}
+  - name: neutral_monsteronyxscorpion_Frame_31
+    originalName: 
+    pivot: {x: 0.4603175, y: -0.47826087}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 36
+      width: 63
+      height: 23
+    spriteID: e3bf6b0314616984980f313c126c4803
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 25}
+  - name: neutral_monsteronyxscorpion_Frame_32
+    originalName: 
+    pivot: {x: 0.4925373, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 4
+      width: 67
+      height: 24
+    spriteID: d917b2da2ec7c454c9d3d1151e8bc216
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: -6}
+  - name: neutral_monsteronyxscorpion_Frame_33
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 4
+      width: 68
+      height: 24
+    spriteID: d977d3831f62c874d8d952e1ab3475d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: -6}
+  - name: neutral_monsteronyxscorpion_Frame_34
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 4
+      width: 70
+      height: 24
+    spriteID: 2b849200c84fcc349b7c78240788896f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: -6}
+  - name: neutral_monsteronyxscorpion_Frame_35
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 4
+      width: 70
+      height: 24
+    spriteID: 203e7464abdacbe45b7fd644f7aff97b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: -6}
+  - name: neutral_monsteronyxscorpion_Frame_36
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 415
+      width: 36
+      height: 37
+    spriteID: 0f844ee1d13121944bd4abcdca77e1ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 402}
+  - name: neutral_monsteronyxscorpion_Frame_37
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 460
+      width: 36
+      height: 37
+    spriteID: 2c3f54ef98354f74d95c17af354370be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 447}
+  - name: neutral_monsteronyxscorpion_Frame_38
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 51
+      width: 36
+      height: 37
+    spriteID: dfe4cceb4bbbd5c46a186719b2505635
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 38}
+  - name: neutral_monsteronyxscorpion_Frame_39
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 96
+      width: 36
+      height: 37
+    spriteID: 3e3773a1e60302841bad0d80dcc5cac6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 83}
+  - name: neutral_monsteronyxscorpion_Frame_40
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 141
+      width: 36
+      height: 37
+    spriteID: 0e064294f29c4a9449e5cc999182fb0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 128}
+  - name: neutral_monsteronyxscorpion_Frame_41
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 318
+      width: 35
+      height: 37
+    spriteID: 928155620ddb3914d9db03d1ef1885df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 305}
+  - name: neutral_monsteronyxscorpion_Frame_42
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.38235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 373
+      width: 35
+      height: 34
+    spriteID: 693689dd0c393b94485cb1848418fd59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 360}
+  - name: neutral_monsteronyxscorpion_Frame_43
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.4193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 235
+      width: 35
+      height: 31
+    spriteID: 192523fda8990ba46ab0aedee267a431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 222}
+  - name: neutral_monsteronyxscorpion_Frame_44
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.4193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 274
+      width: 35
+      height: 31
+    spriteID: af0f766236e8e7a47935c98fc079f182
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 261}
+  - name: neutral_monsteronyxscorpion_Frame_45
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.4193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 313
+      width: 35
+      height: 31
+    spriteID: 61822039f28c07c42999b5794deeadf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 300}
+  - name: neutral_monsteronyxscorpion_Frame_46
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.4193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 352
+      width: 35
+      height: 31
+    spriteID: 95cb7f4c6c4f19d4eb3731ea5b861612
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 339}
+  - name: neutral_monsteronyxscorpion_Frame_47
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.4193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 391
+      width: 35
+      height: 31
+    spriteID: 12d9aebd1eb1fd546b0267b3c4d16b62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 378}
+  - name: neutral_monsteronyxscorpion_Frame_48
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.38235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 415
+      width: 35
+      height: 34
+    spriteID: e81580d608fcece4b9e18c1ebe9d3629
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 402}
+  - name: neutral_monsteronyxscorpion_Frame_49
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 363
+      width: 35
+      height: 37
+    spriteID: d79cd7b6a0a9f4e4a81f2a1e4bc5ca8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 350}
+  - name: neutral_monsteronyxscorpion_Frame_50
+    originalName: 
+    pivot: {x: 0.45945945, y: -0.35135132}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 235
+      width: 37
+      height: 37
+    spriteID: c398e678b78d4ea4bb0eaab25cfd6572
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 222}
+  - name: neutral_monsteronyxscorpion_Frame_51
+    originalName: 
+    pivot: {x: 0.48648646, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 280
+      width: 37
+      height: 37
+    spriteID: d6b58ccbcd5607244bf6048083c31db5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 264}
+  - name: neutral_monsteronyxscorpion_Frame_52
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.36585367}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 222
+      width: 38
+      height: 41
+    spriteID: 6cbafd27e0129ba49a6e90fa1f5d741f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 207}
+  - name: neutral_monsteronyxscorpion_Frame_53
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.21276596}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 38
+      height: 47
+    spriteID: 45d784117fd2de64a8e91b1aaa861478
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 108}
+  - name: neutral_monsteronyxscorpion_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: -0.20408164}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 61
+      width: 40
+      height: 49
+    spriteID: eedda90db76fdba45b9a9365ba1e88b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 51}
+  - name: neutral_monsteronyxscorpion_Frame_55
+    originalName: 
+    pivot: {x: 0.57446814, y: -0.23255815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 4
+      width: 47
+      height: 43
+    spriteID: 8e1e70af679f12e43a58e169ea967ccf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: -6}
+  - name: neutral_monsteronyxscorpion_Frame_56
+    originalName: 
+    pivot: {x: 0.4047619, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 42
+      height: 49
+    spriteID: 3570297efef96df4e9f2b13caefcc9b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: -3}
+  - name: neutral_monsteronyxscorpion_Frame_57
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.29032257}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 69
+      width: 31
+      height: 31
+    spriteID: 86f2f19471d37684285d9c0939c1881c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 60}
+  - name: neutral_monsteronyxscorpion_Frame_58
+    originalName: 
+    pivot: {x: 0.625, y: -0.41379312}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 146
+      width: 24
+      height: 29
+    spriteID: ce344701dd7be764f83ff5ade6493656
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 134}
+  - name: neutral_monsteronyxscorpion_Frame_59
+    originalName: 
+    pivot: {x: 0.51612896, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 108
+      width: 31
+      height: 30
+    spriteID: 88dc253acf6adac459275dcff3973e85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 92}
+  - name: neutral_monsteronyxscorpion_Frame_60
+    originalName: 
+    pivot: {x: 0.54285717, y: -0.51724136}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 472
+      width: 35
+      height: 29
+    spriteID: d1b4d496f2ab36743abaf9d503035325
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 457}
+  - name: neutral_monsteronyxscorpion_Frame_61
+    originalName: 
+    pivot: {x: 0.45945945, y: -0.3939394}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 69
+      width: 37
+      height: 33
+    spriteID: e577b4e9646dd3341a9bbc65ccbff9c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 56}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1166372615
+    name: neutral_monsteronyxscorpion
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_monsteronyxscorpion_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b523d9e9c1a156649b5b2b6bc6cb2b39
+    - name: neutral_monsteronyxscorpion_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 284a544f71cde5c4f8fdd125212320bf
+    - name: neutral_monsteronyxscorpion_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 14f6737ed1341eb488376ec3bc23477c
+    - name: neutral_monsteronyxscorpion_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4de8a5b3300e5a14b9f7a16073de8b2e
+    - name: neutral_monsteronyxscorpion_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1211050de4a0ca14ebfbcddfc24dee40
+    - name: neutral_monsteronyxscorpion_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d45ced69bc3de354bbce9523626d3ecc
+    - name: neutral_monsteronyxscorpion_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 891ae73a11eed4e4598c9f73fcdd0068
+    - name: neutral_monsteronyxscorpion_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d44d8364d534ad042ab440dc5c1c0722
+    - name: neutral_monsteronyxscorpion_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4d47e655a5d0192429faee0d6f77c755
+    - name: neutral_monsteronyxscorpion_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ccc8e840028a12540b2eea45e60ae632
+    - name: neutral_monsteronyxscorpion_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6a2552391fe73e94babcc49ad7c99473
+    - name: neutral_monsteronyxscorpion_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e69e115468ffa2843b84bec9e504dece
+    - name: neutral_monsteronyxscorpion_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8705d5a0a4d078b4f871b5233a1b1598
+    - name: neutral_monsteronyxscorpion_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dbf5aafb462759c46ae8345f078cb27b
+    - name: neutral_monsteronyxscorpion_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7f9cbb3bd36bee547b13c2005ef14638
+    - name: neutral_monsteronyxscorpion_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8c71e66842c9c04429dc9cf67c18274f
+    - name: neutral_monsteronyxscorpion_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d5d937b8028d53944b5ba5f34991e492
+    - name: neutral_monsteronyxscorpion_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f7411b341efc42646908f096e39822bf
+    - name: neutral_monsteronyxscorpion_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c4a5153515621cc4f99625cde4cc242a
+    - name: neutral_monsteronyxscorpion_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 85e5fccf6a4c6854baac0f58b97d4415
+    - name: neutral_monsteronyxscorpion_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ce2ea0035d47a584a9b4203815b2737a
+    - name: neutral_monsteronyxscorpion_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 63f82a9d10c3d8441b3ba90294e3789e
+    - name: neutral_monsteronyxscorpion_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ab3a719af33a1314ba702b16def8bcf2
+    - name: neutral_monsteronyxscorpion_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8bec0492565b0154883f8552f46bebe8
+    - name: neutral_monsteronyxscorpion_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 51b7351dd0c84fe4d9496bb1e65a866b
+    - name: neutral_monsteronyxscorpion_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9c9464187fbd6b44382df5a0a2ab0ae5
+    - name: neutral_monsteronyxscorpion_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: effdf0895c1e4494792294d351a343b6
+    - name: neutral_monsteronyxscorpion_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 40a778e82f8f0414691635cc3c1ddb9b
+    - name: neutral_monsteronyxscorpion_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f646bf703d21c064082c55d4ad3d7935
+    - name: neutral_monsteronyxscorpion_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6fded9c34bdedcf4db3f8363452db01a
+    - name: neutral_monsteronyxscorpion_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7df356a9582aa6e45b95afedebf7ecdc
+    - name: neutral_monsteronyxscorpion_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e3bf6b0314616984980f313c126c4803
+    - name: neutral_monsteronyxscorpion_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d917b2da2ec7c454c9d3d1151e8bc216
+    - name: neutral_monsteronyxscorpion_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d977d3831f62c874d8d952e1ab3475d4
+    - name: neutral_monsteronyxscorpion_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2b849200c84fcc349b7c78240788896f
+    - name: neutral_monsteronyxscorpion_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 203e7464abdacbe45b7fd644f7aff97b
+    - name: neutral_monsteronyxscorpion_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0f844ee1d13121944bd4abcdca77e1ab
+    - name: neutral_monsteronyxscorpion_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2c3f54ef98354f74d95c17af354370be
+    - name: neutral_monsteronyxscorpion_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dfe4cceb4bbbd5c46a186719b2505635
+    - name: neutral_monsteronyxscorpion_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3e3773a1e60302841bad0d80dcc5cac6
+    - name: neutral_monsteronyxscorpion_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0e064294f29c4a9449e5cc999182fb0f
+    - name: neutral_monsteronyxscorpion_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 928155620ddb3914d9db03d1ef1885df
+    - name: neutral_monsteronyxscorpion_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 693689dd0c393b94485cb1848418fd59
+    - name: neutral_monsteronyxscorpion_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 192523fda8990ba46ab0aedee267a431
+    - name: neutral_monsteronyxscorpion_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: af0f766236e8e7a47935c98fc079f182
+    - name: neutral_monsteronyxscorpion_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 61822039f28c07c42999b5794deeadf5
+    - name: neutral_monsteronyxscorpion_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 95cb7f4c6c4f19d4eb3731ea5b861612
+    - name: neutral_monsteronyxscorpion_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 12d9aebd1eb1fd546b0267b3c4d16b62
+    - name: neutral_monsteronyxscorpion_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e81580d608fcece4b9e18c1ebe9d3629
+    - name: neutral_monsteronyxscorpion_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d79cd7b6a0a9f4e4a81f2a1e4bc5ca8d
+    - name: neutral_monsteronyxscorpion_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c398e678b78d4ea4bb0eaab25cfd6572
+    - name: neutral_monsteronyxscorpion_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d6b58ccbcd5607244bf6048083c31db5
+    - name: neutral_monsteronyxscorpion_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6cbafd27e0129ba49a6e90fa1f5d741f
+    - name: neutral_monsteronyxscorpion_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 45d784117fd2de64a8e91b1aaa861478
+    - name: neutral_monsteronyxscorpion_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eedda90db76fdba45b9a9365ba1e88b3
+    - name: neutral_monsteronyxscorpion_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8e1e70af679f12e43a58e169ea967ccf
+    - name: neutral_monsteronyxscorpion_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3570297efef96df4e9f2b13caefcc9b3
+    - name: neutral_monsteronyxscorpion_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 86f2f19471d37684285d9c0939c1881c
+    - name: neutral_monsteronyxscorpion_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ce344701dd7be764f83ff5ade6493656
+    - name: neutral_monsteronyxscorpion_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 88dc253acf6adac459275dcff3973e85
+    - name: neutral_monsteronyxscorpion_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d1b4d496f2ab36743abaf9d503035325
+    - name: neutral_monsteronyxscorpion_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e577b4e9646dd3341a9bbc65ccbff9c7
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

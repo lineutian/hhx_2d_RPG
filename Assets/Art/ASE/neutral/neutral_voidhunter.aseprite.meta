@@ -1,0 +1,2747 @@
+fileFormatVersion: 2
+guid: f0d43cd6299011548b0d5e64ae8634f8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_voidhunter_Frame_0
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 85
+      width: 39
+      height: 33
+    spriteID: 66f7240f66c79e546acc393ef94f36d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: 69}
+  - name: neutral_voidhunter_Frame_1
+    originalName: 
+    pivot: {x: 0.4358974, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 126
+      width: 39
+      height: 32
+    spriteID: aa586e85a84bf474ba370bd4ac31a2eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 110}
+  - name: neutral_voidhunter_Frame_2
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 246
+      width: 39
+      height: 31
+    spriteID: 4335da729d1377d44b14a631f8a0abd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: 230}
+  - name: neutral_voidhunter_Frame_3
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 166
+      width: 39
+      height: 32
+    spriteID: 3c72e8a68c57e564abdbd787a7f06aed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: 150}
+  - name: neutral_voidhunter_Frame_4
+    originalName: 
+    pivot: {x: 0.36842102, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 206
+      width: 38
+      height: 32
+    spriteID: d908b81bf88a76c40838fbdfd4351bd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 310, y: 189}
+  - name: neutral_voidhunter_Frame_5
+    originalName: 
+    pivot: {x: 0.4358974, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 285
+      width: 39
+      height: 31
+    spriteID: 6bb242b15ea727343b1bd9d765e6976e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 268}
+  - name: neutral_voidhunter_Frame_6
+    originalName: 
+    pivot: {x: 0.41463414, y: -0.46875003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 45
+      width: 41
+      height: 32
+    spriteID: 8865614eeef377743afb05f30ea0ccb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 30}
+  - name: neutral_voidhunter_Frame_7
+    originalName: 
+    pivot: {x: 0.41463414, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 4
+      width: 41
+      height: 33
+    spriteID: 4de4ba1112ca6074eba5c4288ffa74da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: -11}
+  - name: neutral_voidhunter_Frame_8
+    originalName: 
+    pivot: {x: 0.6136363, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 4
+      width: 44
+      height: 64
+    spriteID: ad5221d86eaefe149b991c886d1f28be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: -12}
+  - name: neutral_voidhunter_Frame_9
+    originalName: 
+    pivot: {x: 0.6136363, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 851
+      width: 44
+      height: 65
+    spriteID: d9d4e64e0e538934e94dac8b50f19fe9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 835}
+  - name: neutral_voidhunter_Frame_10
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 924
+      width: 43
+      height: 66
+    spriteID: 338c46e09f41590488e0ca172dbfd797
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 908}
+  - name: neutral_voidhunter_Frame_11
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 877
+      width: 43
+      height: 60
+    spriteID: 88fe0b7a7c6249c46adead3fca1036e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 861}
+  - name: neutral_voidhunter_Frame_12
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 431
+      width: 42
+      height: 58
+    spriteID: 52f616166237fd84fab6ad6c3ede60e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 415}
+  - name: neutral_voidhunter_Frame_13
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 226
+      width: 42
+      height: 61
+    spriteID: 231b7a170a1678d40bb9a9edb6155911
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 210}
+  - name: neutral_voidhunter_Frame_14
+    originalName: 
+    pivot: {x: 0.5853659, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 295
+      width: 41
+      height: 60
+    spriteID: 8c658861a31da93418444b7dde1f07cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 279}
+  - name: neutral_voidhunter_Frame_15
+    originalName: 
+    pivot: {x: 0.6279069, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 945
+      width: 43
+      height: 60
+    spriteID: 27e69e60eaac3eb46a5c23aa1013c2f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 929}
+  - name: neutral_voidhunter_Frame_16
+    originalName: 
+    pivot: {x: 0.6097561, y: -0.29090908}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 63
+      width: 41
+      height: 55
+    spriteID: b38df61a89c50114dae9697c737a7bf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 261, y: 47}
+  - name: neutral_voidhunter_Frame_17
+    originalName: 
+    pivot: {x: 0.61538464, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 946
+      width: 39
+      height: 58
+    spriteID: 49e20283426896b4c84d2f3c0cc3e34f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 930}
+  - name: neutral_voidhunter_Frame_18
+    originalName: 
+    pivot: {x: 0.6, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 497
+      width: 40
+      height: 60
+    spriteID: aae558e984ffd034f83fc4e0f50ac78d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 481}
+  - name: neutral_voidhunter_Frame_19
+    originalName: 
+    pivot: {x: 0.57894737, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 565
+      width: 38
+      height: 61
+    spriteID: 0bf2a753801db4048a6c872825a1253b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 549}
+  - name: neutral_voidhunter_Frame_20
+    originalName: 
+    pivot: {x: 0.65853655, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 731
+      width: 41
+      height: 65
+    spriteID: 7e1a3405d48eba049ba574ea236b5090
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 715}
+  - name: neutral_voidhunter_Frame_21
+    originalName: 
+    pivot: {x: 0.65853655, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 583
+      width: 41
+      height: 66
+    spriteID: d43ead8d123036f45b947a88142c9fca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 567}
+  - name: neutral_voidhunter_Frame_22
+    originalName: 
+    pivot: {x: 0.58974355, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 126
+      width: 39
+      height: 57
+    spriteID: 7150b7b11a06c9c4c9ca5763ca0e3f81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 110}
+  - name: neutral_voidhunter_Frame_23
+    originalName: 
+    pivot: {x: 0.65853655, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 804
+      width: 41
+      height: 65
+    spriteID: 4a38fb5435906eb4094bc7a0cd858eac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 788}
+  - name: neutral_voidhunter_Frame_24
+    originalName: 
+    pivot: {x: 0.65853655, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 657
+      width: 41
+      height: 66
+    spriteID: 28ea0f52a04ebe14c81ef3119ae2095b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 641}
+  - name: neutral_voidhunter_Frame_25
+    originalName: 
+    pivot: {x: 0.58974355, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 191
+      width: 39
+      height: 57
+    spriteID: c6a7fb3395239df41b5c360bc00009d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 175}
+  - name: neutral_voidhunter_Frame_26
+    originalName: 
+    pivot: {x: 0.5405405, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 748
+      width: 37
+      height: 52
+    spriteID: db7f2cdf3ae34504480eb57df978d61a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 732}
+  - name: neutral_voidhunter_Frame_27
+    originalName: 
+    pivot: {x: 0.631579, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 808
+      width: 38
+      height: 50
+    spriteID: b011f627f0e1b7d4eb2d0f651a4945ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 792}
+  - name: neutral_voidhunter_Frame_28
+    originalName: 
+    pivot: {x: 0.5952381, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 477
+      width: 42
+      height: 49
+    spriteID: 9f7d8583e9851ad4a8ddac4268cb2a1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 261, y: 461}
+  - name: neutral_voidhunter_Frame_29
+    originalName: 
+    pivot: {x: 0.6136363, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 866
+      width: 44
+      height: 42
+    spriteID: 1f1ebb0a194129c48ba4a0b1e0ba0879
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 850}
+  - name: neutral_voidhunter_Frame_30
+    originalName: 
+    pivot: {x: 0.62222224, y: -0.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 984
+      width: 45
+      height: 32
+    spriteID: 7a7872443773c2b4e863835388e052bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 970}
+  - name: neutral_voidhunter_Frame_31
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 395
+      y: 4
+      width: 43
+      height: 27
+    spriteID: 26c49371dca8a5448b57206765e98e15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 371, y: -11}
+  - name: neutral_voidhunter_Frame_32
+    originalName: 
+    pivot: {x: 0.5952381, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 395
+      y: 39
+      width: 42
+      height: 27
+    spriteID: a23c705663bd8774e9fba2841fd4a07b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 24}
+  - name: neutral_voidhunter_Frame_33
+    originalName: 
+    pivot: {x: 0.6136363, y: -0.6153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 446
+      y: 4
+      width: 44
+      height: 26
+    spriteID: e162d0982f90841459d589cf98da426c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 423, y: -12}
+  - name: neutral_voidhunter_Frame_34
+    originalName: 
+    pivot: {x: 0.6136363, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 76
+      width: 44
+      height: 64
+    spriteID: 3b871e00b0c65dc41b883d7cbb69c5de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 60}
+  - name: neutral_voidhunter_Frame_35
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 364
+      width: 43
+      height: 65
+    spriteID: 4e5763015e14946448d9e70d292ec709
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 348}
+  - name: neutral_voidhunter_Frame_36
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 4
+      width: 43
+      height: 66
+    spriteID: 5f1d5e1d07e906b46a1f3b94bd24fb0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: -12}
+  - name: neutral_voidhunter_Frame_37
+    originalName: 
+    pivot: {x: 0.5952381, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 698
+      width: 42
+      height: 54
+    spriteID: c5c86bb2762333244b7c05a4b9d6e097
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 682}
+  - name: neutral_voidhunter_Frame_38
+    originalName: 
+    pivot: {x: 0.6136363, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 148
+      width: 44
+      height: 64
+    spriteID: 653d5f523b0eb1942b8cd42a7b89f051
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 132}
+  - name: neutral_voidhunter_Frame_39
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 437
+      width: 43
+      height: 65
+    spriteID: fc279388227f4b54f9961589983a3daa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 421}
+  - name: neutral_voidhunter_Frame_40
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 78
+      width: 43
+      height: 66
+    spriteID: 88e302b8b2e3865418cd5aac5477cd49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 62}
+  - name: neutral_voidhunter_Frame_41
+    originalName: 
+    pivot: {x: 0.5952381, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 760
+      width: 42
+      height: 54
+    spriteID: 84f3903eacdcac84997e651cc49312bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 744}
+  - name: neutral_voidhunter_Frame_42
+    originalName: 
+    pivot: {x: 0.6136363, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 220
+      width: 44
+      height: 64
+    spriteID: bc2402b2b606cbc44be7149d2af78dbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 204}
+  - name: neutral_voidhunter_Frame_43
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 510
+      width: 43
+      height: 65
+    spriteID: f7f04465dd2e32448ba7be1231e2c12b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 494}
+  - name: neutral_voidhunter_Frame_44
+    originalName: 
+    pivot: {x: 0.6046511, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 152
+      width: 43
+      height: 66
+    spriteID: 25a0abd73a420c94aa36c6dfb58ffa64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 136}
+  - name: neutral_voidhunter_Frame_45
+    originalName: 
+    pivot: {x: 0.5952381, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 822
+      width: 42
+      height: 54
+    spriteID: 0fc3c4f83a2225f49bac2cc46cdd738c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 806}
+  - name: neutral_voidhunter_Frame_46
+    originalName: 
+    pivot: {x: 0.6136363, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 292
+      width: 44
+      height: 64
+    spriteID: 9ef7b15ace957c245b730007e769237c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 276}
+  - name: neutral_voidhunter_Frame_47
+    originalName: 
+    pivot: {x: 0.5952381, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 884
+      width: 42
+      height: 54
+    spriteID: 1bad06ee80d9bd6409736c1a4f7a9080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 868}
+  - name: neutral_voidhunter_Frame_48
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 723
+      width: 47
+      height: 65
+    spriteID: cd747787aa76c0c4d8e991c0e63f15ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 707}
+  - name: neutral_voidhunter_Frame_49
+    originalName: 
+    pivot: {x: 0.39344263, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 650
+      width: 61
+      height: 66
+    spriteID: a6c91323d0660804a9db28f271cfd91a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 634}
+  - name: neutral_voidhunter_Frame_50
+    originalName: 
+    pivot: {x: 0.37288135, y: -0.16666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 724
+      width: 59
+      height: 66
+    spriteID: f818cadc6d2bb844ab75b8c719eccc97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 713}
+  - name: neutral_voidhunter_Frame_51
+    originalName: 
+    pivot: {x: 0.4032258, y: -0.15384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 577
+      width: 62
+      height: 65
+    spriteID: e770a769150de954493336e4247b1f17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 567}
+  - name: neutral_voidhunter_Frame_52
+    originalName: 
+    pivot: {x: 0.57627124, y: -0.16393442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 229
+      width: 59
+      height: 61
+    spriteID: f16375f6dd51da343b05fd26f98eb4e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 219}
+  - name: neutral_voidhunter_Frame_53
+    originalName: 
+    pivot: {x: 0.7826087, y: -0.23255813}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 592
+      width: 46
+      height: 43
+    spriteID: 46621da7355acc442a1f1a8a3afdb8ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: 582}
+  - name: neutral_voidhunter_Frame_54
+    originalName: 
+    pivot: {x: 0.38271606, y: -0.23255813}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 417
+      width: 81
+      height: 43
+    spriteID: 8268d1ff09cfaf04f88a7013a1b0edd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 407}
+  - name: neutral_voidhunter_Frame_55
+    originalName: 
+    pivot: {x: 0.21874997, y: -0.19148937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 796
+      width: 64
+      height: 47
+    spriteID: 640ef3064ec526848bd5cac27461f6df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 787}
+  - name: neutral_voidhunter_Frame_56
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.19148937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 123
+      width: 85
+      height: 47
+    spriteID: d84fb3fc632f26e4186f38906a930b61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 114}
+  - name: neutral_voidhunter_Frame_57
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.1860465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 178
+      width: 85
+      height: 43
+    spriteID: f1e7eb78983252749a85f44dd7f2638d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 170}
+  - name: neutral_voidhunter_Frame_58
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.12}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 4
+      width: 85
+      height: 50
+    spriteID: b705904043ea2aa44900c6f2cb99acbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: -2}
+  - name: neutral_voidhunter_Frame_59
+    originalName: 
+    pivot: {x: 0.23076925, y: -0.07843137}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 605
+      width: 65
+      height: 51
+    spriteID: db76e38bda4aa1b43b789f7b2c243ef5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 601}
+  - name: neutral_voidhunter_Frame_60
+    originalName: 
+    pivot: {x: 0.30555555, y: -0.062499996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 468
+      width: 72
+      height: 48
+    spriteID: 8739a952323a8a94e924d053364e48c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 465}
+  - name: neutral_voidhunter_Frame_61
+    originalName: 
+    pivot: {x: 0.34210524, y: -0.06382979}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 362
+      width: 76
+      height: 47
+    spriteID: 3f709e759882fa340be25868ed6cf472
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 359}
+  - name: neutral_voidhunter_Frame_62
+    originalName: 
+    pivot: {x: 0.34210524, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 76
+      height: 54
+    spriteID: e0aa76456249481488904d2b19d008ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 449}
+  - name: neutral_voidhunter_Frame_63
+    originalName: 
+    pivot: {x: 0.32432434, y: -0.019230768}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 924
+      width: 74
+      height: 52
+    spriteID: 65d0bcc6d99fec74583a6dcccc3c344b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 923}
+  - name: neutral_voidhunter_Frame_64
+    originalName: 
+    pivot: {x: 0.41176465, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 141
+      y: 924
+      width: 34
+      height: 38
+    spriteID: 5199fb3ff69dee5469b9d2bbd991a4a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 908}
+  - name: neutral_voidhunter_Frame_65
+    originalName: 
+    pivot: {x: 0.5128205, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 971
+      width: 39
+      height: 44
+    spriteID: fb99fc634d8649748b6cbf7f9d1d9139
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 955}
+  - name: neutral_voidhunter_Frame_66
+    originalName: 
+    pivot: {x: 0.43478256, y: -0.34782606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 308
+      width: 46
+      height: 46
+    spriteID: 99793b265d8b1034d908072f532f2926
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 292}
+  - name: neutral_voidhunter_Frame_67
+    originalName: 
+    pivot: {x: 0.33333328, y: -0.34782606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 694
+      width: 42
+      height: 46
+    spriteID: 5afb4d8411c4520408c6148b9450fcad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 250, y: 678}
+  - name: neutral_voidhunter_Frame_68
+    originalName: 
+    pivot: {x: 0.26923072, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 4
+      width: 52
+      height: 51
+    spriteID: c92ff61c4c027d64091b90870172f39a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 250, y: -12}
+  - name: neutral_voidhunter_Frame_69
+    originalName: 
+    pivot: {x: 0.7073171, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 418
+      width: 41
+      height: 51
+    spriteID: bfe520e51601153499d19ed419ab1d2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 402}
+  - name: neutral_voidhunter_Frame_70
+    originalName: 
+    pivot: {x: 0.6888889, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 643
+      width: 45
+      height: 43
+    spriteID: 72da5fc5e7fb73e4798d2e826b15ba54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 267, y: 627}
+  - name: neutral_voidhunter_Frame_71
+    originalName: 
+    pivot: {x: 0.78048784, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 534
+      width: 41
+      height: 50
+    spriteID: 7fe2780d6d127d3499fdc196c62be9a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 518}
+  - name: neutral_voidhunter_Frame_72
+    originalName: 
+    pivot: {x: 0.82, y: -0.1590909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 256
+      width: 50
+      height: 44
+    spriteID: bd9d901427c2cc64d9656b8ecca3f339
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 277, y: 249}
+  - name: neutral_voidhunter_Frame_73
+    originalName: 
+    pivot: {x: 0.9318182, y: -0.12499999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 362
+      width: 44
+      height: 48
+    spriteID: 52f908d0aaac7b34e9b3aaf30b7a10e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 277, y: 356}
+  - name: neutral_voidhunter_Frame_74
+    originalName: 
+    pivot: {x: 0.65853655, y: -0.11666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 363
+      width: 41
+      height: 60
+    spriteID: f99448448b3ad0c4d9d2b5cc2adb274d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 356}
+  - name: neutral_voidhunter_Frame_75
+    originalName: 
+    pivot: {x: 0.65853655, y: -0.23214285}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 634
+      width: 41
+      height: 56
+    spriteID: 4cfe73f71b6662f489da3e616e86243b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 621}
+  - name: neutral_voidhunter_Frame_76
+    originalName: 
+    pivot: {x: 0.76923084, y: -0.65957445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 916
+      width: 39
+      height: 47
+    spriteID: 8fc2623ad9463e1438e2c2779dce6edd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 266, y: 885}
+  - name: neutral_voidhunter_Frame_77
+    originalName: 
+    pivot: {x: 0.23076925, y: -0.07843137}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 664
+      width: 65
+      height: 51
+    spriteID: f2480b78608d72947b5e35c7b2ae80f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 660}
+  - name: neutral_voidhunter_Frame_78
+    originalName: 
+    pivot: {x: 0.30555555, y: -0.053571425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 513
+      width: 72
+      height: 56
+    spriteID: 57ebd20e6f0e5ca47a64852a8d22558a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 510}
+  - name: neutral_voidhunter_Frame_79
+    originalName: 
+    pivot: {x: 0.30555555, y: -0.046875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 379
+      width: 72
+      height: 64
+    spriteID: 6e947ef4cf833fa4588452a79b13dfda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 376}
+  - name: neutral_voidhunter_Frame_80
+    originalName: 
+    pivot: {x: 0.34210524, y: -0.049180325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 310
+      width: 76
+      height: 61
+    spriteID: 486bd314fe6cafd408ef4d9c56d24d04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 307}
+  - name: neutral_voidhunter_Frame_81
+    originalName: 
+    pivot: {x: 0.35897437, y: -0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 236
+      width: 78
+      height: 66
+    spriteID: 5c012118a7a8e694e8151b521fb529f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 233}
+  - name: neutral_voidhunter_Frame_82
+    originalName: 
+    pivot: {x: 0.34210524, y: -0.029411763}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 160
+      width: 76
+      height: 68
+    spriteID: 477ac870204a5494fb5e20354671fbe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 158}
+  - name: neutral_voidhunter_Frame_83
+    originalName: 
+    pivot: {x: 0.35897437, y: -0.028985506}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 78
+      height: 69
+    spriteID: d877bb1ec4089e944880227191fef1a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 2}
+  - name: neutral_voidhunter_Frame_84
+    originalName: 
+    pivot: {x: 0.32432434, y: -0.014084507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 81
+      width: 74
+      height: 71
+    spriteID: 633058c654364bc4a84c2cd123b5d832
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 80}
+  - name: neutral_voidhunter_Frame_85
+    originalName: 
+    pivot: {x: 0.28571427, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 798
+      width: 70
+      height: 55
+    spriteID: bda35d9e57360324ab555934165936a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 783}
+  - name: neutral_voidhunter_Frame_86
+    originalName: 
+    pivot: {x: 0.28571427, y: -0.29090908}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 861
+      width: 70
+      height: 55
+    spriteID: 94b75e7adfc387b44994b8a714c2b3f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 845}
+  - name: neutral_voidhunter_Frame_87
+    originalName: 
+    pivot: {x: 0.21874997, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 298
+      width: 64
+      height: 56
+    spriteID: d70d0c32be5c14444b0a0cd237e87777
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 282}
+  - name: neutral_voidhunter_Frame_88
+    originalName: 
+    pivot: {x: 0.36708862, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 62
+      width: 79
+      height: 53
+    spriteID: 1951ac9ebf7224445902e17ffb052746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 46}
+  - name: neutral_voidhunter_Frame_89
+    originalName: 
+    pivot: {x: 0.6382979, y: -0.21917808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 524
+      width: 47
+      height: 73
+    spriteID: 3716a3d6eb83a634485488b9f12a74b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 508}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1931795778
+    name: neutral_voidhunter
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_voidhunter_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 66f7240f66c79e546acc393ef94f36d1
+    - name: neutral_voidhunter_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: aa586e85a84bf474ba370bd4ac31a2eb
+    - name: neutral_voidhunter_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4335da729d1377d44b14a631f8a0abd3
+    - name: neutral_voidhunter_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3c72e8a68c57e564abdbd787a7f06aed
+    - name: neutral_voidhunter_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d908b81bf88a76c40838fbdfd4351bd5
+    - name: neutral_voidhunter_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6bb242b15ea727343b1bd9d765e6976e
+    - name: neutral_voidhunter_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8865614eeef377743afb05f30ea0ccb5
+    - name: neutral_voidhunter_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4de4ba1112ca6074eba5c4288ffa74da
+    - name: neutral_voidhunter_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ad5221d86eaefe149b991c886d1f28be
+    - name: neutral_voidhunter_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d9d4e64e0e538934e94dac8b50f19fe9
+    - name: neutral_voidhunter_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 338c46e09f41590488e0ca172dbfd797
+    - name: neutral_voidhunter_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 88fe0b7a7c6249c46adead3fca1036e5
+    - name: neutral_voidhunter_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 52f616166237fd84fab6ad6c3ede60e2
+    - name: neutral_voidhunter_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 231b7a170a1678d40bb9a9edb6155911
+    - name: neutral_voidhunter_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8c658861a31da93418444b7dde1f07cc
+    - name: neutral_voidhunter_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 27e69e60eaac3eb46a5c23aa1013c2f2
+    - name: neutral_voidhunter_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b38df61a89c50114dae9697c737a7bf5
+    - name: neutral_voidhunter_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 49e20283426896b4c84d2f3c0cc3e34f
+    - name: neutral_voidhunter_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: aae558e984ffd034f83fc4e0f50ac78d
+    - name: neutral_voidhunter_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0bf2a753801db4048a6c872825a1253b
+    - name: neutral_voidhunter_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7e1a3405d48eba049ba574ea236b5090
+    - name: neutral_voidhunter_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d43ead8d123036f45b947a88142c9fca
+    - name: neutral_voidhunter_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7150b7b11a06c9c4c9ca5763ca0e3f81
+    - name: neutral_voidhunter_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4a38fb5435906eb4094bc7a0cd858eac
+    - name: neutral_voidhunter_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 28ea0f52a04ebe14c81ef3119ae2095b
+    - name: neutral_voidhunter_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c6a7fb3395239df41b5c360bc00009d2
+    - name: neutral_voidhunter_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: db7f2cdf3ae34504480eb57df978d61a
+    - name: neutral_voidhunter_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b011f627f0e1b7d4eb2d0f651a4945ee
+    - name: neutral_voidhunter_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9f7d8583e9851ad4a8ddac4268cb2a1e
+    - name: neutral_voidhunter_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1f1ebb0a194129c48ba4a0b1e0ba0879
+    - name: neutral_voidhunter_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7a7872443773c2b4e863835388e052bd
+    - name: neutral_voidhunter_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 26c49371dca8a5448b57206765e98e15
+    - name: neutral_voidhunter_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a23c705663bd8774e9fba2841fd4a07b
+    - name: neutral_voidhunter_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e162d0982f90841459d589cf98da426c
+    - name: neutral_voidhunter_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3b871e00b0c65dc41b883d7cbb69c5de
+    - name: neutral_voidhunter_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4e5763015e14946448d9e70d292ec709
+    - name: neutral_voidhunter_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5f1d5e1d07e906b46a1f3b94bd24fb0e
+    - name: neutral_voidhunter_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c5c86bb2762333244b7c05a4b9d6e097
+    - name: neutral_voidhunter_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 653d5f523b0eb1942b8cd42a7b89f051
+    - name: neutral_voidhunter_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fc279388227f4b54f9961589983a3daa
+    - name: neutral_voidhunter_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 88e302b8b2e3865418cd5aac5477cd49
+    - name: neutral_voidhunter_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 84f3903eacdcac84997e651cc49312bb
+    - name: neutral_voidhunter_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bc2402b2b606cbc44be7149d2af78dbf
+    - name: neutral_voidhunter_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f7f04465dd2e32448ba7be1231e2c12b
+    - name: neutral_voidhunter_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 25a0abd73a420c94aa36c6dfb58ffa64
+    - name: neutral_voidhunter_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0fc3c4f83a2225f49bac2cc46cdd738c
+    - name: neutral_voidhunter_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9ef7b15ace957c245b730007e769237c
+    - name: neutral_voidhunter_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1bad06ee80d9bd6409736c1a4f7a9080
+    - name: neutral_voidhunter_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cd747787aa76c0c4d8e991c0e63f15ac
+    - name: neutral_voidhunter_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a6c91323d0660804a9db28f271cfd91a
+    - name: neutral_voidhunter_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f818cadc6d2bb844ab75b8c719eccc97
+    - name: neutral_voidhunter_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e770a769150de954493336e4247b1f17
+    - name: neutral_voidhunter_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f16375f6dd51da343b05fd26f98eb4e7
+    - name: neutral_voidhunter_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 46621da7355acc442a1f1a8a3afdb8ee
+    - name: neutral_voidhunter_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8268d1ff09cfaf04f88a7013a1b0edd8
+    - name: neutral_voidhunter_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 640ef3064ec526848bd5cac27461f6df
+    - name: neutral_voidhunter_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d84fb3fc632f26e4186f38906a930b61
+    - name: neutral_voidhunter_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f1e7eb78983252749a85f44dd7f2638d
+    - name: neutral_voidhunter_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b705904043ea2aa44900c6f2cb99acbe
+    - name: neutral_voidhunter_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: db76e38bda4aa1b43b789f7b2c243ef5
+    - name: neutral_voidhunter_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8739a952323a8a94e924d053364e48c0
+    - name: neutral_voidhunter_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3f709e759882fa340be25868ed6cf472
+    - name: neutral_voidhunter_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e0aa76456249481488904d2b19d008ca
+    - name: neutral_voidhunter_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 65d0bcc6d99fec74583a6dcccc3c344b
+    - name: neutral_voidhunter_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5199fb3ff69dee5469b9d2bbd991a4a4
+    - name: neutral_voidhunter_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fb99fc634d8649748b6cbf7f9d1d9139
+    - name: neutral_voidhunter_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 99793b265d8b1034d908072f532f2926
+    - name: neutral_voidhunter_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5afb4d8411c4520408c6148b9450fcad
+    - name: neutral_voidhunter_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c92ff61c4c027d64091b90870172f39a
+    - name: neutral_voidhunter_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bfe520e51601153499d19ed419ab1d2b
+    - name: neutral_voidhunter_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 72da5fc5e7fb73e4798d2e826b15ba54
+    - name: neutral_voidhunter_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7fe2780d6d127d3499fdc196c62be9a6
+    - name: neutral_voidhunter_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bd9d901427c2cc64d9656b8ecca3f339
+    - name: neutral_voidhunter_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 52f908d0aaac7b34e9b3aaf30b7a10e2
+    - name: neutral_voidhunter_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f99448448b3ad0c4d9d2b5cc2adb274d
+    - name: neutral_voidhunter_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4cfe73f71b6662f489da3e616e86243b
+    - name: neutral_voidhunter_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8fc2623ad9463e1438e2c2779dce6edd
+    - name: neutral_voidhunter_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f2480b78608d72947b5e35c7b2ae80f4
+    - name: neutral_voidhunter_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 57ebd20e6f0e5ca47a64852a8d22558a
+    - name: neutral_voidhunter_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6e947ef4cf833fa4588452a79b13dfda
+    - name: neutral_voidhunter_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 486bd314fe6cafd408ef4d9c56d24d04
+    - name: neutral_voidhunter_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5c012118a7a8e694e8151b521fb529f9
+    - name: neutral_voidhunter_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 477ac870204a5494fb5e20354671fbe1
+    - name: neutral_voidhunter_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d877bb1ec4089e944880227191fef1a4
+    - name: neutral_voidhunter_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 633058c654364bc4a84c2cd123b5d832
+    - name: neutral_voidhunter_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bda35d9e57360324ab555934165936a1
+    - name: neutral_voidhunter_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 94b75e7adfc387b44994b8a714c2b3f4
+    - name: neutral_voidhunter_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d70d0c32be5c14444b0a0cd237e87777
+    - name: neutral_voidhunter_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1951ac9ebf7224445902e17ffb052746
+    - name: neutral_voidhunter_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3716a3d6eb83a634485488b9f12a74b2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

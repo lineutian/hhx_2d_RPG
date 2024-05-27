@@ -1,0 +1,2167 @@
+fileFormatVersion: 2
+guid: 8fa091ac43cd33447b23b3c2be969c94
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_healingmystic_cottoncandy_Frame_0
+    originalName: 
+    pivot: {x: 0.71999997, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 4
+      width: 50
+      height: 30
+    spriteID: 4d63fc572b08ef1428495f66c023660c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: -14}
+  - name: neutral_healingmystic_cottoncandy_Frame_1
+    originalName: 
+    pivot: {x: 0.7, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 922
+      width: 50
+      height: 32
+    spriteID: a33102d38f43c154bb169be1d7a94339
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 905}
+  - name: neutral_healingmystic_cottoncandy_Frame_2
+    originalName: 
+    pivot: {x: 0.7, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 962
+      width: 50
+      height: 32
+    spriteID: 33c7c66caca21934c8ec4b72a5ea0897
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 944}
+  - name: neutral_healingmystic_cottoncandy_Frame_3
+    originalName: 
+    pivot: {x: 0.7, y: -0.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 881
+      width: 50
+      height: 33
+    spriteID: 9d353e744982ab34fa4d6e4a4a92939a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 863}
+  - name: neutral_healingmystic_cottoncandy_Frame_4
+    originalName: 
+    pivot: {x: 0.7058823, y: -0.6551724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 4
+      width: 51
+      height: 29
+    spriteID: cf5aafa7eda9934429c943f87bbf2c65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: -15}
+  - name: neutral_healingmystic_cottoncandy_Frame_5
+    originalName: 
+    pivot: {x: 0.7083334, y: -0.6551724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 114
+      width: 48
+      height: 29
+    spriteID: 1b3f346740ce64c4da601fb4daf98684
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 95}
+  - name: neutral_healingmystic_cottoncandy_Frame_6
+    originalName: 
+    pivot: {x: 0.7, y: -0.6785714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 42
+      width: 50
+      height: 28
+    spriteID: 5a27de9ba4b964f46a7f906adedf1ad6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 23}
+  - name: neutral_healingmystic_cottoncandy_Frame_7
+    originalName: 
+    pivot: {x: 0.71999997, y: -0.6785714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 78
+      width: 50
+      height: 28
+    spriteID: ab65fb04536697b428693386833d715e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 59}
+  - name: neutral_healingmystic_cottoncandy_Frame_8
+    originalName: 
+    pivot: {x: 0.53125, y: -0.3272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 322
+      width: 64
+      height: 55
+    spriteID: 5bb4eb5ef11b59041aa2a4699fc67848
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 304}
+  - name: neutral_healingmystic_cottoncandy_Frame_9
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.3653846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 758
+      width: 66
+      height: 52
+    spriteID: 715a03b41d0469b4a89a3cd613f7dc11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 739}
+  - name: neutral_healingmystic_cottoncandy_Frame_10
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 878
+      width: 65
+      height: 52
+    spriteID: ca17febe76f091043adecb06766d0a04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 858}
+  - name: neutral_healingmystic_cottoncandy_Frame_11
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.3773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 697
+      width: 65
+      height: 53
+    spriteID: a7deb98cf669dc046b19f37e8edebc7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 677}
+  - name: neutral_healingmystic_cottoncandy_Frame_12
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.34545454}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 134
+      width: 65
+      height: 55
+    spriteID: 3fc8851386a671f4ea7002ff606bbe92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 115}
+  - name: neutral_healingmystic_cottoncandy_Frame_13
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.32142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 645
+      width: 65
+      height: 56
+    spriteID: 6bbe7fe31b436a64cadf5a48e71f0b6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 627}
+  - name: neutral_healingmystic_cottoncandy_Frame_14
+    originalName: 
+    pivot: {x: 0.515625, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 70
+      width: 64
+      height: 56
+    spriteID: c1f6606984f799343925eef6de72a633
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 53}
+  - name: neutral_healingmystic_cottoncandy_Frame_15
+    originalName: 
+    pivot: {x: 0.530303, y: -0.3272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 773
+      width: 66
+      height: 55
+    spriteID: 7f9dbdc19f28847438a44302997f22cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 755}
+  - name: neutral_healingmystic_cottoncandy_Frame_16
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3653846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 65
+      width: 67
+      height: 52
+    spriteID: 817293d58baf8b14ba4ae9e9975f3c62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 46}
+  - name: neutral_healingmystic_cottoncandy_Frame_17
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 125
+      width: 67
+      height: 52
+    spriteID: 1e2f0464124278a49b468aebc53682d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 105}
+  - name: neutral_healingmystic_cottoncandy_Frame_18
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 4
+      width: 67
+      height: 53
+    spriteID: 0b65cb8dbc214cc469f0b838079abb55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: -16}
+  - name: neutral_healingmystic_cottoncandy_Frame_19
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.34545454}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 519
+      width: 67
+      height: 55
+    spriteID: 58be6a5ada7e6dd48a199ec7718a24e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 500}
+  - name: neutral_healingmystic_cottoncandy_Frame_20
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.32142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 4
+      width: 67
+      height: 56
+    spriteID: cd49214437d01e041aabcdb36e8e6546
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: -14}
+  - name: neutral_healingmystic_cottoncandy_Frame_21
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 263
+      width: 66
+      height: 56
+    spriteID: 539fc84ed5aebc041b7817c13f3a950e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 246}
+  - name: neutral_healingmystic_cottoncandy_Frame_22
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.40816325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 653
+      width: 58
+      height: 49
+    spriteID: 182f04d7665d8274f8933a4544ad0d2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 633}
+  - name: neutral_healingmystic_cottoncandy_Frame_23
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.38775507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 710
+      width: 58
+      height: 49
+    spriteID: b6c80d58386a9dd40aaae9e72df5909b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 691}
+  - name: neutral_healingmystic_cottoncandy_Frame_24
+    originalName: 
+    pivot: {x: 0.54237294, y: -0.35294116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 430
+      width: 59
+      height: 51
+    spriteID: 015b6bf35eef751459707f177d0e8b26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 412}
+  - name: neutral_healingmystic_cottoncandy_Frame_25
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.40816325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 767
+      width: 58
+      height: 49
+    spriteID: f621446c356d8464eaa349a73c641020
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 747}
+  - name: neutral_healingmystic_cottoncandy_Frame_26
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.38775507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 824
+      width: 58
+      height: 49
+    spriteID: 435106d81cc7fb341975d41e12ed2c91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 805}
+  - name: neutral_healingmystic_cottoncandy_Frame_27
+    originalName: 
+    pivot: {x: 0.54237294, y: -0.35294116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 489
+      width: 59
+      height: 51
+    spriteID: 226ab5e3ee0b50b4a95b6c7a2d0c756d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 471}
+  - name: neutral_healingmystic_cottoncandy_Frame_28
+    originalName: 
+    pivot: {x: 0.5322581, y: -0.34615383}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 370
+      width: 62
+      height: 52
+    spriteID: 67316efdbe89a1b43b8c802751a25935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 352}
+  - name: neutral_healingmystic_cottoncandy_Frame_29
+    originalName: 
+    pivot: {x: 0.53125, y: -0.31481484}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 635
+      width: 64
+      height: 54
+    spriteID: b1c0eed084b773d4e81ca0e647493efc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 618}
+  - name: neutral_healingmystic_cottoncandy_Frame_30
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 938
+      width: 65
+      height: 52
+    spriteID: 3dccf349333061441afdeecd2ca5eddb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 918}
+  - name: neutral_healingmystic_cottoncandy_Frame_31
+    originalName: 
+    pivot: {x: 0.5373134, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 582
+      width: 67
+      height: 55
+    spriteID: f9558b20e96c81b48a457ee351eec6be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 562}
+  - name: neutral_healingmystic_cottoncandy_Frame_32
+    originalName: 
+    pivot: {x: 0.5507246, y: -0.3508772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 800
+      width: 69
+      height: 57
+    spriteID: ba9f343124d0d8c46a3c8a89048793a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 780}
+  - name: neutral_healingmystic_cottoncandy_Frame_33
+    originalName: 
+    pivot: {x: 0.55714285, y: -0.33898306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 523
+      width: 70
+      height: 59
+    spriteID: 9db1d8af68f4c5d40a8938cc3c295aa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 503}
+  - name: neutral_healingmystic_cottoncandy_Frame_34
+    originalName: 
+    pivot: {x: 0.5633803, y: -0.3114754}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 379
+      width: 71
+      height: 61
+    spriteID: c7740111f0426484dafd1dbea052a37f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 360}
+  - name: neutral_healingmystic_cottoncandy_Frame_35
+    originalName: 
+    pivot: {x: 0.56164384, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 230
+      width: 73
+      height: 64
+    spriteID: b7937cf6bd75073449ef89c1d04d9c46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 212}
+  - name: neutral_healingmystic_cottoncandy_Frame_36
+    originalName: 
+    pivot: {x: 0.56164384, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 156
+      width: 73
+      height: 66
+    spriteID: c817ffa5e42a04f4faae3aa74d912b5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 139}
+  - name: neutral_healingmystic_cottoncandy_Frame_37
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 81
+      width: 72
+      height: 67
+    spriteID: f4be30d4bbaed0e41b168a91cc2b5729
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 64}
+  - name: neutral_healingmystic_cottoncandy_Frame_38
+    originalName: 
+    pivot: {x: 0.6724138, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 724
+      width: 58
+      height: 68
+    spriteID: ffa2e85834670f340ad7989b4485068d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 707}
+  - name: neutral_healingmystic_cottoncandy_Frame_39
+    originalName: 
+    pivot: {x: 0.4583333, y: -0.9444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 998
+      width: 24
+      height: 18
+    spriteID: bb60f0a459806694dbf82f41025237f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 981}
+  - name: neutral_healingmystic_cottoncandy_Frame_40
+    originalName: 
+    pivot: {x: 0.5384615, y: -0.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 385
+      width: 65
+      height: 54
+    spriteID: 0c4cfd9319da59f48805ea44b5f84d93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 365}
+  - name: neutral_healingmystic_cottoncandy_Frame_41
+    originalName: 
+    pivot: {x: 0.5384615, y: -0.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 447
+      width: 65
+      height: 54
+    spriteID: db8d2114a536b764bbcada0a741a1d0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 427}
+  - name: neutral_healingmystic_cottoncandy_Frame_42
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 899
+      width: 67
+      height: 54
+    spriteID: c3cefed5ad7e74945a83d773296afb0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 879}
+  - name: neutral_healingmystic_cottoncandy_Frame_43
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 961
+      width: 67
+      height: 54
+    spriteID: 92f97aeb1cd52eb44845d0a05c8604c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 941}
+  - name: neutral_healingmystic_cottoncandy_Frame_44
+    originalName: 
+    pivot: {x: 0.530303, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 818
+      width: 66
+      height: 52
+    spriteID: dfdd2fbeec200ca4e812d08eea1cf9a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 798}
+  - name: neutral_healingmystic_cottoncandy_Frame_45
+    originalName: 
+    pivot: {x: 0.530303, y: -0.35849056}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 509
+      width: 66
+      height: 53
+    spriteID: f4ae962456ba0684fbefa70ca1b70e33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 490}
+  - name: neutral_healingmystic_cottoncandy_Frame_46
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.3272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 197
+      width: 65
+      height: 55
+    spriteID: 9610bf972b65ebe42abe16b08d38bdb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 179}
+  - name: neutral_healingmystic_cottoncandy_Frame_47
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 709
+      width: 65
+      height: 56
+    spriteID: babd4ea2b48e59240b8b35af7abebf7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 692}
+  - name: neutral_healingmystic_cottoncandy_Frame_48
+    originalName: 
+    pivot: {x: 0.530303, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 327
+      width: 66
+      height: 56
+    spriteID: 70b7c58852cdc0c478750cf1041f3ece
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 310}
+  - name: neutral_healingmystic_cottoncandy_Frame_49
+    originalName: 
+    pivot: {x: 0.530303, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 391
+      width: 66
+      height: 56
+    spriteID: 7b420bb6dbaf97e42a638e37ef9c2393
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 374}
+  - name: neutral_healingmystic_cottoncandy_Frame_50
+    originalName: 
+    pivot: {x: 0.530303, y: -0.29310346}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 935
+      width: 66
+      height: 58
+    spriteID: 6c5bb448a0c76254598cd1b7f6151a2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 918}
+  - name: neutral_healingmystic_cottoncandy_Frame_51
+    originalName: 
+    pivot: {x: 0.530303, y: -0.29310346}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 66
+      height: 58
+    spriteID: 353cd1d7b4e652c478d06b1e578fb207
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: -13}
+  - name: neutral_healingmystic_cottoncandy_Frame_52
+    originalName: 
+    pivot: {x: 0.530303, y: -0.3272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 836
+      width: 66
+      height: 55
+    spriteID: 98f35597ce15bd24f952a120cbadc5b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 818}
+  - name: neutral_healingmystic_cottoncandy_Frame_53
+    originalName: 
+    pivot: {x: 0.530303, y: -0.35185188}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 260
+      width: 66
+      height: 54
+    spriteID: 0809a069f4c2de2498e1d66e69644f93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 241}
+  - name: neutral_healingmystic_cottoncandy_Frame_54
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 455
+      width: 66
+      height: 56
+    spriteID: 9c53912e5a2e4b446bb453f483affb5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 438}
+  - name: neutral_healingmystic_cottoncandy_Frame_55
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.32142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 68
+      width: 67
+      height: 56
+    spriteID: 6e148f9b838ac6642ac478833aafc3b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 50}
+  - name: neutral_healingmystic_cottoncandy_Frame_56
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3392857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 132
+      width: 67
+      height: 56
+    spriteID: 1952277f867377f49bad9487c355b346
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 113}
+  - name: neutral_healingmystic_cottoncandy_Frame_57
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 185
+      width: 67
+      height: 52
+    spriteID: cf5fb431165ab7548962c53ce5549f71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 165}
+  - name: neutral_healingmystic_cottoncandy_Frame_58
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.40384614}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 245
+      width: 67
+      height: 52
+    spriteID: 8b8491f04e5dcca4db8ec2c5464f0b1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 224}
+  - name: neutral_healingmystic_cottoncandy_Frame_59
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.54545456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 548
+      width: 67
+      height: 44
+    spriteID: e85d8d6933f932d408b5d85f56c88bca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 524}
+  - name: neutral_healingmystic_cottoncandy_Frame_60
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 600
+      width: 64
+      height: 45
+    spriteID: dcf06aa620aa6c344bfe7b2ff06e4ad9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 575}
+  - name: neutral_healingmystic_cottoncandy_Frame_61
+    originalName: 
+    pivot: {x: 0.38095242, y: -0.14492753}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 84
+      height: 69
+    spriteID: 49d7f192f0e870d46ba00ddc11cf310e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: -6}
+  - name: neutral_healingmystic_cottoncandy_Frame_62
+    originalName: 
+    pivot: {x: 0.16949153, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 305
+      width: 59
+      height: 57
+    spriteID: b2e4ce7337136a5489b47b2c7c4aaf1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 296}
+  - name: neutral_healingmystic_cottoncandy_Frame_63
+    originalName: 
+    pivot: {x: 0.147541, y: -0.12280702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 570
+      width: 61
+      height: 57
+    spriteID: a63671149f17b6948aaca82a52569795
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 563}
+  - name: neutral_healingmystic_cottoncandy_Frame_64
+    originalName: 
+    pivot: {x: 0.15873016, y: -0.10169492}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 196
+      width: 63
+      height: 59
+    spriteID: 78cebc6aab5dc0044a5d43a1051f454d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 190}
+  - name: neutral_healingmystic_cottoncandy_Frame_65
+    originalName: 
+    pivot: {x: 0.14285716, y: -0.08064517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 865
+      width: 63
+      height: 62
+    spriteID: 95fa869b129bed847bfbd22717b5d587
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -42, y: 860}
+  - name: neutral_healingmystic_cottoncandy_Frame_66
+    originalName: 
+    pivot: {x: 0.15625, y: -0.062499996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 590
+      width: 64
+      height: 64
+    spriteID: 94f97d8adf1781f409769c58b27dc173
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -41, y: 586}
+  - name: neutral_healingmystic_cottoncandy_Frame_67
+    originalName: 
+    pivot: {x: 0.16129033, y: -0.029850744}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 448
+      width: 62
+      height: 67
+    spriteID: 41c7c5162e50ea1459fc115f4cdf9df8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -41, y: 446}
+  - name: neutral_healingmystic_cottoncandy_Frame_68
+    originalName: 
+    pivot: {x: 0.15625, y: -0.014492753}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 302
+      width: 64
+      height: 69
+    spriteID: 496365263bd35df428e9ccb29fd4d138
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -41, y: 301}
+  - name: neutral_healingmystic_cottoncandy_Frame_69
+    originalName: 
+    pivot: {x: 0.26666668, y: -0.31481484}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 662
+      width: 75
+      height: 54
+    spriteID: 38a7ba74eeeda344d8760ddaeca6ce6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -31, y: 645}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1329042262
+    name: neutral_healingmystic_cottoncandy
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_healingmystic_cottoncandy_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 4d63fc572b08ef1428495f66c023660c
+    - name: neutral_healingmystic_cottoncandy_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: a33102d38f43c154bb169be1d7a94339
+    - name: neutral_healingmystic_cottoncandy_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 33c7c66caca21934c8ec4b72a5ea0897
+    - name: neutral_healingmystic_cottoncandy_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9d353e744982ab34fa4d6e4a4a92939a
+    - name: neutral_healingmystic_cottoncandy_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: cf5aafa7eda9934429c943f87bbf2c65
+    - name: neutral_healingmystic_cottoncandy_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1b3f346740ce64c4da601fb4daf98684
+    - name: neutral_healingmystic_cottoncandy_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 5a27de9ba4b964f46a7f906adedf1ad6
+    - name: neutral_healingmystic_cottoncandy_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: ab65fb04536697b428693386833d715e
+    - name: neutral_healingmystic_cottoncandy_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 5bb4eb5ef11b59041aa2a4699fc67848
+    - name: neutral_healingmystic_cottoncandy_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 715a03b41d0469b4a89a3cd613f7dc11
+    - name: neutral_healingmystic_cottoncandy_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: ca17febe76f091043adecb06766d0a04
+    - name: neutral_healingmystic_cottoncandy_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: a7deb98cf669dc046b19f37e8edebc7c
+    - name: neutral_healingmystic_cottoncandy_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 3fc8851386a671f4ea7002ff606bbe92
+    - name: neutral_healingmystic_cottoncandy_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6bbe7fe31b436a64cadf5a48e71f0b6c
+    - name: neutral_healingmystic_cottoncandy_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: c1f6606984f799343925eef6de72a633
+    - name: neutral_healingmystic_cottoncandy_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 7f9dbdc19f28847438a44302997f22cb
+    - name: neutral_healingmystic_cottoncandy_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 817293d58baf8b14ba4ae9e9975f3c62
+    - name: neutral_healingmystic_cottoncandy_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1e2f0464124278a49b468aebc53682d5
+    - name: neutral_healingmystic_cottoncandy_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0b65cb8dbc214cc469f0b838079abb55
+    - name: neutral_healingmystic_cottoncandy_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 58be6a5ada7e6dd48a199ec7718a24e6
+    - name: neutral_healingmystic_cottoncandy_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: cd49214437d01e041aabcdb36e8e6546
+    - name: neutral_healingmystic_cottoncandy_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 539fc84ed5aebc041b7817c13f3a950e
+    - name: neutral_healingmystic_cottoncandy_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 182f04d7665d8274f8933a4544ad0d2e
+    - name: neutral_healingmystic_cottoncandy_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b6c80d58386a9dd40aaae9e72df5909b
+    - name: neutral_healingmystic_cottoncandy_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 015b6bf35eef751459707f177d0e8b26
+    - name: neutral_healingmystic_cottoncandy_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f621446c356d8464eaa349a73c641020
+    - name: neutral_healingmystic_cottoncandy_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 435106d81cc7fb341975d41e12ed2c91
+    - name: neutral_healingmystic_cottoncandy_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 226ab5e3ee0b50b4a95b6c7a2d0c756d
+    - name: neutral_healingmystic_cottoncandy_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 67316efdbe89a1b43b8c802751a25935
+    - name: neutral_healingmystic_cottoncandy_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b1c0eed084b773d4e81ca0e647493efc
+    - name: neutral_healingmystic_cottoncandy_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 3dccf349333061441afdeecd2ca5eddb
+    - name: neutral_healingmystic_cottoncandy_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f9558b20e96c81b48a457ee351eec6be
+    - name: neutral_healingmystic_cottoncandy_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: ba9f343124d0d8c46a3c8a89048793a1
+    - name: neutral_healingmystic_cottoncandy_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9db1d8af68f4c5d40a8938cc3c295aa9
+    - name: neutral_healingmystic_cottoncandy_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: c7740111f0426484dafd1dbea052a37f
+    - name: neutral_healingmystic_cottoncandy_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b7937cf6bd75073449ef89c1d04d9c46
+    - name: neutral_healingmystic_cottoncandy_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: c817ffa5e42a04f4faae3aa74d912b5b
+    - name: neutral_healingmystic_cottoncandy_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f4be30d4bbaed0e41b168a91cc2b5729
+    - name: neutral_healingmystic_cottoncandy_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: ffa2e85834670f340ad7989b4485068d
+    - name: neutral_healingmystic_cottoncandy_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: bb60f0a459806694dbf82f41025237f4
+    - name: neutral_healingmystic_cottoncandy_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0c4cfd9319da59f48805ea44b5f84d93
+    - name: neutral_healingmystic_cottoncandy_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: db8d2114a536b764bbcada0a741a1d0b
+    - name: neutral_healingmystic_cottoncandy_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: c3cefed5ad7e74945a83d773296afb0e
+    - name: neutral_healingmystic_cottoncandy_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 92f97aeb1cd52eb44845d0a05c8604c2
+    - name: neutral_healingmystic_cottoncandy_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: dfdd2fbeec200ca4e812d08eea1cf9a6
+    - name: neutral_healingmystic_cottoncandy_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f4ae962456ba0684fbefa70ca1b70e33
+    - name: neutral_healingmystic_cottoncandy_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9610bf972b65ebe42abe16b08d38bdb9
+    - name: neutral_healingmystic_cottoncandy_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: babd4ea2b48e59240b8b35af7abebf7f
+    - name: neutral_healingmystic_cottoncandy_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 70b7c58852cdc0c478750cf1041f3ece
+    - name: neutral_healingmystic_cottoncandy_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 7b420bb6dbaf97e42a638e37ef9c2393
+    - name: neutral_healingmystic_cottoncandy_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6c5bb448a0c76254598cd1b7f6151a2e
+    - name: neutral_healingmystic_cottoncandy_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 353cd1d7b4e652c478d06b1e578fb207
+    - name: neutral_healingmystic_cottoncandy_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 98f35597ce15bd24f952a120cbadc5b9
+    - name: neutral_healingmystic_cottoncandy_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0809a069f4c2de2498e1d66e69644f93
+    - name: neutral_healingmystic_cottoncandy_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9c53912e5a2e4b446bb453f483affb5f
+    - name: neutral_healingmystic_cottoncandy_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6e148f9b838ac6642ac478833aafc3b1
+    - name: neutral_healingmystic_cottoncandy_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1952277f867377f49bad9487c355b346
+    - name: neutral_healingmystic_cottoncandy_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: cf5fb431165ab7548962c53ce5549f71
+    - name: neutral_healingmystic_cottoncandy_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 8b8491f04e5dcca4db8ec2c5464f0b1a
+    - name: neutral_healingmystic_cottoncandy_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e85d8d6933f932d408b5d85f56c88bca
+    - name: neutral_healingmystic_cottoncandy_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: dcf06aa620aa6c344bfe7b2ff06e4ad9
+    - name: neutral_healingmystic_cottoncandy_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 49d7f192f0e870d46ba00ddc11cf310e
+    - name: neutral_healingmystic_cottoncandy_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b2e4ce7337136a5489b47b2c7c4aaf1b
+    - name: neutral_healingmystic_cottoncandy_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: a63671149f17b6948aaca82a52569795
+    - name: neutral_healingmystic_cottoncandy_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 78cebc6aab5dc0044a5d43a1051f454d
+    - name: neutral_healingmystic_cottoncandy_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 95fa869b129bed847bfbd22717b5d587
+    - name: neutral_healingmystic_cottoncandy_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 94f97d8adf1781f409769c58b27dc173
+    - name: neutral_healingmystic_cottoncandy_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 41c7c5162e50ea1459fc115f4cdf9df8
+    - name: neutral_healingmystic_cottoncandy_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 496365263bd35df428e9ccb29fd4d138
+    - name: neutral_healingmystic_cottoncandy_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 38a7ba74eeeda344d8760ddaeca6ce6b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 110, y: 110}

@@ -4,12 +4,15 @@ using rw;
 using UnityEngine;
 using UnityEngine.UI;
 using static LanguageController;
+using static myExpected;
 
 public class ItemController : Singleton<ItemController>
 {
-    public Dictionary<ItemType, List<Item>> ItemTpyeLib = new Dictionary<ItemType, List<Item>>();
-    private Dictionary<string, Item> ItemIndexLib = new Dictionary<string, Item>();
-    private Dictionary<int, Item> ItemIDLib = new Dictionary<int, Item>();
+    public Dictionary<ItemType, List<ItemUI>> ItemTpyeLib = new Dictionary<ItemType, List<ItemUI>>();
+    public Dictionary<string, ItemUI> ItemIndexLib = new Dictionary<string, ItemUI>();
+    public Dictionary<int, ItemUI> ItemIDLib = new Dictionary<int, ItemUI>();
+    public Dictionary<int,EquipData> EquipsdataLib = new Dictionary<int, EquipData>();
+    public Dictionary<int,Weapon> WeaponsLib= new Dictionary<int, Weapon>();
 
 
     public Transform SlotTransform;
@@ -19,41 +22,92 @@ public class ItemController : Singleton<ItemController>
     {
         foreach(var item in Resources.LoadAll("Item"))
         {
-            ItemIndexLib.Add(((Item)item).Index,((Item)item));
-            ItemIDLib.Add(((Item)item).ItemID,((Item)item));
-
-            if(ItemTpyeLib.ContainsKey(((Item)item).Type))
+            ItemIndexLib.Add(((ItemUI)item).Index,((ItemUI)item));
+            ItemIDLib.Add(((ItemUI)item).ItemID,((ItemUI)item));
+            if(ItemTpyeLib.ContainsKey(((ItemUI)item).Type))
             {
-                ItemTpyeLib[((Item)item).Type].Add(((Item)item));
+                ItemTpyeLib[((ItemUI)item).Type].Add(((ItemUI)item));
             }
             else
             {
-                ItemTpyeLib.Add( ((Item)item).Type,new List<Item>(){((Item)item)});
+                ItemTpyeLib.Add( ((ItemUI)item).Type,new List<ItemUI>(){((ItemUI)item)});
             }
+        }
+
+        foreach (var weapon in Resources.LoadAll("Item/equip/weapon"))
+        {
+            WeaponsLib.Add(((Weapon)weapon).ItemTypeID,((Weapon)weapon));
         }
     }
 
-    public void ItemAdd(Item item)
+    public void saveEquip(SaveData saveData)
     {
-        ItemIDLib.Add(item.ItemID,item);
+        DictionaryCopy(saveData.EquipdataLib, EquipsdataLib);
+    }
 
-        if(ItemTpyeLib.ContainsKey(item.Type))
+    public void locaEquip(SaveData saveData)
+    {
+        DictionaryCopy(EquipsdataLib, saveData.EquipdataLib);
+        ItemIndexLib.Clear();
+        ItemTpyeLib.Clear();
+        ItemIDLib.Clear();
+        WeaponsLib.Clear();
+        equipController.Instance.EquipIDLib.Clear();
+        equipController.Instance.info();
+        Into();
+        foreach (var equipData in EquipsdataLib)
         {
-            ItemTpyeLib[item.Type].Add(item);
+            equip equip = equipController.Instance.GetEquipFormID(equipData.Value.ID); 
+            equip Newequip = Instantiate(equip);
+            Newequip.ItemID = equipData.Key;
+            Newequip.Icon = equip.Icon;
+            Newequip.Index = equip.Index;
+            Newequip.Quality = equip.Quality;
+            Newequip.Type = equip.Type;
+            Newequip.DescribeIndex = equip.DescribeIndex;
+            Newequip.IsStack = equip.IsStack;
+            Newequip.IsUse = equip.IsUse;
+            Newequip.EquipType = equip.EquipType;
+            Newequip.EquipData = equipData.Value;
+            
+            if (!ItemIDLib.ContainsKey(equipData.Key))
+            {
+                ItemAdd(Newequip);
+            }
+
+            if (!equipController.Instance.EquipIDLib.ContainsKey(equipData.Key))
+            {
+                equipController.Instance.add(Newequip);
+            }
+        } ;
+    }
+
+    public void addEquipData(int id,EquipData equipData)
+    {
+        EquipsdataLib.Add(id,equipData);        
+    }
+
+    public void ItemAdd(ItemUI itemUI)
+    {
+        ItemIDLib.Add(itemUI.ItemID,itemUI);
+
+        if(ItemTpyeLib.ContainsKey(itemUI.Type))
+        {
+            ItemTpyeLib[itemUI.Type].Add(itemUI);
         }
         else
         {
-            ItemTpyeLib.Add(item.Type,new List<Item>(){item});
+            ItemTpyeLib.Add(itemUI.Type,new List<ItemUI>(){itemUI});
         }
     }
-    public Item GetItemFormIndex(string index)//根据index获得Item
+    public ItemUI GetItemFormIndex(string index)//根据index获得Item
     {
         if (ItemIndexLib.ContainsKey(index)) return ItemIndexLib[index];
 
         return null;
     }
     
-    public Item GetItemFormID(int id)//根据id获得Item
+    public ItemUI GetItemFormID(int id)//根据id获得Item
     {
         if (ItemIDLib.ContainsKey(id)) return ItemIDLib[id];
 
@@ -71,9 +125,9 @@ public class ItemController : Singleton<ItemController>
         SlotList.Clear();
     
         
-        foreach (var item in GlobalController.Instance.Data.Inventory)//在玩家Data里面遍历Inventory
+        foreach (var item in Inventory)//在玩家Data里面遍历Inventory
         {
-            Item i = GetItemFormID(item.Key);
+            ItemUI i = GetItemFormID(item.Key);
             int bont = item.Value;
             Color ItemColor=new Color();
             switch (i.Quality)
@@ -111,7 +165,7 @@ public class ItemController : Singleton<ItemController>
             
         }
     }
-    private void slotUi(Color ItemColor, Item i,string bonnt)
+    private void slotUi(Color ItemColor, ItemUI i,string bonnt)
     {
         GameObject slot = Instantiate(ItemSlot, SlotTransform);
         slot.name = i.ItemID.ToString();

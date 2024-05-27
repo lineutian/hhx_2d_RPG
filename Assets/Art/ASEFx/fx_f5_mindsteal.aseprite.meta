@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: fe9c6e52b84585342bab143e6d620fd6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_f5_mindsteal_Frame_0
+    originalName: 
+    pivot: {x: 0.6250001, y: -1.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 601
+      width: 24
+      height: 24
+    spriteID: e72f8208713c52d42bbd1ec9912a4dbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 557}
+  - name: fx_f5_mindsteal_Frame_1
+    originalName: 
+    pivot: {x: 0.5576924, y: -0.8775511}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 597
+      width: 52
+      height: 49
+    spriteID: 8820e6c2b18a9ad4abdb6a1443cd869b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 554}
+  - name: fx_f5_mindsteal_Frame_2
+    originalName: 
+    pivot: {x: 0.5124999, y: -0.49275362}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 482
+      width: 80
+      height: 69
+    spriteID: f7922e317e0812b40b43984db5b056fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 448}
+  - name: fx_f5_mindsteal_Frame_3
+    originalName: 
+    pivot: {x: 0.556962, y: -0.38095242}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 482
+      width: 79
+      height: 84
+    spriteID: 450592305ac7ef1439d55baca425aac0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 450}
+  - name: fx_f5_mindsteal_Frame_4
+    originalName: 
+    pivot: {x: 0.56842107, y: -0.32352942}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 482
+      width: 95
+      height: 102
+    spriteID: d3483d52d0bf4a943b787bd1ebde4d9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 449}
+  - name: fx_f5_mindsteal_Frame_5
+    originalName: 
+    pivot: {x: 0.5274725, y: -0.33944952}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 889
+      y: 320
+      width: 91
+      height: 109
+    spriteID: ea3631f6814b3f74d9f25894412224d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 825, y: 283}
+  - name: fx_f5_mindsteal_Frame_6
+    originalName: 
+    pivot: {x: 0.5486726, y: -0.29268295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 768
+      y: 320
+      width: 113
+      height: 123
+    spriteID: ed154abae5553b94c96050c1129fef99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 718, y: 284}
+  - name: fx_f5_mindsteal_Frame_7
+    originalName: 
+    pivot: {x: 0.5260115, y: -0.24427481}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 345
+      y: 4
+      width: 173
+      height: 131
+    spriteID: 2f9a00d67831a15439cfaf3f5ff7af09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: -28}
+  - name: fx_f5_mindsteal_Frame_8
+    originalName: 
+    pivot: {x: 0.5212121, y: -0.30158728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 165
+      height: 126
+    spriteID: c9b95e8beae50c74ab788e9282bb4ae1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 122}
+  - name: fx_f5_mindsteal_Frame_9
+    originalName: 
+    pivot: {x: 0.5276074, y: -0.28030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 4
+      width: 163
+      height: 132
+    spriteID: 615039585fb21974588ebeb619b8bc97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 666, y: -33}
+  - name: fx_f5_mindsteal_Frame_10
+    originalName: 
+    pivot: {x: 0.5276074, y: -0.19444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 4
+      width: 163
+      height: 144
+    spriteID: d4f8edf62598606448b30d4d7324dc12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: -24}
+  - name: fx_f5_mindsteal_Frame_11
+    originalName: 
+    pivot: {x: 0.52469134, y: -0.16891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 162
+      height: 148
+    spriteID: 730a46a825408b74eb7e3f50ec0412b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: -21}
+  - name: fx_f5_mindsteal_Frame_12
+    originalName: 
+    pivot: {x: 0.5253165, y: -0.16428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 526
+      y: 4
+      width: 158
+      height: 140
+    spriteID: 3a8bd120ac775164485869ad045ad3f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 497, y: -19}
+  - name: fx_f5_mindsteal_Frame_13
+    originalName: 
+    pivot: {x: 0.52, y: -0.29133856}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 674
+      y: 160
+      width: 150
+      height: 127
+    spriteID: 9c5b5ca4af1e85f4fac6a9b79a108f33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 640, y: 123}
+  - name: fx_f5_mindsteal_Frame_14
+    originalName: 
+    pivot: {x: 0.53061223, y: -0.32000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 160
+      width: 147
+      height: 125
+    spriteID: 82922887729ed3d4389682babb1b9463
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 798, y: 120}
+  - name: fx_f5_mindsteal_Frame_15
+    originalName: 
+    pivot: {x: 0.5273973, y: -0.3783784}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 320
+      width: 146
+      height: 111
+    spriteID: dfb377a672d61b243b95fb08042ed9f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 278}
+  - name: fx_f5_mindsteal_Frame_16
+    originalName: 
+    pivot: {x: 0.5273973, y: -0.3783784}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 614
+      y: 320
+      width: 146
+      height: 111
+    spriteID: 8b1b739f46261d842a49356047fc1944
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 579, y: 278}
+  - name: fx_f5_mindsteal_Frame_17
+    originalName: 
+    pivot: {x: 0.5234899, y: -0.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 320
+      width: 149
+      height: 112
+    spriteID: 37f4e8fbc32ea9a478b377dea5e6c74d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 269, y: 278}
+  - name: fx_f5_mindsteal_Frame_18
+    originalName: 
+    pivot: {x: 0.52597404, y: -0.3247863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 141
+      y: 320
+      width: 154
+      height: 117
+    spriteID: 291bf4960c5f1d7499e1562ae157e195
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 282}
+  - name: fx_f5_mindsteal_Frame_19
+    originalName: 
+    pivot: {x: 0.53374237, y: -0.3193277}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 503
+      y: 160
+      width: 163
+      height: 119
+    spriteID: 7716ae5b7766ef04bb1bfbc3219b1113
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 478, y: 122}
+  - name: fx_f5_mindsteal_Frame_20
+    originalName: 
+    pivot: {x: 0.5370371, y: -0.30327868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 160
+      width: 162
+      height: 122
+    spriteID: e8ec1504dde97e840a4dbc8fb43207df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 123}
+  - name: fx_f5_mindsteal_Frame_21
+    originalName: 
+    pivot: {x: 0.52816904, y: -0.16891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 4
+      width: 142
+      height: 148
+    spriteID: 00e62bacc43e03d4588b0490ffb7371c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 826, y: -21}
+  - name: fx_f5_mindsteal_Frame_22
+    originalName: 
+    pivot: {x: 0.527027, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 160
+      width: 148
+      height: 152
+    spriteID: d3c9c33c20c150c4db640e21759108b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -30, y: 136}
+  - name: fx_f5_mindsteal_Frame_23
+    originalName: 
+    pivot: {x: 0.53488374, y: -0.1883117}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 320
+      width: 129
+      height: 154
+    spriteID: 402f628a21cb19a4a8607150d8d5831c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -39, y: 291}
+  - name: fx_f5_mindsteal_Frame_24
+    originalName: 
+    pivot: {x: 0.45999998, y: -0.17073171}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 482
+      width: 100
+      height: 164
+    spriteID: 4bd2cf7da668ea94893317bbf7cc8778
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -62, y: 454}
+  - name: fx_f5_mindsteal_Frame_25
+    originalName: 
+    pivot: {x: 0.3692308, y: -0.7837838}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 482
+      width: 65
+      height: 111
+    spriteID: 5972081b73d93164fadce06706324f6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 395}
+  - name: fx_f5_mindsteal_Frame_26
+    originalName: 
+    pivot: {x: 0.35483876, y: -0.86915886}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 482
+      width: 62
+      height: 107
+    spriteID: a5ae8d1e34d91c3458c8cb375f5aa8d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 389}
+  - name: fx_f5_mindsteal_Frame_27
+    originalName: 
+    pivot: {x: 0.35714293, y: -1.4634145}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 559
+      width: 42
+      height: 82
+    spriteID: c0f9ed28ae9426c45809a661ebf67235
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 439}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1575274700
+    name: fx_f5_mindsteal
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_f5_mindsteal_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: e72f8208713c52d42bbd1ec9912a4dbb
+    - name: fx_f5_mindsteal_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 8820e6c2b18a9ad4abdb6a1443cd869b
+    - name: fx_f5_mindsteal_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: f7922e317e0812b40b43984db5b056fc
+    - name: fx_f5_mindsteal_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 450592305ac7ef1439d55baca425aac0
+    - name: fx_f5_mindsteal_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: d3483d52d0bf4a943b787bd1ebde4d9c
+    - name: fx_f5_mindsteal_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: ea3631f6814b3f74d9f25894412224d8
+    - name: fx_f5_mindsteal_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: ed154abae5553b94c96050c1129fef99
+    - name: fx_f5_mindsteal_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 2f9a00d67831a15439cfaf3f5ff7af09
+    - name: fx_f5_mindsteal_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: c9b95e8beae50c74ab788e9282bb4ae1
+    - name: fx_f5_mindsteal_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 615039585fb21974588ebeb619b8bc97
+    - name: fx_f5_mindsteal_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: d4f8edf62598606448b30d4d7324dc12
+    - name: fx_f5_mindsteal_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 730a46a825408b74eb7e3f50ec0412b6
+    - name: fx_f5_mindsteal_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 3a8bd120ac775164485869ad045ad3f3
+    - name: fx_f5_mindsteal_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 9c5b5ca4af1e85f4fac6a9b79a108f33
+    - name: fx_f5_mindsteal_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 82922887729ed3d4389682babb1b9463
+    - name: fx_f5_mindsteal_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: dfb377a672d61b243b95fb08042ed9f5
+    - name: fx_f5_mindsteal_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 8b1b739f46261d842a49356047fc1944
+    - name: fx_f5_mindsteal_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 37f4e8fbc32ea9a478b377dea5e6c74d
+    - name: fx_f5_mindsteal_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 291bf4960c5f1d7499e1562ae157e195
+    - name: fx_f5_mindsteal_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 7716ae5b7766ef04bb1bfbc3219b1113
+    - name: fx_f5_mindsteal_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: e8ec1504dde97e840a4dbc8fb43207df
+    - name: fx_f5_mindsteal_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 00e62bacc43e03d4588b0490ffb7371c
+    - name: fx_f5_mindsteal_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: d3c9c33c20c150c4db640e21759108b1
+    - name: fx_f5_mindsteal_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 402f628a21cb19a4a8607150d8d5831c
+    - name: fx_f5_mindsteal_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 4bd2cf7da668ea94893317bbf7cc8778
+    - name: fx_f5_mindsteal_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: 5972081b73d93164fadce06706324f6b
+    - name: fx_f5_mindsteal_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: a5ae8d1e34d91c3458c8cb375f5aa8d9
+    - name: fx_f5_mindsteal_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      spriteId: c0f9ed28ae9426c45809a661ebf67235
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 224, y: 224}

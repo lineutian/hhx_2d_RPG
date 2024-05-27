@@ -1,0 +1,1906 @@
+fileFormatVersion: 2
+guid: f7268d55db97d194793c102549375b18
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: f5_tank_ash_Frame_0
+    originalName: 
+    pivot: {x: 0.40677968, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 662
+      width: 59
+      height: 58
+    spriteID: 68ee9e50af0cd9a418f00ea83972a374
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 646}
+  - name: f5_tank_ash_Frame_1
+    originalName: 
+    pivot: {x: 0.39655173, y: -0.32727274}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 257
+      width: 58
+      height: 55
+    spriteID: 739c4fc27c9c65d4b8e1c02d275dcd13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 213, y: 239}
+  - name: f5_tank_ash_Frame_2
+    originalName: 
+    pivot: {x: 0.38333333, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 131
+      width: 60
+      height: 56
+    spriteID: 923d58e942a7960498175bd7ffc7d442
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 213, y: 114}
+  - name: f5_tank_ash_Frame_3
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.29824564}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 728
+      width: 60
+      height: 57
+    spriteID: 335d7a7e58b5a9c48b64da0159a781e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 711}
+  - name: f5_tank_ash_Frame_4
+    originalName: 
+    pivot: {x: 0.40983605, y: -0.32142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 793
+      width: 61
+      height: 56
+    spriteID: cd8ab1c9aded8744cb79d9a32ad3e678
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 775}
+  - name: f5_tank_ash_Frame_5
+    originalName: 
+    pivot: {x: 0.41269842, y: -0.35185185}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 69
+      width: 63
+      height: 54
+    spriteID: 26bff9a9f17f39640b2bb5dc81ac3531
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 50}
+  - name: f5_tank_ash_Frame_6
+    originalName: 
+    pivot: {x: 0.41269842, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 4
+      width: 63
+      height: 57
+    spriteID: 60b9a9a53ab14954886d5b5736d3990b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: -12}
+  - name: f5_tank_ash_Frame_7
+    originalName: 
+    pivot: {x: 0.40983605, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 406
+      width: 61
+      height: 58
+    spriteID: f8686128c5195a84696d22ca19955fc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 390}
+  - name: f5_tank_ash_Frame_8
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 472
+      width: 61
+      height: 58
+    spriteID: 961f26a97716a0f4c99ce4f3c073a4b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 456}
+  - name: f5_tank_ash_Frame_9
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 538
+      width: 61
+      height: 58
+    spriteID: 6c4392da30dbe374495110d74ff1d0ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 522}
+  - name: f5_tank_ash_Frame_10
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 604
+      width: 61
+      height: 58
+    spriteID: c610372b127113d4ab121d889c8e992a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 588}
+  - name: f5_tank_ash_Frame_11
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 670
+      width: 61
+      height: 58
+    spriteID: 2473b35b2c2ae684f97a273d0988dfee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 654}
+  - name: f5_tank_ash_Frame_12
+    originalName: 
+    pivot: {x: 0.43548387, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 4
+      width: 62
+      height: 58
+    spriteID: a235417e9c0f1a04187914065d2fb300
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: -12}
+  - name: f5_tank_ash_Frame_13
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 579
+      width: 61
+      height: 59
+    spriteID: 6af4a675a9fc9de4eacc0cb306de989a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 563}
+  - name: f5_tank_ash_Frame_14
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 646
+      width: 61
+      height: 59
+    spriteID: 63e98c0818ccfd1498f783f95aa9aa6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 630}
+  - name: f5_tank_ash_Frame_15
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 713
+      width: 61
+      height: 59
+    spriteID: 40035ecbf60d07d4b9162e651ceb472f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 697}
+  - name: f5_tank_ash_Frame_16
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 780
+      width: 61
+      height: 59
+    spriteID: f0d688482de8390489fc3533bb9994f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 764}
+  - name: f5_tank_ash_Frame_17
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 847
+      width: 61
+      height: 59
+    spriteID: 70c4210afac9a16448bae924b9e902c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 831}
+  - name: f5_tank_ash_Frame_18
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 736
+      width: 61
+      height: 58
+    spriteID: b1ea3f541c7345745aa96f2a7c19f709
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 720}
+  - name: f5_tank_ash_Frame_19
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 532
+      width: 61
+      height: 57
+    spriteID: f5e2151b6c50b3a439fd6f8572028db3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 516}
+  - name: f5_tank_ash_Frame_20
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 857
+      width: 61
+      height: 56
+    spriteID: b0ac662872b881642af44d7bac5801b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 841}
+  - name: f5_tank_ash_Frame_21
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 597
+      width: 61
+      height: 57
+    spriteID: 6e3fbdaab4240db4b8f79141e826f0a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 581}
+  - name: f5_tank_ash_Frame_22
+    originalName: 
+    pivot: {x: 0.46875, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 179
+      width: 64
+      height: 59
+    spriteID: 2274d4d95791f6349bb97cd20aeeb6b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 163}
+  - name: f5_tank_ash_Frame_23
+    originalName: 
+    pivot: {x: 0.4603175, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 313
+      width: 63
+      height: 59
+    spriteID: 75446c02a8cd93a43bcd870952a9cea6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 297}
+  - name: f5_tank_ash_Frame_24
+    originalName: 
+    pivot: {x: 0.4516129, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 70
+      width: 62
+      height: 58
+    spriteID: 767dd1de892ee2e4d9f8a2e0fae10986
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 54}
+  - name: f5_tank_ash_Frame_25
+    originalName: 
+    pivot: {x: 0.46875, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 246
+      width: 64
+      height: 59
+    spriteID: 1656b6b8890ce0f48aaa36c13c6a859b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 230}
+  - name: f5_tank_ash_Frame_26
+    originalName: 
+    pivot: {x: 0.4603175, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 380
+      width: 63
+      height: 59
+    spriteID: e5a0347ad696d924c823722705a4a780
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 364}
+  - name: f5_tank_ash_Frame_27
+    originalName: 
+    pivot: {x: 0.4516129, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 136
+      width: 62
+      height: 58
+    spriteID: 915422fc003447e4da3e0e20ad867e28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 120}
+  - name: f5_tank_ash_Frame_28
+    originalName: 
+    pivot: {x: 0.43548387, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 921
+      width: 62
+      height: 55
+    spriteID: 5994ab2c10d217b4b81f3bdf92580c74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 905}
+  - name: f5_tank_ash_Frame_29
+    originalName: 
+    pivot: {x: 0.43548387, y: -0.32608694}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 631
+      width: 62
+      height: 46
+    spriteID: 403303ba11f01404e97094de6a91954b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 616}
+  - name: f5_tank_ash_Frame_30
+    originalName: 
+    pivot: {x: 0.43548387, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 981
+      width: 62
+      height: 38
+    spriteID: 9a610065d48359d4780ff6e87aaad85b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 965}
+  - name: f5_tank_ash_Frame_31
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 742
+      width: 61
+      height: 37
+    spriteID: 6fb506eb6533d7a4d994a483cb5e0751
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 726}
+  - name: f5_tank_ash_Frame_32
+    originalName: 
+    pivot: {x: 0.45000002, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 826
+      width: 60
+      height: 30
+    spriteID: aec062725cddca641b3cc513478ff6cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 810}
+  - name: f5_tank_ash_Frame_33
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.4516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 984
+      width: 61
+      height: 31
+    spriteID: 49798c437c525324e91b37848cca94b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 970}
+  - name: f5_tank_ash_Frame_34
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.4516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 787
+      width: 61
+      height: 31
+    spriteID: 8c5bac91f53980c47851ac8c1311b954
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 773}
+  - name: f5_tank_ash_Frame_35
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 802
+      width: 61
+      height: 58
+    spriteID: ba4793aaafa97d44498acfb230bbd120
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 786}
+  - name: f5_tank_ash_Frame_36
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 868
+      width: 61
+      height: 58
+    spriteID: 186da8baa2bd38c4fbdd2c8c58d02545
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 852}
+  - name: f5_tank_ash_Frame_37
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 934
+      width: 61
+      height: 58
+    spriteID: 45d562521c67c6b46a9dd245a431945a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 918}
+  - name: f5_tank_ash_Frame_38
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 268
+      width: 61
+      height: 58
+    spriteID: 21e86463e68b24246933533e7a0ccf78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 252}
+  - name: f5_tank_ash_Frame_39
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 334
+      width: 61
+      height: 58
+    spriteID: 1a559c7f4655e9543a4f92e7fe7c2682
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 318}
+  - name: f5_tank_ash_Frame_40
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 400
+      width: 61
+      height: 58
+    spriteID: 091267c3534ee384599b7d5e9879e6dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 384}
+  - name: f5_tank_ash_Frame_41
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 466
+      width: 61
+      height: 58
+    spriteID: 235b31f0d5608944b99092e32a3b2707
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 450}
+  - name: f5_tank_ash_Frame_42
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 914
+      width: 61
+      height: 59
+    spriteID: 09947b7eded26994e99bc235a431d806
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 898}
+  - name: f5_tank_ash_Frame_43
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 4
+      width: 61
+      height: 59
+    spriteID: 5dedd52ba73197949a17d38ea2a035ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: -12}
+  - name: f5_tank_ash_Frame_44
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 71
+      width: 61
+      height: 59
+    spriteID: aeb9c892c4689de4ba116c6ec1ab626f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 55}
+  - name: f5_tank_ash_Frame_45
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 138
+      width: 61
+      height: 59
+    spriteID: 4169f8c8b8294184883ac594b2172496
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 122}
+  - name: f5_tank_ash_Frame_46
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 205
+      width: 61
+      height: 59
+    spriteID: 69acb64feb371eb4b8b4ff951721cc60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 189}
+  - name: f5_tank_ash_Frame_47
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 272
+      width: 61
+      height: 59
+    spriteID: 0f896aedc3fdcd44e87b88cce49f2291
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 256}
+  - name: f5_tank_ash_Frame_48
+    originalName: 
+    pivot: {x: 0.44262296, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 339
+      width: 61
+      height: 59
+    spriteID: f8a9fbac22871c549828e917bd355d61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 323}
+  - name: f5_tank_ash_Frame_49
+    originalName: 
+    pivot: {x: 0.4516129, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 202
+      width: 62
+      height: 58
+    spriteID: 158e4a7fa5ad27d4f84e86c6451ecaa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 186}
+  - name: f5_tank_ash_Frame_50
+    originalName: 
+    pivot: {x: 0.453125, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 514
+      width: 64
+      height: 57
+    spriteID: c45ae0905fc9d2d48af78d8fdd9b6c61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 498}
+  - name: f5_tank_ash_Frame_51
+    originalName: 
+    pivot: {x: 0.46774194, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 195
+      width: 62
+      height: 54
+    spriteID: d77b40e112f5a2340a59bdfb7227c100
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 179}
+  - name: f5_tank_ash_Frame_52
+    originalName: 
+    pivot: {x: 0.51724136, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 383
+      width: 58
+      height: 54
+    spriteID: b40cd2f367780e84698db27c73909600
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 367}
+  - name: f5_tank_ash_Frame_53
+    originalName: 
+    pivot: {x: 0.5178572, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 508
+      width: 56
+      height: 54
+    spriteID: abcedf967233f03468d0d3c7e74e23bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 492}
+  - name: f5_tank_ash_Frame_54
+    originalName: 
+    pivot: {x: 0.52727276, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 445
+      width: 55
+      height: 55
+    spriteID: 30d1d013c36afe447b66e2f5ac3fcd39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 429}
+  - name: f5_tank_ash_Frame_55
+    originalName: 
+    pivot: {x: 0.4920635, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 447
+      width: 63
+      height: 59
+    spriteID: dcb1f87d10bdc3d46a36bfab21fd9a1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 431}
+  - name: f5_tank_ash_Frame_56
+    originalName: 
+    pivot: {x: 0.4936709, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 79
+      height: 80
+    spriteID: e2d745e2c367b4a4c85dca2766092930
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 4}
+  - name: f5_tank_ash_Frame_57
+    originalName: 
+    pivot: {x: 0.5063291, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 79
+      height: 79
+    spriteID: 1c92521b38b76ea4a9c623480a5e9302
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: f5_tank_ash_Frame_58
+    originalName: 
+    pivot: {x: 0.6964286, y: -0.018867925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 570
+      width: 56
+      height: 53
+    spriteID: bee245b089f06a54dad5a1b3472ce90c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 569}
+  - name: f5_tank_ash_Frame_59
+    originalName: 
+    pivot: {x: 0.58928573, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 685
+      width: 56
+      height: 49
+    spriteID: 6fa647eacf88ccd40bc0ca8c17ed787c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 681}
+  - name: f5_tank_ash_Frame_60
+    originalName: 
+    pivot: {x: 0.46551725, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 320
+      width: 58
+      height: 55
+    spriteID: e950a734612950441880d9fd4cc05a20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 304}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1447835193
+    name: f5_tank_ash
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: f5_tank_ash_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 68ee9e50af0cd9a418f00ea83972a374
+    - name: f5_tank_ash_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 739c4fc27c9c65d4b8e1c02d275dcd13
+    - name: f5_tank_ash_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 923d58e942a7960498175bd7ffc7d442
+    - name: f5_tank_ash_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 335d7a7e58b5a9c48b64da0159a781e0
+    - name: f5_tank_ash_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cd8ab1c9aded8744cb79d9a32ad3e678
+    - name: f5_tank_ash_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 26bff9a9f17f39640b2bb5dc81ac3531
+    - name: f5_tank_ash_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 60b9a9a53ab14954886d5b5736d3990b
+    - name: f5_tank_ash_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f8686128c5195a84696d22ca19955fc2
+    - name: f5_tank_ash_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 961f26a97716a0f4c99ce4f3c073a4b6
+    - name: f5_tank_ash_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6c4392da30dbe374495110d74ff1d0ae
+    - name: f5_tank_ash_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c610372b127113d4ab121d889c8e992a
+    - name: f5_tank_ash_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2473b35b2c2ae684f97a273d0988dfee
+    - name: f5_tank_ash_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a235417e9c0f1a04187914065d2fb300
+    - name: f5_tank_ash_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6af4a675a9fc9de4eacc0cb306de989a
+    - name: f5_tank_ash_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 63e98c0818ccfd1498f783f95aa9aa6b
+    - name: f5_tank_ash_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 40035ecbf60d07d4b9162e651ceb472f
+    - name: f5_tank_ash_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f0d688482de8390489fc3533bb9994f7
+    - name: f5_tank_ash_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 70c4210afac9a16448bae924b9e902c9
+    - name: f5_tank_ash_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b1ea3f541c7345745aa96f2a7c19f709
+    - name: f5_tank_ash_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f5e2151b6c50b3a439fd6f8572028db3
+    - name: f5_tank_ash_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b0ac662872b881642af44d7bac5801b7
+    - name: f5_tank_ash_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6e3fbdaab4240db4b8f79141e826f0a2
+    - name: f5_tank_ash_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2274d4d95791f6349bb97cd20aeeb6b3
+    - name: f5_tank_ash_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 75446c02a8cd93a43bcd870952a9cea6
+    - name: f5_tank_ash_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 767dd1de892ee2e4d9f8a2e0fae10986
+    - name: f5_tank_ash_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1656b6b8890ce0f48aaa36c13c6a859b
+    - name: f5_tank_ash_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e5a0347ad696d924c823722705a4a780
+    - name: f5_tank_ash_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 915422fc003447e4da3e0e20ad867e28
+    - name: f5_tank_ash_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5994ab2c10d217b4b81f3bdf92580c74
+    - name: f5_tank_ash_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 403303ba11f01404e97094de6a91954b
+    - name: f5_tank_ash_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9a610065d48359d4780ff6e87aaad85b
+    - name: f5_tank_ash_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6fb506eb6533d7a4d994a483cb5e0751
+    - name: f5_tank_ash_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: aec062725cddca641b3cc513478ff6cb
+    - name: f5_tank_ash_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 49798c437c525324e91b37848cca94b3
+    - name: f5_tank_ash_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8c5bac91f53980c47851ac8c1311b954
+    - name: f5_tank_ash_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ba4793aaafa97d44498acfb230bbd120
+    - name: f5_tank_ash_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 186da8baa2bd38c4fbdd2c8c58d02545
+    - name: f5_tank_ash_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 45d562521c67c6b46a9dd245a431945a
+    - name: f5_tank_ash_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 21e86463e68b24246933533e7a0ccf78
+    - name: f5_tank_ash_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1a559c7f4655e9543a4f92e7fe7c2682
+    - name: f5_tank_ash_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 091267c3534ee384599b7d5e9879e6dd
+    - name: f5_tank_ash_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 235b31f0d5608944b99092e32a3b2707
+    - name: f5_tank_ash_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 09947b7eded26994e99bc235a431d806
+    - name: f5_tank_ash_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5dedd52ba73197949a17d38ea2a035ba
+    - name: f5_tank_ash_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: aeb9c892c4689de4ba116c6ec1ab626f
+    - name: f5_tank_ash_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4169f8c8b8294184883ac594b2172496
+    - name: f5_tank_ash_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 69acb64feb371eb4b8b4ff951721cc60
+    - name: f5_tank_ash_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0f896aedc3fdcd44e87b88cce49f2291
+    - name: f5_tank_ash_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f8a9fbac22871c549828e917bd355d61
+    - name: f5_tank_ash_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 158e4a7fa5ad27d4f84e86c6451ecaa3
+    - name: f5_tank_ash_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c45ae0905fc9d2d48af78d8fdd9b6c61
+    - name: f5_tank_ash_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d77b40e112f5a2340a59bdfb7227c100
+    - name: f5_tank_ash_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b40cd2f367780e84698db27c73909600
+    - name: f5_tank_ash_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: abcedf967233f03468d0d3c7e74e23bd
+    - name: f5_tank_ash_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 30d1d013c36afe447b66e2f5ac3fcd39
+    - name: f5_tank_ash_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dcb1f87d10bdc3d46a36bfab21fd9a1f
+    - name: f5_tank_ash_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e2d745e2c367b4a4c85dca2766092930
+    - name: f5_tank_ash_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1c92521b38b76ea4a9c623480a5e9302
+    - name: f5_tank_ash_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bee245b089f06a54dad5a1b3472ce90c
+    - name: f5_tank_ash_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6fa647eacf88ccd40bc0ca8c17ed787c
+    - name: f5_tank_ash_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e950a734612950441880d9fd4cc05a20
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

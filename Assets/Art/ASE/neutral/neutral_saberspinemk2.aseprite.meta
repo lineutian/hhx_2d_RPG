@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: f84a3c425f26ad848bfefb8e2f8fe888
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_saberspinemk2_Frame_0
+    originalName: 
+    pivot: {x: 0.55769235, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 471
+      width: 52
+      height: 31
+    spriteID: da5590712c6208e498c6b1a248449450
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 455}
+  - name: neutral_saberspinemk2_Frame_1
+    originalName: 
+    pivot: {x: 0.62, y: -0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 84
+      width: 50
+      height: 31
+    spriteID: d9d5fed41c6996344980bbc8469d3632
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 67}
+  - name: neutral_saberspinemk2_Frame_2
+    originalName: 
+    pivot: {x: 0.62745094, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 42
+      width: 51
+      height: 30
+    spriteID: 5d86357f453a75349b8d2e572627deda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 24}
+  - name: neutral_saberspinemk2_Frame_3
+    originalName: 
+    pivot: {x: 0.62264144, y: -0.56666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 4
+      width: 53
+      height: 30
+    spriteID: ab6c9ed93d64a444a8ecb8f6d31c34d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: -13}
+  - name: neutral_saberspinemk2_Frame_4
+    originalName: 
+    pivot: {x: 0.58000004, y: -0.5862069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 162
+      width: 50
+      height: 29
+    spriteID: 18cd6f71b2e38d1428c61190e6eaeb26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 145}
+  - name: neutral_saberspinemk2_Frame_5
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.60714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 317
+      width: 49
+      height: 28
+    spriteID: d426fc40384f0a4408ced35abe1397e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 300}
+  - name: neutral_saberspinemk2_Frame_6
+    originalName: 
+    pivot: {x: 0.58000004, y: -0.6923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 116
+      width: 50
+      height: 26
+    spriteID: a131882db8f57494988ca595fb964f19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 98}
+  - name: neutral_saberspinemk2_Frame_7
+    originalName: 
+    pivot: {x: 0.54901963, y: -0.57142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 80
+      width: 51
+      height: 28
+    spriteID: 8b47637490524f343836ec01eac0b79f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 64}
+  - name: neutral_saberspinemk2_Frame_8
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 394
+      width: 43
+      height: 29
+    spriteID: 6b6f03374b4e278449b086632e461474
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 378}
+  - name: neutral_saberspinemk2_Frame_9
+    originalName: 
+    pivot: {x: 0.5116279, y: -0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 245
+      width: 43
+      height: 30
+    spriteID: a0482095f68eaf240a2a788b5a2c4ffc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 229}
+  - name: neutral_saberspinemk2_Frame_10
+    originalName: 
+    pivot: {x: 0.52272725, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 357
+      width: 44
+      height: 29
+    spriteID: d26e408e661be0e4c95e2ec5f080639b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 341}
+  - name: neutral_saberspinemk2_Frame_11
+    originalName: 
+    pivot: {x: 0.5681818, y: -0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 133
+      width: 44
+      height: 30
+    spriteID: c52c0854ba94b17499702b9d4810cf5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 117}
+  - name: neutral_saberspinemk2_Frame_12
+    originalName: 
+    pivot: {x: 0.58695644, y: -0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 239
+      width: 46
+      height: 30
+    spriteID: f83b5b187a3ff68419e45d353a6e5f52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 223}
+  - name: neutral_saberspinemk2_Frame_13
+    originalName: 
+    pivot: {x: 0.5652174, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 389
+      width: 46
+      height: 29
+    spriteID: 256dc486495140f4b8148d4a4f9993b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 373}
+  - name: neutral_saberspinemk2_Frame_14
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.57142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 353
+      width: 48
+      height: 28
+    spriteID: c2f6f98c83e116d43b718c2652b7452c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 337}
+  - name: neutral_saberspinemk2_Frame_15
+    originalName: 
+    pivot: {x: 0.5510204, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 463
+      width: 49
+      height: 27
+    spriteID: a63ebcb5f8a5c434dbf75703d90cc738
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 447}
+  - name: neutral_saberspinemk2_Frame_16
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 123
+      width: 47
+      height: 31
+    spriteID: 72a36fea3e8d8b74e9645ee1f09b4846
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 107}
+  - name: neutral_saberspinemk2_Frame_17
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 283
+      width: 43
+      height: 30
+    spriteID: 099938da4e7c3014abdeafe2b8d006a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 267}
+  - name: neutral_saberspinemk2_Frame_18
+    originalName: 
+    pivot: {x: 0.5652174, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 4
+      width: 46
+      height: 35
+    spriteID: c77bffcd49072d14b816982bcf248a6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: -12}
+  - name: neutral_saberspinemk2_Frame_19
+    originalName: 
+    pivot: {x: 0.54347825, y: -0.48571432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 47
+      width: 46
+      height: 35
+    spriteID: 18c71f4efaaf30142b039a9cc7880db5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 30}
+  - name: neutral_saberspinemk2_Frame_20
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 277
+      width: 43
+      height: 32
+    spriteID: a81b80a3d4db3c04296a901ec838f10b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 261}
+  - name: neutral_saberspinemk2_Frame_21
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 299
+      width: 48
+      height: 36
+    spriteID: 142ba1c66374a824f97667d8f4e14490
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 283}
+  - name: neutral_saberspinemk2_Frame_22
+    originalName: 
+    pivot: {x: 0.5208333, y: -0.48571432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 384
+      width: 48
+      height: 35
+    spriteID: 88c1cf1d83856324ba184847addf8314
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 367}
+  - name: neutral_saberspinemk2_Frame_23
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 427
+      width: 45
+      height: 36
+    spriteID: 27b5c4fc51da3e244b174c005e2b998f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 411}
+  - name: neutral_saberspinemk2_Frame_24
+    originalName: 
+    pivot: {x: 0.45652175, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 90
+      width: 46
+      height: 35
+    spriteID: 9546e7057ec67294e93d164f6b487f32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 74}
+  - name: neutral_saberspinemk2_Frame_25
+    originalName: 
+    pivot: {x: 0.52, y: -0.42857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 172
+      width: 50
+      height: 35
+    spriteID: 3f4d7f9266a0f0340b066870e6e49199
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 157}
+  - name: neutral_saberspinemk2_Frame_26
+    originalName: 
+    pivot: {x: 0.52, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 215
+      width: 50
+      height: 35
+    spriteID: 4b1ef5f4fb5e73c4bb0b87993eefafc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 201}
+  - name: neutral_saberspinemk2_Frame_27
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 343
+      width: 52
+      height: 33
+    spriteID: 7698a9e49ed2e2b46b23a17debb46a53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 328}
+  - name: neutral_saberspinemk2_Frame_28
+    originalName: 
+    pivot: {x: 0.5208333, y: -0.5833333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 185
+      width: 48
+      height: 24
+    spriteID: db217fd4dffc384469c8af6324512456
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 171}
+  - name: neutral_saberspinemk2_Frame_29
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 287
+      width: 40
+      height: 27
+    spriteID: 1e0eee2586d221141bb134250003c11a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 271}
+  - name: neutral_saberspinemk2_Frame_30
+    originalName: 
+    pivot: {x: 0.5365854, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 252
+      width: 41
+      height: 27
+    spriteID: 677e5e58ad33cfc468fb12367ff6aa6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 236}
+  - name: neutral_saberspinemk2_Frame_31
+    originalName: 
+    pivot: {x: 0.54761904, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 217
+      width: 42
+      height: 27
+    spriteID: 8129426105bcbaa4796f64fb8fafa025
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 201}
+  - name: neutral_saberspinemk2_Frame_32
+    originalName: 
+    pivot: {x: 0.5681818, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 150
+      width: 44
+      height: 27
+    spriteID: 72b2c4a1550179641ac69dcc6195194b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 134}
+  - name: neutral_saberspinemk2_Frame_33
+    originalName: 
+    pivot: {x: 0.58695644, y: -0.57142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 321
+      width: 46
+      height: 28
+    spriteID: f3b30b7e0e8c1b84a9a767dbbcaf2a95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 305}
+  - name: neutral_saberspinemk2_Frame_34
+    originalName: 
+    pivot: {x: 0.5777778, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 171
+      width: 45
+      height: 29
+    spriteID: 02016eedb581a294eb75f51d4e87c20a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 155}
+  - name: neutral_saberspinemk2_Frame_35
+    originalName: 
+    pivot: {x: 0.5777778, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 208
+      width: 45
+      height: 29
+    spriteID: 9c5e2b629eb2de7409d8a5e42d18d414
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 192}
+  - name: neutral_saberspinemk2_Frame_36
+    originalName: 
+    pivot: {x: 0.58695644, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 426
+      width: 46
+      height: 29
+    spriteID: b2693068bc496924cb040a3f8568cbb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 410}
+  - name: neutral_saberspinemk2_Frame_37
+    originalName: 
+    pivot: {x: 0.5681818, y: -0.57142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 431
+      width: 44
+      height: 28
+    spriteID: b4570add48a2262488abc682cf39d952
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 415}
+  - name: neutral_saberspinemk2_Frame_38
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 322
+      width: 40
+      height: 27
+    spriteID: 747faeb8c7371ec40a375f3fb0318ad4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 306}
+  - name: neutral_saberspinemk2_Frame_39
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.6153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 391
+      width: 40
+      height: 26
+    spriteID: fff1fb79767057147bc9f5924bcada60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 375}
+  - name: neutral_saberspinemk2_Frame_40
+    originalName: 
+    pivot: {x: 0.5365854, y: -0.6153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 357
+      width: 41
+      height: 26
+    spriteID: fa57ad44e0cc7c0469f1de0d3c4ba807
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 341}
+  - name: neutral_saberspinemk2_Frame_41
+    originalName: 
+    pivot: {x: 0.54761904, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 467
+      width: 42
+      height: 29
+    spriteID: ed5217b9d9a09034aa7031ac573218b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 451}
+  - name: neutral_saberspinemk2_Frame_42
+    originalName: 
+    pivot: {x: 0.59090906, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 199
+      width: 44
+      height: 32
+    spriteID: 9d51feea5505a034f8913253d3227da2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 182}
+  - name: neutral_saberspinemk2_Frame_43
+    originalName: 
+    pivot: {x: 0.54716986, y: -0.5151515}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 258
+      width: 53
+      height: 33
+    spriteID: 9a33758b6534d544e936c6034abf6d09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 241}
+  - name: neutral_saberspinemk2_Frame_44
+    originalName: 
+    pivot: {x: 0.56, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 4
+      width: 50
+      height: 32
+    spriteID: 721c149fbfa930844bab82057028e5f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: -13}
+  - name: neutral_saberspinemk2_Frame_45
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 44
+      width: 49
+      height: 32
+    spriteID: 154fa09a7fbeb5b458a8af918f8251df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 27}
+  - name: neutral_saberspinemk2_Frame_46
+    originalName: 
+    pivot: {x: 0.38571426, y: -0.16}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 70
+      height: 50
+    spriteID: 66ac089a3bb3d95428900fbceb43bb9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: -4}
+  - name: neutral_saberspinemk2_Frame_47
+    originalName: 
+    pivot: {x: 0.36764705, y: -0.16666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 68
+      height: 48
+    spriteID: 78434d3829361f54785d5c19bc30e1c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 54}
+  - name: neutral_saberspinemk2_Frame_48
+    originalName: 
+    pivot: {x: 0.328125, y: -0.17391303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 64
+      height: 46
+    spriteID: 62acda291078ed74e80c8ce7ede0cd37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 110}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -538796300
+    name: neutral_saberspinemk2
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_saberspinemk2_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: da5590712c6208e498c6b1a248449450
+    - name: neutral_saberspinemk2_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d9d5fed41c6996344980bbc8469d3632
+    - name: neutral_saberspinemk2_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5d86357f453a75349b8d2e572627deda
+    - name: neutral_saberspinemk2_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ab6c9ed93d64a444a8ecb8f6d31c34d2
+    - name: neutral_saberspinemk2_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 18cd6f71b2e38d1428c61190e6eaeb26
+    - name: neutral_saberspinemk2_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d426fc40384f0a4408ced35abe1397e0
+    - name: neutral_saberspinemk2_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a131882db8f57494988ca595fb964f19
+    - name: neutral_saberspinemk2_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8b47637490524f343836ec01eac0b79f
+    - name: neutral_saberspinemk2_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6b6f03374b4e278449b086632e461474
+    - name: neutral_saberspinemk2_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a0482095f68eaf240a2a788b5a2c4ffc
+    - name: neutral_saberspinemk2_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d26e408e661be0e4c95e2ec5f080639b
+    - name: neutral_saberspinemk2_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c52c0854ba94b17499702b9d4810cf5c
+    - name: neutral_saberspinemk2_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f83b5b187a3ff68419e45d353a6e5f52
+    - name: neutral_saberspinemk2_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 256dc486495140f4b8148d4a4f9993b7
+    - name: neutral_saberspinemk2_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c2f6f98c83e116d43b718c2652b7452c
+    - name: neutral_saberspinemk2_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a63ebcb5f8a5c434dbf75703d90cc738
+    - name: neutral_saberspinemk2_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 72a36fea3e8d8b74e9645ee1f09b4846
+    - name: neutral_saberspinemk2_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 099938da4e7c3014abdeafe2b8d006a0
+    - name: neutral_saberspinemk2_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c77bffcd49072d14b816982bcf248a6e
+    - name: neutral_saberspinemk2_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 18c71f4efaaf30142b039a9cc7880db5
+    - name: neutral_saberspinemk2_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a81b80a3d4db3c04296a901ec838f10b
+    - name: neutral_saberspinemk2_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 142ba1c66374a824f97667d8f4e14490
+    - name: neutral_saberspinemk2_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 88c1cf1d83856324ba184847addf8314
+    - name: neutral_saberspinemk2_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 27b5c4fc51da3e244b174c005e2b998f
+    - name: neutral_saberspinemk2_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9546e7057ec67294e93d164f6b487f32
+    - name: neutral_saberspinemk2_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3f4d7f9266a0f0340b066870e6e49199
+    - name: neutral_saberspinemk2_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4b1ef5f4fb5e73c4bb0b87993eefafc6
+    - name: neutral_saberspinemk2_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7698a9e49ed2e2b46b23a17debb46a53
+    - name: neutral_saberspinemk2_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: db217fd4dffc384469c8af6324512456
+    - name: neutral_saberspinemk2_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1e0eee2586d221141bb134250003c11a
+    - name: neutral_saberspinemk2_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 677e5e58ad33cfc468fb12367ff6aa6f
+    - name: neutral_saberspinemk2_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8129426105bcbaa4796f64fb8fafa025
+    - name: neutral_saberspinemk2_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 72b2c4a1550179641ac69dcc6195194b
+    - name: neutral_saberspinemk2_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f3b30b7e0e8c1b84a9a767dbbcaf2a95
+    - name: neutral_saberspinemk2_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 02016eedb581a294eb75f51d4e87c20a
+    - name: neutral_saberspinemk2_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9c5e2b629eb2de7409d8a5e42d18d414
+    - name: neutral_saberspinemk2_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b2693068bc496924cb040a3f8568cbb5
+    - name: neutral_saberspinemk2_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b4570add48a2262488abc682cf39d952
+    - name: neutral_saberspinemk2_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 747faeb8c7371ec40a375f3fb0318ad4
+    - name: neutral_saberspinemk2_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fff1fb79767057147bc9f5924bcada60
+    - name: neutral_saberspinemk2_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fa57ad44e0cc7c0469f1de0d3c4ba807
+    - name: neutral_saberspinemk2_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ed5217b9d9a09034aa7031ac573218b9
+    - name: neutral_saberspinemk2_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9d51feea5505a034f8913253d3227da2
+    - name: neutral_saberspinemk2_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9a33758b6534d544e936c6034abf6d09
+    - name: neutral_saberspinemk2_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 721c149fbfa930844bab82057028e5f8
+    - name: neutral_saberspinemk2_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 154fa09a7fbeb5b458a8af918f8251df
+    - name: neutral_saberspinemk2_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 66ac089a3bb3d95428900fbceb43bb9e
+    - name: neutral_saberspinemk2_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 78434d3829361f54785d5c19bc30e1c8
+    - name: neutral_saberspinemk2_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 62acda291078ed74e80c8ce7ede0cd37
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

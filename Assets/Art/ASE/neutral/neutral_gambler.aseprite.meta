@@ -1,0 +1,2573 @@
+fileFormatVersion: 2
+guid: 2cf8c2c55ba6fcf458433353916c3a82
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_gambler_Frame_0
+    originalName: 
+    pivot: {x: 0.38095236, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 50
+      width: 42
+      height: 38
+    spriteID: 88aeeb3203c20b2489e1bccb08a44404
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 34}
+  - name: neutral_gambler_Frame_1
+    originalName: 
+    pivot: {x: 0.3863636, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 4
+      width: 44
+      height: 38
+    spriteID: 7133dc4793ec63640acaa356981218e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: -12}
+  - name: neutral_gambler_Frame_2
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 141
+      width: 42
+      height: 33
+    spriteID: 5c8a0318b8d6d9c4388c893c3d4c8684
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 119}
+  - name: neutral_gambler_Frame_3
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.48648652}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 582
+      width: 39
+      height: 37
+    spriteID: 28b8d53332950df4f87765da1930347c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 564}
+  - name: neutral_gambler_Frame_4
+    originalName: 
+    pivot: {x: 0.29729733, y: -0.48648652}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 284
+      width: 37
+      height: 37
+    spriteID: 5c601613c81e43b4e91c8b61c40b597e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 266}
+  - name: neutral_gambler_Frame_5
+    originalName: 
+    pivot: {x: 0.28205132, y: -0.48648652}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 627
+      width: 39
+      height: 37
+    spriteID: ad3259224f676fd449129898fd8c0176
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 609}
+  - name: neutral_gambler_Frame_6
+    originalName: 
+    pivot: {x: 0.27027026, y: -0.48648652}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 329
+      width: 37
+      height: 37
+    spriteID: 7ce19be970d6f7247ba4ac49f8868fea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 183, y: 311}
+  - name: neutral_gambler_Frame_7
+    originalName: 
+    pivot: {x: 0.29729733, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 95
+      width: 37
+      height: 38
+    spriteID: d741f47fc702af7489a11cb858d5d631
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 79}
+  - name: neutral_gambler_Frame_8
+    originalName: 
+    pivot: {x: 0.51666665, y: -0.44444442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 776
+      width: 60
+      height: 36
+    spriteID: 8601613d5ba5f70458521b2ab3da4410
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 760}
+  - name: neutral_gambler_Frame_9
+    originalName: 
+    pivot: {x: 0.52459013, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 730
+      width: 61
+      height: 38
+    spriteID: 2eab7bd33e9a0a742b12a88ce32fc747
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 714}
+  - name: neutral_gambler_Frame_10
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 683
+      width: 61
+      height: 39
+    spriteID: c9b529d3d84563e49a8ab5c3a75ebc03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 667}
+  - name: neutral_gambler_Frame_11
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 672
+      width: 30
+      height: 48
+    spriteID: 3f527d8dea430e94982cd3b08bfd68a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 656}
+  - name: neutral_gambler_Frame_12
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 310
+      width: 30
+      height: 49
+    spriteID: b4f26af3b47d7bc4e8b5c4a259e9b5a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 294}
+  - name: neutral_gambler_Frame_13
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 186
+      width: 30
+      height: 47
+    spriteID: b20d66e30e4053b4a9632fcc31f3ab8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 170}
+  - name: neutral_gambler_Frame_14
+    originalName: 
+    pivot: {x: 0.41379312, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 618
+      width: 29
+      height: 45
+    spriteID: 44481c78d83b96546b66de2790024125
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 602}
+  - name: neutral_gambler_Frame_15
+    originalName: 
+    pivot: {x: 0.4, y: -0.34782606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 406
+      width: 30
+      height: 46
+    spriteID: 602001ae9fdddf141986ac4b650949c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 390}
+  - name: neutral_gambler_Frame_16
+    originalName: 
+    pivot: {x: 0.4, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 728
+      width: 30
+      height: 48
+    spriteID: 70a55d0cf86759b4c91c8be915379a1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 712}
+  - name: neutral_gambler_Frame_17
+    originalName: 
+    pivot: {x: 0.4, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 196
+      width: 30
+      height: 50
+    spriteID: c948c8b527273ab4e99e2c61d17f80a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 181}
+  - name: neutral_gambler_Frame_18
+    originalName: 
+    pivot: {x: 0.41935483, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 562
+      width: 31
+      height: 50
+    spriteID: 51aa0bdd077f01948bf8b8e718a9220e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 546}
+  - name: neutral_gambler_Frame_19
+    originalName: 
+    pivot: {x: 0.4, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 676
+      width: 30
+      height: 51
+    spriteID: fc1c8d8afd93e404a8227ce6b26c330e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 660}
+  - name: neutral_gambler_Frame_20
+    originalName: 
+    pivot: {x: 0.41935483, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 503
+      width: 31
+      height: 51
+    spriteID: 9484c8c945dd822479315ccfd5053da1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 487}
+  - name: neutral_gambler_Frame_21
+    originalName: 
+    pivot: {x: 0.41935483, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 340
+      width: 31
+      height: 52
+    spriteID: 6e54c35a8ecf01148b473833c7997141
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 324}
+  - name: neutral_gambler_Frame_22
+    originalName: 
+    pivot: {x: 0.41935483, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 481
+      width: 31
+      height: 47
+    spriteID: 19457e471b3c72f4a8ff0faaca2cf088
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 465}
+  - name: neutral_gambler_Frame_23
+    originalName: 
+    pivot: {x: 0.40625, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 888
+      width: 32
+      height: 47
+    spriteID: c10b05236bdf3f24aa6564ab8bcabcd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 872}
+  - name: neutral_gambler_Frame_24
+    originalName: 
+    pivot: {x: 0.41935483, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 254
+      width: 31
+      height: 48
+    spriteID: 45dc547d72cdbd34fa377403e4063adc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 238}
+  - name: neutral_gambler_Frame_25
+    originalName: 
+    pivot: {x: 0.5128205, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 4
+      width: 39
+      height: 47
+    spriteID: 932b89283d66fcd41aab4f1639ea475d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: -12}
+  - name: neutral_gambler_Frame_26
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 888
+      width: 40
+      height: 49
+    spriteID: 7017166480922c042848dfe00ddab3ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 872}
+  - name: neutral_gambler_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 114
+      width: 36
+      height: 50
+    spriteID: 940fb9ceabb271f4daea0d773e280f60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 98}
+  - name: neutral_gambler_Frame_28
+    originalName: 
+    pivot: {x: 0.5128205, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 59
+      width: 39
+      height: 47
+    spriteID: e9d274a38e3a7ce4187ead6c324377e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 43}
+  - name: neutral_gambler_Frame_29
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 945
+      width: 40
+      height: 49
+    spriteID: c8065dd7dcdeee84893e285c355ea505
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 929}
+  - name: neutral_gambler_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 172
+      width: 36
+      height: 50
+    spriteID: 1db08a00b3466c14e9f7d5b5729bd85c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 156}
+  - name: neutral_gambler_Frame_31
+    originalName: 
+    pivot: {x: 0.46875003, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 620
+      width: 32
+      height: 48
+    spriteID: 7042b243b22c00f489224cac81d7d3dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 604}
+  - name: neutral_gambler_Frame_32
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 230
+      width: 34
+      height: 49
+    spriteID: 19b2b3d729f314448952b69701f01ec5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 214}
+  - name: neutral_gambler_Frame_33
+    originalName: 
+    pivot: {x: 0.48648652, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 400
+      width: 37
+      height: 43
+    spriteID: 6c543ce968d92b64397c81094d5fe397
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 384}
+  - name: neutral_gambler_Frame_34
+    originalName: 
+    pivot: {x: 0.45714286, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 46
+      width: 35
+      height: 41
+    spriteID: 3c3d82b0853e1144282ba76ea9cdbfa0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 30}
+  - name: neutral_gambler_Frame_35
+    originalName: 
+    pivot: {x: 0.47222218, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 788
+      width: 36
+      height: 42
+    spriteID: 2e3ef2c386a6fc146bd403e19d2b1116
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 772}
+  - name: neutral_gambler_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 451
+      width: 36
+      height: 44
+    spriteID: dd4d8818c323f714083e3d3cb87a7555
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 435}
+  - name: neutral_gambler_Frame_37
+    originalName: 
+    pivot: {x: 0.44117647, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 735
+      width: 34
+      height: 45
+    spriteID: 0e14ef83b653d5c4eb3859abeee8521b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 719}
+  - name: neutral_gambler_Frame_38
+    originalName: 
+    pivot: {x: 0.38888884, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 287
+      width: 36
+      height: 45
+    spriteID: de3680b41303f9e4baf33d61a39acbfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 271}
+  - name: neutral_gambler_Frame_39
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 838
+      width: 36
+      height: 42
+    spriteID: 2ee0ca8a1cfbcb84b9aafb246b884e1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 822}
+  - name: neutral_gambler_Frame_40
+    originalName: 
+    pivot: {x: 0.2894737, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 536
+      width: 38
+      height: 38
+    spriteID: 04683999fc373964397377f7a4e7600d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 520}
+  - name: neutral_gambler_Frame_41
+    originalName: 
+    pivot: {x: 0.31707317, y: -0.57142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 421
+      width: 41
+      height: 28
+    spriteID: e54c16942941aed4682c9ff15056fd31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 405}
+  - name: neutral_gambler_Frame_42
+    originalName: 
+    pivot: {x: 0.32558134, y: -0.7619047}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 521
+      width: 43
+      height: 21
+    spriteID: 6a5c55d64faadf0409830cde0a436a8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 505}
+  - name: neutral_gambler_Frame_43
+    originalName: 
+    pivot: {x: 0.3, y: -0.6956521}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 490
+      width: 40
+      height: 23
+    spriteID: 8b67016d97b5958429a4eb25d3a1ed7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 474}
+  - name: neutral_gambler_Frame_44
+    originalName: 
+    pivot: {x: 0.37142858, y: -0.5833333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 616
+      width: 35
+      height: 24
+    spriteID: 2d53433d4b5611e409a1c909d984008f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 602}
+  - name: neutral_gambler_Frame_45
+    originalName: 
+    pivot: {x: 0.39393938, y: -0.5833333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 681
+      width: 33
+      height: 24
+    spriteID: 075214a440eed8a45befdce6d2fa3508
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 667}
+  - name: neutral_gambler_Frame_46
+    originalName: 
+    pivot: {x: 0.40625, y: -0.5833333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 713
+      width: 32
+      height: 24
+    spriteID: 296568c4568f3074fbedf30043bca1fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 699}
+  - name: neutral_gambler_Frame_47
+    originalName: 
+    pivot: {x: 0.39393938, y: -0.52}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 648
+      width: 33
+      height: 25
+    spriteID: b0b698dc0c0cf804ab91464cdedcc7ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 635}
+  - name: neutral_gambler_Frame_48
+    originalName: 
+    pivot: {x: 0.38235292, y: -0.52}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 583
+      width: 34
+      height: 25
+    spriteID: da6f3ad31156c6b4ca4f48312bd5beb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 570}
+  - name: neutral_gambler_Frame_49
+    originalName: 
+    pivot: {x: 0.36111107, y: -0.52}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 550
+      width: 36
+      height: 25
+    spriteID: 15c8ae0c3cc65a54b85f72bc4ff857f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 537}
+  - name: neutral_gambler_Frame_50
+    originalName: 
+    pivot: {x: 0.35135135, y: -0.52}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 457
+      width: 37
+      height: 25
+    spriteID: 9c4d3aebcea82224a81c1123982279ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 444}
+  - name: neutral_gambler_Frame_51
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 784
+      width: 30
+      height: 48
+    spriteID: ff874735bf1fce54497c14acc6aa92c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 768}
+  - name: neutral_gambler_Frame_52
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 840
+      width: 30
+      height: 48
+    spriteID: 914efa6e4765a9b41935f9253e18d3f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 824}
+  - name: neutral_gambler_Frame_53
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 367
+      width: 30
+      height: 49
+    spriteID: 94aefb54423fada48b5ff4f55408b04f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 351}
+  - name: neutral_gambler_Frame_54
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 424
+      width: 30
+      height: 49
+    spriteID: 5fc49545447a6fa4098faf0465a9b487
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 408}
+  - name: neutral_gambler_Frame_55
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 241
+      width: 30
+      height: 47
+    spriteID: 6b32221ce19a17f4cabb0ae4594b35fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 225}
+  - name: neutral_gambler_Frame_56
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 296
+      width: 30
+      height: 47
+    spriteID: 95679b14f0db6b744a0c6defcd5ee327
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 280}
+  - name: neutral_gambler_Frame_57
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 460
+      width: 30
+      height: 45
+    spriteID: 4058c7f4e1140344ebf34c583ad9f5ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 444}
+  - name: neutral_gambler_Frame_58
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 513
+      width: 30
+      height: 45
+    spriteID: 927a90b27c67b784facc564ef2cb021d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 497}
+  - name: neutral_gambler_Frame_59
+    originalName: 
+    pivot: {x: 0.40625, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 182
+      width: 32
+      height: 43
+    spriteID: dda00b533601cc4438466a0c763d2870
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 166}
+  - name: neutral_gambler_Frame_60
+    originalName: 
+    pivot: {x: 0.40625, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 233
+      width: 32
+      height: 43
+    spriteID: 286a51b98fd89424999b86044854b8de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 217}
+  - name: neutral_gambler_Frame_61
+    originalName: 
+    pivot: {x: 0.40625, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 896
+      width: 32
+      height: 45
+    spriteID: ce3499b7f39439d45817f56b4f245c85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 880}
+  - name: neutral_gambler_Frame_62
+    originalName: 
+    pivot: {x: 0.40625, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 949
+      width: 32
+      height: 45
+    spriteID: 06e97f12c486f244996493fef8ff1d01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 933}
+  - name: neutral_gambler_Frame_63
+    originalName: 
+    pivot: {x: 0.40625, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 943
+      width: 32
+      height: 47
+    spriteID: b6a4384aa0f3ac940be9b0dc366dc74b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 927}
+  - name: neutral_gambler_Frame_64
+    originalName: 
+    pivot: {x: 0.40625, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 141
+      width: 32
+      height: 47
+    spriteID: 0a97655ed31b8ca45a2c75217d50bdb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 125}
+  - name: neutral_gambler_Frame_65
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 73
+      width: 30
+      height: 48
+    spriteID: 790f83e6fbc6d674ea13722418beeb36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 57}
+  - name: neutral_gambler_Frame_66
+    originalName: 
+    pivot: {x: 0.41379312, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 129
+      width: 29
+      height: 49
+    spriteID: cadbffbd412358d4da7988e26f5adbdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 113}
+  - name: neutral_gambler_Frame_67
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 351
+      width: 30
+      height: 47
+    spriteID: 6117e210a4b4c9d4ea753c448d0d45a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 335}
+  - name: neutral_gambler_Frame_68
+    originalName: 
+    pivot: {x: 0.41935483, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 820
+      width: 31
+      height: 58
+    spriteID: ae90b6eb9637eeb4cadf6492609a2445
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 804}
+  - name: neutral_gambler_Frame_69
+    originalName: 
+    pivot: {x: 0.3870968, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 4
+      width: 31
+      height: 61
+    spriteID: 6b4416eeeab8ff749ac2ad6dfb0da8d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: -12}
+  - name: neutral_gambler_Frame_70
+    originalName: 
+    pivot: {x: 0.44117647, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 820
+      width: 34
+      height: 60
+    spriteID: b3162e464e7a0594380ecd3fd40beeef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -31, y: 802}
+  - name: neutral_gambler_Frame_71
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 614
+      width: 40
+      height: 61
+    spriteID: b732b2668bcacaa4ab64dd92e3239b7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 598}
+  - name: neutral_gambler_Frame_72
+    originalName: 
+    pivot: {x: 0.5813953, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 544
+      width: 43
+      height: 62
+    spriteID: ae2055a9d69898d4b84ed23eeea0bcf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 528}
+  - name: neutral_gambler_Frame_73
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 473
+      width: 47
+      height: 63
+    spriteID: 9dc7c606616869740ba458089f7126ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 457}
+  - name: neutral_gambler_Frame_74
+    originalName: 
+    pivot: {x: 0.4, y: -0.21212122}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 399
+      width: 55
+      height: 66
+    spriteID: 7cc48e3ebe2407a46837634ff844b213
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 385}
+  - name: neutral_gambler_Frame_75
+    originalName: 
+    pivot: {x: 0.32394364, y: -0.14084508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 71
+      height: 71
+    spriteID: 0b173bf036ded414aa744b42a35c9c57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 72}
+  - name: neutral_gambler_Frame_76
+    originalName: 
+    pivot: {x: 0.34246576, y: -0.114285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 73
+      height: 70
+    spriteID: 3cc9f872c8546ff44ab774eb1b037a6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: -4}
+  - name: neutral_gambler_Frame_77
+    originalName: 
+    pivot: {x: 0.31428573, y: -0.09722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 240
+      width: 70
+      height: 72
+    spriteID: 3ca0a4520c1732949b5c239a0706eb03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 233}
+  - name: neutral_gambler_Frame_78
+    originalName: 
+    pivot: {x: 0.32394364, y: -0.112676054}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 161
+      width: 71
+      height: 71
+    spriteID: 2258124dd7f893a42b69fbda19c29240
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 153}
+  - name: neutral_gambler_Frame_79
+    originalName: 
+    pivot: {x: 0.4716981, y: -0.112676054}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 320
+      width: 53
+      height: 71
+    spriteID: 54c981aa32dac7a41bc6d29383437b71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 312}
+  - name: neutral_gambler_Frame_80
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 4
+      width: 45
+      height: 34
+    spriteID: 674649b66dd5dd240a6188c92a4273d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 191, y: -12}
+  - name: neutral_gambler_Frame_81
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.43243244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 96
+      width: 42
+      height: 37
+    spriteID: 9a8964d6b100fad41ab1e36a59e3e9ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 80}
+  - name: neutral_gambler_Frame_82
+    originalName: 
+    pivot: {x: 0.40625, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 374
+      width: 32
+      height: 39
+    spriteID: b0b4129d31f353a4499d70d9a24f06e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 358}
+  - name: neutral_gambler_Frame_83
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 566
+      width: 30
+      height: 44
+    spriteID: c36a7b98d223c7f4d8ba87b5169b9143
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 550}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1500838128
+    name: neutral_gambler
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_gambler_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 88aeeb3203c20b2489e1bccb08a44404
+    - name: neutral_gambler_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7133dc4793ec63640acaa356981218e9
+    - name: neutral_gambler_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5c8a0318b8d6d9c4388c893c3d4c8684
+    - name: neutral_gambler_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 28b8d53332950df4f87765da1930347c
+    - name: neutral_gambler_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5c601613c81e43b4e91c8b61c40b597e
+    - name: neutral_gambler_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ad3259224f676fd449129898fd8c0176
+    - name: neutral_gambler_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7ce19be970d6f7247ba4ac49f8868fea
+    - name: neutral_gambler_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d741f47fc702af7489a11cb858d5d631
+    - name: neutral_gambler_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8601613d5ba5f70458521b2ab3da4410
+    - name: neutral_gambler_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2eab7bd33e9a0a742b12a88ce32fc747
+    - name: neutral_gambler_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c9b529d3d84563e49a8ab5c3a75ebc03
+    - name: neutral_gambler_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3f527d8dea430e94982cd3b08bfd68a5
+    - name: neutral_gambler_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b4f26af3b47d7bc4e8b5c4a259e9b5a7
+    - name: neutral_gambler_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b20d66e30e4053b4a9632fcc31f3ab8f
+    - name: neutral_gambler_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 44481c78d83b96546b66de2790024125
+    - name: neutral_gambler_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 602001ae9fdddf141986ac4b650949c9
+    - name: neutral_gambler_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 70a55d0cf86759b4c91c8be915379a1b
+    - name: neutral_gambler_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c948c8b527273ab4e99e2c61d17f80a6
+    - name: neutral_gambler_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 51aa0bdd077f01948bf8b8e718a9220e
+    - name: neutral_gambler_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fc1c8d8afd93e404a8227ce6b26c330e
+    - name: neutral_gambler_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9484c8c945dd822479315ccfd5053da1
+    - name: neutral_gambler_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6e54c35a8ecf01148b473833c7997141
+    - name: neutral_gambler_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 19457e471b3c72f4a8ff0faaca2cf088
+    - name: neutral_gambler_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c10b05236bdf3f24aa6564ab8bcabcd3
+    - name: neutral_gambler_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 45dc547d72cdbd34fa377403e4063adc
+    - name: neutral_gambler_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 932b89283d66fcd41aab4f1639ea475d
+    - name: neutral_gambler_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7017166480922c042848dfe00ddab3ce
+    - name: neutral_gambler_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 940fb9ceabb271f4daea0d773e280f60
+    - name: neutral_gambler_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e9d274a38e3a7ce4187ead6c324377e8
+    - name: neutral_gambler_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c8065dd7dcdeee84893e285c355ea505
+    - name: neutral_gambler_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1db08a00b3466c14e9f7d5b5729bd85c
+    - name: neutral_gambler_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7042b243b22c00f489224cac81d7d3dc
+    - name: neutral_gambler_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 19b2b3d729f314448952b69701f01ec5
+    - name: neutral_gambler_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6c543ce968d92b64397c81094d5fe397
+    - name: neutral_gambler_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3c3d82b0853e1144282ba76ea9cdbfa0
+    - name: neutral_gambler_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2e3ef2c386a6fc146bd403e19d2b1116
+    - name: neutral_gambler_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dd4d8818c323f714083e3d3cb87a7555
+    - name: neutral_gambler_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0e14ef83b653d5c4eb3859abeee8521b
+    - name: neutral_gambler_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: de3680b41303f9e4baf33d61a39acbfd
+    - name: neutral_gambler_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2ee0ca8a1cfbcb84b9aafb246b884e1b
+    - name: neutral_gambler_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 04683999fc373964397377f7a4e7600d
+    - name: neutral_gambler_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e54c16942941aed4682c9ff15056fd31
+    - name: neutral_gambler_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6a5c55d64faadf0409830cde0a436a8d
+    - name: neutral_gambler_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8b67016d97b5958429a4eb25d3a1ed7e
+    - name: neutral_gambler_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2d53433d4b5611e409a1c909d984008f
+    - name: neutral_gambler_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 075214a440eed8a45befdce6d2fa3508
+    - name: neutral_gambler_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 296568c4568f3074fbedf30043bca1fe
+    - name: neutral_gambler_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b0b698dc0c0cf804ab91464cdedcc7ed
+    - name: neutral_gambler_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: da6f3ad31156c6b4ca4f48312bd5beb1
+    - name: neutral_gambler_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 15c8ae0c3cc65a54b85f72bc4ff857f4
+    - name: neutral_gambler_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9c4d3aebcea82224a81c1123982279ae
+    - name: neutral_gambler_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ff874735bf1fce54497c14acc6aa92c8
+    - name: neutral_gambler_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 914efa6e4765a9b41935f9253e18d3f3
+    - name: neutral_gambler_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 94aefb54423fada48b5ff4f55408b04f
+    - name: neutral_gambler_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5fc49545447a6fa4098faf0465a9b487
+    - name: neutral_gambler_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6b32221ce19a17f4cabb0ae4594b35fb
+    - name: neutral_gambler_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 95679b14f0db6b744a0c6defcd5ee327
+    - name: neutral_gambler_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4058c7f4e1140344ebf34c583ad9f5ad
+    - name: neutral_gambler_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 927a90b27c67b784facc564ef2cb021d
+    - name: neutral_gambler_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dda00b533601cc4438466a0c763d2870
+    - name: neutral_gambler_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 286a51b98fd89424999b86044854b8de
+    - name: neutral_gambler_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ce3499b7f39439d45817f56b4f245c85
+    - name: neutral_gambler_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 06e97f12c486f244996493fef8ff1d01
+    - name: neutral_gambler_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b6a4384aa0f3ac940be9b0dc366dc74b
+    - name: neutral_gambler_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0a97655ed31b8ca45a2c75217d50bdb9
+    - name: neutral_gambler_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 790f83e6fbc6d674ea13722418beeb36
+    - name: neutral_gambler_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cadbffbd412358d4da7988e26f5adbdd
+    - name: neutral_gambler_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6117e210a4b4c9d4ea753c448d0d45a4
+    - name: neutral_gambler_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ae90b6eb9637eeb4cadf6492609a2445
+    - name: neutral_gambler_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6b4416eeeab8ff749ac2ad6dfb0da8d8
+    - name: neutral_gambler_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b3162e464e7a0594380ecd3fd40beeef
+    - name: neutral_gambler_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b732b2668bcacaa4ab64dd92e3239b7e
+    - name: neutral_gambler_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ae2055a9d69898d4b84ed23eeea0bcf8
+    - name: neutral_gambler_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9dc7c606616869740ba458089f7126ac
+    - name: neutral_gambler_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7cc48e3ebe2407a46837634ff844b213
+    - name: neutral_gambler_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0b173bf036ded414aa744b42a35c9c57
+    - name: neutral_gambler_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3cc9f872c8546ff44ab774eb1b037a6a
+    - name: neutral_gambler_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3ca0a4520c1732949b5c239a0706eb03
+    - name: neutral_gambler_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2258124dd7f893a42b69fbda19c29240
+    - name: neutral_gambler_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 54c981aa32dac7a41bc6d29383437b71
+    - name: neutral_gambler_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 674649b66dd5dd240a6188c92a4273d9
+    - name: neutral_gambler_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9a8964d6b100fad41ab1e36a59e3e9ae
+    - name: neutral_gambler_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b0b4129d31f353a4499d70d9a24f06e0
+    - name: neutral_gambler_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c36a7b98d223c7f4d8ba87b5169b9143
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

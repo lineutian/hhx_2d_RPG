@@ -1,0 +1,1732 @@
+fileFormatVersion: 2
+guid: aadd6247b27009547a745487743d0e8d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_monsteroculus_hallowed_Frame_0
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 122
+      width: 39
+      height: 32
+    spriteID: 1406459f5b24f32418ef40769fba2b8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 398
+      y: 81
+      width: 40
+      height: 32
+    spriteID: c9ca63ef77001ee4b8654f67dc926839
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_2
+    originalName: 
+    pivot: {x: 0.43243238, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 122
+      width: 37
+      height: 33
+    spriteID: d51be65188e39d24286d5e2f93055c06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_3
+    originalName: 
+    pivot: {x: 0.43589747, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 81
+      width: 39
+      height: 33
+    spriteID: 64f5a96d87ca5f04fb17fce063d2173d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 281, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_4
+    originalName: 
+    pivot: {x: 0.45238099, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 81
+      width: 42
+      height: 33
+    spriteID: 1f8feb8d3db4ac047b973301c362e304
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_5
+    originalName: 
+    pivot: {x: 0.4651163, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 81
+      width: 43
+      height: 33
+    spriteID: 5b0019a92bd7cb44eb7aece61bd8fb24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_6
+    originalName: 
+    pivot: {x: 0.4878049, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 81
+      width: 41
+      height: 32
+    spriteID: 4685d14caf052bf4791926cf03257b33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_7
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 205
+      width: 36
+      height: 32
+    spriteID: b90b056411ac49d459fc8df2394d34e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_8
+    originalName: 
+    pivot: {x: 0.45945945, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 164
+      width: 37
+      height: 32
+    spriteID: 3b883090ea6edfb4d8fe5c75a6c47040
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_9
+    originalName: 
+    pivot: {x: 0.5135135, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 164
+      width: 37
+      height: 32
+    spriteID: af0bc932944e4f047a04fae6dcc90e48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_10
+    originalName: 
+    pivot: {x: 0.48717955, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 122
+      width: 39
+      height: 32
+    spriteID: dbeeae0ffcf259943bf10cca9258b0f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_11
+    originalName: 
+    pivot: {x: 0.47500002, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 446
+      y: 81
+      width: 40
+      height: 32
+    spriteID: 57c17748eb7803c498337229bc28185f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_12
+    originalName: 
+    pivot: {x: 0.4054054, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 428
+      y: 122
+      width: 37
+      height: 33
+    spriteID: 1c8a1a9b31b03fa4bb39ff5e8e98356e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 403, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_13
+    originalName: 
+    pivot: {x: 0.41025642, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 351
+      y: 81
+      width: 39
+      height: 33
+    spriteID: a3941bfefadad1849bb6303ad3746023
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_14
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 81
+      width: 42
+      height: 33
+    spriteID: 2961cf92917e26b4694b29a5b47c75ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_15
+    originalName: 
+    pivot: {x: 0.4418605, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 81
+      width: 43
+      height: 33
+    spriteID: bdc2a856fa6284547b1275de6488a8fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_16
+    originalName: 
+    pivot: {x: 0.46341467, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 81
+      width: 41
+      height: 32
+    spriteID: b15982f630df0a24a8abd3b977dc0703
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 234, y: 65}
+  - name: neutral_monsteroculus_hallowed_Frame_17
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 205
+      width: 36
+      height: 32
+    spriteID: cd692cda12c7a0d4d9f1ca7b8e24ef00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_18
+    originalName: 
+    pivot: {x: 0.43243238, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 164
+      width: 37
+      height: 32
+    spriteID: 947d8f836c955a149a7efa95a8d401c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_19
+    originalName: 
+    pivot: {x: 0.48648646, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 164
+      width: 37
+      height: 32
+    spriteID: 96154058c684d0541b5717bd59a8532a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_20
+    originalName: 
+    pivot: {x: 0.43589747, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 164
+      width: 39
+      height: 30
+    spriteID: 2e30fc12a140aab43a88925d4c23eaff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_21
+    originalName: 
+    pivot: {x: 0.41176474, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 42
+      width: 34
+      height: 31
+    spriteID: 8e9b7084fd1d90b4fafd8f1210b27bae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 26}
+  - name: neutral_monsteroculus_hallowed_Frame_22
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 205
+      width: 36
+      height: 32
+    spriteID: 91f0d537a7e6fd24fbd227d4fc828455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_23
+    originalName: 
+    pivot: {x: 0.43589747, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 164
+      width: 39
+      height: 30
+    spriteID: a6370c8aecc915f43a46849cedb61fbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_24
+    originalName: 
+    pivot: {x: 0.41176474, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 42
+      width: 34
+      height: 31
+    spriteID: 6530578d70c762143b8e272504b372ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 26}
+  - name: neutral_monsteroculus_hallowed_Frame_25
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 205
+      width: 36
+      height: 32
+    spriteID: 41226cda9d06eb14ea044b5e13b14847
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_26
+    originalName: 
+    pivot: {x: 0.48717955, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 42
+      width: 39
+      height: 31
+    spriteID: 21773a870db5f3241839d8a9e7ab8f61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 26}
+  - name: neutral_monsteroculus_hallowed_Frame_27
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.53571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 42
+      width: 36
+      height: 28
+    spriteID: bc759298b4909cc439b06fa73e461309
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 27}
+  - name: neutral_monsteroculus_hallowed_Frame_28
+    originalName: 
+    pivot: {x: 0.39473686, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 42
+      width: 38
+      height: 25
+    spriteID: aadce0ab2473088408bbc6eed22c8dd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 26}
+  - name: neutral_monsteroculus_hallowed_Frame_29
+    originalName: 
+    pivot: {x: 0.39473686, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 280
+      y: 42
+      width: 38
+      height: 23
+    spriteID: 81be9ab780b4e56429fdc6ecc4100775
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 26}
+  - name: neutral_monsteroculus_hallowed_Frame_30
+    originalName: 
+    pivot: {x: 0.39473686, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 326
+      y: 42
+      width: 38
+      height: 23
+    spriteID: f233c3b3d9662ce468c628dc2948d2dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 26}
+  - name: neutral_monsteroculus_hallowed_Frame_31
+    originalName: 
+    pivot: {x: 0.39473686, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 372
+      y: 42
+      width: 38
+      height: 23
+    spriteID: e78eb4cf683241243804549ed891eed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 26}
+  - name: neutral_monsteroculus_hallowed_Frame_32
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 309
+      y: 205
+      width: 35
+      height: 32
+    spriteID: e340206b4a8e51c4f84976c78ee0a061
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_33
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 205
+      width: 35
+      height: 32
+    spriteID: 928779e9c54b2bb42abb62c82fefb638
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_34
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 395
+      y: 205
+      width: 35
+      height: 32
+    spriteID: 54e1ea5589a70cf4599fb9b57ad9a7a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_35
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 205
+      width: 35
+      height: 32
+    spriteID: 127d32bada02c4847b63c2d2b1179bf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 413, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_36
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 246
+      width: 35
+      height: 32
+    spriteID: e58a8451a35821c489ab8e805551e384
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 230}
+  - name: neutral_monsteroculus_hallowed_Frame_37
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 246
+      width: 35
+      height: 32
+    spriteID: cd9e845682944694c93a665853decacd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 230}
+  - name: neutral_monsteroculus_hallowed_Frame_38
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 473
+      y: 122
+      width: 35
+      height: 33
+    spriteID: 919fc6774b51ede4e89c77665bd17413
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 448, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_39
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 164
+      width: 35
+      height: 33
+    spriteID: f99fb5cfbd9c96b4185d2f9ede84f6e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 297, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_40
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 365
+      y: 164
+      width: 35
+      height: 33
+    spriteID: 41503d34381176a4fa013cbfb7dfe5c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_41
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 408
+      y: 164
+      width: 35
+      height: 33
+    spriteID: 0705c15b270303f4eb31bccb31694b86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_42
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 451
+      y: 164
+      width: 35
+      height: 33
+    spriteID: 8390e7197b5d46342b1b823333940753
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 426, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_43
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 205
+      width: 35
+      height: 33
+    spriteID: 4856f803c39f2bf4f9a75738a43bef31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_44
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 205
+      width: 35
+      height: 33
+    spriteID: 893431817a29ce143b2a01346df208ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_45
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 205
+      width: 35
+      height: 33
+    spriteID: 0ff7303cd514e1542bc5fc279805440f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 189}
+  - name: neutral_monsteroculus_hallowed_Frame_46
+    originalName: 
+    pivot: {x: 0.48717955, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 289
+      y: 122
+      width: 39
+      height: 32
+    spriteID: 0a95699dd840b4c40a940cf729633713
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_47
+    originalName: 
+    pivot: {x: 0.47500002, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 122
+      width: 40
+      height: 32
+    spriteID: 78ab4157a8c19cc49bd4642ac6524d95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_48
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 164
+      width: 36
+      height: 33
+    spriteID: d42d0457bd812be4599e81bd8aa0d530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 148}
+  - name: neutral_monsteroculus_hallowed_Frame_49
+    originalName: 
+    pivot: {x: 0.44736844, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 122
+      width: 38
+      height: 34
+    spriteID: ad291adafa59f1d47b839d836621dadd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_50
+    originalName: 
+    pivot: {x: 0.47500002, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 122
+      width: 40
+      height: 34
+    spriteID: 465765cb71033bb48b4f1c9eb9bd05a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_51
+    originalName: 
+    pivot: {x: 0.4878049, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 122
+      width: 41
+      height: 34
+    spriteID: 7ef53569d3b09dc408ab3f60ae16911f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_52
+    originalName: 
+    pivot: {x: 0.48717955, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 122
+      width: 39
+      height: 32
+    spriteID: f9828f1fe7349c94fb4c5733d538c351
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 106}
+  - name: neutral_monsteroculus_hallowed_Frame_53
+    originalName: 
+    pivot: {x: 0.28846154, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 52
+      height: 30
+    spriteID: ea7e7e994cba93c45af49b5592e9b6da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: -12}
+  - name: neutral_monsteroculus_hallowed_Frame_54
+    originalName: 
+    pivot: {x: 0.36170214, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 47
+      height: 31
+    spriteID: 4d100ee9f0ff4b4479e17db80a2850b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 26}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 874321320
+    name: neutral_monsteroculus_hallowed
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_monsteroculus_hallowed_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1406459f5b24f32418ef40769fba2b8c
+    - name: neutral_monsteroculus_hallowed_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c9ca63ef77001ee4b8654f67dc926839
+    - name: neutral_monsteroculus_hallowed_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d51be65188e39d24286d5e2f93055c06
+    - name: neutral_monsteroculus_hallowed_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 64f5a96d87ca5f04fb17fce063d2173d
+    - name: neutral_monsteroculus_hallowed_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1f8feb8d3db4ac047b973301c362e304
+    - name: neutral_monsteroculus_hallowed_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5b0019a92bd7cb44eb7aece61bd8fb24
+    - name: neutral_monsteroculus_hallowed_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4685d14caf052bf4791926cf03257b33
+    - name: neutral_monsteroculus_hallowed_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b90b056411ac49d459fc8df2394d34e0
+    - name: neutral_monsteroculus_hallowed_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3b883090ea6edfb4d8fe5c75a6c47040
+    - name: neutral_monsteroculus_hallowed_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: af0bc932944e4f047a04fae6dcc90e48
+    - name: neutral_monsteroculus_hallowed_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dbeeae0ffcf259943bf10cca9258b0f0
+    - name: neutral_monsteroculus_hallowed_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 57c17748eb7803c498337229bc28185f
+    - name: neutral_monsteroculus_hallowed_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1c8a1a9b31b03fa4bb39ff5e8e98356e
+    - name: neutral_monsteroculus_hallowed_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a3941bfefadad1849bb6303ad3746023
+    - name: neutral_monsteroculus_hallowed_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2961cf92917e26b4694b29a5b47c75ec
+    - name: neutral_monsteroculus_hallowed_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bdc2a856fa6284547b1275de6488a8fc
+    - name: neutral_monsteroculus_hallowed_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b15982f630df0a24a8abd3b977dc0703
+    - name: neutral_monsteroculus_hallowed_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cd692cda12c7a0d4d9f1ca7b8e24ef00
+    - name: neutral_monsteroculus_hallowed_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 947d8f836c955a149a7efa95a8d401c7
+    - name: neutral_monsteroculus_hallowed_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 96154058c684d0541b5717bd59a8532a
+    - name: neutral_monsteroculus_hallowed_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2e30fc12a140aab43a88925d4c23eaff
+    - name: neutral_monsteroculus_hallowed_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8e9b7084fd1d90b4fafd8f1210b27bae
+    - name: neutral_monsteroculus_hallowed_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 91f0d537a7e6fd24fbd227d4fc828455
+    - name: neutral_monsteroculus_hallowed_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a6370c8aecc915f43a46849cedb61fbf
+    - name: neutral_monsteroculus_hallowed_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6530578d70c762143b8e272504b372ca
+    - name: neutral_monsteroculus_hallowed_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 41226cda9d06eb14ea044b5e13b14847
+    - name: neutral_monsteroculus_hallowed_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 21773a870db5f3241839d8a9e7ab8f61
+    - name: neutral_monsteroculus_hallowed_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bc759298b4909cc439b06fa73e461309
+    - name: neutral_monsteroculus_hallowed_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: aadce0ab2473088408bbc6eed22c8dd0
+    - name: neutral_monsteroculus_hallowed_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 81be9ab780b4e56429fdc6ecc4100775
+    - name: neutral_monsteroculus_hallowed_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f233c3b3d9662ce468c628dc2948d2dd
+    - name: neutral_monsteroculus_hallowed_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e78eb4cf683241243804549ed891eed3
+    - name: neutral_monsteroculus_hallowed_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e340206b4a8e51c4f84976c78ee0a061
+    - name: neutral_monsteroculus_hallowed_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 928779e9c54b2bb42abb62c82fefb638
+    - name: neutral_monsteroculus_hallowed_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 54e1ea5589a70cf4599fb9b57ad9a7a8
+    - name: neutral_monsteroculus_hallowed_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 127d32bada02c4847b63c2d2b1179bf6
+    - name: neutral_monsteroculus_hallowed_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e58a8451a35821c489ab8e805551e384
+    - name: neutral_monsteroculus_hallowed_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cd9e845682944694c93a665853decacd
+    - name: neutral_monsteroculus_hallowed_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 919fc6774b51ede4e89c77665bd17413
+    - name: neutral_monsteroculus_hallowed_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f99fb5cfbd9c96b4185d2f9ede84f6e8
+    - name: neutral_monsteroculus_hallowed_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 41503d34381176a4fa013cbfb7dfe5c5
+    - name: neutral_monsteroculus_hallowed_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0705c15b270303f4eb31bccb31694b86
+    - name: neutral_monsteroculus_hallowed_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8390e7197b5d46342b1b823333940753
+    - name: neutral_monsteroculus_hallowed_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4856f803c39f2bf4f9a75738a43bef31
+    - name: neutral_monsteroculus_hallowed_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 893431817a29ce143b2a01346df208ec
+    - name: neutral_monsteroculus_hallowed_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0ff7303cd514e1542bc5fc279805440f
+    - name: neutral_monsteroculus_hallowed_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0a95699dd840b4c40a940cf729633713
+    - name: neutral_monsteroculus_hallowed_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 78ab4157a8c19cc49bd4642ac6524d95
+    - name: neutral_monsteroculus_hallowed_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d42d0457bd812be4599e81bd8aa0d530
+    - name: neutral_monsteroculus_hallowed_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ad291adafa59f1d47b839d836621dadd
+    - name: neutral_monsteroculus_hallowed_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 465765cb71033bb48b4f1c9eb9bd05a4
+    - name: neutral_monsteroculus_hallowed_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7ef53569d3b09dc408ab3f60ae16911f
+    - name: neutral_monsteroculus_hallowed_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f9828f1fe7349c94fb4c5733d538c351
+    - name: neutral_monsteroculus_hallowed_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ea7e7e994cba93c45af49b5592e9b6da
+    - name: neutral_monsteroculus_hallowed_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4d100ee9f0ff4b4479e17db80a2850b1
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

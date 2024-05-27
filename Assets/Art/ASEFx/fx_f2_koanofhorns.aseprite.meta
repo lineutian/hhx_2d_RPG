@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 6bbb6c006bbdc9643bd9e512c4960649
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_f2_koanofhorns_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.6031746}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 547
+      width: 132
+      height: 63
+    spriteID: 44a95473b3a49b64bbbe52a17b747b3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 509}
+  - name: fx_f2_koanofhorns_Frame_1
+    originalName: 
+    pivot: {x: 0.48920867, y: -0.5416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 836
+      y: 338
+      width: 139
+      height: 72
+    spriteID: 2aeffd57caef5f242a8800c0b0ecbf5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 794, y: 299}
+  - name: fx_f2_koanofhorns_Frame_2
+    originalName: 
+    pivot: {x: 0.4921466, y: -0.475}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 621
+      y: 453
+      width: 191
+      height: 80
+    spriteID: e823004afe8736a4aa6aa8f9cb9bbdcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 605, y: 415}
+  - name: fx_f2_koanofhorns_Frame_3
+    originalName: 
+    pivot: {x: 0.4921466, y: -0.44705883}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 453
+      width: 191
+      height: 85
+    spriteID: e334ff1ba9fd0f845b30280714b0b708
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 415}
+  - name: fx_f2_koanofhorns_Frame_4
+    originalName: 
+    pivot: {x: 0.4925373, y: -0.4318182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 627
+      y: 338
+      width: 201
+      height: 88
+    spriteID: 6869d12032d99c248a0598a14ccf25a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 616, y: 300}
+  - name: fx_f2_koanofhorns_Frame_5
+    originalName: 
+    pivot: {x: 0.4926108, y: -0.42696628}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 338
+      width: 203
+      height: 89
+    spriteID: 97b13bd04bdf5cd488f423aa7b2b116a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 406, y: 300}
+  - name: fx_f2_koanofhorns_Frame_6
+    originalName: 
+    pivot: {x: 0.4926108, y: -0.4651163}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 453
+      width: 203
+      height: 86
+    spriteID: 477ed6900c869e54786f234151aed043
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 413}
+  - name: fx_f2_koanofhorns_Frame_7
+    originalName: 
+    pivot: {x: 0.4924623, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 453
+      width: 199
+      height: 85
+    spriteID: 249a9ba134e14f249a1b0ee927117b0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 413}
+  - name: fx_f2_koanofhorns_Frame_8
+    originalName: 
+    pivot: {x: 0.4923858, y: -0.4431818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 547
+      width: 197
+      height: 88
+    spriteID: 81524c51decbb594a8f98ba177aa740e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 508}
+  - name: fx_f2_koanofhorns_Frame_9
+    originalName: 
+    pivot: {x: 0.4924623, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 338
+      width: 199
+      height: 99
+    spriteID: ff1540ed83f56ea479872fc6986a42fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 314}
+  - name: fx_f2_koanofhorns_Frame_10
+    originalName: 
+    pivot: {x: 0.4925373, y: -0.16981131}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 4
+      width: 201
+      height: 106
+    spriteID: 4c96dc117cf6f87468ce430a7f966156
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 614, y: -14}
+  - name: fx_f2_koanofhorns_Frame_11
+    originalName: 
+    pivot: {x: 0.4923858, y: -0.1495327}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 338
+      width: 197
+      height: 107
+    spriteID: 385f5ce3b0516ab428d4cfff2fe155de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 322}
+  - name: fx_f2_koanofhorns_Frame_12
+    originalName: 
+    pivot: {x: 0.4925373, y: -0.119266056}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 4
+      width: 201
+      height: 109
+    spriteID: 3ee5641b160fea94d84f32b4333f81fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: -9}
+  - name: fx_f2_koanofhorns_Frame_13
+    originalName: 
+    pivot: {x: 0.4923858, y: -0.0990991}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 4
+      width: 197
+      height: 111
+    spriteID: 4a7177b76e8162c4b91507efe2c68b4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 407, y: -7}
+  - name: fx_f2_koanofhorns_Frame_14
+    originalName: 
+    pivot: {x: 0.4923858, y: -0.062499996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 168
+      width: 197
+      height: 144
+    spriteID: 787f708efa4f0bd409c2725aedecc474
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 371, y: 159}
+  - name: fx_f2_koanofhorns_Frame_15
+    originalName: 
+    pivot: {x: 0.4924623, y: -0.05128205}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 199
+      height: 156
+    spriteID: 812dc00b3b725b94e8a67899adee9c81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: -4}
+  - name: fx_f2_koanofhorns_Frame_16
+    originalName: 
+    pivot: {x: 0.49197865, y: -0.055555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 168
+      width: 187
+      height: 162
+    spriteID: 234e4fce1c175334994ec6918abd6ddf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 159}
+  - name: fx_f2_koanofhorns_Frame_17
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.09937888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 168
+      width: 177
+      height: 161
+    spriteID: a7903813763c9b1489c721c879d13eed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 152}
+  - name: fx_f2_koanofhorns_Frame_18
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.23178807}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 751
+      y: 168
+      width: 155
+      height: 151
+    spriteID: 682cc9b2a48598b48a49aeb2a0875d5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 716, y: 133}
+  - name: fx_f2_koanofhorns_Frame_19
+    originalName: 
+    pivot: {x: 0.4935065, y: -0.26143792}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 589
+      y: 168
+      width: 154
+      height: 153
+    spriteID: 5f344035109a32147822daf2624ae78f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 555, y: 128}
+  - name: fx_f2_koanofhorns_Frame_20
+    originalName: 
+    pivot: {x: 0.48062015, y: -0.27333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 834
+      y: 4
+      width: 129
+      height: 150
+    spriteID: 71ad1a6bfd1a51f4182e7c74cb0310ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 786, y: -37}
+  - name: fx_f2_koanofhorns_Frame_21
+    originalName: 
+    pivot: {x: 0.48062015, y: -0.3488372}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 643
+      width: 129
+      height: 129
+    spriteID: 70a4200836dfbad40826abb68ad81287
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -44, y: 598}
+  - name: fx_f2_koanofhorns_Frame_22
+    originalName: 
+    pivot: {x: 0.47826087, y: -0.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 820
+      y: 453
+      width: 115
+      height: 80
+    spriteID: 47b4a40482f3a8d4a84e4bf234b51c13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 765, y: 401}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1189763580
+    name: fx_f2_koanofhorns
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_f2_koanofhorns_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 44a95473b3a49b64bbbe52a17b747b3a
+    - name: fx_f2_koanofhorns_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 2aeffd57caef5f242a8800c0b0ecbf5f
+    - name: fx_f2_koanofhorns_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: e823004afe8736a4aa6aa8f9cb9bbdcd
+    - name: fx_f2_koanofhorns_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: e334ff1ba9fd0f845b30280714b0b708
+    - name: fx_f2_koanofhorns_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 6869d12032d99c248a0598a14ccf25a5
+    - name: fx_f2_koanofhorns_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 97b13bd04bdf5cd488f423aa7b2b116a
+    - name: fx_f2_koanofhorns_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 477ed6900c869e54786f234151aed043
+    - name: fx_f2_koanofhorns_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 249a9ba134e14f249a1b0ee927117b0d
+    - name: fx_f2_koanofhorns_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 81524c51decbb594a8f98ba177aa740e
+    - name: fx_f2_koanofhorns_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: ff1540ed83f56ea479872fc6986a42fb
+    - name: fx_f2_koanofhorns_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 4c96dc117cf6f87468ce430a7f966156
+    - name: fx_f2_koanofhorns_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 385f5ce3b0516ab428d4cfff2fe155de
+    - name: fx_f2_koanofhorns_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 3ee5641b160fea94d84f32b4333f81fe
+    - name: fx_f2_koanofhorns_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 4a7177b76e8162c4b91507efe2c68b4c
+    - name: fx_f2_koanofhorns_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 787f708efa4f0bd409c2725aedecc474
+    - name: fx_f2_koanofhorns_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 812dc00b3b725b94e8a67899adee9c81
+    - name: fx_f2_koanofhorns_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 234e4fce1c175334994ec6918abd6ddf
+    - name: fx_f2_koanofhorns_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: a7903813763c9b1489c721c879d13eed
+    - name: fx_f2_koanofhorns_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 682cc9b2a48598b48a49aeb2a0875d5a
+    - name: fx_f2_koanofhorns_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 5f344035109a32147822daf2624ae78f
+    - name: fx_f2_koanofhorns_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 71ad1a6bfd1a51f4182e7c74cb0310ad
+    - name: fx_f2_koanofhorns_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 70a4200836dfbad40826abb68ad81287
+    - name: fx_f2_koanofhorns_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      spriteId: 47b4a40482f3a8d4a84e4bf234b51c13
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 220, y: 220}

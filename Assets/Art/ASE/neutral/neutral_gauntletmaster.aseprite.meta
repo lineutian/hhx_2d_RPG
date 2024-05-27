@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 9908c9f51097fe44891a4ef1e1471ec6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_gauntletmaster_Frame_0
+    originalName: 
+    pivot: {x: 0.45945942, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 383
+      width: 37
+      height: 44
+    spriteID: 6059eba80bc25a044941fca0b2a1dae5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 367}
+  - name: neutral_gauntletmaster_Frame_1
+    originalName: 
+    pivot: {x: 0.475, y: -0.45000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 383
+      width: 40
+      height: 40
+    spriteID: 1a19f05ff20d3bf448b7fc5e3c2fba1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 365}
+  - name: neutral_gauntletmaster_Frame_2
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.43902442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 221
+      width: 43
+      height: 41
+    spriteID: 5f7d7dc596399364baab4a53648a034d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 203}
+  - name: neutral_gauntletmaster_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.41860464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 160
+      width: 46
+      height: 43
+    spriteID: ebbce0d85c3214e42a45feec55031a0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 369, y: 142}
+  - name: neutral_gauntletmaster_Frame_4
+    originalName: 
+    pivot: {x: 0.44186044, y: -0.41860464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 338
+      y: 273
+      width: 43
+      height: 43
+    spriteID: 8ecba027b6b23b148a9045129410290c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 255}
+  - name: neutral_gauntletmaster_Frame_5
+    originalName: 
+    pivot: {x: 0.46511623, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 389
+      y: 273
+      width: 43
+      height: 43
+    spriteID: 70651fecd8b17ae49a6e33b36622657b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 257}
+  - name: neutral_gauntletmaster_Frame_6
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 440
+      y: 273
+      width: 43
+      height: 43
+    spriteID: 8d1cd8aa0ef4c0941912b67e3eef4a32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 411, y: 257}
+  - name: neutral_gauntletmaster_Frame_7
+    originalName: 
+    pivot: {x: 0.52272725, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 221
+      width: 44
+      height: 44
+    spriteID: 480aefc708c8c0d41b44471c72e02463
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 205}
+  - name: neutral_gauntletmaster_Frame_8
+    originalName: 
+    pivot: {x: 0.475, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 329
+      width: 40
+      height: 45
+    spriteID: f6ef4b71723817d429825ba067607515
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 313}
+  - name: neutral_gauntletmaster_Frame_9
+    originalName: 
+    pivot: {x: 0.475, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 329
+      width: 40
+      height: 45
+    spriteID: a3250e83d7f74744ebbd862b46c8b3cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 313}
+  - name: neutral_gauntletmaster_Frame_10
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 383
+      width: 39
+      height: 45
+    spriteID: f3a5c63f715b1dc4281ffd6841b626da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 367}
+  - name: neutral_gauntletmaster_Frame_11
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 395
+      y: 221
+      width: 39
+      height: 43
+    spriteID: 22c487f072f2f274082a3cbba4a8d5ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 205}
+  - name: neutral_gauntletmaster_Frame_12
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 221
+      width: 39
+      height: 43
+    spriteID: e50f64d1cfe0fa645b716ca07a0667d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 410, y: 205}
+  - name: neutral_gauntletmaster_Frame_13
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 383
+      width: 39
+      height: 42
+    spriteID: 928da6f00f2cb4e4abf163b8cd259aa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 367}
+  - name: neutral_gauntletmaster_Frame_14
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 379
+      y: 383
+      width: 39
+      height: 41
+    spriteID: c2e79194b49f0f14bba59153f22c28d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 367}
+  - name: neutral_gauntletmaster_Frame_15
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 221
+      width: 39
+      height: 44
+    spriteID: 94cc25c7bf4af7e4ba126b43841e6877
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 205}
+  - name: neutral_gauntletmaster_Frame_16
+    originalName: 
+    pivot: {x: 0.475, y: -0.34782606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 329
+      width: 40
+      height: 46
+    spriteID: a1070bea57effc047a2d2958af718389
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 313}
+  - name: neutral_gauntletmaster_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 273
+      width: 40
+      height: 48
+    spriteID: 54969d5ea374c024299e1b30f40f37c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 257}
+  - name: neutral_gauntletmaster_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 273
+      width: 40
+      height: 48
+    spriteID: c83d246f4cec49f409906c65f16540e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 257}
+  - name: neutral_gauntletmaster_Frame_19
+    originalName: 
+    pivot: {x: 0.52500004, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 273
+      width: 40
+      height: 48
+    spriteID: 80a10a44bd4f65f4ab926168557774c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 257}
+  - name: neutral_gauntletmaster_Frame_20
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 273
+      width: 40
+      height: 48
+    spriteID: d0672de788c674a43ab8129aec17c8a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 257}
+  - name: neutral_gauntletmaster_Frame_21
+    originalName: 
+    pivot: {x: 0.4871795, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 383
+      width: 39
+      height: 45
+    spriteID: bf454b1aaa9411949b38242646426087
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 367}
+  - name: neutral_gauntletmaster_Frame_22
+    originalName: 
+    pivot: {x: 0.475, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 221
+      width: 40
+      height: 44
+    spriteID: a9517588c9144c5408296f09b6c99ed5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 205}
+  - name: neutral_gauntletmaster_Frame_23
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 437
+      width: 35
+      height: 35
+    spriteID: 5b9d1541e4b67e740ab82b26eb29e674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 421}
+  - name: neutral_gauntletmaster_Frame_24
+    originalName: 
+    pivot: {x: 0.48648652, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 426
+      y: 383
+      width: 37
+      height: 38
+    spriteID: d67cff35747410d43a3b3377066967e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 367}
+  - name: neutral_gauntletmaster_Frame_25
+    originalName: 
+    pivot: {x: 0.475, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 221
+      width: 40
+      height: 44
+    spriteID: cbd2f5e3f5b85de4eac4ec9b110f2cde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 205}
+  - name: neutral_gauntletmaster_Frame_26
+    originalName: 
+    pivot: {x: 0.48648652, y: -0.4210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 471
+      y: 383
+      width: 37
+      height: 38
+    spriteID: 80d6e538141838e4a8d63493f511914b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 439, y: 367}
+  - name: neutral_gauntletmaster_Frame_27
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 437
+      width: 35
+      height: 35
+    spriteID: 3063a74da8de68a49bc0574537fcb355
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 421}
+  - name: neutral_gauntletmaster_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 437
+      width: 32
+      height: 33
+    spriteID: 6331265d168afbd478c0a5c3198342b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 421}
+  - name: neutral_gauntletmaster_Frame_29
+    originalName: 
+    pivot: {x: 0.516129, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 437
+      width: 31
+      height: 32
+    spriteID: f67f85a83d052fa45b79f19cd1667066
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 291, y: 421}
+  - name: neutral_gauntletmaster_Frame_30
+    originalName: 
+    pivot: {x: 0.6, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 160
+      width: 50
+      height: 48
+    spriteID: 2222ef81d5076be48b8b01674fd275ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 144}
+  - name: neutral_gauntletmaster_Frame_31
+    originalName: 
+    pivot: {x: 0.58000004, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 160
+      width: 50
+      height: 49
+    spriteID: d3777c8b6ac542d42a5b306a26a61e46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 144}
+  - name: neutral_gauntletmaster_Frame_32
+    originalName: 
+    pivot: {x: 0.6481481, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 273
+      y: 81
+      width: 54
+      height: 54
+    spriteID: 47550a91d217d7847a26bf5a9ef3db3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 65}
+  - name: neutral_gauntletmaster_Frame_33
+    originalName: 
+    pivot: {x: 0.6551724, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 81
+      width: 58
+      height: 54
+    spriteID: 4c0ae338778dbab41b88ef415d8a7370
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 65}
+  - name: neutral_gauntletmaster_Frame_34
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 160
+      width: 54
+      height: 53
+    spriteID: b460c6ea5c49f65428978cbbb6e40026
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 144}
+  - name: neutral_gauntletmaster_Frame_35
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 81
+      width: 54
+      height: 54
+    spriteID: 984917beaed80e94ea609359384eada6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 323, y: 65}
+  - name: neutral_gauntletmaster_Frame_36
+    originalName: 
+    pivot: {x: 0.7037037, y: -0.29090908}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 451
+      y: 4
+      width: 54
+      height: 55
+    spriteID: cc8f49c7887a0a941a0c8814e971a26e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 439, y: -12}
+  - name: neutral_gauntletmaster_Frame_37
+    originalName: 
+    pivot: {x: 0.6981132, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 81
+      width: 53
+      height: 56
+    spriteID: 575ace35551f94546b3d86eaa8029f45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 65}
+  - name: neutral_gauntletmaster_Frame_38
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 459
+      y: 81
+      width: 48
+      height: 54
+    spriteID: a83e4125d07869a4ca07c7b52340864b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 441, y: 65}
+  - name: neutral_gauntletmaster_Frame_39
+    originalName: 
+    pivot: {x: 0.6097561, y: -0.3076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 160
+      width: 41
+      height: 52
+    spriteID: 4d7a88b128d006f46bdc3a5966844bc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 270, y: 144}
+  - name: neutral_gauntletmaster_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: -0.31372547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 437
+      width: 32
+      height: 51
+    spriteID: 027a082e3e605244d8cd93499665c717
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -30, y: 421}
+  - name: neutral_gauntletmaster_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: -0.48484847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 437
+      width: 32
+      height: 33
+    spriteID: 1f8716e4589159743938420fa3667196
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 421}
+  - name: neutral_gauntletmaster_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 285
+      y: 437
+      width: 32
+      height: 32
+    spriteID: 231d0605842df9345afff502e7bf523b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 421}
+  - name: neutral_gauntletmaster_Frame_43
+    originalName: 
+    pivot: {x: 0.4871795, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 273
+      width: 39
+      height: 48
+    spriteID: 5cf1f053b531da24dbf3ec1591bf21c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 213, y: 257}
+  - name: neutral_gauntletmaster_Frame_44
+    originalName: 
+    pivot: {x: 0.4871795, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 273
+      width: 39
+      height: 48
+    spriteID: e1e7133518f0bc947a17d6f860316761
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 257}
+  - name: neutral_gauntletmaster_Frame_45
+    originalName: 
+    pivot: {x: 0.4871795, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 383
+      width: 39
+      height: 45
+    spriteID: 33c3b3bc7a76a7e49816be458e568072
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 367}
+  - name: neutral_gauntletmaster_Frame_46
+    originalName: 
+    pivot: {x: 0.4871795, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 383
+      width: 39
+      height: 45
+    spriteID: c24b5461ad271ae429e165392c382694
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 367}
+  - name: neutral_gauntletmaster_Frame_47
+    originalName: 
+    pivot: {x: 0.4871795, y: -0.34782606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 383
+      width: 39
+      height: 46
+    spriteID: fd5240c79c2317848bf733df10778be4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 367}
+  - name: neutral_gauntletmaster_Frame_48
+    originalName: 
+    pivot: {x: 0.475, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 329
+      width: 40
+      height: 45
+    spriteID: fbe1f1d04891bba4e851c41b13b75e74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 313}
+  - name: neutral_gauntletmaster_Frame_49
+    originalName: 
+    pivot: {x: 0.475, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 329
+      width: 40
+      height: 45
+    spriteID: 49e1d3d715bcbd04b8b6faa9297c02c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 213, y: 313}
+  - name: neutral_gauntletmaster_Frame_50
+    originalName: 
+    pivot: {x: 0.475, y: -0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 221
+      width: 40
+      height: 44
+    spriteID: 18d2cd848094d08469f24184da974815
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 205}
+  - name: neutral_gauntletmaster_Frame_51
+    originalName: 
+    pivot: {x: 0.475, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 329
+      width: 40
+      height: 45
+    spriteID: 13d9ca37c7b1b31498ecdd2ce04774c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 261, y: 313}
+  - name: neutral_gauntletmaster_Frame_52
+    originalName: 
+    pivot: {x: 0.475, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 329
+      width: 40
+      height: 45
+    spriteID: 33c81e8bc1230f04c826e13396720a0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 309, y: 313}
+  - name: neutral_gauntletmaster_Frame_53
+    originalName: 
+    pivot: {x: 0.475, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 329
+      width: 40
+      height: 45
+    spriteID: 57314ec91f7eed049b53f54921c5e9b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 357, y: 313}
+  - name: neutral_gauntletmaster_Frame_54
+    originalName: 
+    pivot: {x: 0.475, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 436
+      y: 329
+      width: 40
+      height: 45
+    spriteID: 84291e444290d164fb90f81e628c96a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 313}
+  - name: neutral_gauntletmaster_Frame_55
+    originalName: 
+    pivot: {x: 0.475, y: -0.34782606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 329
+      width: 40
+      height: 46
+    spriteID: fe69d4ec23d1dae458de6a4e2758baf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 21, y: 313}
+  - name: neutral_gauntletmaster_Frame_56
+    originalName: 
+    pivot: {x: 0.475, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 273
+      width: 40
+      height: 47
+    spriteID: 6ea3035526cee104d9570ea33dd8c022
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 257}
+  - name: neutral_gauntletmaster_Frame_57
+    originalName: 
+    pivot: {x: 0.475, y: -0.38095236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 221
+      width: 40
+      height: 42
+    spriteID: c3e487867e225ff41b896d007248f9b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 205}
+  - name: neutral_gauntletmaster_Frame_58
+    originalName: 
+    pivot: {x: 0.48780486, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 221
+      width: 41
+      height: 43
+    spriteID: fc771b223c4aba9499c1005da701ce3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 205}
+  - name: neutral_gauntletmaster_Frame_59
+    originalName: 
+    pivot: {x: 0.5116279, y: -0.34782606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 160
+      width: 43
+      height: 46
+    spriteID: 449f2c186dd7d3d47b14552f3f1e904f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 144}
+  - name: neutral_gauntletmaster_Frame_60
+    originalName: 
+    pivot: {x: 0.5681818, y: -0.34042552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 344
+      y: 160
+      width: 44
+      height: 47
+    spriteID: bc3fa996db7befb4a826699a519065df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 144}
+  - name: neutral_gauntletmaster_Frame_61
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 160
+      width: 45
+      height: 48
+    spriteID: 6927c9d9a81485b4591aa4990f06d038
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 144}
+  - name: neutral_gauntletmaster_Frame_62
+    originalName: 
+    pivot: {x: 0.44827583, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 437
+      width: 29
+      height: 41
+    spriteID: 2b561f6080680e947b8b225aca68bac3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 421}
+  - name: neutral_gauntletmaster_Frame_63
+    originalName: 
+    pivot: {x: 0.24999999, y: -0.27272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 160
+      width: 52
+      height: 44
+    spriteID: 6047c996edfd7114e9a2fa0703bb5872
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 148}
+  - name: neutral_gauntletmaster_Frame_64
+    originalName: 
+    pivot: {x: 0.23809525, y: -0.1923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 380
+      y: 4
+      width: 63
+      height: 52
+    spriteID: 3043b28cf78aa414da48dc415ff1f677
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 345, y: -6}
+  - name: neutral_gauntletmaster_Frame_65
+    originalName: 
+    pivot: {x: 0.2647059, y: -0.13235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 4
+      width: 68
+      height: 68
+    spriteID: 67d497c9f6146dc4f9e2479be48e8069
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: -5}
+  - name: neutral_gauntletmaster_Frame_66
+    originalName: 
+    pivot: {x: 0.28358206, y: -0.19696969}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 4
+      width: 67
+      height: 66
+    spriteID: 91aac5867b4cb6a46b32b3b8b12cd7e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: -9}
+  - name: neutral_gauntletmaster_Frame_67
+    originalName: 
+    pivot: {x: 0.28571427, y: -0.17647058}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 4
+      width: 70
+      height: 68
+    spriteID: 526497c47163e444ba72edfd6a70e7e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: -8}
+  - name: neutral_gauntletmaster_Frame_68
+    originalName: 
+    pivot: {x: 0.28571427, y: -0.1594203}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 70
+      height: 69
+    spriteID: 6467f5c572e2bb1439e3a12dd12d09fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: -7}
+  - name: neutral_gauntletmaster_Frame_69
+    originalName: 
+    pivot: {x: 0.22222221, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 81
+      width: 63
+      height: 70
+    spriteID: d6abc0318aca4e74885166b6fee184dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 71}
+  - name: neutral_gauntletmaster_Frame_70
+    originalName: 
+    pivot: {x: 0.23809525, y: -0.12676057}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 81
+      width: 63
+      height: 71
+    spriteID: bc94785e206f42543abec9d05379d3ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -31, y: 72}
+  - name: neutral_gauntletmaster_Frame_71
+    originalName: 
+    pivot: {x: 0.21311474, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 311
+      y: 4
+      width: 61
+      height: 63
+    spriteID: 8dd3bb95c0832f74e8babbf11f85efcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: -12}
+  - name: neutral_gauntletmaster_Frame_72
+    originalName: 
+    pivot: {x: 0.2777778, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 81
+      width: 54
+      height: 54
+    spriteID: 4fc91390d7213a14293ebbce9a8043ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 65}
+  - name: neutral_gauntletmaster_Frame_73
+    originalName: 
+    pivot: {x: 0.4666666, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 437
+      width: 30
+      height: 53
+    spriteID: bde101aa351e1b74186c62ecffb23338
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8, y: 421}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1265344558
+    name: neutral_gauntletmaster
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_gauntletmaster_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6059eba80bc25a044941fca0b2a1dae5
+    - name: neutral_gauntletmaster_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1a19f05ff20d3bf448b7fc5e3c2fba1d
+    - name: neutral_gauntletmaster_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5f7d7dc596399364baab4a53648a034d
+    - name: neutral_gauntletmaster_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ebbce0d85c3214e42a45feec55031a0d
+    - name: neutral_gauntletmaster_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8ecba027b6b23b148a9045129410290c
+    - name: neutral_gauntletmaster_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 70651fecd8b17ae49a6e33b36622657b
+    - name: neutral_gauntletmaster_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8d1cd8aa0ef4c0941912b67e3eef4a32
+    - name: neutral_gauntletmaster_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 480aefc708c8c0d41b44471c72e02463
+    - name: neutral_gauntletmaster_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f6ef4b71723817d429825ba067607515
+    - name: neutral_gauntletmaster_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a3250e83d7f74744ebbd862b46c8b3cb
+    - name: neutral_gauntletmaster_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f3a5c63f715b1dc4281ffd6841b626da
+    - name: neutral_gauntletmaster_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 22c487f072f2f274082a3cbba4a8d5ad
+    - name: neutral_gauntletmaster_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e50f64d1cfe0fa645b716ca07a0667d4
+    - name: neutral_gauntletmaster_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 928da6f00f2cb4e4abf163b8cd259aa9
+    - name: neutral_gauntletmaster_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c2e79194b49f0f14bba59153f22c28d4
+    - name: neutral_gauntletmaster_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 94cc25c7bf4af7e4ba126b43841e6877
+    - name: neutral_gauntletmaster_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a1070bea57effc047a2d2958af718389
+    - name: neutral_gauntletmaster_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 54969d5ea374c024299e1b30f40f37c0
+    - name: neutral_gauntletmaster_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c83d246f4cec49f409906c65f16540e9
+    - name: neutral_gauntletmaster_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 80a10a44bd4f65f4ab926168557774c0
+    - name: neutral_gauntletmaster_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d0672de788c674a43ab8129aec17c8a8
+    - name: neutral_gauntletmaster_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bf454b1aaa9411949b38242646426087
+    - name: neutral_gauntletmaster_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a9517588c9144c5408296f09b6c99ed5
+    - name: neutral_gauntletmaster_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5b9d1541e4b67e740ab82b26eb29e674
+    - name: neutral_gauntletmaster_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d67cff35747410d43a3b3377066967e0
+    - name: neutral_gauntletmaster_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cbd2f5e3f5b85de4eac4ec9b110f2cde
+    - name: neutral_gauntletmaster_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 80d6e538141838e4a8d63493f511914b
+    - name: neutral_gauntletmaster_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3063a74da8de68a49bc0574537fcb355
+    - name: neutral_gauntletmaster_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6331265d168afbd478c0a5c3198342b1
+    - name: neutral_gauntletmaster_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f67f85a83d052fa45b79f19cd1667066
+    - name: neutral_gauntletmaster_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2222ef81d5076be48b8b01674fd275ec
+    - name: neutral_gauntletmaster_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d3777c8b6ac542d42a5b306a26a61e46
+    - name: neutral_gauntletmaster_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 47550a91d217d7847a26bf5a9ef3db3b
+    - name: neutral_gauntletmaster_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4c0ae338778dbab41b88ef415d8a7370
+    - name: neutral_gauntletmaster_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b460c6ea5c49f65428978cbbb6e40026
+    - name: neutral_gauntletmaster_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 984917beaed80e94ea609359384eada6
+    - name: neutral_gauntletmaster_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cc8f49c7887a0a941a0c8814e971a26e
+    - name: neutral_gauntletmaster_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 575ace35551f94546b3d86eaa8029f45
+    - name: neutral_gauntletmaster_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a83e4125d07869a4ca07c7b52340864b
+    - name: neutral_gauntletmaster_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4d7a88b128d006f46bdc3a5966844bc8
+    - name: neutral_gauntletmaster_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 027a082e3e605244d8cd93499665c717
+    - name: neutral_gauntletmaster_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1f8716e4589159743938420fa3667196
+    - name: neutral_gauntletmaster_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 231d0605842df9345afff502e7bf523b
+    - name: neutral_gauntletmaster_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5cf1f053b531da24dbf3ec1591bf21c7
+    - name: neutral_gauntletmaster_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e1e7133518f0bc947a17d6f860316761
+    - name: neutral_gauntletmaster_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 33c3b3bc7a76a7e49816be458e568072
+    - name: neutral_gauntletmaster_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c24b5461ad271ae429e165392c382694
+    - name: neutral_gauntletmaster_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fd5240c79c2317848bf733df10778be4
+    - name: neutral_gauntletmaster_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fbe1f1d04891bba4e851c41b13b75e74
+    - name: neutral_gauntletmaster_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 49e1d3d715bcbd04b8b6faa9297c02c6
+    - name: neutral_gauntletmaster_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 18d2cd848094d08469f24184da974815
+    - name: neutral_gauntletmaster_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 13d9ca37c7b1b31498ecdd2ce04774c3
+    - name: neutral_gauntletmaster_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 33c81e8bc1230f04c826e13396720a0d
+    - name: neutral_gauntletmaster_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 57314ec91f7eed049b53f54921c5e9b1
+    - name: neutral_gauntletmaster_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 84291e444290d164fb90f81e628c96a1
+    - name: neutral_gauntletmaster_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fe69d4ec23d1dae458de6a4e2758baf0
+    - name: neutral_gauntletmaster_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6ea3035526cee104d9570ea33dd8c022
+    - name: neutral_gauntletmaster_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c3e487867e225ff41b896d007248f9b1
+    - name: neutral_gauntletmaster_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fc771b223c4aba9499c1005da701ce3c
+    - name: neutral_gauntletmaster_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 449f2c186dd7d3d47b14552f3f1e904f
+    - name: neutral_gauntletmaster_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bc3fa996db7befb4a826699a519065df
+    - name: neutral_gauntletmaster_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6927c9d9a81485b4591aa4990f06d038
+    - name: neutral_gauntletmaster_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2b561f6080680e947b8b225aca68bac3
+    - name: neutral_gauntletmaster_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6047c996edfd7114e9a2fa0703bb5872
+    - name: neutral_gauntletmaster_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3043b28cf78aa414da48dc415ff1f677
+    - name: neutral_gauntletmaster_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 67d497c9f6146dc4f9e2479be48e8069
+    - name: neutral_gauntletmaster_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 91aac5867b4cb6a46b32b3b8b12cd7e0
+    - name: neutral_gauntletmaster_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 526497c47163e444ba72edfd6a70e7e9
+    - name: neutral_gauntletmaster_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6467f5c572e2bb1439e3a12dd12d09fd
+    - name: neutral_gauntletmaster_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d6abc0318aca4e74885166b6fee184dc
+    - name: neutral_gauntletmaster_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bc94785e206f42543abec9d05379d3ff
+    - name: neutral_gauntletmaster_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8dd3bb95c0832f74e8babbf11f85efcf
+    - name: neutral_gauntletmaster_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4fc91390d7213a14293ebbce9a8043ad
+    - name: neutral_gauntletmaster_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bde101aa351e1b74186c62ecffb23338
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

@@ -1,0 +1,2428 @@
+fileFormatVersion: 2
+guid: a5e6627591aa8dc409aebde355fdd74b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: legion_Frame_0
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 967
+      y: 4
+      width: 52
+      height: 67
+    spriteID: 481d6db798c2f9341b3ae61cf19c5724
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 934, y: -12}
+  - name: legion_Frame_1
+    originalName: 
+    pivot: {x: 0.5471698, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 393
+      y: 161
+      width: 53
+      height: 76
+    spriteID: 53b39d8671fd9f040b5b8d0da7fd55e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 145}
+  - name: legion_Frame_2
+    originalName: 
+    pivot: {x: 0.5471698, y: -0.24000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 423
+      y: 251
+      width: 53
+      height: 75
+    spriteID: 3dcc6bc1ef629514fbac85bc2892a5c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 233}
+  - name: legion_Frame_3
+    originalName: 
+    pivot: {x: 0.5471698, y: -0.13253012}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 251
+      width: 53
+      height: 83
+    spriteID: aa1f13d6c10468247ba90f63f3ea2f17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 240}
+  - name: legion_Frame_4
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.14634147}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 161
+      width: 55
+      height: 82
+    spriteID: 7e864fce209903a41acf3fed4b95ff80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 149}
+  - name: legion_Frame_5
+    originalName: 
+    pivot: {x: 0.6222222, y: -0.15189873}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 422
+      width: 45
+      height: 79
+    spriteID: e7a6227be4213dd489eb94cd2f15649e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 410}
+  - name: legion_Frame_6
+    originalName: 
+    pivot: {x: 0.56, y: -0.15}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 365
+      y: 251
+      width: 50
+      height: 80
+    spriteID: 7de21b413efbcf843a8e7adbcb18030b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 239}
+  - name: legion_Frame_7
+    originalName: 
+    pivot: {x: 0.5957446, y: -0.16438358}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 422
+      width: 47
+      height: 73
+    spriteID: 7a5a962ffcd1abe429d4959af0b1c292
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 410}
+  - name: legion_Frame_8
+    originalName: 
+    pivot: {x: 0.6222222, y: -0.16901408}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 342
+      width: 45
+      height: 71
+    spriteID: 529e0d21bd21fa44dab8f1128f9be0da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 395, y: 330}
+  - name: legion_Frame_9
+    originalName: 
+    pivot: {x: 0.59523815, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 778
+      y: 342
+      width: 42
+      height: 72
+    spriteID: 66090063059559f48be224c7cc53720e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 743, y: 330}
+  - name: legion_Frame_10
+    originalName: 
+    pivot: {x: 0.59523815, y: -0.16438358}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 422
+      width: 42
+      height: 73
+    spriteID: 0373863d9d811f04587ede4a28e9f4fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 410}
+  - name: legion_Frame_11
+    originalName: 
+    pivot: {x: 0.5434783, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 547
+      y: 342
+      width: 46
+      height: 69
+    spriteID: 24b546af9edd04140a8babdc3d2c6a60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 512, y: 330}
+  - name: legion_Frame_12
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 601
+      y: 342
+      width: 46
+      height: 69
+    spriteID: 0c256d0f19752be4b8759b36abfab084
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 330}
+  - name: legion_Frame_13
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.265625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 82
+      width: 63
+      height: 64
+    spriteID: 458ff1b0ca8368e4280787e4f1ad9b1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 774, y: 65}
+  - name: legion_Frame_14
+    originalName: 
+    pivot: {x: 0.37362638, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 703
+      y: 4
+      width: 91
+      height: 65
+    spriteID: 536e23c87d4e30944b0fae57b80b8037
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 677, y: -11}
+  - name: legion_Frame_15
+    originalName: 
+    pivot: {x: 0.36559138, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 602
+      y: 4
+      width: 93
+      height: 65
+    spriteID: 82b1a136ec6710741a4e6d22f1efd89d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 576, y: -11}
+  - name: legion_Frame_16
+    originalName: 
+    pivot: {x: 0.36956522, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 502
+      y: 4
+      width: 92
+      height: 66
+    spriteID: 7042e19bd11b81e4fb262704baac87de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 476, y: -11}
+  - name: legion_Frame_17
+    originalName: 
+    pivot: {x: 0.36559138, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 401
+      y: 4
+      width: 93
+      height: 67
+    spriteID: 057e280254974fc49b990f50197015c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: -11}
+  - name: legion_Frame_18
+    originalName: 
+    pivot: {x: 0.36956522, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 301
+      y: 4
+      width: 92
+      height: 68
+    spriteID: 0df0858be6fd8d04fa7f82318107be3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 275, y: -11}
+  - name: legion_Frame_19
+    originalName: 
+    pivot: {x: 0.36956522, y: -0.2173913}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 4
+      width: 92
+      height: 69
+    spriteID: 95288c340833ac54888f32f07cd36ac9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: -11}
+  - name: legion_Frame_20
+    originalName: 
+    pivot: {x: 0.37362638, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 91
+      height: 70
+    spriteID: f18826d798bc1784aac83c6f043a6210
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: -11}
+  - name: legion_Frame_21
+    originalName: 
+    pivot: {x: 0.37777779, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 4
+      width: 90
+      height: 70
+    spriteID: f4293c8610cac244a9056613fb38bdcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: -11}
+  - name: legion_Frame_22
+    originalName: 
+    pivot: {x: 0.34146342, y: -0.1971831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 82
+      height: 71
+    spriteID: e571e5b70ce3d4e4aa0312d6b0c4a9ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 68}
+  - name: legion_Frame_23
+    originalName: 
+    pivot: {x: 0.3243243, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 82
+      width: 74
+      height: 60
+    spriteID: 70dc1f1152eb9a84bb51ee8155e75374
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 528, y: 67}
+  - name: legion_Frame_24
+    originalName: 
+    pivot: {x: 0.35135135, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 885
+      y: 4
+      width: 74
+      height: 65
+    spriteID: fe216a59cbf88054fbfa0cd14add790d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 851, y: -11}
+  - name: legion_Frame_25
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 802
+      y: 4
+      width: 75
+      height: 66
+    spriteID: dc4dad8517b16fd40ba8ccd4f43e8c59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 769, y: -11}
+  - name: legion_Frame_26
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 52
+      height: 72
+    spriteID: 2c1ebbfb216feda47a96b50831f3a686
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -29, y: 326}
+  - name: legion_Frame_27
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 342
+      width: 52
+      height: 72
+    spriteID: ed21b03589fc5b24ea5fa1fb7b1d53a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 326}
+  - name: legion_Frame_28
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 842
+      y: 251
+      width: 52
+      height: 73
+    spriteID: d1a921dd1316004408b8cb140f465c13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 809, y: 235}
+  - name: legion_Frame_29
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 902
+      y: 251
+      width: 52
+      height: 73
+    spriteID: 4e2b328b2be628349a3921daac5e4da0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 869, y: 235}
+  - name: legion_Frame_30
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 251
+      width: 52
+      height: 76
+    spriteID: ee2e72d6c4486164dbb6400b6eee7f85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 451, y: 235}
+  - name: legion_Frame_31
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 251
+      width: 52
+      height: 76
+    spriteID: 75636976bc1679f46ab64ff2472ce99f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 511, y: 235}
+  - name: legion_Frame_32
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 580
+      y: 161
+      width: 52
+      height: 77
+    spriteID: c769e8786ed55434eb4be62aa53c7350
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 547, y: 145}
+  - name: legion_Frame_33
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 640
+      y: 161
+      width: 52
+      height: 77
+    spriteID: b1207f9c07de096438e40b354311bdbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 607, y: 145}
+  - name: legion_Frame_34
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 700
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 5fccfc24d566f4f4a9a6a5df9f12cc4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 667, y: 145}
+  - name: legion_Frame_35
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 760
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 2653f9127e7fbc1448ab82d5172bee60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 727, y: 145}
+  - name: legion_Frame_36
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 820
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 860fef5939b37eb47b6001212a6e82ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 787, y: 145}
+  - name: legion_Frame_37
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 880
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 0fcd14dd002e6224bb2af77e4ff37535
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 847, y: 145}
+  - name: legion_Frame_38
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 940
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 9e7d1e0d126dff042a0516010aeed639
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 907, y: 145}
+  - name: legion_Frame_39
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 251
+      width: 52
+      height: 77
+    spriteID: 9e6ebf64246d566409c87b78407bbe94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 235}
+  - name: legion_Frame_40
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 342
+      width: 52
+      height: 72
+    spriteID: 6fda70ec7629c294fbcdfa6c3b46de8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 326}
+  - name: legion_Frame_41
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 454
+      y: 161
+      width: 55
+      height: 73
+    spriteID: 4de617a8da466c54eb9e11709d067b84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 145}
+  - name: legion_Frame_42
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 161
+      width: 56
+      height: 74
+    spriteID: 861b52aac3e68bc46afa5fa91270ff55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 145}
+  - name: legion_Frame_43
+    originalName: 
+    pivot: {x: 0.5789474, y: -0.21333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 161
+      width: 57
+      height: 75
+    spriteID: 89b295d5eed00444b87eafcdb83c1d53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 145}
+  - name: legion_Frame_44
+    originalName: 
+    pivot: {x: 0.58620685, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 161
+      width: 58
+      height: 76
+    spriteID: 2dd0c2e049dfd2e499fee6b906faac54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 145}
+  - name: legion_Frame_45
+    originalName: 
+    pivot: {x: 0.5932204, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 161
+      width: 59
+      height: 74
+    spriteID: 145c11b6756182748b254841fb253898
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 145}
+  - name: legion_Frame_46
+    originalName: 
+    pivot: {x: 0.7254902, y: -0.22535212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 930
+      y: 82
+      width: 51
+      height: 71
+    spriteID: 33a8d4c826c6cd94a9eacd2b08ac3fcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 907, y: 66}
+  - name: legion_Frame_47
+    originalName: 
+    pivot: {x: 0.7222222, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 342
+      width: 54
+      height: 62
+    spriteID: da7bc128a8e0e2145a5e234d769ef49c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 326}
+  - name: legion_Frame_48
+    originalName: 
+    pivot: {x: 0.7169811, y: -0.27419353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 342
+      width: 53
+      height: 62
+    spriteID: 3afd52247d938b141904bbae7576d7db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 344, y: 325}
+  - name: legion_Frame_49
+    originalName: 
+    pivot: {x: 0.7307692, y: -0.29508197}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 655
+      y: 342
+      width: 52
+      height: 61
+    spriteID: edb7a8f6eb047104e8179b212b445446
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 633, y: 324}
+  - name: legion_Frame_50
+    originalName: 
+    pivot: {x: 0.7254902, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 894
+      y: 342
+      width: 51
+      height: 52
+    spriteID: 5b2b8abcc2b745844b6f36d23b0d9c78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 871, y: 324}
+  - name: legion_Frame_51
+    originalName: 
+    pivot: {x: 0.62711865, y: -0.29629633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 342
+      width: 59
+      height: 54
+    spriteID: 390cb3f994ef52545a98a55c303d01d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 457, y: 326}
+  - name: legion_Frame_52
+    originalName: 
+    pivot: {x: 0.6545455, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 715
+      y: 342
+      width: 55
+      height: 55
+    spriteID: 3513e5c746e4a7d46b142f4cd75b0397
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 691, y: 326}
+  - name: legion_Frame_53
+    originalName: 
+    pivot: {x: 0.62068963, y: -0.34782612}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 828
+      y: 342
+      width: 58
+      height: 46
+    spriteID: ce92dce343756b4478a58b080e7011a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 326}
+  - name: legion_Frame_54
+    originalName: 
+    pivot: {x: 0.6, y: -0.43243244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 422
+      width: 60
+      height: 37
+    spriteID: 88e7a73451c93a74894c133f5fd645cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 406}
+  - name: legion_Frame_55
+    originalName: 
+    pivot: {x: 0.59016395, y: -0.43243244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 953
+      y: 342
+      width: 61
+      height: 37
+    spriteID: ec219722faba06e4f90a87dd5704268b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 929, y: 326}
+  - name: legion_Frame_56
+    originalName: 
+    pivot: {x: 0.59016395, y: -0.43243244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 422
+      width: 61
+      height: 37
+    spriteID: 72492bd223c09c84ca8b475e1b288e30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 406}
+  - name: legion_Frame_57
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 342
+      width: 52
+      height: 72
+    spriteID: 9813f39e3e6407e409395995cd357dc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 326}
+  - name: legion_Frame_58
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 517
+      y: 161
+      width: 55
+      height: 73
+    spriteID: a6e0945492e4e9542b7d9301dc13228a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 145}
+  - name: legion_Frame_59
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 161
+      width: 56
+      height: 74
+    spriteID: bf4ec946c65fc4249b91da62e0c47dd7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 145}
+  - name: legion_Frame_60
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 342
+      width: 52
+      height: 72
+    spriteID: 38644746412179c499454874e698215f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 326}
+  - name: legion_Frame_61
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 962
+      y: 251
+      width: 52
+      height: 73
+    spriteID: f7bfe37472dabed4d83a09430cc8defc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 929, y: 235}
+  - name: legion_Frame_62
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 251
+      width: 52
+      height: 76
+    spriteID: dbc8b9efc14d2cd44ab1ed857006a80e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 571, y: 235}
+  - name: legion_Frame_63
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 251
+      width: 52
+      height: 77
+    spriteID: bd7168b209c1c9e41b49ca33755fb165
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 235}
+  - name: legion_Frame_64
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 251
+      width: 52
+      height: 77
+    spriteID: 4557d1895f298d6448a353c14b10ae9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 235}
+  - name: legion_Frame_65
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 251
+      width: 52
+      height: 77
+    spriteID: b07de780ddd581e44a3103ec6741f9cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 235}
+  - name: legion_Frame_66
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 251
+      width: 52
+      height: 77
+    spriteID: e5391727b675d91409de7220f3307a98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: 235}
+  - name: legion_Frame_67
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 724
+      y: 251
+      width: 51
+      height: 76
+    spriteID: 7e4ccf0542d02aa40827ff7f2e640373
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 691, y: 235}
+  - name: legion_Frame_68
+    originalName: 
+    pivot: {x: 0.50980395, y: -0.21333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 783
+      y: 251
+      width: 51
+      height: 75
+    spriteID: d053babccf059a445ae45ff5c70c6469
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 749, y: 235}
+  - name: legion_Frame_69
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.21333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 664
+      y: 251
+      width: 52
+      height: 75
+    spriteID: 88ea68c6e22eeab4dad62758a85c0853
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 631, y: 235}
+  - name: legion_Frame_70
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22535212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 870
+      y: 82
+      width: 52
+      height: 71
+    spriteID: dc9856c3718507d43a73b5a3dca07efb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 837, y: 66}
+  - name: legion_Frame_71
+    originalName: 
+    pivot: {x: 0.6, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 486
+      y: 82
+      width: 70
+      height: 64
+    spriteID: 21cf2245dd8870c4ea67ad6f5183a845
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 64}
+  - name: legion_Frame_72
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 82
+      width: 72
+      height: 64
+    spriteID: 67fa41a41b1227f4e86f70d96c4df42f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 64}
+  - name: legion_Frame_73
+    originalName: 
+    pivot: {x: 0.57971007, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 409
+      y: 82
+      width: 69
+      height: 65
+    spriteID: ddf43560f3f409546a3d9d0766f42c1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 389, y: 65}
+  - name: legion_Frame_74
+    originalName: 
+    pivot: {x: 0.6, y: -0.29032257}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 721
+      y: 82
+      width: 70
+      height: 62
+    spriteID: bae37ec6e9af39b49846d324aea28a5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 703, y: 64}
+  - name: legion_Frame_75
+    originalName: 
+    pivot: {x: 0.60563385, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 82
+      width: 71
+      height: 65
+    spriteID: 3b15a884fea487542b663d08eb6436dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 67}
+  - name: legion_Frame_76
+    originalName: 
+    pivot: {x: 0.58208954, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 646
+      y: 82
+      width: 67
+      height: 65
+    spriteID: bb88ae8e7891f894181e4ab2085d31e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 67}
+  - name: legion_Frame_77
+    originalName: 
+    pivot: {x: 0.5972222, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 82
+      width: 72
+      height: 66
+    spriteID: 0445ecd3e547cf54a81a6d6144b2c94f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 67}
+  - name: legion_Frame_78
+    originalName: 
+    pivot: {x: 0.58823526, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 82
+      width: 68
+      height: 66
+    spriteID: a345aa3f6e4bbbe4c83eb4c259c2b167
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 67}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 901598004
+    name: legion
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: legion_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 481d6db798c2f9341b3ae61cf19c5724
+    - name: legion_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 53b39d8671fd9f040b5b8d0da7fd55e3
+    - name: legion_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3dcc6bc1ef629514fbac85bc2892a5c0
+    - name: legion_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: aa1f13d6c10468247ba90f63f3ea2f17
+    - name: legion_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7e864fce209903a41acf3fed4b95ff80
+    - name: legion_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e7a6227be4213dd489eb94cd2f15649e
+    - name: legion_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7de21b413efbcf843a8e7adbcb18030b
+    - name: legion_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7a5a962ffcd1abe429d4959af0b1c292
+    - name: legion_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 529e0d21bd21fa44dab8f1128f9be0da
+    - name: legion_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 66090063059559f48be224c7cc53720e
+    - name: legion_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0373863d9d811f04587ede4a28e9f4fc
+    - name: legion_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 24b546af9edd04140a8babdc3d2c6a60
+    - name: legion_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0c256d0f19752be4b8759b36abfab084
+    - name: legion_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 458ff1b0ca8368e4280787e4f1ad9b1f
+    - name: legion_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 536e23c87d4e30944b0fae57b80b8037
+    - name: legion_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 82b1a136ec6710741a4e6d22f1efd89d
+    - name: legion_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7042e19bd11b81e4fb262704baac87de
+    - name: legion_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 057e280254974fc49b990f50197015c6
+    - name: legion_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0df0858be6fd8d04fa7f82318107be3d
+    - name: legion_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 95288c340833ac54888f32f07cd36ac9
+    - name: legion_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f18826d798bc1784aac83c6f043a6210
+    - name: legion_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f4293c8610cac244a9056613fb38bdcb
+    - name: legion_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e571e5b70ce3d4e4aa0312d6b0c4a9ae
+    - name: legion_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 70dc1f1152eb9a84bb51ee8155e75374
+    - name: legion_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: fe216a59cbf88054fbfa0cd14add790d
+    - name: legion_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: dc4dad8517b16fd40ba8ccd4f43e8c59
+    - name: legion_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2c1ebbfb216feda47a96b50831f3a686
+    - name: legion_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ed21b03589fc5b24ea5fa1fb7b1d53a2
+    - name: legion_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d1a921dd1316004408b8cb140f465c13
+    - name: legion_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 4e2b328b2be628349a3921daac5e4da0
+    - name: legion_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ee2e72d6c4486164dbb6400b6eee7f85
+    - name: legion_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 75636976bc1679f46ab64ff2472ce99f
+    - name: legion_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: c769e8786ed55434eb4be62aa53c7350
+    - name: legion_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b1207f9c07de096438e40b354311bdbf
+    - name: legion_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 5fccfc24d566f4f4a9a6a5df9f12cc4b
+    - name: legion_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2653f9127e7fbc1448ab82d5172bee60
+    - name: legion_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 860fef5939b37eb47b6001212a6e82ff
+    - name: legion_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0fcd14dd002e6224bb2af77e4ff37535
+    - name: legion_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 9e7d1e0d126dff042a0516010aeed639
+    - name: legion_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 9e6ebf64246d566409c87b78407bbe94
+    - name: legion_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 6fda70ec7629c294fbcdfa6c3b46de8d
+    - name: legion_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 4de617a8da466c54eb9e11709d067b84
+    - name: legion_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 861b52aac3e68bc46afa5fa91270ff55
+    - name: legion_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 89b295d5eed00444b87eafcdb83c1d53
+    - name: legion_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2dd0c2e049dfd2e499fee6b906faac54
+    - name: legion_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 145c11b6756182748b254841fb253898
+    - name: legion_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 33a8d4c826c6cd94a9eacd2b08ac3fcd
+    - name: legion_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: da7bc128a8e0e2145a5e234d769ef49c
+    - name: legion_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3afd52247d938b141904bbae7576d7db
+    - name: legion_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: edb7a8f6eb047104e8179b212b445446
+    - name: legion_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 5b2b8abcc2b745844b6f36d23b0d9c78
+    - name: legion_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 390cb3f994ef52545a98a55c303d01d4
+    - name: legion_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3513e5c746e4a7d46b142f4cd75b0397
+    - name: legion_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ce92dce343756b4478a58b080e7011a8
+    - name: legion_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 88e7a73451c93a74894c133f5fd645cf
+    - name: legion_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ec219722faba06e4f90a87dd5704268b
+    - name: legion_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 72492bd223c09c84ca8b475e1b288e30
+    - name: legion_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 9813f39e3e6407e409395995cd357dc9
+    - name: legion_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: a6e0945492e4e9542b7d9301dc13228a
+    - name: legion_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: bf4ec946c65fc4249b91da62e0c47dd7
+    - name: legion_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 38644746412179c499454874e698215f
+    - name: legion_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f7bfe37472dabed4d83a09430cc8defc
+    - name: legion_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: dbc8b9efc14d2cd44ab1ed857006a80e
+    - name: legion_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: bd7168b209c1c9e41b49ca33755fb165
+    - name: legion_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 4557d1895f298d6448a353c14b10ae9d
+    - name: legion_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b07de780ddd581e44a3103ec6741f9cd
+    - name: legion_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e5391727b675d91409de7220f3307a98
+    - name: legion_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7e4ccf0542d02aa40827ff7f2e640373
+    - name: legion_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d053babccf059a445ae45ff5c70c6469
+    - name: legion_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 88ea68c6e22eeab4dad62758a85c0853
+    - name: legion_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: dc9856c3718507d43a73b5a3dca07efb
+    - name: legion_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 21cf2245dd8870c4ea67ad6f5183a845
+    - name: legion_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 67fa41a41b1227f4e86f70d96c4df42f
+    - name: legion_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ddf43560f3f409546a3d9d0766f42c1c
+    - name: legion_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: bae37ec6e9af39b49846d324aea28a5e
+    - name: legion_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3b15a884fea487542b663d08eb6436dc
+    - name: legion_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: bb88ae8e7891f894181e4ab2085d31e2
+    - name: legion_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0445ecd3e547cf54a81a6d6144b2c94f
+    - name: legion_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: a345aa3f6e4bbbe4c83eb4c259c2b167
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 120, y: 120}

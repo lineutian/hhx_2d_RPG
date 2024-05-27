@@ -1,0 +1,2428 @@
+fileFormatVersion: 2
+guid: 625065044e772934fa6aed1afe6f19a4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_nightwatcher_Frame_0
+    originalName: 
+    pivot: {x: 0.6, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 486
+      y: 82
+      width: 70
+      height: 64
+    spriteID: 5a6d18d102daf1d41a281f4c6a2b5b4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 64}
+  - name: neutral_nightwatcher_Frame_1
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 82
+      width: 72
+      height: 64
+    spriteID: 7d2d706c003a4154e95f51dae2887be9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 64}
+  - name: neutral_nightwatcher_Frame_2
+    originalName: 
+    pivot: {x: 0.57971007, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 409
+      y: 82
+      width: 69
+      height: 65
+    spriteID: 1bf172189bdce824cbd79f85a46820b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 389, y: 65}
+  - name: neutral_nightwatcher_Frame_3
+    originalName: 
+    pivot: {x: 0.6, y: -0.29032257}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 721
+      y: 82
+      width: 70
+      height: 62
+    spriteID: 2cecec7f06d4d9842b073b43f51a1e30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 703, y: 64}
+  - name: neutral_nightwatcher_Frame_4
+    originalName: 
+    pivot: {x: 0.60563385, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 82
+      width: 71
+      height: 65
+    spriteID: 8f8b5656e0a6eeb44a5c075dbd60e28d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 67}
+  - name: neutral_nightwatcher_Frame_5
+    originalName: 
+    pivot: {x: 0.58208954, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 646
+      y: 82
+      width: 67
+      height: 65
+    spriteID: a481d547890048e419e9eae616a73fe2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 67}
+  - name: neutral_nightwatcher_Frame_6
+    originalName: 
+    pivot: {x: 0.5972222, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 82
+      width: 72
+      height: 66
+    spriteID: 89b6ca23b8148ee4f831636a329de17f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 67}
+  - name: neutral_nightwatcher_Frame_7
+    originalName: 
+    pivot: {x: 0.58823526, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 82
+      width: 68
+      height: 66
+    spriteID: f83dc8247d9cdff459d73c1cccd8e171
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 67}
+  - name: neutral_nightwatcher_Frame_8
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 52
+      height: 72
+    spriteID: b52276df30e6b3f4e9aecea3dde8d02d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -29, y: 326}
+  - name: neutral_nightwatcher_Frame_9
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 842
+      y: 251
+      width: 52
+      height: 73
+    spriteID: a545bdb06af23ee4d9b1d6e0bdff1540
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 809, y: 235}
+  - name: neutral_nightwatcher_Frame_10
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 251
+      width: 52
+      height: 76
+    spriteID: feefc0922e93c2044b5d98bb217db6e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 451, y: 235}
+  - name: neutral_nightwatcher_Frame_11
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 580
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 194d1bb05f61c70419fd98cc2a69f16f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 547, y: 145}
+  - name: neutral_nightwatcher_Frame_12
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 640
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 9c154b5436b491e4eadfeb90d1aede86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 607, y: 145}
+  - name: neutral_nightwatcher_Frame_13
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 700
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 101b9c983efefec448c97d7794ceee6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 667, y: 145}
+  - name: neutral_nightwatcher_Frame_14
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 760
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 310d6ad11554ff345b4c415ae1ecff28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 727, y: 145}
+  - name: neutral_nightwatcher_Frame_15
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 724
+      y: 251
+      width: 51
+      height: 76
+    spriteID: 250aa540535b5e04885128bb7311227c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 691, y: 235}
+  - name: neutral_nightwatcher_Frame_16
+    originalName: 
+    pivot: {x: 0.50980395, y: -0.21333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 783
+      y: 251
+      width: 51
+      height: 75
+    spriteID: 156575682a10ce94a832f8a702a75ea7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 749, y: 235}
+  - name: neutral_nightwatcher_Frame_17
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.21333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 664
+      y: 251
+      width: 52
+      height: 75
+    spriteID: 1cadf7e5d71fad9489587c242e441c5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 631, y: 235}
+  - name: neutral_nightwatcher_Frame_18
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22535212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 870
+      y: 82
+      width: 52
+      height: 71
+    spriteID: 65cec3042d095d54ea41444456d8262f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 837, y: 66}
+  - name: neutral_nightwatcher_Frame_19
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 342
+      width: 52
+      height: 72
+    spriteID: 611e6e8c87c8c184e912175a1526b680
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 326}
+  - name: neutral_nightwatcher_Frame_20
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 454
+      y: 161
+      width: 55
+      height: 73
+    spriteID: 443303e1256f5734780bb0846590102e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 145}
+  - name: neutral_nightwatcher_Frame_21
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 161
+      width: 56
+      height: 74
+    spriteID: 9d7793d93becef74fbe6b33d8e55fda2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 145}
+  - name: neutral_nightwatcher_Frame_22
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 342
+      width: 52
+      height: 72
+    spriteID: 38159dd2a2920a746b315d7e7e650a59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 326}
+  - name: neutral_nightwatcher_Frame_23
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 517
+      y: 161
+      width: 55
+      height: 73
+    spriteID: 0e1ea0c368cc3de4ea13aaeb4ec9be09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 145}
+  - name: neutral_nightwatcher_Frame_24
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 161
+      width: 56
+      height: 74
+    spriteID: 9293ccc6fed5def47b5be5fdffc75607
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 145}
+  - name: neutral_nightwatcher_Frame_25
+    originalName: 
+    pivot: {x: 0.5789474, y: -0.21333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 161
+      width: 57
+      height: 75
+    spriteID: d457391a36b4dbe4982739e8c0671813
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 145}
+  - name: neutral_nightwatcher_Frame_26
+    originalName: 
+    pivot: {x: 0.58620685, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 161
+      width: 58
+      height: 76
+    spriteID: d3dff98b982427c42bdfc6e13dcee497
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 145}
+  - name: neutral_nightwatcher_Frame_27
+    originalName: 
+    pivot: {x: 0.5932204, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 161
+      width: 59
+      height: 74
+    spriteID: 90812c0794c2ad3488ba5ab516ddf965
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 145}
+  - name: neutral_nightwatcher_Frame_28
+    originalName: 
+    pivot: {x: 0.7254902, y: -0.22535212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 930
+      y: 82
+      width: 51
+      height: 71
+    spriteID: 4168c629debfdf1438ef2e4cf9926e06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 907, y: 66}
+  - name: neutral_nightwatcher_Frame_29
+    originalName: 
+    pivot: {x: 0.7222222, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 342
+      width: 54
+      height: 62
+    spriteID: 735e5979f637c3541a8f59fce78d7870
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 326}
+  - name: neutral_nightwatcher_Frame_30
+    originalName: 
+    pivot: {x: 0.7169811, y: -0.27419353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 342
+      width: 53
+      height: 62
+    spriteID: 6a499279bf085634483309192eeb4204
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 344, y: 325}
+  - name: neutral_nightwatcher_Frame_31
+    originalName: 
+    pivot: {x: 0.7307692, y: -0.29508197}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 655
+      y: 342
+      width: 52
+      height: 61
+    spriteID: 13f45496d464c9b4ea98595db168f1fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 633, y: 324}
+  - name: neutral_nightwatcher_Frame_32
+    originalName: 
+    pivot: {x: 0.7254902, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 894
+      y: 342
+      width: 51
+      height: 52
+    spriteID: e455e3b16b694544d8e14a3befc4213b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 871, y: 324}
+  - name: neutral_nightwatcher_Frame_33
+    originalName: 
+    pivot: {x: 0.62711865, y: -0.29629633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 342
+      width: 59
+      height: 54
+    spriteID: 2e8d634cf7192be47b710b58a49c342f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 457, y: 326}
+  - name: neutral_nightwatcher_Frame_34
+    originalName: 
+    pivot: {x: 0.6545455, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 715
+      y: 342
+      width: 55
+      height: 55
+    spriteID: 5ca58091d278cbd449565d1c20e977bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 691, y: 326}
+  - name: neutral_nightwatcher_Frame_35
+    originalName: 
+    pivot: {x: 0.62068963, y: -0.34782612}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 828
+      y: 342
+      width: 58
+      height: 46
+    spriteID: 13bd7af5febbba24ab190b0b0861a719
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 326}
+  - name: neutral_nightwatcher_Frame_36
+    originalName: 
+    pivot: {x: 0.6, y: -0.43243244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 422
+      width: 60
+      height: 37
+    spriteID: 9f8fecc3d76f16c4d83b122c3c32b2e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 406}
+  - name: neutral_nightwatcher_Frame_37
+    originalName: 
+    pivot: {x: 0.59016395, y: -0.43243244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 953
+      y: 342
+      width: 61
+      height: 37
+    spriteID: 8819ade55c36c4f46a729ae50f781d16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 929, y: 326}
+  - name: neutral_nightwatcher_Frame_38
+    originalName: 
+    pivot: {x: 0.59016395, y: -0.43243244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 422
+      width: 61
+      height: 37
+    spriteID: 8cc0274b01274cf4bad2e363e11d3752
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 406}
+  - name: neutral_nightwatcher_Frame_39
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 342
+      width: 52
+      height: 72
+    spriteID: 19aa05a9b7f1a8240b149ce2c554d7ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 326}
+  - name: neutral_nightwatcher_Frame_40
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 342
+      width: 52
+      height: 72
+    spriteID: 1fea09d90e2cd304a88ad5f2405d0239
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 326}
+  - name: neutral_nightwatcher_Frame_41
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 902
+      y: 251
+      width: 52
+      height: 73
+    spriteID: d9853c40833698544bc5722cd9110c92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 869, y: 235}
+  - name: neutral_nightwatcher_Frame_42
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.2191781}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 962
+      y: 251
+      width: 52
+      height: 73
+    spriteID: da5e9aa3e00993340bba0bd9a8b6ea80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 929, y: 235}
+  - name: neutral_nightwatcher_Frame_43
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 251
+      width: 52
+      height: 76
+    spriteID: e852bc27484d8be489146bca92d30587
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 511, y: 235}
+  - name: neutral_nightwatcher_Frame_44
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 251
+      width: 52
+      height: 76
+    spriteID: c6e00c9a7c4b5734286f2d57e72dd391
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 571, y: 235}
+  - name: neutral_nightwatcher_Frame_45
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 820
+      y: 161
+      width: 52
+      height: 77
+    spriteID: 1d3bf80578cf4cc41a378d4d560c8b64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 787, y: 145}
+  - name: neutral_nightwatcher_Frame_46
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 880
+      y: 161
+      width: 52
+      height: 77
+    spriteID: ae70453029aba3e4b9feb7049d10ca3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 847, y: 145}
+  - name: neutral_nightwatcher_Frame_47
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 940
+      y: 161
+      width: 52
+      height: 77
+    spriteID: fab1537ec32f2e148ae6c6b1f3273e17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 907, y: 145}
+  - name: neutral_nightwatcher_Frame_48
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 251
+      width: 52
+      height: 77
+    spriteID: 68b348c009f2c3046a5473bab45fd6a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 235}
+  - name: neutral_nightwatcher_Frame_49
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 251
+      width: 52
+      height: 77
+    spriteID: 5f05acdb9cab2c04595ccc58bbb0f0a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 235}
+  - name: neutral_nightwatcher_Frame_50
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 251
+      width: 52
+      height: 77
+    spriteID: fb21b274d2cddd1498da128cbd48b2f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 235}
+  - name: neutral_nightwatcher_Frame_51
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 251
+      width: 52
+      height: 77
+    spriteID: 7bb85fed4ace71246b3862c02f10af44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 235}
+  - name: neutral_nightwatcher_Frame_52
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 251
+      width: 52
+      height: 77
+    spriteID: 9d784ef4f48b65f4fa69a146242d387e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: 235}
+  - name: neutral_nightwatcher_Frame_53
+    originalName: 
+    pivot: {x: 0.5192307, y: -0.238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 967
+      y: 4
+      width: 52
+      height: 67
+    spriteID: f58f3cd63dd058148902f2d9d1489776
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 934, y: -12}
+  - name: neutral_nightwatcher_Frame_54
+    originalName: 
+    pivot: {x: 0.5471698, y: -0.21052633}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 393
+      y: 161
+      width: 53
+      height: 76
+    spriteID: 7040bce61c28cf643b4052dd5f14366d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 145}
+  - name: neutral_nightwatcher_Frame_55
+    originalName: 
+    pivot: {x: 0.5471698, y: -0.24000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 423
+      y: 251
+      width: 53
+      height: 75
+    spriteID: 8ac818cc4667de748a1bbfe0d4a14ce6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 233}
+  - name: neutral_nightwatcher_Frame_56
+    originalName: 
+    pivot: {x: 0.5471698, y: -0.13253012}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 251
+      width: 53
+      height: 83
+    spriteID: b27bcf1ef1c4970409bc4c989ab7a6e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 240}
+  - name: neutral_nightwatcher_Frame_57
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.14634147}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 161
+      width: 55
+      height: 82
+    spriteID: d525e0bade7c90b4292edaec9872baff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 149}
+  - name: neutral_nightwatcher_Frame_58
+    originalName: 
+    pivot: {x: 0.6222222, y: -0.15189873}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 422
+      width: 45
+      height: 79
+    spriteID: 8377385ca73efda48acea168ebf5c731
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 410}
+  - name: neutral_nightwatcher_Frame_59
+    originalName: 
+    pivot: {x: 0.56, y: -0.15}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 365
+      y: 251
+      width: 50
+      height: 80
+    spriteID: 1550314fe75c6fb4484e2f5a70cb4a21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 239}
+  - name: neutral_nightwatcher_Frame_60
+    originalName: 
+    pivot: {x: 0.5957446, y: -0.16438358}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 422
+      width: 47
+      height: 73
+    spriteID: d57f6ca130f345243966fd4946a3a853
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 410}
+  - name: neutral_nightwatcher_Frame_61
+    originalName: 
+    pivot: {x: 0.6222222, y: -0.16901408}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 342
+      width: 45
+      height: 71
+    spriteID: 3a9ae7830d172ba4b8c915716dc42199
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 395, y: 330}
+  - name: neutral_nightwatcher_Frame_62
+    originalName: 
+    pivot: {x: 0.59523815, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 778
+      y: 342
+      width: 42
+      height: 72
+    spriteID: c3c60b9f38846e94fab91f6f6e0ac889
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 743, y: 330}
+  - name: neutral_nightwatcher_Frame_63
+    originalName: 
+    pivot: {x: 0.59523815, y: -0.16438358}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 422
+      width: 42
+      height: 73
+    spriteID: 04f5c7d53a221c04397c1cb14cd834a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 410}
+  - name: neutral_nightwatcher_Frame_64
+    originalName: 
+    pivot: {x: 0.5434783, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 547
+      y: 342
+      width: 46
+      height: 69
+    spriteID: 34a7ca10863154a45b33ee084b56fe8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 512, y: 330}
+  - name: neutral_nightwatcher_Frame_65
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 601
+      y: 342
+      width: 46
+      height: 69
+    spriteID: e740f774e0b1fda40a2ebac827879aea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 330}
+  - name: neutral_nightwatcher_Frame_66
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.265625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 82
+      width: 63
+      height: 64
+    spriteID: 763ff6c5a96c7764786473ce84ad9947
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 774, y: 65}
+  - name: neutral_nightwatcher_Frame_67
+    originalName: 
+    pivot: {x: 0.37362638, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 703
+      y: 4
+      width: 91
+      height: 65
+    spriteID: 3614bb2ae27182d4ab2adf8a40b4e2e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 677, y: -11}
+  - name: neutral_nightwatcher_Frame_68
+    originalName: 
+    pivot: {x: 0.36559138, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 602
+      y: 4
+      width: 93
+      height: 65
+    spriteID: 3f750d8f7bb4edb49b9246f8a84793f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 576, y: -11}
+  - name: neutral_nightwatcher_Frame_69
+    originalName: 
+    pivot: {x: 0.36956522, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 502
+      y: 4
+      width: 92
+      height: 66
+    spriteID: 2c52234ce7d90434dae0b5346d18d7b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 476, y: -11}
+  - name: neutral_nightwatcher_Frame_70
+    originalName: 
+    pivot: {x: 0.36559138, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 401
+      y: 4
+      width: 93
+      height: 67
+    spriteID: 3b0a24041f6c9634982c9ace2cc0c653
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: -11}
+  - name: neutral_nightwatcher_Frame_71
+    originalName: 
+    pivot: {x: 0.36956522, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 301
+      y: 4
+      width: 92
+      height: 68
+    spriteID: afa4343895d2ee2489c57fedee8e040b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 275, y: -11}
+  - name: neutral_nightwatcher_Frame_72
+    originalName: 
+    pivot: {x: 0.36956522, y: -0.2173913}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 4
+      width: 92
+      height: 69
+    spriteID: 0ed569853ac808e41ac9383ce58a3231
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: -11}
+  - name: neutral_nightwatcher_Frame_73
+    originalName: 
+    pivot: {x: 0.37362638, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 91
+      height: 70
+    spriteID: 8ccc8ec555c7f224288fa475b7366daf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: -11}
+  - name: neutral_nightwatcher_Frame_74
+    originalName: 
+    pivot: {x: 0.37777779, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 4
+      width: 90
+      height: 70
+    spriteID: bb69a438ede062e41a39d796375e0ecf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: -11}
+  - name: neutral_nightwatcher_Frame_75
+    originalName: 
+    pivot: {x: 0.34146342, y: -0.1971831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 82
+      height: 71
+    spriteID: 586aef996572a4543bbb6073ca11536e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 68}
+  - name: neutral_nightwatcher_Frame_76
+    originalName: 
+    pivot: {x: 0.3243243, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 82
+      width: 74
+      height: 60
+    spriteID: b147685a2151eae4e9f901e1aee4e0c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 528, y: 67}
+  - name: neutral_nightwatcher_Frame_77
+    originalName: 
+    pivot: {x: 0.35135135, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 885
+      y: 4
+      width: 74
+      height: 65
+    spriteID: 64363997b8e8f0341b7c85fe5f2c0786
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 851, y: -11}
+  - name: neutral_nightwatcher_Frame_78
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 802
+      y: 4
+      width: 75
+      height: 66
+    spriteID: ba4435735a305284abaab2a6acd3e3af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 769, y: -11}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -752941980
+    name: neutral_nightwatcher
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_nightwatcher_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 5a6d18d102daf1d41a281f4c6a2b5b4d
+    - name: neutral_nightwatcher_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7d2d706c003a4154e95f51dae2887be9
+    - name: neutral_nightwatcher_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 1bf172189bdce824cbd79f85a46820b7
+    - name: neutral_nightwatcher_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2cecec7f06d4d9842b073b43f51a1e30
+    - name: neutral_nightwatcher_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 8f8b5656e0a6eeb44a5c075dbd60e28d
+    - name: neutral_nightwatcher_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: a481d547890048e419e9eae616a73fe2
+    - name: neutral_nightwatcher_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 89b6ca23b8148ee4f831636a329de17f
+    - name: neutral_nightwatcher_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f83dc8247d9cdff459d73c1cccd8e171
+    - name: neutral_nightwatcher_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b52276df30e6b3f4e9aecea3dde8d02d
+    - name: neutral_nightwatcher_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: a545bdb06af23ee4d9b1d6e0bdff1540
+    - name: neutral_nightwatcher_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: feefc0922e93c2044b5d98bb217db6e7
+    - name: neutral_nightwatcher_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 194d1bb05f61c70419fd98cc2a69f16f
+    - name: neutral_nightwatcher_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 9c154b5436b491e4eadfeb90d1aede86
+    - name: neutral_nightwatcher_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 101b9c983efefec448c97d7794ceee6f
+    - name: neutral_nightwatcher_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 310d6ad11554ff345b4c415ae1ecff28
+    - name: neutral_nightwatcher_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 250aa540535b5e04885128bb7311227c
+    - name: neutral_nightwatcher_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 156575682a10ce94a832f8a702a75ea7
+    - name: neutral_nightwatcher_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 1cadf7e5d71fad9489587c242e441c5b
+    - name: neutral_nightwatcher_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 65cec3042d095d54ea41444456d8262f
+    - name: neutral_nightwatcher_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 611e6e8c87c8c184e912175a1526b680
+    - name: neutral_nightwatcher_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 443303e1256f5734780bb0846590102e
+    - name: neutral_nightwatcher_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 9d7793d93becef74fbe6b33d8e55fda2
+    - name: neutral_nightwatcher_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 38159dd2a2920a746b315d7e7e650a59
+    - name: neutral_nightwatcher_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0e1ea0c368cc3de4ea13aaeb4ec9be09
+    - name: neutral_nightwatcher_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 9293ccc6fed5def47b5be5fdffc75607
+    - name: neutral_nightwatcher_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d457391a36b4dbe4982739e8c0671813
+    - name: neutral_nightwatcher_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d3dff98b982427c42bdfc6e13dcee497
+    - name: neutral_nightwatcher_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 90812c0794c2ad3488ba5ab516ddf965
+    - name: neutral_nightwatcher_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 4168c629debfdf1438ef2e4cf9926e06
+    - name: neutral_nightwatcher_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 735e5979f637c3541a8f59fce78d7870
+    - name: neutral_nightwatcher_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 6a499279bf085634483309192eeb4204
+    - name: neutral_nightwatcher_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 13f45496d464c9b4ea98595db168f1fe
+    - name: neutral_nightwatcher_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e455e3b16b694544d8e14a3befc4213b
+    - name: neutral_nightwatcher_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2e8d634cf7192be47b710b58a49c342f
+    - name: neutral_nightwatcher_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 5ca58091d278cbd449565d1c20e977bd
+    - name: neutral_nightwatcher_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 13bd7af5febbba24ab190b0b0861a719
+    - name: neutral_nightwatcher_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 9f8fecc3d76f16c4d83b122c3c32b2e6
+    - name: neutral_nightwatcher_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 8819ade55c36c4f46a729ae50f781d16
+    - name: neutral_nightwatcher_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 8cc0274b01274cf4bad2e363e11d3752
+    - name: neutral_nightwatcher_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 19aa05a9b7f1a8240b149ce2c554d7ef
+    - name: neutral_nightwatcher_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 1fea09d90e2cd304a88ad5f2405d0239
+    - name: neutral_nightwatcher_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d9853c40833698544bc5722cd9110c92
+    - name: neutral_nightwatcher_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: da5e9aa3e00993340bba0bd9a8b6ea80
+    - name: neutral_nightwatcher_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e852bc27484d8be489146bca92d30587
+    - name: neutral_nightwatcher_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: c6e00c9a7c4b5734286f2d57e72dd391
+    - name: neutral_nightwatcher_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 1d3bf80578cf4cc41a378d4d560c8b64
+    - name: neutral_nightwatcher_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ae70453029aba3e4b9feb7049d10ca3f
+    - name: neutral_nightwatcher_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: fab1537ec32f2e148ae6c6b1f3273e17
+    - name: neutral_nightwatcher_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 68b348c009f2c3046a5473bab45fd6a3
+    - name: neutral_nightwatcher_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 5f05acdb9cab2c04595ccc58bbb0f0a1
+    - name: neutral_nightwatcher_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: fb21b274d2cddd1498da128cbd48b2f4
+    - name: neutral_nightwatcher_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7bb85fed4ace71246b3862c02f10af44
+    - name: neutral_nightwatcher_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 9d784ef4f48b65f4fa69a146242d387e
+    - name: neutral_nightwatcher_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: f58f3cd63dd058148902f2d9d1489776
+    - name: neutral_nightwatcher_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 7040bce61c28cf643b4052dd5f14366d
+    - name: neutral_nightwatcher_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 8ac818cc4667de748a1bbfe0d4a14ce6
+    - name: neutral_nightwatcher_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b27bcf1ef1c4970409bc4c989ab7a6e3
+    - name: neutral_nightwatcher_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d525e0bade7c90b4292edaec9872baff
+    - name: neutral_nightwatcher_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 8377385ca73efda48acea168ebf5c731
+    - name: neutral_nightwatcher_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 1550314fe75c6fb4484e2f5a70cb4a21
+    - name: neutral_nightwatcher_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: d57f6ca130f345243966fd4946a3a853
+    - name: neutral_nightwatcher_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3a9ae7830d172ba4b8c915716dc42199
+    - name: neutral_nightwatcher_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: c3c60b9f38846e94fab91f6f6e0ac889
+    - name: neutral_nightwatcher_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 04f5c7d53a221c04397c1cb14cd834a3
+    - name: neutral_nightwatcher_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 34a7ca10863154a45b33ee084b56fe8e
+    - name: neutral_nightwatcher_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: e740f774e0b1fda40a2ebac827879aea
+    - name: neutral_nightwatcher_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 763ff6c5a96c7764786473ce84ad9947
+    - name: neutral_nightwatcher_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3614bb2ae27182d4ab2adf8a40b4e2e3
+    - name: neutral_nightwatcher_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3f750d8f7bb4edb49b9246f8a84793f9
+    - name: neutral_nightwatcher_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 2c52234ce7d90434dae0b5346d18d7b9
+    - name: neutral_nightwatcher_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 3b0a24041f6c9634982c9ace2cc0c653
+    - name: neutral_nightwatcher_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: afa4343895d2ee2489c57fedee8e040b
+    - name: neutral_nightwatcher_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 0ed569853ac808e41ac9383ce58a3231
+    - name: neutral_nightwatcher_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 8ccc8ec555c7f224288fa475b7366daf
+    - name: neutral_nightwatcher_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: bb69a438ede062e41a39d796375e0ecf
+    - name: neutral_nightwatcher_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 586aef996572a4543bbb6073ca11536e
+    - name: neutral_nightwatcher_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: b147685a2151eae4e9f901e1aee4e0c5
+    - name: neutral_nightwatcher_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: 64363997b8e8f0341b7c85fe5f2c0786
+    - name: neutral_nightwatcher_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      spriteId: ba4435735a305284abaab2a6acd3e3af
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 120, y: 120}

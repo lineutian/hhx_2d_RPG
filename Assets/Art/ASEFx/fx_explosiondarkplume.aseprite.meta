@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: e54a43b894ddf9c439a2b68f8ec38094
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_explosiondarkplume_Frame_0
+    originalName: 
+    pivot: {x: 2.777778, y: -7.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 64
+      width: 9
+      height: 4
+    spriteID: b0a700a9fc276304e993442a92ead864
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 34}
+  - name: fx_explosiondarkplume_Frame_1
+    originalName: 
+    pivot: {x: 3, y: -6.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 51
+      width: 9
+      height: 5
+    spriteID: bbc6790f8d06aea42b013e21e19935bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 20}
+  - name: fx_explosiondarkplume_Frame_2
+    originalName: 
+    pivot: {x: 3.857143, y: -6.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 76
+      width: 7
+      height: 5
+    spriteID: 08bd68668c19fec46b0c791207b839cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 44}
+  - name: fx_explosiondarkplume_Frame_3
+    originalName: 
+    pivot: {x: 4.5, y: -6.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 4
+      width: 6
+      height: 5
+    spriteID: 110b9a3d23feaa844bde78cd212029e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: -29}
+  - name: fx_explosiondarkplume_Frame_4
+    originalName: 
+    pivot: {x: 5.4, y: -6.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 17
+      width: 5
+      height: 5
+    spriteID: d9364b668e40937488afd5505b6d3746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: -16}
+  - name: fx_explosiondarkplume_Frame_5
+    originalName: 
+    pivot: {x: 5.4, y: -18.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 30
+      width: 5
+      height: 2
+    spriteID: 4e4154efdd3fed245a210e04f741d96d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: -7}
+  - name: fx_explosiondarkplume_Frame_6
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.47619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 140
+      width: 26
+      height: 21
+    spriteID: 54afe9f6dbe8ce749b89dc7e1c266ca5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 130}
+  - name: fx_explosiondarkplume_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 97
+      width: 44
+      height: 32
+    spriteID: b5aeee3aba641004d9d06af50f6a3663
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 93}
+  - name: fx_explosiondarkplume_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 51
+      width: 48
+      height: 36
+    spriteID: fe61d26ceab2ab142b46a9f02af7ad82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 49}
+  - name: fx_explosiondarkplume_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.026315792}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 4
+      width: 50
+      height: 38
+    spriteID: fc99851b6ed30f94ca0f59e935ed6efb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 3}
+  - name: fx_explosiondarkplume_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.026315792}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 4
+      width: 50
+      height: 38
+    spriteID: c3953046922a064498ff45223779bfca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 3}
+  - name: fx_explosiondarkplume_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.026315792}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 4
+      width: 50
+      height: 38
+    spriteID: 07d59c193e157a74486fd979323ef4c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 3}
+  - name: fx_explosiondarkplume_Frame_12
+    originalName: 
+    pivot: {x: 0.509434, y: -0.025641028}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 53
+      height: 39
+    spriteID: ab3502958365a1440a8f676db7735629
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 3}
+  - name: fx_explosiondarkplume_Frame_13
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.085714296}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 97
+      width: 47
+      height: 35
+    spriteID: 4b21de69e09fda243b6747fa3e8cf3f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 94}
+  - name: fx_explosiondarkplume_Frame_14
+    originalName: 
+    pivot: {x: 0.48936167, y: -0.05405405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 51
+      width: 47
+      height: 37
+    spriteID: b20b6a97491c5874abfa117b561e0e14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 49}
+  - name: fx_explosiondarkplume_Frame_15
+    originalName: 
+    pivot: {x: 0.48979595, y: -0.026315792}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 51
+      width: 49
+      height: 38
+    spriteID: 48b280c9428ca1d4db626508ae7062cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 50}
+  - name: fx_explosiondarkplume_Frame_16
+    originalName: 
+    pivot: {x: 0.8333333, y: -0.68421054}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 140
+      width: 24
+      height: 19
+    spriteID: 385146fc3ca25dc43959cd84678c9c6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 127}
+  - name: fx_explosiondarkplume_Frame_17
+    originalName: 
+    pivot: {x: 0.8, y: -0.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 140
+      width: 25
+      height: 20
+    spriteID: 51b73a5e953827743b900fbbdd3b6c54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 127}
+  - name: fx_explosiondarkplume_Frame_18
+    originalName: 
+    pivot: {x: 0.75, y: -0.45833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 171
+      width: 32
+      height: 24
+    spriteID: 0f221c5ac75c40b48b9e2ec3e7f19089
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 160}
+  - name: fx_explosiondarkplume_Frame_19
+    originalName: 
+    pivot: {x: 0.5681818, y: -0.4347826}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 44
+      height: 23
+    spriteID: 55d4969476a1d6e4aa1f8764d52c407b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 130}
+  - name: fx_explosiondarkplume_Frame_20
+    originalName: 
+    pivot: {x: 0.4901961, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 97
+      width: 51
+      height: 27
+    spriteID: 5ec77fe4b3a9ac0419ed7b51d8c38ab6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 88}
+  - name: fx_explosiondarkplume_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 51
+      width: 56
+      height: 32
+    spriteID: 46bfd85300c48164b84af6fa95bec535
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 45}
+  - name: fx_explosiondarkplume_Frame_22
+    originalName: 
+    pivot: {x: 0.39473683, y: -0.21875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 97
+      width: 38
+      height: 32
+    spriteID: d49321b83e5ddfe40bf7f1e8a38975a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 90}
+  - name: fx_explosiondarkplume_Frame_23
+    originalName: 
+    pivot: {x: 0.54285717, y: -0.45833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 97
+      width: 35
+      height: 24
+    spriteID: 4e1f759f87a55b546beea561068b8b91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 86}
+  - name: fx_explosiondarkplume_Frame_24
+    originalName: 
+    pivot: {x: 0.54999995, y: -1.4166666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 140
+      width: 40
+      height: 12
+    spriteID: 9a8fd028c561c2b49a70bb1781d4ff27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 123}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1332873349
+    name: fx_explosiondarkplume
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_explosiondarkplume_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: b0a700a9fc276304e993442a92ead864
+    - name: fx_explosiondarkplume_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: bbc6790f8d06aea42b013e21e19935bf
+    - name: fx_explosiondarkplume_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 08bd68668c19fec46b0c791207b839cd
+    - name: fx_explosiondarkplume_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 110b9a3d23feaa844bde78cd212029e0
+    - name: fx_explosiondarkplume_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: d9364b668e40937488afd5505b6d3746
+    - name: fx_explosiondarkplume_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 4e4154efdd3fed245a210e04f741d96d
+    - name: fx_explosiondarkplume_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 54afe9f6dbe8ce749b89dc7e1c266ca5
+    - name: fx_explosiondarkplume_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: b5aeee3aba641004d9d06af50f6a3663
+    - name: fx_explosiondarkplume_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: fe61d26ceab2ab142b46a9f02af7ad82
+    - name: fx_explosiondarkplume_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: fc99851b6ed30f94ca0f59e935ed6efb
+    - name: fx_explosiondarkplume_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: c3953046922a064498ff45223779bfca
+    - name: fx_explosiondarkplume_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 07d59c193e157a74486fd979323ef4c7
+    - name: fx_explosiondarkplume_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: ab3502958365a1440a8f676db7735629
+    - name: fx_explosiondarkplume_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 4b21de69e09fda243b6747fa3e8cf3f2
+    - name: fx_explosiondarkplume_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: b20b6a97491c5874abfa117b561e0e14
+    - name: fx_explosiondarkplume_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 48b280c9428ca1d4db626508ae7062cc
+    - name: fx_explosiondarkplume_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 385146fc3ca25dc43959cd84678c9c6d
+    - name: fx_explosiondarkplume_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 51b73a5e953827743b900fbbdd3b6c54
+    - name: fx_explosiondarkplume_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 0f221c5ac75c40b48b9e2ec3e7f19089
+    - name: fx_explosiondarkplume_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 55d4969476a1d6e4aa1f8764d52c407b
+    - name: fx_explosiondarkplume_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 5ec77fe4b3a9ac0419ed7b51d8c38ab6
+    - name: fx_explosiondarkplume_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 46bfd85300c48164b84af6fa95bec535
+    - name: fx_explosiondarkplume_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: d49321b83e5ddfe40bf7f1e8a38975a4
+    - name: fx_explosiondarkplume_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 4e1f759f87a55b546beea561068b8b91
+    - name: fx_explosiondarkplume_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 56
+        height: 40
+      spriteId: 9a8fd028c561c2b49a70bb1781d4ff27
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 56, y: 40}

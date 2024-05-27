@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: aa4ff41c4ac3fe34dbc42d9601a005cf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_f1_lionheartblessing_Frame_0
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 1010
+      width: 0
+      height: 0
+    spriteID: 96aac1068a3ef4e4a949c128fff59408
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 830}
+  - name: fx_f1_lionheartblessing_Frame_1
+    originalName: 
+    pivot: {x: 1.7500001, y: -2.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 1012
+      width: 12
+      height: 8
+    spriteID: 6b67f9a9355cfb943975baa114fe63a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 994}
+  - name: fx_f1_lionheartblessing_Frame_2
+    originalName: 
+    pivot: {x: 0.48780486, y: -1.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 992
+      width: 41
+      height: 10
+    spriteID: 305a7ba44f8474c40911436465469881
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 974}
+  - name: fx_f1_lionheartblessing_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1001
+      width: 42
+      height: 15
+    spriteID: bf2065d34822dd342b76a9d9fd77f6f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -65, y: 986}
+  - name: fx_f1_lionheartblessing_Frame_4
+    originalName: 
+    pivot: {x: 0.5238095, y: -1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 992
+      width: 42
+      height: 12
+    spriteID: 8c87522d31ea7c14a8b1d6ffbaf05629
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2, y: 974}
+  - name: fx_f1_lionheartblessing_Frame_5
+    originalName: 
+    pivot: {x: 0.51219517, y: -1.8181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 973
+      width: 41
+      height: 11
+    spriteID: 35e4eb1e342695a4a84b5cac9a7b8e7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 953}
+  - name: fx_f1_lionheartblessing_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -1.7777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 1010
+      width: 42
+      height: 9
+    spriteID: 394ef4270a9403f4a93705b65e39bdda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 994}
+  - name: fx_f1_lionheartblessing_Frame_7
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.3636364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 973
+      width: 46
+      height: 11
+    spriteID: d320c127b4a14ae40b1acb38a28fa89e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 958}
+  - name: fx_f1_lionheartblessing_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.17283952}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 258
+      width: 54
+      height: 81
+    spriteID: 9fe01cae003055e4595c42c3b57dc094
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 244}
+  - name: fx_f1_lionheartblessing_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.028735632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 4
+      width: 94
+      height: 174
+    spriteID: c377d18e6d4696a47840bd56cda99b91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: -1}
+  - name: fx_f1_lionheartblessing_Frame_10
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.51754385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 879
+      width: 58
+      height: 114
+    spriteID: 00f83d2d0e57ed64ebfe7c30e64ed830
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -57, y: 820}
+  - name: fx_f1_lionheartblessing_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.02366864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 186
+      width: 94
+      height: 169
+    spriteID: 72eb3ae4f2f4d0740a12e5e9dc9d1c75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 182}
+  - name: fx_f1_lionheartblessing_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.035294123}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 168
+      height: 170
+    spriteID: 8445a1cb617bb3b4a876558efa8d6ee8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: -2}
+  - name: fx_f1_lionheartblessing_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 182
+      width: 160
+      height: 168
+    spriteID: fa154244aabb40640ad29e58dd93e1bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -6, y: 176}
+  - name: fx_f1_lionheartblessing_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.012048193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 358
+      width: 156
+      height: 166
+    spriteID: 37087a66a11903b4695ffae0f16f1846
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 356}
+  - name: fx_f1_lionheartblessing_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.012121213}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 706
+      width: 154
+      height: 165
+    spriteID: 07ed4823e5a820c4aacef37c8a8675ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 704}
+  - name: fx_f1_lionheartblessing_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.0060240966}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 532
+      width: 154
+      height: 166
+    spriteID: cc3734d35ba73554e94ff04711d53b8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 531}
+  - name: fx_f1_lionheartblessing_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 4
+      width: 98
+      height: 152
+    spriteID: b987e5e840742aa4f9a954112300f51b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 4}
+  - name: fx_f1_lionheartblessing_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.61627907}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 879
+      width: 76
+      height: 86
+    spriteID: 8d23a29c2f3c3e94b9eec4cce66f80ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 826}
+  - name: fx_f1_lionheartblessing_Frame_19
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.62790704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 363
+      width: 76
+      height: 86
+    spriteID: b6a3a38003c4fdb48b83b1ee682784d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 309}
+  - name: fx_f1_lionheartblessing_Frame_20
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.62790704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 457
+      width: 76
+      height: 86
+    spriteID: ec5990e4def214d469f825960a623c6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 403}
+  - name: fx_f1_lionheartblessing_Frame_21
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.62790704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 551
+      width: 76
+      height: 86
+    spriteID: adb77659489ea7c4aba9ef247e2e1170
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 497}
+  - name: fx_f1_lionheartblessing_Frame_22
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6395349}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 645
+      width: 76
+      height: 86
+    spriteID: 5b712fa1157ae9748904f275a634c080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 590}
+  - name: fx_f1_lionheartblessing_Frame_23
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6511628}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 739
+      width: 76
+      height: 86
+    spriteID: a847c75ddcce5bf49aad96acfe9386c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 683}
+  - name: fx_f1_lionheartblessing_Frame_24
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6511628}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 833
+      width: 76
+      height: 86
+    spriteID: 2e3d7e65ae26f144585f6fd2b9aac77d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 777}
+  - name: fx_f1_lionheartblessing_Frame_25
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6627907}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 927
+      width: 76
+      height: 86
+    spriteID: 0dff9e6690f99424cb66fdbe2ad20648
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 870}
+  - name: fx_f1_lionheartblessing_Frame_26
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6627907}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 164
+      width: 76
+      height: 86
+    spriteID: a6f013b10d3a350499723d46d31634f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 107}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 981642184
+    name: fx_f1_lionheartblessing
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_f1_lionheartblessing_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 96aac1068a3ef4e4a949c128fff59408
+    - name: fx_f1_lionheartblessing_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 6b67f9a9355cfb943975baa114fe63a7
+    - name: fx_f1_lionheartblessing_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 305a7ba44f8474c40911436465469881
+    - name: fx_f1_lionheartblessing_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: bf2065d34822dd342b76a9d9fd77f6f5
+    - name: fx_f1_lionheartblessing_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 8c87522d31ea7c14a8b1d6ffbaf05629
+    - name: fx_f1_lionheartblessing_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 35e4eb1e342695a4a84b5cac9a7b8e7b
+    - name: fx_f1_lionheartblessing_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 394ef4270a9403f4a93705b65e39bdda
+    - name: fx_f1_lionheartblessing_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: d320c127b4a14ae40b1acb38a28fa89e
+    - name: fx_f1_lionheartblessing_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 9fe01cae003055e4595c42c3b57dc094
+    - name: fx_f1_lionheartblessing_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: c377d18e6d4696a47840bd56cda99b91
+    - name: fx_f1_lionheartblessing_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 00f83d2d0e57ed64ebfe7c30e64ed830
+    - name: fx_f1_lionheartblessing_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 72eb3ae4f2f4d0740a12e5e9dc9d1c75
+    - name: fx_f1_lionheartblessing_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 8445a1cb617bb3b4a876558efa8d6ee8
+    - name: fx_f1_lionheartblessing_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: fa154244aabb40640ad29e58dd93e1bd
+    - name: fx_f1_lionheartblessing_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 37087a66a11903b4695ffae0f16f1846
+    - name: fx_f1_lionheartblessing_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 07ed4823e5a820c4aacef37c8a8675ef
+    - name: fx_f1_lionheartblessing_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: cc3734d35ba73554e94ff04711d53b8f
+    - name: fx_f1_lionheartblessing_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: b987e5e840742aa4f9a954112300f51b
+    - name: fx_f1_lionheartblessing_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 8d23a29c2f3c3e94b9eec4cce66f80ae
+    - name: fx_f1_lionheartblessing_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: b6a3a38003c4fdb48b83b1ee682784d9
+    - name: fx_f1_lionheartblessing_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: ec5990e4def214d469f825960a623c6d
+    - name: fx_f1_lionheartblessing_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: adb77659489ea7c4aba9ef247e2e1170
+    - name: fx_f1_lionheartblessing_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 5b712fa1157ae9748904f275a634c080
+    - name: fx_f1_lionheartblessing_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: a847c75ddcce5bf49aad96acfe9386c6
+    - name: fx_f1_lionheartblessing_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 2e3d7e65ae26f144585f6fd2b9aac77d
+    - name: fx_f1_lionheartblessing_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: 0dff9e6690f99424cb66fdbe2ad20648
+    - name: fx_f1_lionheartblessing_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      spriteId: a6f013b10d3a350499723d46d31634f9
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 180, y: 180}

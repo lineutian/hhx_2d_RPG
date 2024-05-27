@@ -1,0 +1,2805 @@
+fileFormatVersion: 2
+guid: 01a536f6eea6a4b4c8b96195da9c548e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_pennyarcade04_Frame_0
+    originalName: 
+    pivot: {x: 0.4736842, y: -0.27419356}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 296
+      width: 57
+      height: 62
+    spriteID: f2e2aec55fca22a4d99ee36752980c8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 279}
+  - name: neutral_pennyarcade04_Frame_1
+    originalName: 
+    pivot: {x: 0.4464286, y: -0.27419356}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 574
+      width: 56
+      height: 62
+    spriteID: 0d43ef3b011efaf418b5e59ecfce92b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 557}
+  - name: neutral_pennyarcade04_Frame_2
+    originalName: 
+    pivot: {x: 0.42372882, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 929
+      width: 59
+      height: 60
+    spriteID: ad41f244d3f31d6478d7405502e5c62f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 297, y: 913}
+  - name: neutral_pennyarcade04_Frame_3
+    originalName: 
+    pivot: {x: 0.45, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 77
+      width: 60
+      height: 59
+    spriteID: 6f8ccf32061eed045aa2f4011062fc21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 61}
+  - name: neutral_pennyarcade04_Frame_4
+    originalName: 
+    pivot: {x: 0.48387092, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 366
+      width: 62
+      height: 57
+    spriteID: e93f9696a0f5e5d48b6cec40159dbe6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 350}
+  - name: neutral_pennyarcade04_Frame_5
+    originalName: 
+    pivot: {x: 0.46774194, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 716
+      width: 62
+      height: 59
+    spriteID: 4f31ea1529256d94db944d0ee78fae98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 700}
+  - name: neutral_pennyarcade04_Frame_6
+    originalName: 
+    pivot: {x: 0.491228, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 505
+      width: 57
+      height: 61
+    spriteID: d3481a23b94c12c4fb0895f236c04f43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 227, y: 488}
+  - name: neutral_pennyarcade04_Frame_7
+    originalName: 
+    pivot: {x: 0.46551725, y: -0.27419356}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 859
+      width: 58
+      height: 62
+    spriteID: afaf998570b04784f8f69cafae566ba9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 842}
+  - name: neutral_pennyarcade04_Frame_8
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 77
+      width: 50
+      height: 63
+    spriteID: fcc4b636f64275c4b9a270de6fe14435
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: 61}
+  - name: neutral_pennyarcade04_Frame_9
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 787
+      width: 49
+      height: 64
+    spriteID: 7ca78c66b1d401e41bd384281a4e10c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: 771}
+  - name: neutral_pennyarcade04_Frame_10
+    originalName: 
+    pivot: {x: 0.58, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 879
+      width: 50
+      height: 65
+    spriteID: abaa0bfcbd97576498422e7ac99ecc37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 380, y: 863}
+  - name: neutral_pennyarcade04_Frame_11
+    originalName: 
+    pivot: {x: 0.58, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 435
+      width: 50
+      height: 66
+    spriteID: 638e5c3ebf3b68e468dbb7764ff5c079
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 380, y: 419}
+  - name: neutral_pennyarcade04_Frame_12
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 644
+      width: 52
+      height: 66
+    spriteID: 7dee51453ca2acc4f95c29a366398de6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 628}
+  - name: neutral_pennyarcade04_Frame_13
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 862
+      width: 52
+      height: 65
+    spriteID: a921851dd37e311479744e3feb258a47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 846}
+  - name: neutral_pennyarcade04_Frame_14
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 935
+      width: 52
+      height: 65
+    spriteID: 5928ec803c35fc74382bc7177953274e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 919}
+  - name: neutral_pennyarcade04_Frame_15
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 718
+      width: 52
+      height: 66
+    spriteID: da18f7e37434e4b4e9c1c0478f1f2b0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 702}
+  - name: neutral_pennyarcade04_Frame_16
+    originalName: 
+    pivot: {x: 0.5849057, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 431
+      width: 53
+      height: 66
+    spriteID: 6759b0851d86e2f41b8bcfd47bcd6aaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 415}
+  - name: neutral_pennyarcade04_Frame_17
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 70
+      width: 52
+      height: 65
+    spriteID: afe1cb5f829f7934daa23847570b1758
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 54}
+  - name: neutral_pennyarcade04_Frame_18
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 290
+      width: 52
+      height: 64
+    spriteID: fdc3586f738d7414c8a615bd06e536e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 274}
+  - name: neutral_pennyarcade04_Frame_19
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 4
+      width: 52
+      height: 62
+    spriteID: 80bc4a66c52397943b41936402189588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 519, y: -12}
+  - name: neutral_pennyarcade04_Frame_20
+    originalName: 
+    pivot: {x: 0.5686275, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 142
+      width: 51
+      height: 61
+    spriteID: b9b9385a336b1ee4c86ba0eaeaed0027
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 518, y: 126}
+  - name: neutral_pennyarcade04_Frame_21
+    originalName: 
+    pivot: {x: 0.5576923, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 74
+      width: 52
+      height: 60
+    spriteID: 6ea8708fa4300974c85ea2e8f7db911b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 518, y: 58}
+  - name: neutral_pennyarcade04_Frame_22
+    originalName: 
+    pivot: {x: 0.5490196, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 211
+      width: 51
+      height: 60
+    spriteID: c8f084c7e6b65734f9d0af7e90477ca5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 517, y: 195}
+  - name: neutral_pennyarcade04_Frame_23
+    originalName: 
+    pivot: {x: 0.54, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 488
+      width: 50
+      height: 60
+    spriteID: dd322d8155b80344ba6d8003263ce11e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 516, y: 472}
+  - name: neutral_pennyarcade04_Frame_24
+    originalName: 
+    pivot: {x: 0.53061223, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 556
+      width: 49
+      height: 60
+    spriteID: 465f267e4e5aa084ca066e094a684368
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 515, y: 540}
+  - name: neutral_pennyarcade04_Frame_25
+    originalName: 
+    pivot: {x: 0.54, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 279
+      width: 50
+      height: 61
+    spriteID: a85901c9eab0ef447865cce6fd0cab8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 516, y: 263}
+  - name: neutral_pennyarcade04_Frame_26
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 348
+      width: 49
+      height: 62
+    spriteID: 55598cd0eca9ceb40a182b340839eb16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 516, y: 332}
+  - name: neutral_pennyarcade04_Frame_27
+    originalName: 
+    pivot: {x: 0.54, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 148
+      width: 50
+      height: 63
+    spriteID: 7e3e7a582c0c4e34eae18aa2a205d919
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 132}
+  - name: neutral_pennyarcade04_Frame_28
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 219
+      width: 50
+      height: 63
+    spriteID: e665432204c81f742b94c0f712acad90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 203}
+  - name: neutral_pennyarcade04_Frame_29
+    originalName: 
+    pivot: {x: 0.6545454, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 792
+      width: 55
+      height: 62
+    spriteID: 4c7ef87719c4d8048999f8f06bb871a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 776}
+  - name: neutral_pennyarcade04_Frame_30
+    originalName: 
+    pivot: {x: 0.54, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 290
+      width: 50
+      height: 63
+    spriteID: d1b13c2675d5a4f4a8c7d8858e08417e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 274}
+  - name: neutral_pennyarcade04_Frame_31
+    originalName: 
+    pivot: {x: 0.5084745, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 645
+      width: 59
+      height: 63
+    spriteID: fe7cf983b410e344387ca70fc71dbe5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 302, y: 629}
+  - name: neutral_pennyarcade04_Frame_32
+    originalName: 
+    pivot: {x: 0.5373134, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 71
+      width: 67
+      height: 62
+    spriteID: 2d358e1461f61cc40b28de68bc300213
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 55}
+  - name: neutral_pennyarcade04_Frame_33
+    originalName: 
+    pivot: {x: 0.5797101, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 841
+      width: 69
+      height: 62
+    spriteID: ae0516f38da6b1c40b79ac48309fb33c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 825}
+  - name: neutral_pennyarcade04_Frame_34
+    originalName: 
+    pivot: {x: 0.5652174, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 214
+      width: 69
+      height: 59
+    spriteID: 61489bf096a3b5a4ca64e00a7a85edd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: 198}
+  - name: neutral_pennyarcade04_Frame_35
+    originalName: 
+    pivot: {x: 0.5652174, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 427
+      width: 69
+      height: 58
+    spriteID: 3b097d90ec9945149b260fb7c7b52d5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: 411}
+  - name: neutral_pennyarcade04_Frame_36
+    originalName: 
+    pivot: {x: 0.5492958, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 4
+      width: 71
+      height: 59
+    spriteID: ca5d3484d5c13b849bbb3b7efa9f6a7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: -12}
+  - name: neutral_pennyarcade04_Frame_37
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 4
+      width: 72
+      height: 58
+    spriteID: 722b5b0bac2d32b4390efff51275b022
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: -12}
+  - name: neutral_pennyarcade04_Frame_38
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 707
+      width: 73
+      height: 59
+    spriteID: 8b83baa9ee937624b928243f55a0d91f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 691}
+  - name: neutral_pennyarcade04_Frame_39
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 774
+      width: 73
+      height: 59
+    spriteID: 3a069d47a715a7049b212c38cae4c656
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 758}
+  - name: neutral_pennyarcade04_Frame_40
+    originalName: 
+    pivot: {x: 0.520548, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 911
+      width: 73
+      height: 58
+    spriteID: 6a2ce728454ed014ba33d154faff33ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 895}
+  - name: neutral_pennyarcade04_Frame_41
+    originalName: 
+    pivot: {x: 0.453125, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 281
+      width: 64
+      height: 63
+    spriteID: e5699c4d37e5b8a4a8cf124e2358f452
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 265}
+  - name: neutral_pennyarcade04_Frame_42
+    originalName: 
+    pivot: {x: 0.44615388, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 4
+      width: 65
+      height: 65
+    spriteID: 2f62abfac715c18419aa680a563e5c27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: -12}
+  - name: neutral_pennyarcade04_Frame_43
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 569
+      width: 55
+      height: 68
+    spriteID: 953110bfa477ab8428557dab2f9b28d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 297, y: 553}
+  - name: neutral_pennyarcade04_Frame_44
+    originalName: 
+    pivot: {x: 0.45283017, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 783
+      width: 53
+      height: 68
+    spriteID: b4ea3b5dcc435744685361d5ce5c1dee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 296, y: 766}
+  - name: neutral_pennyarcade04_Frame_45
+    originalName: 
+    pivot: {x: 0.4230769, y: -0.2647059}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 144
+      width: 52
+      height: 68
+    spriteID: 598ee4679eb38e94b91eb75a60be3167
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 126}
+  - name: neutral_pennyarcade04_Frame_46
+    originalName: 
+    pivot: {x: 0.40384617, y: -0.2647059}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 220
+      width: 52
+      height: 68
+    spriteID: d95aea50830cf2d43b0eafbd1927f486
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 202}
+  - name: neutral_pennyarcade04_Frame_47
+    originalName: 
+    pivot: {x: 0.39215684, y: -0.3030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 216
+      width: 51
+      height: 66
+    spriteID: 811b0f16f14cd5f43948071fef480c6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 371, y: 196}
+  - name: neutral_pennyarcade04_Frame_48
+    originalName: 
+    pivot: {x: 0.37254906, y: -0.32307696}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 362
+      width: 51
+      height: 65
+    spriteID: 169c2b194a7b1fa4482344acf5206b2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 341}
+  - name: neutral_pennyarcade04_Frame_49
+    originalName: 
+    pivot: {x: 0.36538464, y: -0.32307696}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 143
+      width: 52
+      height: 65
+    spriteID: 0f4ad3a8c39923946b8161b9be1470fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 122}
+  - name: neutral_pennyarcade04_Frame_50
+    originalName: 
+    pivot: {x: 0.3333333, y: -0.3389831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 841
+      width: 48
+      height: 59
+    spriteID: 98d6bd7e4dc6df1479f24db8144366f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 821}
+  - name: neutral_pennyarcade04_Frame_51
+    originalName: 
+    pivot: {x: 0.31250003, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 624
+      width: 48
+      height: 52
+    spriteID: f4128f077b10f3d4c9021fe7fa31be69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 504, y: 604}
+  - name: neutral_pennyarcade04_Frame_52
+    originalName: 
+    pivot: {x: 0.2978723, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 684
+      width: 47
+      height: 52
+    spriteID: 138114e7725908e4cb4b5eb871511a53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 503, y: 664}
+  - name: neutral_pennyarcade04_Frame_53
+    originalName: 
+    pivot: {x: 0.36111113, y: -0.67741936}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 911
+      width: 36
+      height: 31
+    spriteID: c29a299ea990a92418dd8cc1d4407a65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 890}
+  - name: neutral_pennyarcade04_Frame_54
+    originalName: 
+    pivot: {x: 0.3636363, y: -0.67741936}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 707
+      width: 33
+      height: 31
+    spriteID: cca8bfcedf4beb94e9f77d07d2f47072
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 686}
+  - name: neutral_pennyarcade04_Frame_55
+    originalName: 
+    pivot: {x: 0.2000004, y: -2.6363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 950
+      width: 5
+      height: 11
+    spriteID: ebb0b19ae7a24684c9ad42b268392362
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 921}
+  - name: neutral_pennyarcade04_Frame_56
+    originalName: 
+    pivot: {x: 1.000002, y: -29}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 950
+      width: 1
+      height: 1
+    spriteID: a0e090194d102534790c134e37e48310
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 921}
+  - name: neutral_pennyarcade04_Frame_57
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 969
+      width: 0
+      height: 0
+    spriteID: 14f2ea746ae71c642a6223b455ebe935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 829}
+  - name: neutral_pennyarcade04_Frame_58
+    originalName: 
+    pivot: {x: 0.54, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 361
+      width: 50
+      height: 63
+    spriteID: cfa085c28b04de64d8d3d1b0fd535f64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 345}
+  - name: neutral_pennyarcade04_Frame_59
+    originalName: 
+    pivot: {x: 0.54, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 432
+      width: 50
+      height: 63
+    spriteID: e36c534ed4a96c9499c43c08fdcca6e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 416}
+  - name: neutral_pennyarcade04_Frame_60
+    originalName: 
+    pivot: {x: 0.54, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 503
+      width: 50
+      height: 63
+    spriteID: bd5a2d137972b674096ef84bade54fa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 487}
+  - name: neutral_pennyarcade04_Frame_61
+    originalName: 
+    pivot: {x: 0.54, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 574
+      width: 50
+      height: 63
+    spriteID: 7da7a0ba562783e49b85aa723a4de94b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 558}
+  - name: neutral_pennyarcade04_Frame_62
+    originalName: 
+    pivot: {x: 0.54, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 645
+      width: 50
+      height: 63
+    spriteID: f77ea2da2ccbd6b4c98f913d44180a3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 629}
+  - name: neutral_pennyarcade04_Frame_63
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 859
+      width: 49
+      height: 64
+    spriteID: f855fb1322fda3e4eb342c9b8ecdaea1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 843}
+  - name: neutral_pennyarcade04_Frame_64
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 952
+      width: 50
+      height: 65
+    spriteID: 9fece491832fbe94989b02ace26645f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 936}
+  - name: neutral_pennyarcade04_Frame_65
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 509
+      width: 50
+      height: 66
+    spriteID: e102b7e84643a174b88a948782af075b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 493}
+  - name: neutral_pennyarcade04_Frame_66
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 583
+      width: 50
+      height: 66
+    spriteID: d5b868930adaeb24fbe33c96abcdc30f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 567}
+  - name: neutral_pennyarcade04_Frame_67
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 657
+      width: 50
+      height: 66
+    spriteID: f632ccec78160e74fa72aa7966268d00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 641}
+  - name: neutral_pennyarcade04_Frame_68
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 731
+      width: 50
+      height: 66
+    spriteID: 4f97c0132be6b244e9541b8a3f1b2da5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 715}
+  - name: neutral_pennyarcade04_Frame_69
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 805
+      width: 50
+      height: 66
+    spriteID: 20d30c664b2469a408f52c9a0595eb81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 789}
+  - name: neutral_pennyarcade04_Frame_70
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.24615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 4
+      width: 50
+      height: 65
+    spriteID: 19979216706e657499f198987bd2e6ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: -12}
+  - name: neutral_pennyarcade04_Frame_71
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 931
+      width: 49
+      height: 64
+    spriteID: 3e6dec306ca992f43a8842e87c1c67ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 915}
+  - name: neutral_pennyarcade04_Frame_72
+    originalName: 
+    pivot: {x: 0.55999994, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 501
+      y: 716
+      width: 50
+      height: 63
+    spriteID: fa3fa3bc2d6897142859065ca99ed3b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: 700}
+  - name: neutral_pennyarcade04_Frame_73
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 559
+      y: 418
+      width: 49
+      height: 62
+    spriteID: fd135e39412ddc04f87e47b602f2cef3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 516, y: 402}
+  - name: neutral_pennyarcade04_Frame_74
+    originalName: 
+    pivot: {x: 0.6428571, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 493
+      width: 56
+      height: 68
+    spriteID: 147d0c2cc4d684f42964280f5d5e5633
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 476}
+  - name: neutral_pennyarcade04_Frame_75
+    originalName: 
+    pivot: {x: 0.6833333, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 352
+      width: 60
+      height: 67
+    spriteID: 7967816f79a3ae74eab70a871d501258
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 335}
+  - name: neutral_pennyarcade04_Frame_76
+    originalName: 
+    pivot: {x: 0.6825397, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 141
+      width: 63
+      height: 65
+    spriteID: 7ee14172949291846b4a9aea2beea201
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 124}
+  - name: neutral_pennyarcade04_Frame_77
+    originalName: 
+    pivot: {x: 0.67948717, y: -0.14666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 562
+      width: 78
+      height: 75
+    spriteID: d23efd5f74e14b94eaae203ea93b4683
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 551}
+  - name: neutral_pennyarcade04_Frame_78
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.097222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 482
+      width: 90
+      height: 72
+    spriteID: 2fc53834732ecc8439edbb767f291f1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 475}
+  - name: neutral_pennyarcade04_Frame_79
+    originalName: 
+    pivot: {x: 0.50537634, y: -0.14814815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 645
+      width: 93
+      height: 54
+    spriteID: 4983315c2df331143b3657f336501e16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 637}
+  - name: neutral_pennyarcade04_Frame_80
+    originalName: 
+    pivot: {x: 0.47524747, y: -0.07526882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 381
+      width: 101
+      height: 93
+    spriteID: ec0bd0aa38e42ba4182c9bc44a827791
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 374}
+  - name: neutral_pennyarcade04_Frame_81
+    originalName: 
+    pivot: {x: 0.4678899, y: -0.08737864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 859
+      width: 109
+      height: 103
+    spriteID: 91cf7ef762dfee042b584c81d24c2641
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 850}
+  - name: neutral_pennyarcade04_Frame_82
+    originalName: 
+    pivot: {x: 0.45535713, y: -0.085714296}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 746
+      width: 112
+      height: 105
+    spriteID: f8920c38857fd794aa21a3427ef16aa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 737}
+  - name: neutral_pennyarcade04_Frame_83
+    originalName: 
+    pivot: {x: 0.4561403, y: -0.08411215}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 631
+      width: 114
+      height: 107
+    spriteID: f7278efc751d5964d9e2c0a1d29e80f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 622}
+  - name: neutral_pennyarcade04_Frame_84
+    originalName: 
+    pivot: {x: 0.47058827, y: -0.07272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 397
+      width: 119
+      height: 110
+    spriteID: 2773cf6f277b73c488938efad332b641
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 389}
+  - name: neutral_pennyarcade04_Frame_85
+    originalName: 
+    pivot: {x: 0.48672566, y: -0.06481481}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 515
+      width: 113
+      height: 108
+    spriteID: 70211f614f8caea42aed9698b96054f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 508}
+  - name: neutral_pennyarcade04_Frame_86
+    originalName: 
+    pivot: {x: 0.50549453, y: -0.060869563}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 258
+      width: 91
+      height: 115
+    spriteID: 17ded408d95e1174ebca8ffd62ab6765
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 251}
+  - name: neutral_pennyarcade04_Frame_87
+    originalName: 
+    pivot: {x: 0.5, y: -0.057851236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 268
+      width: 112
+      height: 121
+    spriteID: 090f0961224f87e41a9f798d07e9eeaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 261}
+  - name: neutral_pennyarcade04_Frame_88
+    originalName: 
+    pivot: {x: 0.49166664, y: -0.06557377}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 138
+      width: 120
+      height: 122
+    spriteID: 312b0c72d90851e43baf3bebdc591a43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 130}
+  - name: neutral_pennyarcade04_Frame_89
+    originalName: 
+    pivot: {x: 0.49193546, y: -0.05555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 124
+      height: 126
+    spriteID: 77d5e0ab221d9ab4c9f66b599c8590f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: -3}
+  - name: neutral_pennyarcade04_Frame_90
+    originalName: 
+    pivot: {x: 0.496, y: -0.09016393}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 4
+      width: 125
+      height: 122
+    spriteID: 1b10bda02f2606342b105119163c5efe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: -7}
+  - name: neutral_pennyarcade04_Frame_91
+    originalName: 
+    pivot: {x: 0.56989247, y: -0.13793103}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 134
+      width: 93
+      height: 116
+    spriteID: 16b406f22bbd23a469b83fd28ba12d1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 118}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 256019096
+    name: neutral_pennyarcade04
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_pennyarcade04_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f2e2aec55fca22a4d99ee36752980c8d
+    - name: neutral_pennyarcade04_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 0d43ef3b011efaf418b5e59ecfce92b5
+    - name: neutral_pennyarcade04_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ad41f244d3f31d6478d7405502e5c62f
+    - name: neutral_pennyarcade04_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 6f8ccf32061eed045aa2f4011062fc21
+    - name: neutral_pennyarcade04_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: e93f9696a0f5e5d48b6cec40159dbe6a
+    - name: neutral_pennyarcade04_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 4f31ea1529256d94db944d0ee78fae98
+    - name: neutral_pennyarcade04_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d3481a23b94c12c4fb0895f236c04f43
+    - name: neutral_pennyarcade04_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: afaf998570b04784f8f69cafae566ba9
+    - name: neutral_pennyarcade04_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: fcc4b636f64275c4b9a270de6fe14435
+    - name: neutral_pennyarcade04_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7ca78c66b1d401e41bd384281a4e10c8
+    - name: neutral_pennyarcade04_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: abaa0bfcbd97576498422e7ac99ecc37
+    - name: neutral_pennyarcade04_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 638e5c3ebf3b68e468dbb7764ff5c079
+    - name: neutral_pennyarcade04_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7dee51453ca2acc4f95c29a366398de6
+    - name: neutral_pennyarcade04_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: a921851dd37e311479744e3feb258a47
+    - name: neutral_pennyarcade04_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 5928ec803c35fc74382bc7177953274e
+    - name: neutral_pennyarcade04_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: da18f7e37434e4b4e9c1c0478f1f2b0a
+    - name: neutral_pennyarcade04_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 6759b0851d86e2f41b8bcfd47bcd6aaf
+    - name: neutral_pennyarcade04_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: afe1cb5f829f7934daa23847570b1758
+    - name: neutral_pennyarcade04_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: fdc3586f738d7414c8a615bd06e536e0
+    - name: neutral_pennyarcade04_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 80bc4a66c52397943b41936402189588
+    - name: neutral_pennyarcade04_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: b9b9385a336b1ee4c86ba0eaeaed0027
+    - name: neutral_pennyarcade04_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 6ea8708fa4300974c85ea2e8f7db911b
+    - name: neutral_pennyarcade04_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: c8f084c7e6b65734f9d0af7e90477ca5
+    - name: neutral_pennyarcade04_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: dd322d8155b80344ba6d8003263ce11e
+    - name: neutral_pennyarcade04_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 465f267e4e5aa084ca066e094a684368
+    - name: neutral_pennyarcade04_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: a85901c9eab0ef447865cce6fd0cab8b
+    - name: neutral_pennyarcade04_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 55598cd0eca9ceb40a182b340839eb16
+    - name: neutral_pennyarcade04_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7e3e7a582c0c4e34eae18aa2a205d919
+    - name: neutral_pennyarcade04_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: e665432204c81f742b94c0f712acad90
+    - name: neutral_pennyarcade04_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 4c7ef87719c4d8048999f8f06bb871a1
+    - name: neutral_pennyarcade04_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d1b13c2675d5a4f4a8c7d8858e08417e
+    - name: neutral_pennyarcade04_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: fe7cf983b410e344387ca70fc71dbe5e
+    - name: neutral_pennyarcade04_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 2d358e1461f61cc40b28de68bc300213
+    - name: neutral_pennyarcade04_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ae0516f38da6b1c40b79ac48309fb33c
+    - name: neutral_pennyarcade04_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 61489bf096a3b5a4ca64e00a7a85edd1
+    - name: neutral_pennyarcade04_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 3b097d90ec9945149b260fb7c7b52d5b
+    - name: neutral_pennyarcade04_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ca5d3484d5c13b849bbb3b7efa9f6a7b
+    - name: neutral_pennyarcade04_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 722b5b0bac2d32b4390efff51275b022
+    - name: neutral_pennyarcade04_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 8b83baa9ee937624b928243f55a0d91f
+    - name: neutral_pennyarcade04_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 3a069d47a715a7049b212c38cae4c656
+    - name: neutral_pennyarcade04_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 6a2ce728454ed014ba33d154faff33ba
+    - name: neutral_pennyarcade04_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: e5699c4d37e5b8a4a8cf124e2358f452
+    - name: neutral_pennyarcade04_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 2f62abfac715c18419aa680a563e5c27
+    - name: neutral_pennyarcade04_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 953110bfa477ab8428557dab2f9b28d8
+    - name: neutral_pennyarcade04_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: b4ea3b5dcc435744685361d5ce5c1dee
+    - name: neutral_pennyarcade04_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 598ee4679eb38e94b91eb75a60be3167
+    - name: neutral_pennyarcade04_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d95aea50830cf2d43b0eafbd1927f486
+    - name: neutral_pennyarcade04_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 811b0f16f14cd5f43948071fef480c6c
+    - name: neutral_pennyarcade04_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 169c2b194a7b1fa4482344acf5206b2f
+    - name: neutral_pennyarcade04_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 0f4ad3a8c39923946b8161b9be1470fe
+    - name: neutral_pennyarcade04_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 98d6bd7e4dc6df1479f24db8144366f8
+    - name: neutral_pennyarcade04_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f4128f077b10f3d4c9021fe7fa31be69
+    - name: neutral_pennyarcade04_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 138114e7725908e4cb4b5eb871511a53
+    - name: neutral_pennyarcade04_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: c29a299ea990a92418dd8cc1d4407a65
+    - name: neutral_pennyarcade04_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: cca8bfcedf4beb94e9f77d07d2f47072
+    - name: neutral_pennyarcade04_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ebb0b19ae7a24684c9ad42b268392362
+    - name: neutral_pennyarcade04_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: a0e090194d102534790c134e37e48310
+    - name: neutral_pennyarcade04_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 14f2ea746ae71c642a6223b455ebe935
+    - name: neutral_pennyarcade04_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: cfa085c28b04de64d8d3d1b0fd535f64
+    - name: neutral_pennyarcade04_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: e36c534ed4a96c9499c43c08fdcca6e4
+    - name: neutral_pennyarcade04_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: bd5a2d137972b674096ef84bade54fa9
+    - name: neutral_pennyarcade04_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7da7a0ba562783e49b85aa723a4de94b
+    - name: neutral_pennyarcade04_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f77ea2da2ccbd6b4c98f913d44180a3c
+    - name: neutral_pennyarcade04_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f855fb1322fda3e4eb342c9b8ecdaea1
+    - name: neutral_pennyarcade04_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 9fece491832fbe94989b02ace26645f0
+    - name: neutral_pennyarcade04_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: e102b7e84643a174b88a948782af075b
+    - name: neutral_pennyarcade04_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d5b868930adaeb24fbe33c96abcdc30f
+    - name: neutral_pennyarcade04_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f632ccec78160e74fa72aa7966268d00
+    - name: neutral_pennyarcade04_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 4f97c0132be6b244e9541b8a3f1b2da5
+    - name: neutral_pennyarcade04_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 20d30c664b2469a408f52c9a0595eb81
+    - name: neutral_pennyarcade04_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 19979216706e657499f198987bd2e6ea
+    - name: neutral_pennyarcade04_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 3e6dec306ca992f43a8842e87c1c67ac
+    - name: neutral_pennyarcade04_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: fa3fa3bc2d6897142859065ca99ed3b3
+    - name: neutral_pennyarcade04_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: fd135e39412ddc04f87e47b602f2cef3
+    - name: neutral_pennyarcade04_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 147d0c2cc4d684f42964280f5d5e5633
+    - name: neutral_pennyarcade04_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7967816f79a3ae74eab70a871d501258
+    - name: neutral_pennyarcade04_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 7ee14172949291846b4a9aea2beea201
+    - name: neutral_pennyarcade04_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: d23efd5f74e14b94eaae203ea93b4683
+    - name: neutral_pennyarcade04_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 2fc53834732ecc8439edbb767f291f1e
+    - name: neutral_pennyarcade04_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 4983315c2df331143b3657f336501e16
+    - name: neutral_pennyarcade04_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: ec0bd0aa38e42ba4182c9bc44a827791
+    - name: neutral_pennyarcade04_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 91cf7ef762dfee042b584c81d24c2641
+    - name: neutral_pennyarcade04_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f8920c38857fd794aa21a3427ef16aa3
+    - name: neutral_pennyarcade04_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: f7278efc751d5964d9e2c0a1d29e80f3
+    - name: neutral_pennyarcade04_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 2773cf6f277b73c488938efad332b641
+    - name: neutral_pennyarcade04_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 70211f614f8caea42aed9698b96054f0
+    - name: neutral_pennyarcade04_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 17ded408d95e1174ebca8ffd62ab6765
+    - name: neutral_pennyarcade04_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 090f0961224f87e41a9f798d07e9eeaa
+    - name: neutral_pennyarcade04_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 312b0c72d90851e43baf3bebdc591a43
+    - name: neutral_pennyarcade04_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 77d5e0ab221d9ab4c9f66b599c8590f8
+    - name: neutral_pennyarcade04_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 1b10bda02f2606342b105119163c5efe
+    - name: neutral_pennyarcade04_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 140
+        height: 140
+      spriteId: 16b406f22bbd23a469b83fd28ba12d1f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 140, y: 140}

@@ -11,6 +11,7 @@ public class xuetiao : Singleton<xuetiao>
     [SerializeField] private float xue_time_1;//serializefield 可以在外部通过面板改变private变量
     public float xue_chazhi;
     public TextMeshProUGUI xueliang;
+    //通过获取玩家血量变动，改变血量条的fillAomunt值以实现血量条UI的变动视觉效果
     public void updatehp(int currnhp,int maxhpp)
     {
         xue.fillAmount = (float)currnhp / (float)maxhpp;

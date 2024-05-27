@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 2fa5dcfdfa99e084388d2e0e749652fe
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_chloroara_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 929
+      width: 32
+      height: 56
+    spriteID: 305b5425a9cbf2b47a1243fd1dbbe5a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 915}
+  - name: neutral_chloroara_Frame_1
+    originalName: 
+    pivot: {x: 0.44117647, y: -0.38}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 176
+      width: 34
+      height: 50
+    spriteID: 6640e75080381f5448aee5abc011170d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 157}
+  - name: neutral_chloroara_Frame_2
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.5681818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 4
+      width: 45
+      height: 44
+    spriteID: ec93565493a7d0f44be4b19e96405720
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: -21}
+  - name: neutral_chloroara_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.6046511}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 917
+      width: 50
+      height: 43
+    spriteID: 06c54cc49a7a6624fbbe8675dfb2bd03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 891}
+  - name: neutral_chloroara_Frame_4
+    originalName: 
+    pivot: {x: 0.43902442, y: -0.47272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 705
+      width: 41
+      height: 55
+    spriteID: bde2241a481690743bdcf8a40bdbb5cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 679}
+  - name: neutral_chloroara_Frame_5
+    originalName: 
+    pivot: {x: 0.44736838, y: -0.48076922}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 380
+      width: 38
+      height: 52
+    spriteID: 497413fa52b03f441adc66e6a02debd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 355}
+  - name: neutral_chloroara_Frame_6
+    originalName: 
+    pivot: {x: 0.47619045, y: -0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 4
+      width: 42
+      height: 48
+    spriteID: a23ab2efd4b50e6468bc940db0bade4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: -20}
+  - name: neutral_chloroara_Frame_7
+    originalName: 
+    pivot: {x: 0.4210526, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 281
+      width: 38
+      height: 66
+    spriteID: 94b180052b710584ca8745ecdff28bad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 266}
+  - name: neutral_chloroara_Frame_8
+    originalName: 
+    pivot: {x: 0.40540543, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 489
+      width: 37
+      height: 67
+    spriteID: e0947cd46d8688f479b54e1f5b635748
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 474}
+  - name: neutral_chloroara_Frame_9
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.23076925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 768
+      width: 34
+      height: 65
+    spriteID: eb3c330d2c973454488abc87e33c961a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 753}
+  - name: neutral_chloroara_Frame_10
+    originalName: 
+    pivot: {x: 0.31249997, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 841
+      width: 32
+      height: 68
+    spriteID: 7b6dbd7a59723284897d8e5438de6417
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 826}
+  - name: neutral_chloroara_Frame_11
+    originalName: 
+    pivot: {x: 0.38888884, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 412
+      width: 36
+      height: 69
+    spriteID: 5009c5d7ad1e15c459da9795ca318462
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 396}
+  - name: neutral_chloroara_Frame_12
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 389
+      width: 46
+      height: 69
+    spriteID: 7c14f7332e8736b41b4e3d81f4de15f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 373}
+  - name: neutral_chloroara_Frame_13
+    originalName: 
+    pivot: {x: 0.6181818, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 795
+      width: 55
+      height: 64
+    spriteID: ed72ff19e467ac342a559fe8c423d7fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 779}
+  - name: neutral_chloroara_Frame_14
+    originalName: 
+    pivot: {x: 0.6206897, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 648
+      width: 58
+      height: 65
+    spriteID: ca6b9eef431e10742930232697b4dd11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 632}
+  - name: neutral_chloroara_Frame_15
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 721
+      width: 55
+      height: 66
+    spriteID: 037aab8fca361f444a20a23c5aa25115
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 705}
+  - name: neutral_chloroara_Frame_16
+    originalName: 
+    pivot: {x: 0.5925926, y: -0.25396824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 937
+      width: 54
+      height: 63
+    spriteID: 0cde746a1e8e5c84d81369f3d541a6df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 921}
+  - name: neutral_chloroara_Frame_17
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 599
+      width: 48
+      height: 65
+    spriteID: fa015c4c6ad7fb54a8da641e06bf9927
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 583}
+  - name: neutral_chloroara_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 788
+      width: 44
+      height: 67
+    spriteID: 34e0df78490265b41b2d136bb6197cb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 772}
+  - name: neutral_chloroara_Frame_19
+    originalName: 
+    pivot: {x: 0.4358974, y: -0.21428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 133
+      width: 39
+      height: 70
+    spriteID: 5a1a0bea8c9d65f44b1d7c7692693ab3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 118}
+  - name: neutral_chloroara_Frame_20
+    originalName: 
+    pivot: {x: 0.44736838, y: -0.23437501}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 564
+      width: 38
+      height: 64
+    spriteID: bd5bc6bb273a7ef4eb1b186ce72ee5f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 549}
+  - name: neutral_chloroara_Frame_21
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 205
+      width: 63
+      height: 54
+    spriteID: e589dde437da0b241aad070d19514f08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 189}
+  - name: neutral_chloroara_Frame_22
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 69
+      width: 72
+      height: 56
+    spriteID: 2b8b765ffae51b8448e74ac845556f02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 53}
+  - name: neutral_chloroara_Frame_23
+    originalName: 
+    pivot: {x: 0.5479452, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 4
+      width: 73
+      height: 57
+    spriteID: 0961591334fa8574db2e4a391ab901cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: -12}
+  - name: neutral_chloroara_Frame_24
+    originalName: 
+    pivot: {x: 0.63461536, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 466
+      width: 52
+      height: 61
+    spriteID: dfc62d9b1f19c66418855fdb96130b94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 450}
+  - name: neutral_chloroara_Frame_25
+    originalName: 
+    pivot: {x: 0.6181818, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 867
+      width: 55
+      height: 62
+    spriteID: 9acfd1dbbdb933f4ea582cb83d8a1585
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 851}
+  - name: neutral_chloroara_Frame_26
+    originalName: 
+    pivot: {x: 0.57377046, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 578
+      width: 61
+      height: 62
+    spriteID: 72a96a64a5afd5a4a963781e02ccf4be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 562}
+  - name: neutral_chloroara_Frame_27
+    originalName: 
+    pivot: {x: 0.55172414, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 267
+      width: 58
+      height: 57
+    spriteID: 597def50e96185a46a046162294b684c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 251}
+  - name: neutral_chloroara_Frame_28
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 535
+      width: 56
+      height: 56
+    spriteID: f74036a36fd53b8499a8a76474d23871
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 519}
+  - name: neutral_chloroara_Frame_29
+    originalName: 
+    pivot: {x: 0.5283019, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 724
+      width: 53
+      height: 56
+    spriteID: 5152c2a9205190648a6f6d7a9b7c6b7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 708}
+  - name: neutral_chloroara_Frame_30
+    originalName: 
+    pivot: {x: 0.5384615, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 925
+      width: 52
+      height: 54
+    spriteID: f079bd1fb1782ec49a1e79925558b50c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 909}
+  - name: neutral_chloroara_Frame_31
+    originalName: 
+    pivot: {x: 0.6486487, y: -0.32}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 810
+      width: 37
+      height: 50
+    spriteID: aec83d20c2e28594cbc524ee0e993532
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 794}
+  - name: neutral_chloroara_Frame_32
+    originalName: 
+    pivot: {x: 0.63888884, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 325
+      width: 36
+      height: 35
+    spriteID: cede853fb7643374b8cde6501936f2eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 311}
+  - name: neutral_chloroara_Frame_33
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.35135135}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 368
+      width: 33
+      height: 37
+    spriteID: b70c8c645523e7743845a4eec0ed6926
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 355}
+  - name: neutral_chloroara_Frame_34
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.34210524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 279
+      width: 34
+      height: 38
+    spriteID: 43db929673bedbc42a5e984e73a930d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 266}
+  - name: neutral_chloroara_Frame_35
+    originalName: 
+    pivot: {x: 0.4666666, y: -0.4117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 413
+      width: 30
+      height: 34
+    spriteID: 46f8dad7acf8f7d4d91a7e3b7e946cc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 399}
+  - name: neutral_chloroara_Frame_36
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.48}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 489
+      width: 35
+      height: 25
+    spriteID: 4f84826f441ac2b45be956fd70616df4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 477}
+  - name: neutral_chloroara_Frame_37
+    originalName: 
+    pivot: {x: 0.52777773, y: -0.44}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 987
+      width: 36
+      height: 25
+    spriteID: 104edc82d58ccf844beb98586e06b620
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 976}
+  - name: neutral_chloroara_Frame_38
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 455
+      width: 34
+      height: 26
+    spriteID: cb9fd016e2315324aad504387ff3300d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 257, y: 445}
+  - name: neutral_chloroara_Frame_39
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 993
+      width: 34
+      height: 27
+    spriteID: ea47b84d0751b1f43aaa505f960a6d2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 984}
+  - name: neutral_chloroara_Frame_40
+    originalName: 
+    pivot: {x: 0.43243244, y: -0.2830189}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 440
+      width: 37
+      height: 53
+    spriteID: 51d0f173f487c1b428030438860ba23a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 425}
+  - name: neutral_chloroara_Frame_41
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 254
+      width: 36
+      height: 55
+    spriteID: 351b8c729eb1b464a876c47732627eec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 239}
+  - name: neutral_chloroara_Frame_42
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 189
+      width: 35
+      height: 57
+    spriteID: bbf14b2c08cb39748bd026b39b8a8ca0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 174}
+  - name: neutral_chloroara_Frame_43
+    originalName: 
+    pivot: {x: 0.38235292, y: -0.2542373}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 60
+      width: 34
+      height: 59
+    spriteID: ba31db638a2a2e34480e5ec2345f636a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 45}
+  - name: neutral_chloroara_Frame_44
+    originalName: 
+    pivot: {x: 0.36363637, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 841
+      width: 33
+      height: 55
+    spriteID: 8f1e0d187f1810a4eb5d44afb5d1bd66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 826}
+  - name: neutral_chloroara_Frame_45
+    originalName: 
+    pivot: {x: 0.38235292, y: -0.2830189}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 868
+      width: 34
+      height: 53
+    spriteID: 46559e34795941e49a0ae235bd5e8e37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 853}
+  - name: neutral_chloroara_Frame_46
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 565
+      width: 36
+      height: 54
+    spriteID: db38d7ba3b9d1b84ea4ce23b98c13122
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 550}
+  - name: neutral_chloroara_Frame_47
+    originalName: 
+    pivot: {x: 0.43243244, y: -0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 127
+      width: 37
+      height: 54
+    spriteID: e48175425d6feb94c80350ab65bdd0c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 112}
+  - name: neutral_chloroara_Frame_48
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 317
+      width: 36
+      height: 55
+    spriteID: 29ffa73e588188a46b4e8255c729fb39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 302}
+  - name: neutral_chloroara_Frame_49
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.26785716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 501
+      width: 35
+      height: 56
+    spriteID: 539c28a878e6d4d409a9fce143e3693c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 486}
+  - name: neutral_chloroara_Frame_50
+    originalName: 
+    pivot: {x: 0.38235292, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 627
+      width: 34
+      height: 57
+    spriteID: 4a8b484d223c0f146813bb86c4f56f9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 612}
+  - name: neutral_chloroara_Frame_51
+    originalName: 
+    pivot: {x: 0.36363637, y: -0.2830189}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 56
+      width: 33
+      height: 53
+    spriteID: 47b06f810c6ed62429228084658f99fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 41}
+  - name: neutral_chloroara_Frame_52
+    originalName: 
+    pivot: {x: 0.38235292, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 117
+      width: 34
+      height: 51
+    spriteID: ca1908f7ff17b3e479f0c7e569cde5ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 102}
+  - name: neutral_chloroara_Frame_53
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.28846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 750
+      width: 36
+      height: 52
+    spriteID: af46124996c2c3c47b91c53fc09567f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 735}
+  - name: neutral_chloroara_Frame_54
+    originalName: 
+    pivot: {x: 0.40540543, y: -0.24590164}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 636
+      width: 37
+      height: 61
+    spriteID: 78f11b569a09a3148a9d45b1006d05ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 621}
+  - name: neutral_chloroara_Frame_55
+    originalName: 
+    pivot: {x: 0.3, y: -0.24193549}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 768
+      width: 30
+      height: 62
+    spriteID: b1cfa6b17baa7e943a17a14528c2ce06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 753}
+  - name: neutral_chloroara_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 211
+      width: 42
+      height: 62
+    spriteID: 7cb09a7260cc47a4ebe2c78b5b7a5386
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 195}
+  - name: neutral_chloroara_Frame_57
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 863
+      width: 54
+      height: 54
+    spriteID: f18b7154c5a321341afff783e2e5b692
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 847}
+  - name: neutral_chloroara_Frame_58
+    originalName: 
+    pivot: {x: 0.48484847, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 332
+      width: 66
+      height: 49
+    spriteID: 3f9b7c6fabf33424d944149ac4576ff6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 316}
+  - name: neutral_chloroara_Frame_59
+    originalName: 
+    pivot: {x: 0.4637681, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 141
+      width: 69
+      height: 56
+    spriteID: c30c44bf108a1114fb1e14b4dea8b32f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 125}
+  - name: neutral_chloroara_Frame_60
+    originalName: 
+    pivot: {x: 0.47887325, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 73
+      width: 71
+      height: 60
+    spriteID: 5207349a4e1931b4199378f929860504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 57}
+  - name: neutral_chloroara_Frame_61
+    originalName: 
+    pivot: {x: 0.49295774, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 4
+      width: 71
+      height: 61
+    spriteID: e8df02734fe11064e885e0b52e13ae75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: -12}
+  - name: neutral_chloroara_Frame_62
+    originalName: 
+    pivot: {x: 0.5074627, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 512
+      width: 67
+      height: 58
+    spriteID: 718577a136b90424e9735aff5e88db8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 496}
+  - name: neutral_chloroara_Frame_63
+    originalName: 
+    pivot: {x: 0.30882353, y: -0.40909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 672
+      width: 68
+      height: 44
+    spriteID: f90aa1ad39f5d26489bdbcbac2e0d0b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 654}
+  - name: neutral_chloroara_Frame_64
+    originalName: 
+    pivot: {x: 0.27941176, y: -0.22666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 68
+      height: 75
+    spriteID: 9a97bdf793353c045b02d1b8e827c12d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: -13}
+  - name: neutral_chloroara_Frame_65
+    originalName: 
+    pivot: {x: 0.24242423, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 173
+      width: 66
+      height: 76
+    spriteID: fc6be55bf28904544bacae4c74c99073
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -30, y: 157}
+  - name: neutral_chloroara_Frame_66
+    originalName: 
+    pivot: {x: 0.11111111, y: -0.19230771}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 426
+      width: 54
+      height: 78
+    spriteID: 56f0932d69c20e442868c1d9fe6fdde8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -40, y: 411}
+  - name: neutral_chloroara_Frame_67
+    originalName: 
+    pivot: {x: 0.23809525, y: -0.18987343}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 257
+      width: 63
+      height: 79
+    spriteID: d0f1ccdc1c7596a49968119a2e640e3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -31, y: 242}
+  - name: neutral_chloroara_Frame_68
+    originalName: 
+    pivot: {x: 0.2769231, y: -0.20512821}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 87
+      width: 65
+      height: 78
+    spriteID: 5fcfbff81bd69ef4cbd0785b5314ee4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 71}
+  - name: neutral_chloroara_Frame_69
+    originalName: 
+    pivot: {x: 0.31818184, y: -0.22972974}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 344
+      width: 66
+      height: 74
+    spriteID: 8c4c5fe083061ba46978889bc1660f52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 327}
+  - name: neutral_chloroara_Frame_70
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.3469388}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 355
+      width: 51
+      height: 49
+    spriteID: f65e929f22a0c5f47af00df298ed7500
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 338}
+  - name: neutral_chloroara_Frame_71
+    originalName: 
+    pivot: {x: 0.47727275, y: -0.3617021}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 968
+      width: 44
+      height: 47
+    spriteID: 32118186ba6f9b7459e74263250bda3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 951}
+  - name: neutral_chloroara_Frame_72
+    originalName: 
+    pivot: {x: 0.4871795, y: -0.45945948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 234
+      width: 39
+      height: 37
+    spriteID: c8802268b9f11ed4da00b8c8ad45d59c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 217}
+  - name: neutral_chloroara_Frame_73
+    originalName: 
+    pivot: {x: 0.44736838, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 692
+      width: 38
+      height: 50
+    spriteID: 3e9f790f782bb46418f898cdf7c06cef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 677}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1492618377
+    name: neutral_chloroara
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_chloroara_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 305b5425a9cbf2b47a1243fd1dbbe5a4
+    - name: neutral_chloroara_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6640e75080381f5448aee5abc011170d
+    - name: neutral_chloroara_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ec93565493a7d0f44be4b19e96405720
+    - name: neutral_chloroara_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 06c54cc49a7a6624fbbe8675dfb2bd03
+    - name: neutral_chloroara_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bde2241a481690743bdcf8a40bdbb5cf
+    - name: neutral_chloroara_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 497413fa52b03f441adc66e6a02debd2
+    - name: neutral_chloroara_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a23ab2efd4b50e6468bc940db0bade4e
+    - name: neutral_chloroara_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 94b180052b710584ca8745ecdff28bad
+    - name: neutral_chloroara_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e0947cd46d8688f479b54e1f5b635748
+    - name: neutral_chloroara_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: eb3c330d2c973454488abc87e33c961a
+    - name: neutral_chloroara_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7b6dbd7a59723284897d8e5438de6417
+    - name: neutral_chloroara_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5009c5d7ad1e15c459da9795ca318462
+    - name: neutral_chloroara_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7c14f7332e8736b41b4e3d81f4de15f7
+    - name: neutral_chloroara_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ed72ff19e467ac342a559fe8c423d7fa
+    - name: neutral_chloroara_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ca6b9eef431e10742930232697b4dd11
+    - name: neutral_chloroara_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 037aab8fca361f444a20a23c5aa25115
+    - name: neutral_chloroara_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0cde746a1e8e5c84d81369f3d541a6df
+    - name: neutral_chloroara_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fa015c4c6ad7fb54a8da641e06bf9927
+    - name: neutral_chloroara_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 34e0df78490265b41b2d136bb6197cb2
+    - name: neutral_chloroara_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5a1a0bea8c9d65f44b1d7c7692693ab3
+    - name: neutral_chloroara_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bd5bc6bb273a7ef4eb1b186ce72ee5f3
+    - name: neutral_chloroara_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e589dde437da0b241aad070d19514f08
+    - name: neutral_chloroara_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2b8b765ffae51b8448e74ac845556f02
+    - name: neutral_chloroara_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0961591334fa8574db2e4a391ab901cc
+    - name: neutral_chloroara_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dfc62d9b1f19c66418855fdb96130b94
+    - name: neutral_chloroara_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9acfd1dbbdb933f4ea582cb83d8a1585
+    - name: neutral_chloroara_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 72a96a64a5afd5a4a963781e02ccf4be
+    - name: neutral_chloroara_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 597def50e96185a46a046162294b684c
+    - name: neutral_chloroara_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f74036a36fd53b8499a8a76474d23871
+    - name: neutral_chloroara_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5152c2a9205190648a6f6d7a9b7c6b7f
+    - name: neutral_chloroara_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f079bd1fb1782ec49a1e79925558b50c
+    - name: neutral_chloroara_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: aec83d20c2e28594cbc524ee0e993532
+    - name: neutral_chloroara_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cede853fb7643374b8cde6501936f2eb
+    - name: neutral_chloroara_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b70c8c645523e7743845a4eec0ed6926
+    - name: neutral_chloroara_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 43db929673bedbc42a5e984e73a930d2
+    - name: neutral_chloroara_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 46f8dad7acf8f7d4d91a7e3b7e946cc5
+    - name: neutral_chloroara_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4f84826f441ac2b45be956fd70616df4
+    - name: neutral_chloroara_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 104edc82d58ccf844beb98586e06b620
+    - name: neutral_chloroara_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cb9fd016e2315324aad504387ff3300d
+    - name: neutral_chloroara_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ea47b84d0751b1f43aaa505f960a6d2c
+    - name: neutral_chloroara_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 51d0f173f487c1b428030438860ba23a
+    - name: neutral_chloroara_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 351b8c729eb1b464a876c47732627eec
+    - name: neutral_chloroara_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bbf14b2c08cb39748bd026b39b8a8ca0
+    - name: neutral_chloroara_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ba31db638a2a2e34480e5ec2345f636a
+    - name: neutral_chloroara_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8f1e0d187f1810a4eb5d44afb5d1bd66
+    - name: neutral_chloroara_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 46559e34795941e49a0ae235bd5e8e37
+    - name: neutral_chloroara_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: db38d7ba3b9d1b84ea4ce23b98c13122
+    - name: neutral_chloroara_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e48175425d6feb94c80350ab65bdd0c8
+    - name: neutral_chloroara_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 29ffa73e588188a46b4e8255c729fb39
+    - name: neutral_chloroara_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 539c28a878e6d4d409a9fce143e3693c
+    - name: neutral_chloroara_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4a8b484d223c0f146813bb86c4f56f9f
+    - name: neutral_chloroara_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 47b06f810c6ed62429228084658f99fe
+    - name: neutral_chloroara_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ca1908f7ff17b3e479f0c7e569cde5ae
+    - name: neutral_chloroara_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: af46124996c2c3c47b91c53fc09567f8
+    - name: neutral_chloroara_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 78f11b569a09a3148a9d45b1006d05ff
+    - name: neutral_chloroara_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b1cfa6b17baa7e943a17a14528c2ce06
+    - name: neutral_chloroara_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7cb09a7260cc47a4ebe2c78b5b7a5386
+    - name: neutral_chloroara_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f18b7154c5a321341afff783e2e5b692
+    - name: neutral_chloroara_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3f9b7c6fabf33424d944149ac4576ff6
+    - name: neutral_chloroara_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c30c44bf108a1114fb1e14b4dea8b32f
+    - name: neutral_chloroara_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5207349a4e1931b4199378f929860504
+    - name: neutral_chloroara_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e8df02734fe11064e885e0b52e13ae75
+    - name: neutral_chloroara_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 718577a136b90424e9735aff5e88db8a
+    - name: neutral_chloroara_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f90aa1ad39f5d26489bdbcbac2e0d0b5
+    - name: neutral_chloroara_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9a97bdf793353c045b02d1b8e827c12d
+    - name: neutral_chloroara_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fc6be55bf28904544bacae4c74c99073
+    - name: neutral_chloroara_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 56f0932d69c20e442868c1d9fe6fdde8
+    - name: neutral_chloroara_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d0f1ccdc1c7596a49968119a2e640e3e
+    - name: neutral_chloroara_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5fcfbff81bd69ef4cbd0785b5314ee4e
+    - name: neutral_chloroara_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8c4c5fe083061ba46978889bc1660f52
+    - name: neutral_chloroara_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f65e929f22a0c5f47af00df298ed7500
+    - name: neutral_chloroara_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 32118186ba6f9b7459e74263250bda3d
+    - name: neutral_chloroara_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c8802268b9f11ed4da00b8c8ad45d59c
+    - name: neutral_chloroara_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3e9f790f782bb46418f898cdf7c06cef
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

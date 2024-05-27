@@ -33,8 +33,8 @@ public class player_Data
         Inventory = new Dictionary<int, int>();
         Achievement= new Dictionary<string, bool>();
         Equiptory = new Dictionary<EquipType, int>();
-        data=GameObject.Find("待机1").GetComponent<Character>();
-        data_1=GameObject.Find("待机1").GetComponent<NewBehaviourScript>();
+        data=ObjectManager.Player.GetComponent<Character>();
+        data_1=ObjectManager.Player.GetComponent<NewBehaviourScript>();
     }
     
     public bool ChangeMoney(int amount)//金钱变动
@@ -49,7 +49,6 @@ public class player_Data
             if (Mathf.Abs(amount) > Money) return false;//mathf.abs绝对值
             Money += amount;
         }
-        GlobalController.Instance.UpdateUI();
 
         return true;
     }
@@ -122,11 +121,10 @@ public class player_Data
             T_Ftk += equip.EquipData.Ftk;
             if (equip.EquipType == EquipType.武器)
             {
-                data_1.ATKPefUPDATE(equip.EquipPef);
+                data_1.ATKPefUPDATE(equip.EquipGameObject);
             }
         }
         UIController.Instance.sxgx();
         xuetiao.Instance.update(T_Hp);
-        equipUI.Instance.equipUIUPdate();
     }
 }

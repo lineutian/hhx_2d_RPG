@@ -20,6 +20,6 @@ public class 装备 : MonoBehaviour
     public void 装备装备()
     {
         id = Int32.Parse(GameObject.Find("面板").transform.GetChild(0).name);
-        GlobalController.Instance.Data.AddEquipToEquiptory(id);
+        Player.Instance.playerData.AddEquipToEquiptory(id);
     }
 }

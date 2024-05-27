@@ -1,0 +1,2834 @@
+fileFormatVersion: 2
+guid: 6ae8cdf02c9190d449813ac1d37ea15b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_moltengolem_Frame_0
+    originalName: 
+    pivot: {x: 0.58620685, y: -0.20289856}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 545
+      width: 58
+      height: 69
+    spriteID: 5c61b9c2364f28f4887f9284eb8ba6b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 513, y: 531}
+  - name: neutral_moltengolem_Frame_1
+    originalName: 
+    pivot: {x: 0.6071428, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 828
+      width: 56
+      height: 66
+    spriteID: 0c69d7a1daaee7747960c4854e282746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 513, y: 813}
+  - name: neutral_moltengolem_Frame_2
+    originalName: 
+    pivot: {x: 0.5849056, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 68
+      width: 53
+      height: 63
+    spriteID: d8956b05e9b7e664298ef0f73eef1bfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 52}
+  - name: neutral_moltengolem_Frame_3
+    originalName: 
+    pivot: {x: 0.59374994, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 622
+      width: 64
+      height: 61
+    spriteID: 7a0141ff76bb3ad42ab067664bcb5b5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 517, y: 606}
+  - name: neutral_moltengolem_Frame_4
+    originalName: 
+    pivot: {x: 0.63793105, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 902
+      width: 58
+      height: 63
+    spriteID: ab7ddc2045b9a104089749a0f387d3e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 516, y: 886}
+  - name: neutral_moltengolem_Frame_5
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 139
+      width: 50
+      height: 64
+    spriteID: 8f7d04ae1e3154f4bb36e660c6befbe9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 675, y: 121}
+  - name: neutral_moltengolem_Frame_6
+    originalName: 
+    pivot: {x: 0.5199999, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 211
+      width: 50
+      height: 64
+    spriteID: 01d947dbcaa548d4296e36b0c7657cc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 671, y: 193}
+  - name: neutral_moltengolem_Frame_7
+    originalName: 
+    pivot: {x: 0.48275858, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 756
+      width: 58
+      height: 64
+    spriteID: 0adcfb3dbcab1f945a90d141cdb87a52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 507, y: 738}
+  - name: neutral_moltengolem_Frame_8
+    originalName: 
+    pivot: {x: 0.42465752, y: -0.29032257}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 148
+      width: 73
+      height: 62
+    spriteID: 389eeefeee6f1cd478052309d8f5c5d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 588, y: 130}
+  - name: neutral_moltengolem_Frame_9
+    originalName: 
+    pivot: {x: 0.4189189, y: -0.21875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 76
+      width: 74
+      height: 64
+    spriteID: 783681ab154b95d48897e66a802368b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 588, y: 62}
+  - name: neutral_moltengolem_Frame_10
+    originalName: 
+    pivot: {x: 0.48571426, y: -0.21212122}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 259
+      width: 70
+      height: 66
+    spriteID: cafd1f743d402e34682ecda83411e514
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 513, y: 245}
+  - name: neutral_moltengolem_Frame_11
+    originalName: 
+    pivot: {x: 0.5230769, y: -0.20289856}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 333
+      width: 65
+      height: 69
+    spriteID: 2b5342f3a4641004181f58c2858b26f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 513, y: 319}
+  - name: neutral_moltengolem_Frame_12
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 694
+      width: 84
+      height: 65
+    spriteID: f6f40eda64b1d30419f7900a016836d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 337, y: 679}
+  - name: neutral_moltengolem_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 459
+      width: 90
+      height: 66
+    spriteID: 88a23c8f7a909934d948d672ef102cb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 444}
+  - name: neutral_moltengolem_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 533
+      width: 90
+      height: 66
+    spriteID: d33b5f0b4abbf9d4cba3adc324b0fc70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 518}
+  - name: neutral_moltengolem_Frame_15
+    originalName: 
+    pivot: {x: 0.5054945, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 883
+      width: 91
+      height: 67
+    spriteID: 8ea1c00c764329f42acdc604e062e464
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 868}
+  - name: neutral_moltengolem_Frame_16
+    originalName: 
+    pivot: {x: 0.516129, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 427
+      width: 93
+      height: 68
+    spriteID: 7ff77d50a322d0a4bb54a5f7e051a4f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 412}
+  - name: neutral_moltengolem_Frame_17
+    originalName: 
+    pivot: {x: 0.516129, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 503
+      width: 93
+      height: 68
+    spriteID: 80783b95d086ac841b9d7271bfe14b13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 488}
+  - name: neutral_moltengolem_Frame_18
+    originalName: 
+    pivot: {x: 0.5274725, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 731
+      width: 91
+      height: 68
+    spriteID: c3b2161fddb298348adc28baf66c5bcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 716}
+  - name: neutral_moltengolem_Frame_19
+    originalName: 
+    pivot: {x: 0.5274725, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 807
+      width: 91
+      height: 68
+    spriteID: 006f70b87464f964c8fe3b69d6f40763
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 792}
+  - name: neutral_moltengolem_Frame_20
+    originalName: 
+    pivot: {x: 0.5274725, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 206
+      width: 91
+      height: 67
+    spriteID: 13720c9057bae34408118d25cb29906d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 191}
+  - name: neutral_moltengolem_Frame_21
+    originalName: 
+    pivot: {x: 0.52873564, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 607
+      width: 87
+      height: 67
+    spriteID: 3c0181b4a4fbedf4ba50eb8e41fcc50c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 592}
+  - name: neutral_moltengolem_Frame_22
+    originalName: 
+    pivot: {x: 0.52873564, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 682
+      width: 87
+      height: 66
+    spriteID: 793de43f3cec50542908400756631052
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 667}
+  - name: neutral_moltengolem_Frame_23
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 767
+      width: 84
+      height: 65
+    spriteID: 98ba1b91a0840a34585ae9bc7f7b280e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 337, y: 752}
+  - name: neutral_moltengolem_Frame_24
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 383
+      width: 84
+      height: 64
+    spriteID: 4e80e84b6471a964699f3ed3b3fe0078
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 368}
+  - name: neutral_moltengolem_Frame_25
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 455
+      width: 84
+      height: 64
+    spriteID: bc0d9bb97de7264499ef6c3f5fe43b60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 440}
+  - name: neutral_moltengolem_Frame_26
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 527
+      width: 84
+      height: 64
+    spriteID: 35797f63d35567849b5be24e7a1a587c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 512}
+  - name: neutral_moltengolem_Frame_27
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 599
+      width: 84
+      height: 64
+    spriteID: 9500e0cc5521d6e48babde64498c0856
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 584}
+  - name: neutral_moltengolem_Frame_28
+    originalName: 
+    pivot: {x: 0.54347825, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 579
+      width: 92
+      height: 68
+    spriteID: f75e98f26b7b0034bbf327031f6118fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 564}
+  - name: neutral_moltengolem_Frame_29
+    originalName: 
+    pivot: {x: 0.55421686, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 152
+      width: 83
+      height: 68
+    spriteID: 2223d37b864482949bc78514e8bd610d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 338, y: 137}
+  - name: neutral_moltengolem_Frame_30
+    originalName: 
+    pivot: {x: 0.5301205, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 228
+      width: 83
+      height: 68
+    spriteID: cf376cd2537b9454d8209655cf52b48d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 213}
+  - name: neutral_moltengolem_Frame_31
+    originalName: 
+    pivot: {x: 0.54347825, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 655
+      width: 92
+      height: 68
+    spriteID: 6cafd7f5e73ecfd4a925009e23441b97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 640}
+  - name: neutral_moltengolem_Frame_32
+    originalName: 
+    pivot: {x: 0.55421686, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 304
+      width: 83
+      height: 68
+    spriteID: f2192168d473ccb499c28c81aab1bf61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 338, y: 289}
+  - name: neutral_moltengolem_Frame_33
+    originalName: 
+    pivot: {x: 0.5301205, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 380
+      width: 83
+      height: 68
+    spriteID: 2e14e285d055ab24c9ab16dc621d20e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 365}
+  - name: neutral_moltengolem_Frame_34
+    originalName: 
+    pivot: {x: 0.5428571, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 4
+      width: 70
+      height: 75
+    spriteID: f4310ec6f6a943e42b3dea88d086da88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 517, y: -11}
+  - name: neutral_moltengolem_Frame_35
+    originalName: 
+    pivot: {x: 0.5205479, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 611
+      width: 73
+      height: 75
+    spriteID: 765bdd03be1e05d46ae7c4b58b80eb94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 596}
+  - name: neutral_moltengolem_Frame_36
+    originalName: 
+    pivot: {x: 0.5135135, y: -0.18518518}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 281
+      width: 74
+      height: 81
+    spriteID: 7756b67b2f199a64fba5a9d9d822bb7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 266}
+  - name: neutral_moltengolem_Frame_37
+    originalName: 
+    pivot: {x: 0.5135135, y: -0.18518518}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 370
+      width: 74
+      height: 81
+    spriteID: 2ee4d665d28a24648967f9751e1d1b76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 355}
+  - name: neutral_moltengolem_Frame_38
+    originalName: 
+    pivot: {x: 0.4782609, y: -0.18987341}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 296
+      width: 69
+      height: 79
+    spriteID: cb11de887b8c15d45ba0c600e21fb2bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 281}
+  - name: neutral_moltengolem_Frame_39
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.1923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 173
+      width: 66
+      height: 78
+    spriteID: 15616f343f3d8654d803ffc73f26ee4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 512, y: 158}
+  - name: neutral_moltengolem_Frame_40
+    originalName: 
+    pivot: {x: 0.5373134, y: -0.1923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 87
+      width: 67
+      height: 78
+    spriteID: 057cf08b68c83294b85e659cf073347d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 515, y: 72}
+  - name: neutral_moltengolem_Frame_41
+    originalName: 
+    pivot: {x: 0.5522388, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 497
+      width: 67
+      height: 64
+    spriteID: 0ddd9122c62adc24f8c1e479851e962b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 594, y: 482}
+  - name: neutral_moltengolem_Frame_42
+    originalName: 
+    pivot: {x: 0.6065574, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 4
+      width: 61
+      height: 56
+    spriteID: 54107fda71e81694f8388c82b617cdc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 682, y: -12}
+  - name: neutral_moltengolem_Frame_43
+    originalName: 
+    pivot: {x: 0.6417911, y: -0.0877193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 691
+      width: 67
+      height: 57
+    spriteID: 031de0b0108da0a43b8fd5ddba6babe6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 522, y: 686}
+  - name: neutral_moltengolem_Frame_44
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.06779661}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 478
+      width: 69
+      height: 59
+    spriteID: 613836c3f9d41df4fb560979e0725124
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 525, y: 474}
+  - name: neutral_moltengolem_Frame_45
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.050000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 410
+      width: 69
+      height: 60
+    spriteID: e9bc17c4e6976ee44ae9152d97a26a09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 525, y: 407}
+  - name: neutral_moltengolem_Frame_46
+    originalName: 
+    pivot: {x: 0.67142856, y: -0.050000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 707
+      width: 70
+      height: 60
+    spriteID: 76492139fb8f63a43ac787da637f2bb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 704}
+  - name: neutral_moltengolem_Frame_47
+    originalName: 
+    pivot: {x: 0.6101695, y: -0.18867925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 966
+      width: 59
+      height: 53
+    spriteID: 1a4dd622a595ec94cafac23fe875f41f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 423, y: 956}
+  - name: neutral_moltengolem_Frame_48
+    originalName: 
+    pivot: {x: 0.6101695, y: -0.18867925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 283
+      width: 59
+      height: 53
+    spriteID: 7a5fc904afd850842ac625da9b6ff552
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 273}
+  - name: neutral_moltengolem_Frame_49
+    originalName: 
+    pivot: {x: 0.6101695, y: -0.18867925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 344
+      width: 59
+      height: 53
+    spriteID: 0ea54416083d2b24aa6c33a3cb79c152
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 334}
+  - name: neutral_moltengolem_Frame_50
+    originalName: 
+    pivot: {x: 0.6101695, y: -0.18867925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 405
+      width: 59
+      height: 53
+    spriteID: afb5a35f7d88e2c4f98d8ee02139968d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 395}
+  - name: neutral_moltengolem_Frame_51
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 840
+      width: 84
+      height: 65
+    spriteID: 84ac79b430acd3246b12805d204855b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 337, y: 825}
+  - name: neutral_moltengolem_Frame_52
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 913
+      width: 84
+      height: 65
+    spriteID: f0942db6c39204e47a00acd4bc0c7f4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 337, y: 898}
+  - name: neutral_moltengolem_Frame_53
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 4
+      width: 84
+      height: 65
+    spriteID: bb71e3c6a509659458b6efa38153d379
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: -11}
+  - name: neutral_moltengolem_Frame_54
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 77
+      width: 84
+      height: 65
+    spriteID: 770acc1874d580448a39926b94bdda76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 62}
+  - name: neutral_moltengolem_Frame_55
+    originalName: 
+    pivot: {x: 0.52873564, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 756
+      width: 87
+      height: 66
+    spriteID: 84dd3dcb37abe4149b2f0f6fdfa24560
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 741}
+  - name: neutral_moltengolem_Frame_56
+    originalName: 
+    pivot: {x: 0.52873564, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 830
+      width: 87
+      height: 66
+    spriteID: cd6da5b2886236b44aa27fd6153c9534
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 815}
+  - name: neutral_moltengolem_Frame_57
+    originalName: 
+    pivot: {x: 0.52873564, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 904
+      width: 87
+      height: 66
+    spriteID: 16579104598ff964983034f47edb4e16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 889}
+  - name: neutral_moltengolem_Frame_58
+    originalName: 
+    pivot: {x: 0.52873564, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 4
+      width: 87
+      height: 66
+    spriteID: 3d5627f43d7079d4e8f67f043c8b932d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 338, y: -11}
+  - name: neutral_moltengolem_Frame_59
+    originalName: 
+    pivot: {x: 0.52873564, y: -0.22727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 78
+      width: 87
+      height: 66
+    spriteID: ed0cd7020325dcf488fef08faa605703
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 338, y: 63}
+  - name: neutral_moltengolem_Frame_60
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 150
+      width: 84
+      height: 65
+    spriteID: b2aa58fe02ab004438d6ee9e5cf683c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 135}
+  - name: neutral_moltengolem_Frame_61
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 223
+      width: 84
+      height: 65
+    spriteID: 53d91f522262b2540a24848a024a6fa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 208}
+  - name: neutral_moltengolem_Frame_62
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 671
+      width: 84
+      height: 64
+    spriteID: e2d3dc6d7d4ea8a4c8a78cf0598936c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 656}
+  - name: neutral_moltengolem_Frame_63
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 743
+      width: 84
+      height: 64
+    spriteID: b02062fce3ebdbc4d90e340370bbbd42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 728}
+  - name: neutral_moltengolem_Frame_64
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 815
+      width: 84
+      height: 64
+    spriteID: a7caaf4256f4317429dc52c218ac5df4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 800}
+  - name: neutral_moltengolem_Frame_65
+    originalName: 
+    pivot: {x: 0.50602406, y: -0.22058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 456
+      width: 83
+      height: 68
+    spriteID: 36184c77034702e42b36fe83cc9537fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 441}
+  - name: neutral_moltengolem_Frame_66
+    originalName: 
+    pivot: {x: 0.48, y: -0.2112676}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 887
+      width: 75
+      height: 71
+    spriteID: 5d26f0c4ab5494248a32b27450369e30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 423, y: 872}
+  - name: neutral_moltengolem_Frame_67
+    originalName: 
+    pivot: {x: 0.45569617, y: -0.2112676}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 532
+      width: 79
+      height: 71
+    spriteID: 42867427f52f43744b503f2e099b06ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 517}
+  - name: neutral_moltengolem_Frame_68
+    originalName: 
+    pivot: {x: 0.44155842, y: -0.24193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 958
+      width: 77
+      height: 62
+    spriteID: 45077d4e7f368d7458c52c7d38b6c876
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 943}
+  - name: neutral_moltengolem_Frame_69
+    originalName: 
+    pivot: {x: 0.4782609, y: -0.24590164}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 569
+      width: 69
+      height: 61
+    spriteID: ed134120fe98dd04d99fec5f8150f7df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 590, y: 554}
+  - name: neutral_moltengolem_Frame_70
+    originalName: 
+    pivot: {x: 0.49315065, y: -0.24193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 218
+      width: 73
+      height: 62
+    spriteID: fb9701f4d16395a4182ee3736b7d64a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 593, y: 203}
+  - name: neutral_moltengolem_Frame_71
+    originalName: 
+    pivot: {x: 0.49295777, y: -0.24590164}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 428
+      width: 71
+      height: 61
+    spriteID: 6cf2997d6ede9d54da46e50666b8c2c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 592, y: 413}
+  - name: neutral_moltengolem_Frame_72
+    originalName: 
+    pivot: {x: 0.4788732, y: -0.24193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 288
+      width: 71
+      height: 62
+    spriteID: 286aa6c447b80e84686d3db7543d1be6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 591, y: 273}
+  - name: neutral_moltengolem_Frame_73
+    originalName: 
+    pivot: {x: 0.4782609, y: -0.24590164}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 638
+      width: 69
+      height: 61
+    spriteID: 4af236a604c19104ebd3478e1dd72420
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 590, y: 623}
+  - name: neutral_moltengolem_Frame_74
+    originalName: 
+    pivot: {x: 0.4788732, y: -0.24193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 358
+      width: 71
+      height: 62
+    spriteID: 643a53205319cd740bafabaaf90df99a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 591, y: 343}
+  - name: neutral_moltengolem_Frame_75
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.16483517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 4
+      width: 110
+      height: 91
+    spriteID: f4e4bbaf724821c4eb2f3c2a824cf40e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: -11}
+  - name: neutral_moltengolem_Frame_76
+    originalName: 
+    pivot: {x: 0.47474748, y: -0.17441861}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 235
+      width: 99
+      height: 86
+    spriteID: 06e09d474ed511f46a8554e9c2a23c3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 220}
+  - name: neutral_moltengolem_Frame_77
+    originalName: 
+    pivot: {x: 0.48571432, y: -0.15789475}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 103
+      width: 105
+      height: 95
+    spriteID: b108ad4a64c892543843372bd8102851
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 88}
+  - name: neutral_moltengolem_Frame_78
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 329
+      width: 92
+      height: 90
+    spriteID: 48c984c5eaa55f542a895af6c8aa0637
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 314}
+  - name: neutral_moltengolem_Frame_79
+    originalName: 
+    pivot: {x: 0.4324324, y: -0.13274336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 495
+      width: 111
+      height: 113
+    spriteID: 02d96fe534ebb074e8541b642f0eba7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 480}
+  - name: neutral_moltengolem_Frame_80
+    originalName: 
+    pivot: {x: 0.4324324, y: -0.13274336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 616
+      width: 111
+      height: 113
+    spriteID: c319de58ca9aed3418f7ed48b9fd19ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 601}
+  - name: neutral_moltengolem_Frame_81
+    originalName: 
+    pivot: {x: 0.4375, y: -0.13274336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 374
+      width: 112
+      height: 113
+    spriteID: d8866ac4abd88f04880bccfbb70d9961
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 359}
+  - name: neutral_moltengolem_Frame_82
+    originalName: 
+    pivot: {x: 0.38834947, y: -0.13274336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 858
+      width: 103
+      height: 113
+    spriteID: 8ff7429358ec24942940cb24b7d6d15c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 843}
+  - name: neutral_moltengolem_Frame_83
+    originalName: 
+    pivot: {x: 0.38834947, y: -0.13274336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 4
+      width: 103
+      height: 113
+    spriteID: 5022550dd96e29a46a1276f434915e39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: -11}
+  - name: neutral_moltengolem_Frame_84
+    originalName: 
+    pivot: {x: 0.44827586, y: -0.10344828}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 116
+      height: 116
+    spriteID: 3ee501f0217aef741b783dbf184d19e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: -8}
+  - name: neutral_moltengolem_Frame_85
+    originalName: 
+    pivot: {x: 0.44827586, y: -0.10344828}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 128
+      width: 116
+      height: 116
+    spriteID: 4d2e7a49ff507e74a936ac95bcc14b92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 116}
+  - name: neutral_moltengolem_Frame_86
+    originalName: 
+    pivot: {x: 0.43362832, y: -0.10526315}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 252
+      width: 113
+      height: 114
+    spriteID: a26cf381ffe404441892fce13ddbd81b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 240}
+  - name: neutral_moltengolem_Frame_87
+    originalName: 
+    pivot: {x: 0.4433962, y: -0.10619469}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 737
+      width: 106
+      height: 113
+    spriteID: 3bc0721dbe15bb548bf970d4aa3e4a9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 725}
+  - name: neutral_moltengolem_Frame_88
+    originalName: 
+    pivot: {x: 0.44554457, y: -0.13725491}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 125
+      width: 101
+      height: 102
+    spriteID: cf25fbc4723cd5e44ba8c00042222f1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 111}
+  - name: neutral_moltengolem_Frame_89
+    originalName: 
+    pivot: {x: 0.54838705, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 775
+      width: 62
+      height: 67
+    spriteID: 275a68c3fcf6c49479ec4876422c72d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 591, y: 760}
+  - name: neutral_moltengolem_Frame_90
+    originalName: 
+    pivot: {x: 0.54838705, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 850
+      width: 62
+      height: 67
+    spriteID: cf7a77e14152e0745a7e25e4aaa4375b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 591, y: 835}
+  - name: neutral_moltengolem_Frame_91
+    originalName: 
+    pivot: {x: 0.54838705, y: -0.2238806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 925
+      width: 62
+      height: 67
+    spriteID: ad89a8c1b92082747a192c479b34f291
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 591, y: 910}
+  - name: neutral_moltengolem_Frame_92
+    originalName: 
+    pivot: {x: 0.5375, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 4
+      width: 80
+      height: 64
+    spriteID: 494e762e1b9133940b308f3a602cf139
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 600, y: -11}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1157907503
+    name: neutral_moltengolem
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_moltengolem_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5c61b9c2364f28f4887f9284eb8ba6b5
+    - name: neutral_moltengolem_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0c69d7a1daaee7747960c4854e282746
+    - name: neutral_moltengolem_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d8956b05e9b7e664298ef0f73eef1bfb
+    - name: neutral_moltengolem_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7a0141ff76bb3ad42ab067664bcb5b5e
+    - name: neutral_moltengolem_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ab7ddc2045b9a104089749a0f387d3e8
+    - name: neutral_moltengolem_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8f7d04ae1e3154f4bb36e660c6befbe9
+    - name: neutral_moltengolem_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 01d947dbcaa548d4296e36b0c7657cc1
+    - name: neutral_moltengolem_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0adcfb3dbcab1f945a90d141cdb87a52
+    - name: neutral_moltengolem_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 389eeefeee6f1cd478052309d8f5c5d4
+    - name: neutral_moltengolem_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 783681ab154b95d48897e66a802368b0
+    - name: neutral_moltengolem_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cafd1f743d402e34682ecda83411e514
+    - name: neutral_moltengolem_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2b5342f3a4641004181f58c2858b26f6
+    - name: neutral_moltengolem_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f6f40eda64b1d30419f7900a016836d3
+    - name: neutral_moltengolem_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 88a23c8f7a909934d948d672ef102cb1
+    - name: neutral_moltengolem_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d33b5f0b4abbf9d4cba3adc324b0fc70
+    - name: neutral_moltengolem_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8ea1c00c764329f42acdc604e062e464
+    - name: neutral_moltengolem_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7ff77d50a322d0a4bb54a5f7e051a4f5
+    - name: neutral_moltengolem_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 80783b95d086ac841b9d7271bfe14b13
+    - name: neutral_moltengolem_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: c3b2161fddb298348adc28baf66c5bcd
+    - name: neutral_moltengolem_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 006f70b87464f964c8fe3b69d6f40763
+    - name: neutral_moltengolem_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 13720c9057bae34408118d25cb29906d
+    - name: neutral_moltengolem_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3c0181b4a4fbedf4ba50eb8e41fcc50c
+    - name: neutral_moltengolem_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 793de43f3cec50542908400756631052
+    - name: neutral_moltengolem_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 98ba1b91a0840a34585ae9bc7f7b280e
+    - name: neutral_moltengolem_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4e80e84b6471a964699f3ed3b3fe0078
+    - name: neutral_moltengolem_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: bc0d9bb97de7264499ef6c3f5fe43b60
+    - name: neutral_moltengolem_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 35797f63d35567849b5be24e7a1a587c
+    - name: neutral_moltengolem_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 9500e0cc5521d6e48babde64498c0856
+    - name: neutral_moltengolem_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f75e98f26b7b0034bbf327031f6118fe
+    - name: neutral_moltengolem_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2223d37b864482949bc78514e8bd610d
+    - name: neutral_moltengolem_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cf376cd2537b9454d8209655cf52b48d
+    - name: neutral_moltengolem_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 6cafd7f5e73ecfd4a925009e23441b97
+    - name: neutral_moltengolem_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f2192168d473ccb499c28c81aab1bf61
+    - name: neutral_moltengolem_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2e14e285d055ab24c9ab16dc621d20e6
+    - name: neutral_moltengolem_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f4310ec6f6a943e42b3dea88d086da88
+    - name: neutral_moltengolem_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 765bdd03be1e05d46ae7c4b58b80eb94
+    - name: neutral_moltengolem_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7756b67b2f199a64fba5a9d9d822bb7f
+    - name: neutral_moltengolem_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2ee4d665d28a24648967f9751e1d1b76
+    - name: neutral_moltengolem_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cb11de887b8c15d45ba0c600e21fb2bd
+    - name: neutral_moltengolem_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 15616f343f3d8654d803ffc73f26ee4c
+    - name: neutral_moltengolem_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 057cf08b68c83294b85e659cf073347d
+    - name: neutral_moltengolem_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0ddd9122c62adc24f8c1e479851e962b
+    - name: neutral_moltengolem_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 54107fda71e81694f8388c82b617cdc7
+    - name: neutral_moltengolem_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 031de0b0108da0a43b8fd5ddba6babe6
+    - name: neutral_moltengolem_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 613836c3f9d41df4fb560979e0725124
+    - name: neutral_moltengolem_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e9bc17c4e6976ee44ae9152d97a26a09
+    - name: neutral_moltengolem_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 76492139fb8f63a43ac787da637f2bb4
+    - name: neutral_moltengolem_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 1a4dd622a595ec94cafac23fe875f41f
+    - name: neutral_moltengolem_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7a5fc904afd850842ac625da9b6ff552
+    - name: neutral_moltengolem_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0ea54416083d2b24aa6c33a3cb79c152
+    - name: neutral_moltengolem_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: afb5a35f7d88e2c4f98d8ee02139968d
+    - name: neutral_moltengolem_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 84ac79b430acd3246b12805d204855b4
+    - name: neutral_moltengolem_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f0942db6c39204e47a00acd4bc0c7f4b
+    - name: neutral_moltengolem_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: bb71e3c6a509659458b6efa38153d379
+    - name: neutral_moltengolem_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 770acc1874d580448a39926b94bdda76
+    - name: neutral_moltengolem_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 84dd3dcb37abe4149b2f0f6fdfa24560
+    - name: neutral_moltengolem_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cd6da5b2886236b44aa27fd6153c9534
+    - name: neutral_moltengolem_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 16579104598ff964983034f47edb4e16
+    - name: neutral_moltengolem_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3d5627f43d7079d4e8f67f043c8b932d
+    - name: neutral_moltengolem_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ed0cd7020325dcf488fef08faa605703
+    - name: neutral_moltengolem_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: b2aa58fe02ab004438d6ee9e5cf683c6
+    - name: neutral_moltengolem_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 53d91f522262b2540a24848a024a6fa6
+    - name: neutral_moltengolem_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e2d3dc6d7d4ea8a4c8a78cf0598936c6
+    - name: neutral_moltengolem_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: b02062fce3ebdbc4d90e340370bbbd42
+    - name: neutral_moltengolem_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a7caaf4256f4317429dc52c218ac5df4
+    - name: neutral_moltengolem_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 36184c77034702e42b36fe83cc9537fb
+    - name: neutral_moltengolem_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5d26f0c4ab5494248a32b27450369e30
+    - name: neutral_moltengolem_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 42867427f52f43744b503f2e099b06ef
+    - name: neutral_moltengolem_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 45077d4e7f368d7458c52c7d38b6c876
+    - name: neutral_moltengolem_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ed134120fe98dd04d99fec5f8150f7df
+    - name: neutral_moltengolem_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: fb9701f4d16395a4182ee3736b7d64a7
+    - name: neutral_moltengolem_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 6cf2997d6ede9d54da46e50666b8c2c2
+    - name: neutral_moltengolem_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 286aa6c447b80e84686d3db7543d1be6
+    - name: neutral_moltengolem_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4af236a604c19104ebd3478e1dd72420
+    - name: neutral_moltengolem_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 643a53205319cd740bafabaaf90df99a
+    - name: neutral_moltengolem_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f4e4bbaf724821c4eb2f3c2a824cf40e
+    - name: neutral_moltengolem_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 06e09d474ed511f46a8554e9c2a23c3a
+    - name: neutral_moltengolem_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: b108ad4a64c892543843372bd8102851
+    - name: neutral_moltengolem_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 48c984c5eaa55f542a895af6c8aa0637
+    - name: neutral_moltengolem_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 02d96fe534ebb074e8541b642f0eba7c
+    - name: neutral_moltengolem_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: c319de58ca9aed3418f7ed48b9fd19ee
+    - name: neutral_moltengolem_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d8866ac4abd88f04880bccfbb70d9961
+    - name: neutral_moltengolem_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8ff7429358ec24942940cb24b7d6d15c
+    - name: neutral_moltengolem_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5022550dd96e29a46a1276f434915e39
+    - name: neutral_moltengolem_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3ee501f0217aef741b783dbf184d19e7
+    - name: neutral_moltengolem_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4d2e7a49ff507e74a936ac95bcc14b92
+    - name: neutral_moltengolem_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a26cf381ffe404441892fce13ddbd81b
+    - name: neutral_moltengolem_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3bc0721dbe15bb548bf970d4aa3e4a9a
+    - name: neutral_moltengolem_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cf25fbc4723cd5e44ba8c00042222f1e
+    - name: neutral_moltengolem_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 275a68c3fcf6c49479ec4876422c72d8
+    - name: neutral_moltengolem_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cf7a77e14152e0745a7e25e4aaa4375b
+    - name: neutral_moltengolem_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ad89a8c1b92082747a192c479b34f291
+    - name: neutral_moltengolem_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 494e762e1b9133940b308f3a602cf139
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 130, y: 130}

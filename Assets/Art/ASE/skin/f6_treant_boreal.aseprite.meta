@@ -1,0 +1,2631 @@
+fileFormatVersion: 2
+guid: bae50691e2decf8478a021e8d6994f30
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: f6_treant_boreal_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 853
+      width: 42
+      height: 46
+    spriteID: 85d1d1aee6b36b641aab9f335c2fa666
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 837}
+  - name: f6_treant_boreal_Frame_1
+    originalName: 
+    pivot: {x: 0.5116279, y: -0.4090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 962
+      width: 43
+      height: 44
+    spriteID: a0ac5e263d794714098f933a8ddd75ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 944}
+  - name: f6_treant_boreal_Frame_2
+    originalName: 
+    pivot: {x: 0.52272725, y: -0.4090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 801
+      width: 44
+      height: 44
+    spriteID: dd1689b2b94111b40bf3a49cd310b204
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 783}
+  - name: f6_treant_boreal_Frame_3
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 58
+      width: 45
+      height: 45
+    spriteID: 4ac41b70798cfe7439858190104ccce6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 40}
+  - name: f6_treant_boreal_Frame_4
+    originalName: 
+    pivot: {x: 0.54347825, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 394
+      width: 46
+      height: 56
+    spriteID: 971278cf8c56629478e1198a6532bc96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 377}
+  - name: f6_treant_boreal_Frame_5
+    originalName: 
+    pivot: {x: 0.5531915, y: -0.36170214}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 453
+      width: 47
+      height: 47
+    spriteID: baa0f05a42f17cc4f83bc036000aa2c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 436}
+  - name: f6_treant_boreal_Frame_6
+    originalName: 
+    pivot: {x: 0.5625, y: -0.36170214}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 279
+      width: 48
+      height: 47
+    spriteID: f56a3f3bcdaa9c74eab56ed4fefbfa48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 262}
+  - name: f6_treant_boreal_Frame_7
+    originalName: 
+    pivot: {x: 0.4878049, y: -0.36170214}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 907
+      width: 41
+      height: 47
+    spriteID: 0675bb5058c138041bbba56ecd9d03c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 890}
+  - name: f6_treant_boreal_Frame_8
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 508
+      width: 47
+      height: 47
+    spriteID: bc65f73915c4ee04fa49c054e7094a49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 492}
+  - name: f6_treant_boreal_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 556
+      width: 46
+      height: 47
+    spriteID: 5832d107f558cc344a24d2585c013e2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 540}
+  - name: f6_treant_boreal_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 164
+      width: 44
+      height: 46
+    spriteID: b04b444fd4b34e342abcce90b9946a78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 148}
+  - name: f6_treant_boreal_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 326
+      width: 44
+      height: 45
+    spriteID: ae6a9fd1d5a2261408cc9e7adb65f94a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 310}
+  - name: f6_treant_boreal_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 379
+      width: 44
+      height: 45
+    spriteID: 47b10ed32a110e0479af0622e96f9e5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 363}
+  - name: f6_treant_boreal_Frame_13
+    originalName: 
+    pivot: {x: 0.52272725, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 432
+      width: 44
+      height: 45
+    spriteID: 9111017b5514e8545ae1501d06e5bfb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 416}
+  - name: f6_treant_boreal_Frame_14
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 111
+      width: 45
+      height: 45
+    spriteID: 97c57528e3c64b84ab335babe79d8ff3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 95}
+  - name: f6_treant_boreal_Frame_15
+    originalName: 
+    pivot: {x: 0.5531915, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 831
+      width: 47
+      height: 45
+    spriteID: fa9feb679fd09bc4a9f25fe2d96db440
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 815}
+  - name: f6_treant_boreal_Frame_16
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 4
+      width: 48
+      height: 46
+    spriteID: d029edfb36073a445b39160962f8d6a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: -12}
+  - name: f6_treant_boreal_Frame_17
+    originalName: 
+    pivot: {x: 0.53061223, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 926
+      width: 49
+      height: 47
+    spriteID: f6b7920cc50c05d4d9a8daae752c7ad7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 910}
+  - name: f6_treant_boreal_Frame_18
+    originalName: 
+    pivot: {x: 0.5102041, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 4
+      width: 49
+      height: 47
+    spriteID: 9a5c49e6b7c7ddd45884b2e444b6d7f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: -12}
+  - name: f6_treant_boreal_Frame_19
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 563
+      width: 47
+      height: 47
+    spriteID: 9995bcf9652de2b43a047f5f80c6ecc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 547}
+  - name: f6_treant_boreal_Frame_20
+    originalName: 
+    pivot: {x: 0.48979595, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 59
+      width: 49
+      height: 47
+    spriteID: c532af52fc72e0f4299135acbd421fa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 43}
+  - name: f6_treant_boreal_Frame_21
+    originalName: 
+    pivot: {x: 0.48979595, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 114
+      width: 49
+      height: 47
+    spriteID: e3794cbd2f1877541b4275b92b710fdf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 98}
+  - name: f6_treant_boreal_Frame_22
+    originalName: 
+    pivot: {x: 0.48979595, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 169
+      width: 49
+      height: 47
+    spriteID: ddc8ccdbe06d18643b98beb2e0bbe42d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 153}
+  - name: f6_treant_boreal_Frame_23
+    originalName: 
+    pivot: {x: 0.48979595, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 224
+      width: 49
+      height: 47
+    spriteID: b22f6607e1f42234f902e77d6566fba0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 208}
+  - name: f6_treant_boreal_Frame_24
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 618
+      width: 47
+      height: 47
+    spriteID: 7d76cdcbcab7c274cb2d1f1b96dcdbc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 602}
+  - name: f6_treant_boreal_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 870
+      width: 48
+      height: 48
+    spriteID: f394d7bcb636cf6478ff84022fc94f6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 854}
+  - name: f6_treant_boreal_Frame_26
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 444
+      width: 46
+      height: 48
+    spriteID: 4e6deb9faeafe9849b9160368ab5c0d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 428}
+  - name: f6_treant_boreal_Frame_27
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 673
+      width: 47
+      height: 47
+    spriteID: 36abebdce40ea8944a8eac8fc08c678e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 657}
+  - name: f6_treant_boreal_Frame_28
+    originalName: 
+    pivot: {x: 0.54347825, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 500
+      width: 46
+      height: 48
+    spriteID: f8474a13ec2ca8a48aa6c423fe0d87ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 484}
+  - name: f6_treant_boreal_Frame_29
+    originalName: 
+    pivot: {x: 0.5652174, y: -0.32653064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 334
+      width: 46
+      height: 49
+    spriteID: 4705ffa3f2bc83b4faf8e932eb061751
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 318}
+  - name: f6_treant_boreal_Frame_30
+    originalName: 
+    pivot: {x: 0.57446814, y: -0.32000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 754
+      width: 47
+      height: 50
+    spriteID: 1d7811d04eede7d42b24fc42e57c9794
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 738}
+  - name: f6_treant_boreal_Frame_31
+    originalName: 
+    pivot: {x: 0.57446814, y: -0.3137255}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 695
+      width: 47
+      height: 51
+    spriteID: 875f2bff8fd5b1a48becd88f8e7ab2d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 679}
+  - name: f6_treant_boreal_Frame_32
+    originalName: 
+    pivot: {x: 0.5833333, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 577
+      width: 48
+      height: 52
+    spriteID: 18980b0f677827844bc6c1a2cfef8c77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 561}
+  - name: f6_treant_boreal_Frame_33
+    originalName: 
+    pivot: {x: 0.59183675, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 517
+      width: 49
+      height: 52
+    spriteID: df629b29d103e0645ad09838c48d0375
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 501}
+  - name: f6_treant_boreal_Frame_34
+    originalName: 
+    pivot: {x: 0.6, y: -0.3137255}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 458
+      width: 50
+      height: 51
+    spriteID: da8b030d3f0b25e4fad2db6b64e0ae2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 442}
+  - name: f6_treant_boreal_Frame_35
+    originalName: 
+    pivot: {x: 0.63265306, y: -0.32000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 637
+      width: 49
+      height: 50
+    spriteID: e501a442135ace04c8053e12f7860473
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 621}
+  - name: f6_treant_boreal_Frame_36
+    originalName: 
+    pivot: {x: 0.59574467, y: -0.32000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 812
+      width: 47
+      height: 50
+    spriteID: 67684389616ce59429d47043b161b85a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 796}
+  - name: f6_treant_boreal_Frame_37
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 750
+      width: 46
+      height: 43
+    spriteID: 3a36ca392506cea4e8c86e9635dd547a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 734}
+  - name: f6_treant_boreal_Frame_38
+    originalName: 
+    pivot: {x: 0.5897436, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 312
+      y: 4
+      width: 39
+      height: 43
+    spriteID: f03989e5a4ad7094abd8b830a1ea8f20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: -12}
+  - name: f6_treant_boreal_Frame_39
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 312
+      y: 55
+      width: 34
+      height: 43
+    spriteID: 1e022789775e57e4eb7dd5cbe7b8ddd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 39}
+  - name: f6_treant_boreal_Frame_40
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 981
+      width: 34
+      height: 39
+    spriteID: 224d0f8a7a321a748862e8856dbcde1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 965}
+  - name: f6_treant_boreal_Frame_41
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 728
+      width: 47
+      height: 47
+    spriteID: d336f3510d5ce914592119577309de61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 712}
+  - name: f6_treant_boreal_Frame_42
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 783
+      width: 47
+      height: 47
+    spriteID: fb575d7f7c15b6d4e9c59042ab76a0db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 767}
+  - name: f6_treant_boreal_Frame_43
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 838
+      width: 47
+      height: 47
+    spriteID: df951e383b59cd649aaf741770abb21e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 822}
+  - name: f6_treant_boreal_Frame_44
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 893
+      width: 47
+      height: 47
+    spriteID: b9bd58eafde3f714aaec6164fc34835b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 877}
+  - name: f6_treant_boreal_Frame_45
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 948
+      width: 47
+      height: 47
+    spriteID: 2a98e3e8a8bfa57498555d671d518ec5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 932}
+  - name: f6_treant_boreal_Frame_46
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 611
+      width: 46
+      height: 47
+    spriteID: 4b5d46f53689887438a487316dc05ee4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 595}
+  - name: f6_treant_boreal_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 218
+      width: 44
+      height: 46
+    spriteID: 1ffbec74f5c873d48a5bb2607be58fd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 202}
+  - name: f6_treant_boreal_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 485
+      width: 44
+      height: 45
+    spriteID: b43fd6dc13607d54d83439566ada1faa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 469}
+  - name: f6_treant_boreal_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 538
+      width: 44
+      height: 45
+    spriteID: 81c5b72fd13c35f428bcc71f4b02de84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 522}
+  - name: f6_treant_boreal_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 591
+      width: 44
+      height: 45
+    spriteID: 27d71ae66738a6d45a4f2ca1198a6123
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 575}
+  - name: f6_treant_boreal_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 644
+      width: 44
+      height: 45
+    spriteID: 5b44bb73eec2d2f49a9b8700c041ddc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 628}
+  - name: f6_treant_boreal_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 697
+      width: 44
+      height: 45
+    spriteID: 7a45e3eccb36c6d418edefb9035e046f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 681}
+  - name: f6_treant_boreal_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 272
+      width: 44
+      height: 46
+    spriteID: e31aeba0cac022a46b10fad31179bbe2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 256}
+  - name: f6_treant_boreal_Frame_54
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 666
+      width: 46
+      height: 47
+    spriteID: 9d537ad5229b176459f9582d806bc808
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 650}
+  - name: f6_treant_boreal_Frame_55
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 4
+      width: 47
+      height: 47
+    spriteID: ee3bc5416c7d1f348ab536c1dd04b996
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: -12}
+  - name: f6_treant_boreal_Frame_56
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 59
+      width: 47
+      height: 47
+    spriteID: 9ce90c10c05a7894285d68e405ce1023
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 43}
+  - name: f6_treant_boreal_Frame_57
+    originalName: 
+    pivot: {x: 0.4893617, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 114
+      width: 47
+      height: 47
+    spriteID: cd1a45bebf4aa52439d5de05e5a05509
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 98}
+  - name: f6_treant_boreal_Frame_58
+    originalName: 
+    pivot: {x: 0.5111111, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 884
+      width: 45
+      height: 47
+    spriteID: 331f51db94ac471448748e6cd03294ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 868}
+  - name: f6_treant_boreal_Frame_59
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 169
+      width: 47
+      height: 47
+    spriteID: 099e34cbc7e015a41b3850cdf2ddab67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 153}
+  - name: f6_treant_boreal_Frame_60
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 224
+      width: 47
+      height: 47
+    spriteID: b4b143f8ca6cfb64aa8d019557316e11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 208}
+  - name: f6_treant_boreal_Frame_61
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 279
+      width: 47
+      height: 47
+    spriteID: 4001b40c4c8477a4aba9872c22c362e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 263}
+  - name: f6_treant_boreal_Frame_62
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 334
+      width: 47
+      height: 47
+    spriteID: 366e6b2b85f7e044a8387c7304e5a83d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 318}
+  - name: f6_treant_boreal_Frame_63
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 389
+      width: 47
+      height: 47
+    spriteID: c9481cf815bc515488cad6539ca0f530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 373}
+  - name: f6_treant_boreal_Frame_64
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 721
+      width: 46
+      height: 47
+    spriteID: 3c4e22e5d95be4745b893ed5e5e8578f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 705}
+  - name: f6_treant_boreal_Frame_65
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 776
+      width: 46
+      height: 47
+    spriteID: 04c4a32cf94c3a746aa33b8624f78ab0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 760}
+  - name: f6_treant_boreal_Frame_66
+    originalName: 
+    pivot: {x: 0.5609756, y: -0.23529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 939
+      width: 41
+      height: 51
+    spriteID: 47754028dd91c554f88a5e58ff03a9d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 927}
+  - name: f6_treant_boreal_Frame_67
+    originalName: 
+    pivot: {x: 0.5609756, y: -0.2037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 391
+      width: 41
+      height: 54
+    spriteID: 21f39591d0b27a347855a12658422c79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 380}
+  - name: f6_treant_boreal_Frame_68
+    originalName: 
+    pivot: {x: 0.45283023, y: -0.031746034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 150
+      width: 53
+      height: 63
+    spriteID: 209be35f0200e2942baa67665e2b4ce0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 148}
+  - name: f6_treant_boreal_Frame_69
+    originalName: 
+    pivot: {x: 0.4464286, y: -0.031746034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 79
+      width: 56
+      height: 63
+    spriteID: 65a9dd0e7daf5234a9883a52f834493f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 77}
+  - name: f6_treant_boreal_Frame_70
+    originalName: 
+    pivot: {x: 0.4, y: -0.015625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 678
+      width: 65
+      height: 64
+    spriteID: d4569da98a30e3943b1657f468e1723b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 677}
+  - name: f6_treant_boreal_Frame_71
+    originalName: 
+    pivot: {x: 0.3939394, y: -0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 66
+      height: 77
+    spriteID: c5912f5635d81b44eac71d978a9ed4ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 3}
+  - name: f6_treant_boreal_Frame_72
+    originalName: 
+    pivot: {x: 0.390625, y: -0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 89
+      width: 64
+      height: 77
+    spriteID: 02f4ecdf3fdd6a448a8676c8e3913b31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 88}
+  - name: f6_treant_boreal_Frame_73
+    originalName: 
+    pivot: {x: 0.390625, y: -0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 64
+      height: 77
+    spriteID: f3e0d8d525493ac46bdc0c31933b0db9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 173}
+  - name: f6_treant_boreal_Frame_74
+    originalName: 
+    pivot: {x: 0.38095242, y: -0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 259
+      width: 63
+      height: 77
+    spriteID: 292512ece1fe9ae48a8f2d0d45ede996
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 258}
+  - name: f6_treant_boreal_Frame_75
+    originalName: 
+    pivot: {x: 0.37096772, y: -0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 344
+      width: 62
+      height: 77
+    spriteID: 171c3d4dc7f4ed64699d9c15098299d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 343}
+  - name: f6_treant_boreal_Frame_76
+    originalName: 
+    pivot: {x: 0.36065575, y: -0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 429
+      width: 61
+      height: 77
+    spriteID: 512bb738955caff43a86145f251ce3c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 428}
+  - name: f6_treant_boreal_Frame_77
+    originalName: 
+    pivot: {x: 0.36065575, y: -0.012987013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 514
+      width: 61
+      height: 77
+    spriteID: bf21736e49a1fe24381b402848a129b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 513}
+  - name: f6_treant_boreal_Frame_78
+    originalName: 
+    pivot: {x: 0.36065575, y: -0.014084508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 599
+      width: 61
+      height: 71
+    spriteID: 380007c929f661a4f9fbf92760cc7200
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 598}
+  - name: f6_treant_boreal_Frame_79
+    originalName: 
+    pivot: {x: 0.36666667, y: -0.028985506}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 750
+      width: 60
+      height: 69
+    spriteID: e6b93a767518f7140b9bfb31b281f604
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 748}
+  - name: f6_treant_boreal_Frame_80
+    originalName: 
+    pivot: {x: 0.37288138, y: -0.029411767}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 827
+      width: 59
+      height: 68
+    spriteID: d5311e6c00d7b014cb4a8abcbcd17967
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 825}
+  - name: f6_treant_boreal_Frame_81
+    originalName: 
+    pivot: {x: 0.37288138, y: -0.029411767}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 903
+      width: 59
+      height: 68
+    spriteID: 7bf06f31aeaae9c4fb5e528534ca565e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 901}
+  - name: f6_treant_boreal_Frame_82
+    originalName: 
+    pivot: {x: 0.37931037, y: -0.029850746}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 4
+      width: 58
+      height: 67
+    spriteID: 635f963108c1c93409ce8616cc18d44b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 2}
+  - name: f6_treant_boreal_Frame_83
+    originalName: 
+    pivot: {x: 0.39285716, y: -0.30612245}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 337
+      width: 56
+      height: 49
+    spriteID: a64c665ce23ecfd4ca9c191fc488f027
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 322}
+  - name: f6_treant_boreal_Frame_84
+    originalName: 
+    pivot: {x: 0.4, y: -0.28}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 221
+      width: 55
+      height: 50
+    spriteID: 7788f3b824eb2694691b5fd409039a7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 207}
+  - name: f6_treant_boreal_Frame_85
+    originalName: 
+    pivot: {x: 0.4, y: -0.28}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 279
+      width: 55
+      height: 50
+    spriteID: ee7f3288f8a626d49856993185de8504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 265}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1983462377
+    name: f6_treant_boreal
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: f6_treant_boreal_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 85d1d1aee6b36b641aab9f335c2fa666
+    - name: f6_treant_boreal_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a0ac5e263d794714098f933a8ddd75ea
+    - name: f6_treant_boreal_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dd1689b2b94111b40bf3a49cd310b204
+    - name: f6_treant_boreal_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4ac41b70798cfe7439858190104ccce6
+    - name: f6_treant_boreal_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 971278cf8c56629478e1198a6532bc96
+    - name: f6_treant_boreal_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: baa0f05a42f17cc4f83bc036000aa2c3
+    - name: f6_treant_boreal_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f56a3f3bcdaa9c74eab56ed4fefbfa48
+    - name: f6_treant_boreal_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0675bb5058c138041bbba56ecd9d03c7
+    - name: f6_treant_boreal_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bc65f73915c4ee04fa49c054e7094a49
+    - name: f6_treant_boreal_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5832d107f558cc344a24d2585c013e2c
+    - name: f6_treant_boreal_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b04b444fd4b34e342abcce90b9946a78
+    - name: f6_treant_boreal_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ae6a9fd1d5a2261408cc9e7adb65f94a
+    - name: f6_treant_boreal_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 47b10ed32a110e0479af0622e96f9e5b
+    - name: f6_treant_boreal_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9111017b5514e8545ae1501d06e5bfb7
+    - name: f6_treant_boreal_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 97c57528e3c64b84ab335babe79d8ff3
+    - name: f6_treant_boreal_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fa9feb679fd09bc4a9f25fe2d96db440
+    - name: f6_treant_boreal_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d029edfb36073a445b39160962f8d6a7
+    - name: f6_treant_boreal_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f6b7920cc50c05d4d9a8daae752c7ad7
+    - name: f6_treant_boreal_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9a5c49e6b7c7ddd45884b2e444b6d7f1
+    - name: f6_treant_boreal_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9995bcf9652de2b43a047f5f80c6ecc7
+    - name: f6_treant_boreal_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c532af52fc72e0f4299135acbd421fa8
+    - name: f6_treant_boreal_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e3794cbd2f1877541b4275b92b710fdf
+    - name: f6_treant_boreal_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ddc8ccdbe06d18643b98beb2e0bbe42d
+    - name: f6_treant_boreal_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b22f6607e1f42234f902e77d6566fba0
+    - name: f6_treant_boreal_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7d76cdcbcab7c274cb2d1f1b96dcdbc9
+    - name: f6_treant_boreal_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f394d7bcb636cf6478ff84022fc94f6a
+    - name: f6_treant_boreal_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4e6deb9faeafe9849b9160368ab5c0d6
+    - name: f6_treant_boreal_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 36abebdce40ea8944a8eac8fc08c678e
+    - name: f6_treant_boreal_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f8474a13ec2ca8a48aa6c423fe0d87ad
+    - name: f6_treant_boreal_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4705ffa3f2bc83b4faf8e932eb061751
+    - name: f6_treant_boreal_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1d7811d04eede7d42b24fc42e57c9794
+    - name: f6_treant_boreal_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 875f2bff8fd5b1a48becd88f8e7ab2d5
+    - name: f6_treant_boreal_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 18980b0f677827844bc6c1a2cfef8c77
+    - name: f6_treant_boreal_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: df629b29d103e0645ad09838c48d0375
+    - name: f6_treant_boreal_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: da8b030d3f0b25e4fad2db6b64e0ae2a
+    - name: f6_treant_boreal_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e501a442135ace04c8053e12f7860473
+    - name: f6_treant_boreal_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 67684389616ce59429d47043b161b85a
+    - name: f6_treant_boreal_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3a36ca392506cea4e8c86e9635dd547a
+    - name: f6_treant_boreal_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f03989e5a4ad7094abd8b830a1ea8f20
+    - name: f6_treant_boreal_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1e022789775e57e4eb7dd5cbe7b8ddd0
+    - name: f6_treant_boreal_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 224d0f8a7a321a748862e8856dbcde1e
+    - name: f6_treant_boreal_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d336f3510d5ce914592119577309de61
+    - name: f6_treant_boreal_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fb575d7f7c15b6d4e9c59042ab76a0db
+    - name: f6_treant_boreal_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: df951e383b59cd649aaf741770abb21e
+    - name: f6_treant_boreal_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b9bd58eafde3f714aaec6164fc34835b
+    - name: f6_treant_boreal_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2a98e3e8a8bfa57498555d671d518ec5
+    - name: f6_treant_boreal_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4b5d46f53689887438a487316dc05ee4
+    - name: f6_treant_boreal_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1ffbec74f5c873d48a5bb2607be58fd0
+    - name: f6_treant_boreal_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b43fd6dc13607d54d83439566ada1faa
+    - name: f6_treant_boreal_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 81c5b72fd13c35f428bcc71f4b02de84
+    - name: f6_treant_boreal_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 27d71ae66738a6d45a4f2ca1198a6123
+    - name: f6_treant_boreal_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5b44bb73eec2d2f49a9b8700c041ddc0
+    - name: f6_treant_boreal_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7a45e3eccb36c6d418edefb9035e046f
+    - name: f6_treant_boreal_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e31aeba0cac022a46b10fad31179bbe2
+    - name: f6_treant_boreal_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9d537ad5229b176459f9582d806bc808
+    - name: f6_treant_boreal_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ee3bc5416c7d1f348ab536c1dd04b996
+    - name: f6_treant_boreal_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9ce90c10c05a7894285d68e405ce1023
+    - name: f6_treant_boreal_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cd1a45bebf4aa52439d5de05e5a05509
+    - name: f6_treant_boreal_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 331f51db94ac471448748e6cd03294ae
+    - name: f6_treant_boreal_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 099e34cbc7e015a41b3850cdf2ddab67
+    - name: f6_treant_boreal_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b4b143f8ca6cfb64aa8d019557316e11
+    - name: f6_treant_boreal_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4001b40c4c8477a4aba9872c22c362e8
+    - name: f6_treant_boreal_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 366e6b2b85f7e044a8387c7304e5a83d
+    - name: f6_treant_boreal_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c9481cf815bc515488cad6539ca0f530
+    - name: f6_treant_boreal_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3c4e22e5d95be4745b893ed5e5e8578f
+    - name: f6_treant_boreal_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 04c4a32cf94c3a746aa33b8624f78ab0
+    - name: f6_treant_boreal_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 47754028dd91c554f88a5e58ff03a9d4
+    - name: f6_treant_boreal_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 21f39591d0b27a347855a12658422c79
+    - name: f6_treant_boreal_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 209be35f0200e2942baa67665e2b4ce0
+    - name: f6_treant_boreal_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 65a9dd0e7daf5234a9883a52f834493f
+    - name: f6_treant_boreal_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d4569da98a30e3943b1657f468e1723b
+    - name: f6_treant_boreal_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c5912f5635d81b44eac71d978a9ed4ef
+    - name: f6_treant_boreal_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 02f4ecdf3fdd6a448a8676c8e3913b31
+    - name: f6_treant_boreal_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f3e0d8d525493ac46bdc0c31933b0db9
+    - name: f6_treant_boreal_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 292512ece1fe9ae48a8f2d0d45ede996
+    - name: f6_treant_boreal_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 171c3d4dc7f4ed64699d9c15098299d9
+    - name: f6_treant_boreal_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 512bb738955caff43a86145f251ce3c1
+    - name: f6_treant_boreal_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bf21736e49a1fe24381b402848a129b7
+    - name: f6_treant_boreal_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 380007c929f661a4f9fbf92760cc7200
+    - name: f6_treant_boreal_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e6b93a767518f7140b9bfb31b281f604
+    - name: f6_treant_boreal_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d5311e6c00d7b014cb4a8abcbcd17967
+    - name: f6_treant_boreal_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7bf06f31aeaae9c4fb5e528534ca565e
+    - name: f6_treant_boreal_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 635f963108c1c93409ce8616cc18d44b
+    - name: f6_treant_boreal_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a64c665ce23ecfd4ca9c191fc488f027
+    - name: f6_treant_boreal_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7788f3b824eb2694691b5fd409039a7b
+    - name: f6_treant_boreal_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ee7f3288f8a626d49856993185de8504
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

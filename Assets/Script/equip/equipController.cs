@@ -14,9 +14,9 @@ public class equipController : Singleton<equipController>
     {
         equip equip=GetEquipFormID(ID);
         if(equip.Type!=ItemType.装备)return;
-        equip Newequip= new equip();
+        equip Newequip = ScriptableObject.Instantiate(equip);
         Newequip.ItemID = id;
-        Newequip.EquipTypeID = ID;
+        Newequip.ItemTypeID = ID;
         Newequip.Icon = equip.Icon;
         Newequip.Index = equip.Index;
         Newequip.Quality = equip.Quality;
@@ -25,21 +25,16 @@ public class equipController : Singleton<equipController>
         Newequip.IsStack = equip.IsStack;
         Newequip.IsUse = equip.IsUse;
         Newequip.EquipType = equip.EquipType;
-        Newequip.EquipPef = equip.EquipPef;
-        if (Newequip.EquipPef!=null)
-        {
-            EquipObject _equipObject = Newequip.EquipPef.GetComponent<EquipObject>();
-            _equipObject.setId(ID);
-            EquipObjectController.LoadEquipObject(ID,_equipObject);
-        }
         Newequip.EquipData.Atk = Random.Range(10, 20);
         Newequip.EquipData.Ftk = Random.Range(10, 20);
         Newequip.EquipData.Hp = Random.Range(20, 40);
+        Newequip.EquipData.ID = Newequip.ItemTypeID;
         id++;
         Debug.Log("ATK:"+Newequip.EquipData.Atk+"FTK:"+Newequip.EquipData.Ftk+"HP:"+Newequip.EquipData.Hp+"\nid_"+id);
         ItemController.Instance.ItemAdd(Newequip);
+        ItemController.Instance.addEquipData(Newequip.ItemID,Newequip.EquipData);
         add(Newequip);
-        GlobalController.Instance.Data.AddItemToInventory(Newequip.ItemID);
+        Player.Instance.playerData.AddItemToInventory(Newequip.ItemID);
     }
     public equip GetEquipFormID(int id)//根据id获得Item
     {

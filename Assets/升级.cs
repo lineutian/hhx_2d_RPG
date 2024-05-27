@@ -20,16 +20,17 @@ public class 升级 : MonoBehaviour
     public void 武器升级()
     {
         id = Int32.Parse(GameObject.Find("面板").transform.GetChild(0).name);
-        if(!equipController.Instance.EquipIDLib.ContainsKey(id))  return;
-        if (!GlobalController.Instance.Data.Inventory.ContainsKey(id))
+        if(!equipController.Instance.EquipIDLib.ContainsKey(id))  {Debug.Log(id+"没有该物品，无法升级");return;}
+        if (!Player.Instance.playerData.Inventory.ContainsKey(id))
         {
+            Debug.Log(id+"没有该物品，无法升级");
             mianban.transform.GetChild(0).GetComponent<Text>().text = null;
             mianban.transform.GetChild(1).GetComponent<Text>().text = null;
         }
         else
         {
             equipController.Instance.GetEquipFormID(id).EquipData.UpGrade(1);
-            GlobalController.Instance.Data.UPdate();
+            //ObjectManager.PlayerData.UPdate();
             mianban.transform.GetChild(0).GetComponent<Text>().text = ItemController.Instance.GetItemFormID(id).Index;
             mianban.transform.GetChild(0).name = id.ToString();
             mianban.transform.GetChild(1).GetComponent<Text>().text = ItemController.Instance.GetItemFormID(id).DescribeIndex

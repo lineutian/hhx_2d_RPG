@@ -1,0 +1,3385 @@
+fileFormatVersion: 2
+guid: 5da84753da0e4ec4aa55d36e092a8671
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Antiswarm_Frame_0
+    originalName: 
+    pivot: {x: 0.53999996, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 363
+      width: 50
+      height: 65
+    spriteID: c311e985a9175ee4eaf22c63826820cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 347}
+  - name: Antiswarm_Frame_1
+    originalName: 
+    pivot: {x: 0.47457626, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 640
+      width: 59
+      height: 66
+    spriteID: 4ff20a14f716fe743beb6ea317707279
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 624}
+  - name: Antiswarm_Frame_2
+    originalName: 
+    pivot: {x: 0.4242424, y: -0.23880598}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 306
+      width: 66
+      height: 67
+    spriteID: 0ace64bdd2893a2488e1575b57294d50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 290}
+  - name: Antiswarm_Frame_3
+    originalName: 
+    pivot: {x: 0.39436617, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 229
+      width: 71
+      height: 68
+    spriteID: a12101704481e454c99271833210bd2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 213}
+  - name: Antiswarm_Frame_4
+    originalName: 
+    pivot: {x: 0.3733333, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 585
+      width: 75
+      height: 68
+    spriteID: 034f9d54d190d1f4097cd524c623cd1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 569}
+  - name: Antiswarm_Frame_5
+    originalName: 
+    pivot: {x: 0.36363634, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 661
+      width: 77
+      height: 66
+    spriteID: 9e25750e8d8ceb14bb944cd8798bdc3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 645}
+  - name: Antiswarm_Frame_6
+    originalName: 
+    pivot: {x: 0.35897434, y: -0.23880598}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 4
+      width: 78
+      height: 67
+    spriteID: 428d5d1495b3d644e85cb1218193b8a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: -12}
+  - name: Antiswarm_Frame_7
+    originalName: 
+    pivot: {x: 0.35064933, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 818
+      width: 77
+      height: 65
+    spriteID: ebd2ba839597e2447a5baa6b13543113
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 802}
+  - name: Antiswarm_Frame_8
+    originalName: 
+    pivot: {x: 0.34615383, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 79
+      width: 78
+      height: 64
+    spriteID: 77d97c4f6f9941c4eab4bd0c235bba52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 63}
+  - name: Antiswarm_Frame_9
+    originalName: 
+    pivot: {x: 0.3417721, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 4
+      width: 79
+      height: 65
+    spriteID: ad9bd8bd995ff9b4e90dcd01a714e520
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: -12}
+  - name: Antiswarm_Frame_10
+    originalName: 
+    pivot: {x: 0.3417721, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 946
+      width: 79
+      height: 68
+    spriteID: 47f379c7ed955c8498b040f9e2bdebd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -34, y: 930}
+  - name: Antiswarm_Frame_11
+    originalName: 
+    pivot: {x: 0.3417721, y: -0.23188406}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 869
+      width: 79
+      height: 69
+    spriteID: 834d96e3cf85a914094155554bb8c33f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -34, y: 853}
+  - name: Antiswarm_Frame_12
+    originalName: 
+    pivot: {x: 0.35526314, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 254
+      width: 76
+      height: 68
+    spriteID: 1059ebf05429b1b48b1edc1308b5eaf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 238}
+  - name: Antiswarm_Frame_13
+    originalName: 
+    pivot: {x: 0.36363634, y: -0.23188406}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 4
+      width: 77
+      height: 69
+    spriteID: 14782fb36d944e249858403b098a3c57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: -12}
+  - name: Antiswarm_Frame_14
+    originalName: 
+    pivot: {x: 0.36363634, y: -0.23880598}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 330
+      width: 77
+      height: 67
+    spriteID: 5b7f49d7ac08f534db02e75d84042e33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 314}
+  - name: Antiswarm_Frame_15
+    originalName: 
+    pivot: {x: 0.65116274, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 365
+      width: 43
+      height: 52
+    spriteID: 357976a21a3446a40b57cf3264c6212a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 349}
+  - name: Antiswarm_Frame_16
+    originalName: 
+    pivot: {x: 0.65116274, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 425
+      width: 43
+      height: 52
+    spriteID: 29d5e33ab2e38e74c8b923ce7176dfbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 409}
+  - name: Antiswarm_Frame_17
+    originalName: 
+    pivot: {x: 0.65116274, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 485
+      width: 43
+      height: 52
+    spriteID: e5079285eaba71944acb6364ebf4b8a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 469}
+  - name: Antiswarm_Frame_18
+    originalName: 
+    pivot: {x: 0.65116274, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 545
+      width: 43
+      height: 52
+    spriteID: 17c93a10213e4f6499f4f03a86a5b839
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 529}
+  - name: Antiswarm_Frame_19
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 725
+      width: 42
+      height: 52
+    spriteID: 2ce23a9528257a44582fc7d0c8e02d3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 684, y: 709}
+  - name: Antiswarm_Frame_20
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 785
+      width: 42
+      height: 52
+    spriteID: d2a3ae664e709cd478b37afa3926dbff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 684, y: 769}
+  - name: Antiswarm_Frame_21
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 845
+      width: 42
+      height: 52
+    spriteID: 4e375f938793a2e468b8abf26b5ebd5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 684, y: 829}
+  - name: Antiswarm_Frame_22
+    originalName: 
+    pivot: {x: 0.65116274, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 605
+      width: 43
+      height: 52
+    spriteID: 6bf47938e2072f14682e139968121b83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 589}
+  - name: Antiswarm_Frame_23
+    originalName: 
+    pivot: {x: 0.65116274, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 665
+      width: 43
+      height: 52
+    spriteID: cc4cd56cc7c0d894a9b7fcbfbe0f30b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 649}
+  - name: Antiswarm_Frame_24
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 905
+      width: 42
+      height: 52
+    spriteID: fec834952f480ed468ac605acbc34663
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 684, y: 889}
+  - name: Antiswarm_Frame_25
+    originalName: 
+    pivot: {x: 0.6052631, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 771
+      width: 38
+      height: 52
+    spriteID: 6f9a953450594874592c6d9bb953b84b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 755}
+  - name: Antiswarm_Frame_26
+    originalName: 
+    pivot: {x: 0.6052631, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 670
+      width: 38
+      height: 52
+    spriteID: ea5e3f3f97027c845919673e3a1630af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 654}
+  - name: Antiswarm_Frame_27
+    originalName: 
+    pivot: {x: 0.64285713, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 965
+      width: 42
+      height: 52
+    spriteID: 89da69e852ef9e6468c3c35cedb2d062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 684, y: 949}
+  - name: Antiswarm_Frame_28
+    originalName: 
+    pivot: {x: 0.6938775, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 124
+      width: 49
+      height: 52
+    spriteID: b2caba1fc6bee6544800415a0e6051e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 691, y: 108}
+  - name: Antiswarm_Frame_29
+    originalName: 
+    pivot: {x: 0.72222227, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 64
+      width: 54
+      height: 52
+    spriteID: 2bf96efa724919c429c145f9609cff52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 696, y: 48}
+  - name: Antiswarm_Frame_30
+    originalName: 
+    pivot: {x: 0.7272726, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 4
+      width: 55
+      height: 52
+    spriteID: 5133c6e9e9ce2ce4697d253819ced420
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 697, y: -12}
+  - name: Antiswarm_Frame_31
+    originalName: 
+    pivot: {x: 0.74193543, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 572
+      width: 62
+      height: 52
+    spriteID: 2c9d6501c989ae245b7cbaa79f9b880f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 556}
+  - name: Antiswarm_Frame_32
+    originalName: 
+    pivot: {x: 0.75, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 374
+      width: 68
+      height: 52
+    spriteID: 29b0671b6f086724c96de99f39ef0b92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: 358}
+  - name: Antiswarm_Frame_33
+    originalName: 
+    pivot: {x: 0.42342344, y: -0.037037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 897
+      width: 111
+      height: 81
+    spriteID: 18721299b62d55c45bb1451c8f67c00d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 894}
+  - name: Antiswarm_Frame_34
+    originalName: 
+    pivot: {x: 0.40366971, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 271
+      width: 109
+      height: 125
+    spriteID: efa63e6c61e7f494d9d7f7a358123e6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 271}
+  - name: Antiswarm_Frame_35
+    originalName: 
+    pivot: {x: 0.40366971, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 109
+      height: 129
+    spriteID: 5a3bf570a88e2ab4295a9dd5bdc9c30b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 4}
+  - name: Antiswarm_Frame_36
+    originalName: 
+    pivot: {x: 0.4090909, y: -0.031746034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 137
+      width: 110
+      height: 126
+    spriteID: 02be058af07c5c345bccc198cb7fb85e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 133}
+  - name: Antiswarm_Frame_37
+    originalName: 
+    pivot: {x: 0.4144144, y: -0.04}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 4
+      width: 111
+      height: 125
+    spriteID: 8a79025a36aa5244f9c59b82cd627af0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: -1}
+  - name: Antiswarm_Frame_38
+    originalName: 
+    pivot: {x: 0.41818178, y: -0.07438017}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 404
+      width: 110
+      height: 121
+    spriteID: 739d64c653d2c8549b0f085682484c8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 395}
+  - name: Antiswarm_Frame_39
+    originalName: 
+    pivot: {x: 0.41818178, y: -0.14035086}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 533
+      width: 110
+      height: 114
+    spriteID: 421c862f28f938745b647cfbf8110a72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 517}
+  - name: Antiswarm_Frame_40
+    originalName: 
+    pivot: {x: 0.41818178, y: -0.14159292}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 655
+      width: 110
+      height: 113
+    spriteID: dbfb246796231774997f62a96575b933
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 639}
+  - name: Antiswarm_Frame_41
+    originalName: 
+    pivot: {x: 0.39423078, y: -0.14159292}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 776
+      width: 104
+      height: 113
+    spriteID: 91b7f9e31fc1e464aa355cf222e2c081
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 760}
+  - name: Antiswarm_Frame_42
+    originalName: 
+    pivot: {x: 0.5581395, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 184
+      width: 43
+      height: 59
+    spriteID: 6216ccf4490813a49a63ec68d8b74c31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 168}
+  - name: Antiswarm_Frame_43
+    originalName: 
+    pivot: {x: 0.5869565, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 877
+      width: 46
+      height: 64
+    spriteID: b87c15ce949be8b4289e60da0b990dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 614, y: 861}
+  - name: Antiswarm_Frame_44
+    originalName: 
+    pivot: {x: 0.5869565, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 949
+      width: 46
+      height: 64
+    spriteID: e88360bb5358d104f87cf5ecb2aa9b76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 614, y: 933}
+  - name: Antiswarm_Frame_45
+    originalName: 
+    pivot: {x: 0.5869565, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 606
+      width: 46
+      height: 65
+    spriteID: 83767eb7ae2772d4ea06b06addee4330
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 614, y: 590}
+  - name: Antiswarm_Frame_46
+    originalName: 
+    pivot: {x: 0.5869565, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 679
+      width: 46
+      height: 65
+    spriteID: ef89a911a806b3b469e93f546f6b2f09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 614, y: 663}
+  - name: Antiswarm_Frame_47
+    originalName: 
+    pivot: {x: 0.5869565, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 460
+      width: 46
+      height: 66
+    spriteID: a0f4d976f7b63dc43b63599bb3a4b329
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 614, y: 444}
+  - name: Antiswarm_Frame_48
+    originalName: 
+    pivot: {x: 0.5957446, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 314
+      width: 47
+      height: 65
+    spriteID: 95baaae24d42b2747b7a6f9368c3a0f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 615, y: 298}
+  - name: Antiswarm_Frame_49
+    originalName: 
+    pivot: {x: 0.6041666, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 4
+      width: 48
+      height: 66
+    spriteID: 871824985b23aea4ca09d39670109bf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 560, y: -12}
+  - name: Antiswarm_Frame_50
+    originalName: 
+    pivot: {x: 0.61999995, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 144
+      width: 50
+      height: 66
+    spriteID: f26ad9b757917184298d7efd03678203
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 377, y: 128}
+  - name: Antiswarm_Frame_51
+    originalName: 
+    pivot: {x: 0.61999995, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 218
+      width: 50
+      height: 66
+    spriteID: 4ba09aecf16adad4ea8eff64bb2df8ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 377, y: 202}
+  - name: Antiswarm_Frame_52
+    originalName: 
+    pivot: {x: 0.61999995, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 722
+      width: 50
+      height: 68
+    spriteID: 7560d62ba5e601147918a30c499966fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 291, y: 706}
+  - name: Antiswarm_Frame_53
+    originalName: 
+    pivot: {x: 0.61999995, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 798
+      width: 50
+      height: 68
+    spriteID: 19a8164b84255424986e472c0c709c2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 291, y: 782}
+  - name: Antiswarm_Frame_54
+    originalName: 
+    pivot: {x: 0.61999995, y: -0.23188406}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 505
+      width: 50
+      height: 69
+    spriteID: 174445e997930624eb28a6b170c8d1bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 291, y: 489}
+  - name: Antiswarm_Frame_55
+    originalName: 
+    pivot: {x: 0.6041666, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 78
+      width: 48
+      height: 66
+    spriteID: afefa7261bbd3474781f0eff2632ca96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 560, y: 62}
+  - name: Antiswarm_Frame_56
+    originalName: 
+    pivot: {x: 0.5957446, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 387
+      width: 47
+      height: 65
+    spriteID: be98aa883c7755a4393c3143a90c0d05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 615, y: 371}
+  - name: Antiswarm_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 436
+      width: 54
+      height: 60
+    spriteID: f7c9d6ca81d15bf47bae25e931315a97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 420}
+  - name: Antiswarm_Frame_58
+    originalName: 
+    pivot: {x: 0.50909084, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 582
+      width: 55
+      height: 62
+    spriteID: 5caad2474de2bd7439d377db9cc61096
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 566}
+  - name: Antiswarm_Frame_59
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 434
+      width: 56
+      height: 63
+    spriteID: 20e913f0b9da0d143bd27cc372bcc763
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 418}
+  - name: Antiswarm_Frame_60
+    originalName: 
+    pivot: {x: 0.5454545, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 185
+      width: 55
+      height: 56
+    spriteID: d455da95b010ac54db2f1bd312d134a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 617, y: 169}
+  - name: Antiswarm_Frame_61
+    originalName: 
+    pivot: {x: 0.537037, y: -0.28070173}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 249
+      width: 54
+      height: 57
+    spriteID: 8ecf0c9fbb7eeb44a99c21239113ba76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 616, y: 233}
+  - name: Antiswarm_Frame_62
+    originalName: 
+    pivot: {x: 0.6461538, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 940
+      width: 65
+      height: 56
+    spriteID: 7a097e7eeb25f3d44abc354638bb4443
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 475, y: 924}
+  - name: Antiswarm_Frame_63
+    originalName: 
+    pivot: {x: 0.6774193, y: -0.3137255}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 4
+      width: 62
+      height: 51
+    spriteID: cdfbd417667b44047b851c15d72981ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 629, y: -12}
+  - name: Antiswarm_Frame_64
+    originalName: 
+    pivot: {x: 0.661017, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 920
+      width: 59
+      height: 54
+    spriteID: 841ad207ad8440a40ba4421d40f5c0e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 385, y: 904}
+  - name: Antiswarm_Frame_65
+    originalName: 
+    pivot: {x: 0.661017, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 63
+      width: 59
+      height: 53
+    spriteID: 94257d07e5337a54da12f0f652a4fef9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 47}
+  - name: Antiswarm_Frame_66
+    originalName: 
+    pivot: {x: 0.661017, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 124
+      width: 59
+      height: 53
+    spriteID: 0f2ec5a5ae9ac0a40ab220c291efae7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 108}
+  - name: Antiswarm_Frame_67
+    originalName: 
+    pivot: {x: 0.6363636, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 752
+      width: 55
+      height: 54
+    spriteID: e6f2f1bfc6585da4eb64d17f40cbd673
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 736}
+  - name: Antiswarm_Frame_68
+    originalName: 
+    pivot: {x: 0.6363636, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 854
+      width: 55
+      height: 58
+    spriteID: f9c9c21a1a61b0c4694f9912c23d05d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 838}
+  - name: Antiswarm_Frame_69
+    originalName: 
+    pivot: {x: 0.6428571, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 77
+      width: 56
+      height: 59
+    spriteID: d1f69af28cff578478bab407c421b958
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 61}
+  - name: Antiswarm_Frame_70
+    originalName: 
+    pivot: {x: 0.65517235, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 305
+      width: 58
+      height: 61
+    spriteID: 0bcdb78431b20834788631c72d7988da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 298, y: 289}
+  - name: Antiswarm_Frame_71
+    originalName: 
+    pivot: {x: 0.661017, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 869
+      width: 59
+      height: 63
+    spriteID: 69a29260bf24ea74bbd1090b78231052
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 472, y: 853}
+  - name: Antiswarm_Frame_72
+    originalName: 
+    pivot: {x: 0.6666666, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 151
+      width: 69
+      height: 70
+    spriteID: 301e1b1904c29fe468f0f8f34336c0eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 306, y: 135}
+  - name: Antiswarm_Frame_73
+    originalName: 
+    pivot: {x: 0.6865671, y: -0.21917808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 891
+      width: 67
+      height: 73
+    spriteID: a5cfbf575eda76d4fb9132902c077fae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 875}
+  - name: Antiswarm_Frame_74
+    originalName: 
+    pivot: {x: 0.70149255, y: -0.21333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 735
+      width: 67
+      height: 75
+    spriteID: 6278430e45f296b43ae93f5769c7fd4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 719}
+  - name: Antiswarm_Frame_75
+    originalName: 
+    pivot: {x: 0.70149255, y: -0.20779221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 405
+      width: 67
+      height: 77
+    spriteID: 972d688f09e3b44479e56f6f9c446efe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 389}
+  - name: Antiswarm_Frame_76
+    originalName: 
+    pivot: {x: 0.70149255, y: -0.20512821}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 168
+      width: 67
+      height: 78
+    spriteID: 534f04f01adad3141be29e558201512e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 152}
+  - name: Antiswarm_Frame_77
+    originalName: 
+    pivot: {x: 0.70149255, y: -0.20253164}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 81
+      width: 67
+      height: 79
+    spriteID: 710e3b43cefaa7b4fadfe958fa2eac73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 65}
+  - name: Antiswarm_Frame_78
+    originalName: 
+    pivot: {x: 0.65517235, y: -0.21052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 381
+      width: 58
+      height: 76
+    spriteID: e7b15dee6779fcc47b10bd8a6df273d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 471, y: 365}
+  - name: Antiswarm_Frame_79
+    originalName: 
+    pivot: {x: 0.625, y: -0.41463417}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 785
+      y: 55
+      width: 56
+      height: 41
+    spriteID: c1febd18090fdf5449a1091ef9f3601b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 755, y: 38}
+  - name: Antiswarm_Frame_80
+    originalName: 
+    pivot: {x: 0.6607143, y: -0.34883723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 785
+      y: 4
+      width: 56
+      height: 43
+    spriteID: 0e26f448d8e14b94ba68f25312df96af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 757, y: -11}
+  - name: Antiswarm_Frame_81
+    originalName: 
+    pivot: {x: 0.64814824, y: -0.23404256}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 972
+      width: 54
+      height: 47
+    spriteID: 5ff43eae64cbdc1449e79ac0ed7f5a65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 961}
+  - name: Antiswarm_Frame_82
+    originalName: 
+    pivot: {x: 0.5957446, y: -0.18367347}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 251
+      width: 47
+      height: 49
+    spriteID: 8d0a6f24e553c714a804b315425571b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 242}
+  - name: Antiswarm_Frame_83
+    originalName: 
+    pivot: {x: 0.5957446, y: -0.18367347}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 722
+      y: 308
+      width: 47
+      height: 49
+    spriteID: 64308065c622e2a4783b675bce07d3b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 299}
+  - name: Antiswarm_Frame_84
+    originalName: 
+    pivot: {x: 0.5, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 504
+      width: 54
+      height: 60
+    spriteID: c197b85492fe1be4f910858319d19104
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 488}
+  - name: Antiswarm_Frame_85
+    originalName: 
+    pivot: {x: 0.50909084, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 652
+      width: 55
+      height: 62
+    spriteID: 880aeb3086eaf364ab8f0de8e627addc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 636}
+  - name: Antiswarm_Frame_86
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.29090908}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 814
+      width: 54
+      height: 55
+    spriteID: e98956d85479adf47a1a44123759d52b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 615, y: 798}
+  - name: Antiswarm_Frame_87
+    originalName: 
+    pivot: {x: 0.574468, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 702
+      width: 47
+      height: 68
+    spriteID: 236ec1e9116e7374a9856b082e944a6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 686}
+  - name: Antiswarm_Frame_88
+    originalName: 
+    pivot: {x: 0.5957446, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 778
+      width: 47
+      height: 68
+    spriteID: f6912c22cfc964a4ebd0ee4130925ef7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 762}
+  - name: Antiswarm_Frame_89
+    originalName: 
+    pivot: {x: 0.5799999, y: -0.23880598}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 874
+      width: 50
+      height: 67
+    spriteID: e221ad2510841c642afa5aba16a52fe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 289, y: 858}
+  - name: Antiswarm_Frame_90
+    originalName: 
+    pivot: {x: 0.5254237, y: -0.18390805}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 490
+      width: 59
+      height: 87
+    spriteID: 0855b867a2ad57e45bc08649bffecc68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 474}
+  - name: Antiswarm_Frame_91
+    originalName: 
+    pivot: {x: 0.51612896, y: -0.17777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 771
+      width: 62
+      height: 90
+    spriteID: 799e87c8a32aa5f4a9a592e4aaeb73a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -29, y: 755}
+  - name: Antiswarm_Frame_92
+    originalName: 
+    pivot: {x: 0.5079365, y: -0.17204301}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 670
+      width: 63
+      height: 93
+    spriteID: 65b2fa0967a8b0a45ac5885dbdd53dae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -29, y: 654}
+  - name: Antiswarm_Frame_93
+    originalName: 
+    pivot: {x: 0.50769234, y: -0.16842106}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 567
+      width: 65
+      height: 95
+    spriteID: 50c5a8ec22c716140b580bf55f3168ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 551}
+  - name: Antiswarm_Frame_94
+    originalName: 
+    pivot: {x: 0.50769234, y: -0.16494845}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 462
+      width: 65
+      height: 97
+    spriteID: 55e12ebbccb81154894a2fbc0c6965eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 446}
+  - name: Antiswarm_Frame_95
+    originalName: 
+    pivot: {x: 0.5074627, y: -0.1632653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 356
+      width: 67
+      height: 98
+    spriteID: a1ac32e10325292468afb349cb207496
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 340}
+  - name: Antiswarm_Frame_96
+    originalName: 
+    pivot: {x: 0.5223881, y: -0.16161616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 141
+      width: 67
+      height: 99
+    spriteID: c2af65611f635b0449d4ab7fb04d23b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 125}
+  - name: Antiswarm_Frame_97
+    originalName: 
+    pivot: {x: 0.53030306, y: -0.16}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 248
+      width: 66
+      height: 100
+    spriteID: 8cb5ac8cdc334e54c92651c641fb6032
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 232}
+  - name: Antiswarm_Frame_98
+    originalName: 
+    pivot: {x: 0.64814824, y: -0.23188406}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 792
+      width: 54
+      height: 69
+    spriteID: 55e96211192d4dd418d138e53e5ccfe5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 776}
+  - name: Antiswarm_Frame_99
+    originalName: 
+    pivot: {x: 0.6363636, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 714
+      width: 55
+      height: 70
+    spriteID: 1cf365d0413887a468a8866fe0dbd62b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 698}
+  - name: Antiswarm_Frame_100
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 632
+      width: 52
+      height: 62
+    spriteID: 1f2dcb131c032314faf73997de73753a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 616}
+  - name: Antiswarm_Frame_101
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.25396827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 292
+      width: 52
+      height: 63
+    spriteID: 1c8450657e61ed24b990fa6c58ee9882
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 276}
+  - name: Antiswarm_Frame_102
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 949
+      width: 52
+      height: 64
+    spriteID: a21fb06998f141b4fb15dfc443519e1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 933}
+  - name: Antiswarm_Frame_103
+    originalName: 
+    pivot: {x: 0.574468, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 534
+      width: 47
+      height: 64
+    spriteID: 4d8e320c8df51ac46987a9385473db3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 614, y: 518}
+  - name: Antiswarm_Frame_104
+    originalName: 
+    pivot: {x: 0.5888889, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 4
+      width: 90
+      height: 52
+    spriteID: 8f3187d8f44f40b4a896eff8091a0363
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 486, y: -14}
+  - name: Antiswarm_Frame_105
+    originalName: 
+    pivot: {x: 0.5813954, y: -0.42}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 582
+      width: 86
+      height: 50
+    spriteID: 2b8240b11c1bd0b46b66a80d26d93d7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 483, y: 561}
+  - name: Antiswarm_Frame_106
+    originalName: 
+    pivot: {x: 0.5813954, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 246
+      width: 86
+      height: 52
+    spriteID: 3cf118c4af0f1e54fa6b75b8e5f2b8a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 483, y: 230}
+  - name: Antiswarm_Frame_107
+    originalName: 
+    pivot: {x: 0.5882353, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 126
+      width: 85
+      height: 53
+    spriteID: cf37f4a36ad686149841a12ca38b3a56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 483, y: 110}
+  - name: Antiswarm_Frame_108
+    originalName: 
+    pivot: {x: 0.59302324, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 64
+      width: 86
+      height: 54
+    spriteID: 4ccf264afe4396744828796a4aeb2491
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 48}
+  - name: Antiswarm_Frame_109
+    originalName: 
+    pivot: {x: 0.5764706, y: -0.39215687}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 523
+      width: 85
+      height: 51
+    spriteID: f96fc7e540118a34480e372cb1226432
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 482, y: 503}
+  - name: Antiswarm_Frame_110
+    originalName: 
+    pivot: {x: 0.5862069, y: -0.36}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 465
+      width: 87
+      height: 50
+    spriteID: 4880f93a78bf37946bbd1c4763d96844
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 447}
+  - name: Antiswarm_Frame_111
+    originalName: 
+    pivot: {x: 0.5909091, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 498
+      y: 187
+      width: 88
+      height: 51
+    spriteID: a86f1addaa55ee348bd82ba742a57757
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 169}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1211984374
+    name: Antiswarm
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Antiswarm_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: c311e985a9175ee4eaf22c63826820cc
+    - name: Antiswarm_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4ff20a14f716fe743beb6ea317707279
+    - name: Antiswarm_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0ace64bdd2893a2488e1575b57294d50
+    - name: Antiswarm_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a12101704481e454c99271833210bd2b
+    - name: Antiswarm_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 034f9d54d190d1f4097cd524c623cd1f
+    - name: Antiswarm_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 9e25750e8d8ceb14bb944cd8798bdc3c
+    - name: Antiswarm_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 428d5d1495b3d644e85cb1218193b8a4
+    - name: Antiswarm_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ebd2ba839597e2447a5baa6b13543113
+    - name: Antiswarm_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 77d97c4f6f9941c4eab4bd0c235bba52
+    - name: Antiswarm_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ad9bd8bd995ff9b4e90dcd01a714e520
+    - name: Antiswarm_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 47f379c7ed955c8498b040f9e2bdebd4
+    - name: Antiswarm_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 834d96e3cf85a914094155554bb8c33f
+    - name: Antiswarm_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 1059ebf05429b1b48b1edc1308b5eaf1
+    - name: Antiswarm_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 14782fb36d944e249858403b098a3c57
+    - name: Antiswarm_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5b7f49d7ac08f534db02e75d84042e33
+    - name: Antiswarm_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 357976a21a3446a40b57cf3264c6212a
+    - name: Antiswarm_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 29d5e33ab2e38e74c8b923ce7176dfbc
+    - name: Antiswarm_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e5079285eaba71944acb6364ebf4b8a9
+    - name: Antiswarm_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 17c93a10213e4f6499f4f03a86a5b839
+    - name: Antiswarm_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2ce23a9528257a44582fc7d0c8e02d3e
+    - name: Antiswarm_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d2a3ae664e709cd478b37afa3926dbff
+    - name: Antiswarm_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4e375f938793a2e468b8abf26b5ebd5b
+    - name: Antiswarm_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 6bf47938e2072f14682e139968121b83
+    - name: Antiswarm_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cc4cd56cc7c0d894a9b7fcbfbe0f30b1
+    - name: Antiswarm_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: fec834952f480ed468ac605acbc34663
+    - name: Antiswarm_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 6f9a953450594874592c6d9bb953b84b
+    - name: Antiswarm_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ea5e3f3f97027c845919673e3a1630af
+    - name: Antiswarm_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 89da69e852ef9e6468c3c35cedb2d062
+    - name: Antiswarm_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: b2caba1fc6bee6544800415a0e6051e5
+    - name: Antiswarm_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2bf96efa724919c429c145f9609cff52
+    - name: Antiswarm_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5133c6e9e9ce2ce4697d253819ced420
+    - name: Antiswarm_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2c9d6501c989ae245b7cbaa79f9b880f
+    - name: Antiswarm_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 29b0671b6f086724c96de99f39ef0b92
+    - name: Antiswarm_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 18721299b62d55c45bb1451c8f67c00d
+    - name: Antiswarm_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: efa63e6c61e7f494d9d7f7a358123e6b
+    - name: Antiswarm_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5a3bf570a88e2ab4295a9dd5bdc9c30b
+    - name: Antiswarm_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 02be058af07c5c345bccc198cb7fb85e
+    - name: Antiswarm_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8a79025a36aa5244f9c59b82cd627af0
+    - name: Antiswarm_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 739d64c653d2c8549b0f085682484c8e
+    - name: Antiswarm_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 421c862f28f938745b647cfbf8110a72
+    - name: Antiswarm_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: dbfb246796231774997f62a96575b933
+    - name: Antiswarm_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 91b7f9e31fc1e464aa355cf222e2c081
+    - name: Antiswarm_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 6216ccf4490813a49a63ec68d8b74c31
+    - name: Antiswarm_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: b87c15ce949be8b4289e60da0b990dab
+    - name: Antiswarm_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e88360bb5358d104f87cf5ecb2aa9b76
+    - name: Antiswarm_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 83767eb7ae2772d4ea06b06addee4330
+    - name: Antiswarm_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: ef89a911a806b3b469e93f546f6b2f09
+    - name: Antiswarm_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a0f4d976f7b63dc43b63599bb3a4b329
+    - name: Antiswarm_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 95baaae24d42b2747b7a6f9368c3a0f6
+    - name: Antiswarm_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 871824985b23aea4ca09d39670109bf3
+    - name: Antiswarm_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f26ad9b757917184298d7efd03678203
+    - name: Antiswarm_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4ba09aecf16adad4ea8eff64bb2df8ab
+    - name: Antiswarm_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7560d62ba5e601147918a30c499966fa
+    - name: Antiswarm_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 19a8164b84255424986e472c0c709c2f
+    - name: Antiswarm_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 174445e997930624eb28a6b170c8d1bf
+    - name: Antiswarm_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: afefa7261bbd3474781f0eff2632ca96
+    - name: Antiswarm_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: be98aa883c7755a4393c3143a90c0d05
+    - name: Antiswarm_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f7c9d6ca81d15bf47bae25e931315a97
+    - name: Antiswarm_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5caad2474de2bd7439d377db9cc61096
+    - name: Antiswarm_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 20e913f0b9da0d143bd27cc372bcc763
+    - name: Antiswarm_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d455da95b010ac54db2f1bd312d134a6
+    - name: Antiswarm_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8ecf0c9fbb7eeb44a99c21239113ba76
+    - name: Antiswarm_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 7a097e7eeb25f3d44abc354638bb4443
+    - name: Antiswarm_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cdfbd417667b44047b851c15d72981ae
+    - name: Antiswarm_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 841ad207ad8440a40ba4421d40f5c0e3
+    - name: Antiswarm_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 94257d07e5337a54da12f0f652a4fef9
+    - name: Antiswarm_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0f2ec5a5ae9ac0a40ab220c291efae7f
+    - name: Antiswarm_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e6f2f1bfc6585da4eb64d17f40cbd673
+    - name: Antiswarm_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f9c9c21a1a61b0c4694f9912c23d05d0
+    - name: Antiswarm_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: d1f69af28cff578478bab407c421b958
+    - name: Antiswarm_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0bcdb78431b20834788631c72d7988da
+    - name: Antiswarm_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 69a29260bf24ea74bbd1090b78231052
+    - name: Antiswarm_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 301e1b1904c29fe468f0f8f34336c0eb
+    - name: Antiswarm_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a5cfbf575eda76d4fb9132902c077fae
+    - name: Antiswarm_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 6278430e45f296b43ae93f5769c7fd4c
+    - name: Antiswarm_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 972d688f09e3b44479e56f6f9c446efe
+    - name: Antiswarm_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 534f04f01adad3141be29e558201512e
+    - name: Antiswarm_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 710e3b43cefaa7b4fadfe958fa2eac73
+    - name: Antiswarm_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e7b15dee6779fcc47b10bd8a6df273d4
+    - name: Antiswarm_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: c1febd18090fdf5449a1091ef9f3601b
+    - name: Antiswarm_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0e26f448d8e14b94ba68f25312df96af
+    - name: Antiswarm_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 5ff43eae64cbdc1449e79ac0ed7f5a65
+    - name: Antiswarm_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8d0a6f24e553c714a804b315425571b6
+    - name: Antiswarm_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 64308065c622e2a4783b675bce07d3b6
+    - name: Antiswarm_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: c197b85492fe1be4f910858319d19104
+    - name: Antiswarm_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 880aeb3086eaf364ab8f0de8e627addc
+    - name: Antiswarm_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e98956d85479adf47a1a44123759d52b
+    - name: Antiswarm_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 236ec1e9116e7374a9856b082e944a6c
+    - name: Antiswarm_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f6912c22cfc964a4ebd0ee4130925ef7
+    - name: Antiswarm_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: e221ad2510841c642afa5aba16a52fe4
+    - name: Antiswarm_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 0855b867a2ad57e45bc08649bffecc68
+    - name: Antiswarm_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 799e87c8a32aa5f4a9a592e4aaeb73a1
+    - name: Antiswarm_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 65b2fa0967a8b0a45ac5885dbdd53dae
+    - name: Antiswarm_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 50c5a8ec22c716140b580bf55f3168ed
+    - name: Antiswarm_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 55e12ebbccb81154894a2fbc0c6965eb
+    - name: Antiswarm_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a1ac32e10325292468afb349cb207496
+    - name: Antiswarm_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: c2af65611f635b0449d4ab7fb04d23b6
+    - name: Antiswarm_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8cb5ac8cdc334e54c92651c641fb6032
+    - name: Antiswarm_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 55e96211192d4dd418d138e53e5ccfe5
+    - name: Antiswarm_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 1cf365d0413887a468a8866fe0dbd62b
+    - name: Antiswarm_Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 1f2dcb131c032314faf73997de73753a
+    - name: Antiswarm_Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 1c8450657e61ed24b990fa6c58ee9882
+    - name: Antiswarm_Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a21fb06998f141b4fb15dfc443519e1f
+    - name: Antiswarm_Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4d8e320c8df51ac46987a9385473db3d
+    - name: Antiswarm_Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 8f3187d8f44f40b4a896eff8091a0363
+    - name: Antiswarm_Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 2b8240b11c1bd0b46b66a80d26d93d7e
+    - name: Antiswarm_Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 3cf118c4af0f1e54fa6b75b8e5f2b8a0
+    - name: Antiswarm_Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: cf37f4a36ad686149841a12ca38b3a56
+    - name: Antiswarm_Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4ccf264afe4396744828796a4aeb2491
+    - name: Antiswarm_Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: f96fc7e540118a34480e372cb1226432
+    - name: Antiswarm_Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: 4880f93a78bf37946bbd1c4763d96844
+    - name: Antiswarm_Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      spriteId: a86f1addaa55ee348bd82ba742a57757
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 130, y: 130}

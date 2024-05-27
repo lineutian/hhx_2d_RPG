@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 3ff7cf389773ede479742be855af8830
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_daywatcher_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 99
+      width: 78
+      height: 52
+    spriteID: b746dc815994381409533ba735c012d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 593, y: 81}
+  - name: neutral_daywatcher_Frame_1
+    originalName: 
+    pivot: {x: 0.4935065, y: -0.33962265}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 99
+      width: 77
+      height: 53
+    spriteID: fd06d804913ea1948a3c440054df9164
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 337, y: 81}
+  - name: neutral_daywatcher_Frame_2
+    originalName: 
+    pivot: {x: 0.49367085, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 99
+      width: 79
+      height: 52
+    spriteID: 92b565ab8492ddf4faccd8bfc80c214f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 81}
+  - name: neutral_daywatcher_Frame_3
+    originalName: 
+    pivot: {x: 0.4935065, y: -0.33962265}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 434
+      y: 99
+      width: 77
+      height: 53
+    spriteID: 1fa6db580f2a5824a8b8c9aadfcf8da3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 81}
+  - name: neutral_daywatcher_Frame_4
+    originalName: 
+    pivot: {x: 0.5064935, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 99
+      width: 77
+      height: 56
+    spriteID: ca8667816d3638b4dab088fe8d2cdfc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 83}
+  - name: neutral_daywatcher_Frame_5
+    originalName: 
+    pivot: {x: 0.5064935, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 519
+      y: 99
+      width: 77
+      height: 53
+    spriteID: 79c98243282298842b4d2ec557b401e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 83}
+  - name: neutral_daywatcher_Frame_6
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.30188677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 99
+      width: 78
+      height: 53
+    spriteID: 2a74343ae5365e741bf25ee2c7cb7ace
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 83}
+  - name: neutral_daywatcher_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.32692307}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 99
+      width: 76
+      height: 52
+    spriteID: 4d568725fe5db294ca12de637545c6aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 678, y: 82}
+  - name: neutral_daywatcher_Frame_8
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 247
+      width: 48
+      height: 69
+    spriteID: ead2a1ca49139d5438f7fd7286efbb44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 884, y: 231}
+  - name: neutral_daywatcher_Frame_9
+    originalName: 
+    pivot: {x: 0.4042553, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 407
+      width: 47
+      height: 70
+    spriteID: 63514feb914cce54a8377699312c7dc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 391}
+  - name: neutral_daywatcher_Frame_10
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 247
+      width: 48
+      height: 70
+    spriteID: 29940569ee1d7ef46800c7350ca7e261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 231}
+  - name: neutral_daywatcher_Frame_11
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 758
+      y: 167
+      width: 48
+      height: 71
+    spriteID: 8816446c3abdfe54b91fba455b797d39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 728, y: 151}
+  - name: neutral_daywatcher_Frame_12
+    originalName: 
+    pivot: {x: 0.4042553, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 749
+      y: 247
+      width: 47
+      height: 71
+    spriteID: 610fcc3077e8e0a47af9490b9f874350
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 718, y: 231}
+  - name: neutral_daywatcher_Frame_13
+    originalName: 
+    pivot: {x: 0.38297874, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 247
+      width: 47
+      height: 71
+    spriteID: 29e2fa811099767428ce6a0c698c32e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 772, y: 231}
+  - name: neutral_daywatcher_Frame_14
+    originalName: 
+    pivot: {x: 0.3958333, y: -0.22222221}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 702
+      y: 167
+      width: 48
+      height: 72
+    spriteID: 15e1968aba1b8444791d1813bd913732
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 671, y: 151}
+  - name: neutral_daywatcher_Frame_15
+    originalName: 
+    pivot: {x: 0.3958333, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 970
+      y: 247
+      width: 48
+      height: 69
+    spriteID: c34b4ee300de059408ae0c4b42a5fd9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 939, y: 231}
+  - name: neutral_daywatcher_Frame_16
+    originalName: 
+    pivot: {x: 0.3958333, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 330
+      width: 48
+      height: 69
+    spriteID: d2c96c08c996f034e827a5ea71d2bf9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 314}
+  - name: neutral_daywatcher_Frame_17
+    originalName: 
+    pivot: {x: 0.3958333, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 330
+      width: 48
+      height: 69
+    spriteID: ee2e24bb0a6974e46b6b5437b5fb3c9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 314}
+  - name: neutral_daywatcher_Frame_18
+    originalName: 
+    pivot: {x: 0.42000002, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 572
+      y: 247
+      width: 50
+      height: 67
+    spriteID: e2f33a4a3565d8940ad879beffad251c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 231}
+  - name: neutral_daywatcher_Frame_19
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 400
+      y: 330
+      width: 48
+      height: 68
+    spriteID: 29961e9c3c22db643a514e03e52ce919
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 314}
+  - name: neutral_daywatcher_Frame_20
+    originalName: 
+    pivot: {x: 0.4042553, y: -0.21917808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 247
+      width: 47
+      height: 73
+    spriteID: add3c89f48685814498983a9a16a1b84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 231}
+  - name: neutral_daywatcher_Frame_21
+    originalName: 
+    pivot: {x: 0.40816325, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 330
+      width: 49
+      height: 66
+    spriteID: e18858b6d50361b4792ffa1e0fc6351b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 426, y: 314}
+  - name: neutral_daywatcher_Frame_22
+    originalName: 
+    pivot: {x: 0.42000002, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 330
+      width: 50
+      height: 66
+    spriteID: dd2e7af2d2d406e4083f62a43ed466e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 314}
+  - name: neutral_daywatcher_Frame_23
+    originalName: 
+    pivot: {x: 0.4042553, y: -0.21917808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 247
+      width: 47
+      height: 73
+    spriteID: a35b95d1b575f3d45bf4cfd3ae9b2834
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 231}
+  - name: neutral_daywatcher_Frame_24
+    originalName: 
+    pivot: {x: 0.40816325, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 513
+      y: 330
+      width: 49
+      height: 66
+    spriteID: 8da52df89d0acb847b786c05ad0a961d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 483, y: 314}
+  - name: neutral_daywatcher_Frame_25
+    originalName: 
+    pivot: {x: 0.42000002, y: -0.24242423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 330
+      width: 50
+      height: 66
+    spriteID: dde4e5b5ad53bf246b75db51cf4f9d72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 314}
+  - name: neutral_daywatcher_Frame_26
+    originalName: 
+    pivot: {x: 0.41509432, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 466
+      y: 167
+      width: 53
+      height: 67
+    spriteID: 3f64448302940e2449c28a3888d5f522
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 151}
+  - name: neutral_daywatcher_Frame_27
+    originalName: 
+    pivot: {x: 0.41509432, y: -0.23880595}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 527
+      y: 167
+      width: 53
+      height: 67
+    spriteID: 2b798e58ee91dcf4786e23a9e9b43588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 499, y: 151}
+  - name: neutral_daywatcher_Frame_28
+    originalName: 
+    pivot: {x: 0.4655172, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 167
+      width: 58
+      height: 67
+    spriteID: 727f4800622d7dc498b72081b6134985
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 150}
+  - name: neutral_daywatcher_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 630
+      y: 247
+      width: 50
+      height: 67
+    spriteID: d235aa30d226d234cba69a6a17716aea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 605, y: 230}
+  - name: neutral_daywatcher_Frame_30
+    originalName: 
+    pivot: {x: 0.31914896, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 570
+      y: 330
+      width: 47
+      height: 64
+    spriteID: 903eceb367d44d440b059b2c9e113d58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 535, y: 314}
+  - name: neutral_daywatcher_Frame_31
+    originalName: 
+    pivot: {x: 0.40350875, y: -0.24615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 273
+      y: 167
+      width: 57
+      height: 65
+    spriteID: 18b55d2ccdec6fc4f896bb5e647597b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 151}
+  - name: neutral_daywatcher_Frame_32
+    originalName: 
+    pivot: {x: 0.390625, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 774
+      y: 99
+      width: 64
+      height: 60
+    spriteID: f6c128f51cd4bfe4eb6ff1d85e8db9a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 749, y: 83}
+  - name: neutral_daywatcher_Frame_33
+    originalName: 
+    pivot: {x: 0.3442623, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 338
+      y: 167
+      width: 61
+      height: 60
+    spriteID: a1448dd311254fc4fbe3290450ee74a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 309, y: 151}
+  - name: neutral_daywatcher_Frame_34
+    originalName: 
+    pivot: {x: 0.3548387, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 846
+      y: 99
+      width: 62
+      height: 60
+    spriteID: 47fb386a3dd61eb4cb5674661e146588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 818, y: 83}
+  - name: neutral_daywatcher_Frame_35
+    originalName: 
+    pivot: {x: 0.3548387, y: -0.26666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 99
+      width: 62
+      height: 60
+    spriteID: 30ad86b67d293224fa3d1971e78e9a56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 888, y: 83}
+  - name: neutral_daywatcher_Frame_36
+    originalName: 
+    pivot: {x: 0.3548387, y: -0.26229507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 167
+      width: 62
+      height: 61
+    spriteID: 48c830525a528604187950ca89ac7b6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 151}
+  - name: neutral_daywatcher_Frame_37
+    originalName: 
+    pivot: {x: 0.3548387, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 682
+      y: 330
+      width: 62
+      height: 45
+    spriteID: bbad3f7902602f54a87c42b038744111
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 314}
+  - name: neutral_daywatcher_Frame_38
+    originalName: 
+    pivot: {x: 0.3548387, y: -0.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 752
+      y: 330
+      width: 62
+      height: 24
+    spriteID: b55bd772e2bcbcf42b321202d6c10421
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 724, y: 314}
+  - name: neutral_daywatcher_Frame_39
+    originalName: 
+    pivot: {x: 0.3548387, y: -1.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 682
+      y: 383
+      width: 62
+      height: 15
+    spriteID: 9f276c78c61fc0b4bae822446dc8beff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 367}
+  - name: neutral_daywatcher_Frame_40
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 330
+      width: 48
+      height: 69
+    spriteID: 235aa299850a04149a25534642933acf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 314}
+  - name: neutral_daywatcher_Frame_41
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 330
+      width: 48
+      height: 69
+    spriteID: 305b6729dd9ba114babf89eb499103df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 314}
+  - name: neutral_daywatcher_Frame_42
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 247
+      width: 48
+      height: 70
+    spriteID: 3ac9559bd437fd44c9322c909fbfa481
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 231}
+  - name: neutral_daywatcher_Frame_43
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 247
+      width: 48
+      height: 70
+    spriteID: dbedbe7211480c1479936249e1d06334
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 231}
+  - name: neutral_daywatcher_Frame_44
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 516
+      y: 247
+      width: 48
+      height: 70
+    spriteID: 889e0d9860d71454b8e07a4917ffb256
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 486, y: 231}
+  - name: neutral_daywatcher_Frame_45
+    originalName: 
+    pivot: {x: 0.4042553, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 407
+      width: 47
+      height: 70
+    spriteID: 5f3505e2f27803749accd57febd38ba0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 391}
+  - name: neutral_daywatcher_Frame_46
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 814
+      y: 167
+      width: 48
+      height: 71
+    spriteID: 75d53d22e43625246ace0ced664b4572
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 784, y: 151}
+  - name: neutral_daywatcher_Frame_47
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 870
+      y: 167
+      width: 48
+      height: 71
+    spriteID: 6ed4e29312d9cb14aa473283c2e95f01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 840, y: 151}
+  - name: neutral_daywatcher_Frame_48
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 926
+      y: 167
+      width: 48
+      height: 71
+    spriteID: fc351be30f3066f4097729ed65df51f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 896, y: 151}
+  - name: neutral_daywatcher_Frame_49
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 247
+      width: 48
+      height: 71
+    spriteID: ca66f403a4738c042a0586894175a336
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 231}
+  - name: neutral_daywatcher_Frame_50
+    originalName: 
+    pivot: {x: 0.40816325, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 588
+      y: 167
+      width: 49
+      height: 71
+    spriteID: 3669fdcb9faafba409725f5b0f465a31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 558, y: 151}
+  - name: neutral_daywatcher_Frame_51
+    originalName: 
+    pivot: {x: 0.40816325, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 645
+      y: 167
+      width: 49
+      height: 71
+    spriteID: 8aa42e0b11d26ae4e97fd00bec80031f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 615, y: 151}
+  - name: neutral_daywatcher_Frame_52
+    originalName: 
+    pivot: {x: 0.40816325, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 247
+      width: 49
+      height: 69
+    spriteID: dfa9b721fcf798344bd6b7a075ae0be0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 261, y: 231}
+  - name: neutral_daywatcher_Frame_53
+    originalName: 
+    pivot: {x: 0.3958333, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 330
+      width: 48
+      height: 69
+    spriteID: 7ef5a51e5d6ba8e4aae7b39e15c69ddb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 314}
+  - name: neutral_daywatcher_Frame_54
+    originalName: 
+    pivot: {x: 0.4042553, y: -0.21917808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 247
+      width: 47
+      height: 73
+    spriteID: 74aeb40827fcaeb4f9dedf07a4d3237d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 231}
+  - name: neutral_daywatcher_Frame_55
+    originalName: 
+    pivot: {x: 0.37254903, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 407
+      y: 167
+      width: 51
+      height: 70
+    spriteID: 7739113be348ff9439ba44360d011af3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 376, y: 151}
+  - name: neutral_daywatcher_Frame_56
+    originalName: 
+    pivot: {x: 0.37735847, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 167
+      width: 53
+      height: 71
+    spriteID: 670c25137d47ce04ea3298e8e9f69494
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 151}
+  - name: neutral_daywatcher_Frame_57
+    originalName: 
+    pivot: {x: 0.30303028, y: -0.14285713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 4
+      width: 66
+      height: 77
+    spriteID: d425cf8c09d859b419302dc39b6eccd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: -7}
+  - name: neutral_daywatcher_Frame_58
+    originalName: 
+    pivot: {x: 0.3275862, y: -0.17333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 247
+      width: 58
+      height: 75
+    spriteID: f2668ecb16fa08e4b8e188d39b17575d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 234}
+  - name: neutral_daywatcher_Frame_59
+    originalName: 
+    pivot: {x: 0.296875, y: -0.16666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 167
+      width: 64
+      height: 72
+    spriteID: 587f34cc0fdc4bd45b6f3ae61a9fda7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 155}
+  - name: neutral_daywatcher_Frame_60
+    originalName: 
+    pivot: {x: 0.39622644, y: -0.20634921}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 688
+      y: 247
+      width: 53
+      height: 63
+    spriteID: 32aa99e6c1172c846a5afa565175f598
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 659, y: 234}
+  - name: neutral_daywatcher_Frame_61
+    originalName: 
+    pivot: {x: 0.46938774, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 330
+      width: 49
+      height: 60
+    spriteID: f7b5f94400ab0cf45bb419928471e3ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 598, y: 316}
+  - name: neutral_daywatcher_Frame_62
+    originalName: 
+    pivot: {x: 0.46575344, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 896
+      y: 4
+      width: 73
+      height: 65
+    spriteID: e107a7e47503b8549a971489d63ed878
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 880, y: -9}
+  - name: neutral_daywatcher_Frame_63
+    originalName: 
+    pivot: {x: 0.4555556, y: -0.14942528}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 90
+      height: 87
+    spriteID: 1a15c7c6db2eece4ba2161d053e8366d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: -9}
+  - name: neutral_daywatcher_Frame_64
+    originalName: 
+    pivot: {x: 0.4725275, y: -0.15116277}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 4
+      width: 91
+      height: 86
+    spriteID: 29567b3c534cacd4db687b13aee998e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: -9}
+  - name: neutral_daywatcher_Frame_65
+    originalName: 
+    pivot: {x: 0.45652175, y: -0.16455695}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 4
+      width: 92
+      height: 79
+    spriteID: 8d4ed953bfd0b6e49b36959a1f04b49e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: -9}
+  - name: neutral_daywatcher_Frame_66
+    originalName: 
+    pivot: {x: 0.48809522, y: -0.17333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 301
+      y: 4
+      width: 84
+      height: 75
+    spriteID: a496cf802706d9f4993d471a76c80a18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: -9}
+  - name: neutral_daywatcher_Frame_67
+    originalName: 
+    pivot: {x: 0.49382716, y: -0.19402984}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 393
+      y: 4
+      width: 81
+      height: 67
+    spriteID: f5070e2e0a0577f46916e6b7e97eeeda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: -9}
+  - name: neutral_daywatcher_Frame_68
+    originalName: 
+    pivot: {x: 0.5060241, y: -0.20967741}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 482
+      y: 4
+      width: 83
+      height: 62
+    spriteID: 406a8b01a42f2194bb5581db36357f67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 474, y: -9}
+  - name: neutral_daywatcher_Frame_69
+    originalName: 
+    pivot: {x: 0.4939759, y: -0.22033899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 647
+      y: 4
+      width: 83
+      height: 59
+    spriteID: fe90ebb103510e64388737124c0b513d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 638, y: -9}
+  - name: neutral_daywatcher_Frame_70
+    originalName: 
+    pivot: {x: 0.51898736, y: -0.21666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 99
+      width: 79
+      height: 60
+    spriteID: ff56ec8f413fd9247aa37b39cbe41670
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 86}
+  - name: neutral_daywatcher_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: -0.2769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 738
+      y: 4
+      width: 74
+      height: 65
+    spriteID: 58526e09f76ddf04392915146c0fc901
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 725, y: -14}
+  - name: neutral_daywatcher_Frame_72
+    originalName: 
+    pivot: {x: 0.45588234, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 820
+      y: 4
+      width: 68
+      height: 70
+    spriteID: 91181983d548b32448e6cdb02e07edd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 801, y: -12}
+  - name: neutral_daywatcher_Frame_73
+    originalName: 
+    pivot: {x: 0.36170208, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 859
+      y: 247
+      width: 47
+      height: 71
+    spriteID: 1fc6038e69b635c47b140475b7d56c30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 826, y: 231}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1188072420
+    name: neutral_daywatcher
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_daywatcher_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b746dc815994381409533ba735c012d4
+    - name: neutral_daywatcher_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fd06d804913ea1948a3c440054df9164
+    - name: neutral_daywatcher_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 92b565ab8492ddf4faccd8bfc80c214f
+    - name: neutral_daywatcher_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1fa6db580f2a5824a8b8c9aadfcf8da3
+    - name: neutral_daywatcher_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ca8667816d3638b4dab088fe8d2cdfc3
+    - name: neutral_daywatcher_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 79c98243282298842b4d2ec557b401e6
+    - name: neutral_daywatcher_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2a74343ae5365e741bf25ee2c7cb7ace
+    - name: neutral_daywatcher_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4d568725fe5db294ca12de637545c6aa
+    - name: neutral_daywatcher_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ead2a1ca49139d5438f7fd7286efbb44
+    - name: neutral_daywatcher_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 63514feb914cce54a8377699312c7dc5
+    - name: neutral_daywatcher_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 29940569ee1d7ef46800c7350ca7e261
+    - name: neutral_daywatcher_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8816446c3abdfe54b91fba455b797d39
+    - name: neutral_daywatcher_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 610fcc3077e8e0a47af9490b9f874350
+    - name: neutral_daywatcher_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 29e2fa811099767428ce6a0c698c32e0
+    - name: neutral_daywatcher_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 15e1968aba1b8444791d1813bd913732
+    - name: neutral_daywatcher_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c34b4ee300de059408ae0c4b42a5fd9a
+    - name: neutral_daywatcher_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d2c96c08c996f034e827a5ea71d2bf9b
+    - name: neutral_daywatcher_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ee2e24bb0a6974e46b6b5437b5fb3c9a
+    - name: neutral_daywatcher_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e2f33a4a3565d8940ad879beffad251c
+    - name: neutral_daywatcher_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 29961e9c3c22db643a514e03e52ce919
+    - name: neutral_daywatcher_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: add3c89f48685814498983a9a16a1b84
+    - name: neutral_daywatcher_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e18858b6d50361b4792ffa1e0fc6351b
+    - name: neutral_daywatcher_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dd2e7af2d2d406e4083f62a43ed466e7
+    - name: neutral_daywatcher_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a35b95d1b575f3d45bf4cfd3ae9b2834
+    - name: neutral_daywatcher_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8da52df89d0acb847b786c05ad0a961d
+    - name: neutral_daywatcher_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dde4e5b5ad53bf246b75db51cf4f9d72
+    - name: neutral_daywatcher_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3f64448302940e2449c28a3888d5f522
+    - name: neutral_daywatcher_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2b798e58ee91dcf4786e23a9e9b43588
+    - name: neutral_daywatcher_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 727f4800622d7dc498b72081b6134985
+    - name: neutral_daywatcher_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d235aa30d226d234cba69a6a17716aea
+    - name: neutral_daywatcher_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 903eceb367d44d440b059b2c9e113d58
+    - name: neutral_daywatcher_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 18b55d2ccdec6fc4f896bb5e647597b0
+    - name: neutral_daywatcher_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f6c128f51cd4bfe4eb6ff1d85e8db9a3
+    - name: neutral_daywatcher_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a1448dd311254fc4fbe3290450ee74a0
+    - name: neutral_daywatcher_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 47fb386a3dd61eb4cb5674661e146588
+    - name: neutral_daywatcher_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 30ad86b67d293224fa3d1971e78e9a56
+    - name: neutral_daywatcher_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 48c830525a528604187950ca89ac7b6b
+    - name: neutral_daywatcher_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bbad3f7902602f54a87c42b038744111
+    - name: neutral_daywatcher_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b55bd772e2bcbcf42b321202d6c10421
+    - name: neutral_daywatcher_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9f276c78c61fc0b4bae822446dc8beff
+    - name: neutral_daywatcher_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 235aa299850a04149a25534642933acf
+    - name: neutral_daywatcher_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 305b6729dd9ba114babf89eb499103df
+    - name: neutral_daywatcher_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3ac9559bd437fd44c9322c909fbfa481
+    - name: neutral_daywatcher_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dbedbe7211480c1479936249e1d06334
+    - name: neutral_daywatcher_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 889e0d9860d71454b8e07a4917ffb256
+    - name: neutral_daywatcher_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5f3505e2f27803749accd57febd38ba0
+    - name: neutral_daywatcher_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 75d53d22e43625246ace0ced664b4572
+    - name: neutral_daywatcher_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6ed4e29312d9cb14aa473283c2e95f01
+    - name: neutral_daywatcher_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fc351be30f3066f4097729ed65df51f9
+    - name: neutral_daywatcher_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ca66f403a4738c042a0586894175a336
+    - name: neutral_daywatcher_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3669fdcb9faafba409725f5b0f465a31
+    - name: neutral_daywatcher_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8aa42e0b11d26ae4e97fd00bec80031f
+    - name: neutral_daywatcher_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dfa9b721fcf798344bd6b7a075ae0be0
+    - name: neutral_daywatcher_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7ef5a51e5d6ba8e4aae7b39e15c69ddb
+    - name: neutral_daywatcher_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 74aeb40827fcaeb4f9dedf07a4d3237d
+    - name: neutral_daywatcher_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7739113be348ff9439ba44360d011af3
+    - name: neutral_daywatcher_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 670c25137d47ce04ea3298e8e9f69494
+    - name: neutral_daywatcher_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d425cf8c09d859b419302dc39b6eccd9
+    - name: neutral_daywatcher_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f2668ecb16fa08e4b8e188d39b17575d
+    - name: neutral_daywatcher_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 587f34cc0fdc4bd45b6f3ae61a9fda7c
+    - name: neutral_daywatcher_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 32aa99e6c1172c846a5afa565175f598
+    - name: neutral_daywatcher_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f7b5f94400ab0cf45bb419928471e3ec
+    - name: neutral_daywatcher_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e107a7e47503b8549a971489d63ed878
+    - name: neutral_daywatcher_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1a15c7c6db2eece4ba2161d053e8366d
+    - name: neutral_daywatcher_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 29567b3c534cacd4db687b13aee998e5
+    - name: neutral_daywatcher_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8d4ed953bfd0b6e49b36959a1f04b49e
+    - name: neutral_daywatcher_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a496cf802706d9f4993d471a76c80a18
+    - name: neutral_daywatcher_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f5070e2e0a0577f46916e6b7e97eeeda
+    - name: neutral_daywatcher_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 406a8b01a42f2194bb5581db36357f67
+    - name: neutral_daywatcher_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fe90ebb103510e64388737124c0b513d
+    - name: neutral_daywatcher_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ff56ec8f413fd9247aa37b39cbe41670
+    - name: neutral_daywatcher_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 58526e09f76ddf04392915146c0fc901
+    - name: neutral_daywatcher_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 91181983d548b32448e6cdb02e07edd6
+    - name: neutral_daywatcher_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1fc6038e69b635c47b140475b7d56c30
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

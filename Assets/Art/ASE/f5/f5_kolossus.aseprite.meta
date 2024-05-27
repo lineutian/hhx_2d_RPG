@@ -1,0 +1,2341 @@
+fileFormatVersion: 2
+guid: b9b9f2e5474fd3841815a54c6612c478
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: f5_kolossus_Frame_0
+    originalName: 
+    pivot: {x: 0.53521127, y: -0.28333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 276
+      width: 71
+      height: 60
+    spriteID: 37bb1d0dba6c36248a63442c476c4bd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 259}
+  - name: f5_kolossus_Frame_1
+    originalName: 
+    pivot: {x: 0.53521127, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 344
+      width: 71
+      height: 60
+    spriteID: 1149c5c2ac6e2194fa90e8ca46cd2a35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 328}
+  - name: f5_kolossus_Frame_2
+    originalName: 
+    pivot: {x: 0.5285715, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 532
+      width: 70
+      height: 59
+    spriteID: 98bcc04c31058864c9acc406a0a28347
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 516}
+  - name: f5_kolossus_Frame_3
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 934
+      width: 69
+      height: 58
+    spriteID: 248d6c70983f17946989bcc5e225b830
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 918}
+  - name: f5_kolossus_Frame_4
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.29310346}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 4
+      width: 69
+      height: 58
+    spriteID: a4973f8847bb2a445a3908b569cc5f9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: -13}
+  - name: f5_kolossus_Frame_5
+    originalName: 
+    pivot: {x: 0.5285715, y: -0.28333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 546
+      width: 70
+      height: 60
+    spriteID: c264d94f09d956e41bb61a0f78cce12a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 529}
+  - name: f5_kolossus_Frame_6
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 921
+      width: 72
+      height: 61
+    spriteID: 656dafec4ea96cc4b9564aabab46f537
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 905}
+  - name: f5_kolossus_Frame_7
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 571
+      width: 72
+      height: 62
+    spriteID: 35afd731b4411104384245e415fc5917
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 555}
+  - name: f5_kolossus_Frame_8
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 641
+      width: 72
+      height: 62
+    spriteID: cbac7440fa8ce5c4c826a898c3af6f00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 625}
+  - name: f5_kolossus_Frame_9
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 711
+      width: 72
+      height: 62
+    spriteID: 3034a5098ab23824cab9e0e1f001af9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 695}
+  - name: f5_kolossus_Frame_10
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 781
+      width: 72
+      height: 62
+    spriteID: 7b4a9b158dcf54a428b8c5522e18ce4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 765}
+  - name: f5_kolossus_Frame_11
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 4
+      width: 72
+      height: 61
+    spriteID: 5917232181357b942ba85fac464736fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: -12}
+  - name: f5_kolossus_Frame_12
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 556
+      width: 72
+      height: 60
+    spriteID: 057ffefd4c62a5e428c4d980530cab35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 540}
+  - name: f5_kolossus_Frame_13
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 412
+      width: 72
+      height: 59
+    spriteID: eacb7e33124361149a77ee6893791dc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 396}
+  - name: f5_kolossus_Frame_14
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 681
+      width: 72
+      height: 58
+    spriteID: 97dd3d094b94e2d4aa216ffff80c6518
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 665}
+  - name: f5_kolossus_Frame_15
+    originalName: 
+    pivot: {x: 0.5277778, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 747
+      width: 72
+      height: 58
+    spriteID: 0ca3b78346d290b44a6c71e154043fe6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 731}
+  - name: f5_kolossus_Frame_16
+    originalName: 
+    pivot: {x: 0.5205479, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 136
+      width: 73
+      height: 57
+    spriteID: d9181802af4692448b6688fab487595f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 120}
+  - name: f5_kolossus_Frame_17
+    originalName: 
+    pivot: {x: 0.5205479, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 201
+      width: 73
+      height: 57
+    spriteID: 95d3dafddd81dd44d9009679c01360ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 185}
+  - name: f5_kolossus_Frame_18
+    originalName: 
+    pivot: {x: 0.5205479, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 266
+      width: 73
+      height: 57
+    spriteID: 077526e861970f9488d2ee28d24485ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 250}
+  - name: f5_kolossus_Frame_19
+    originalName: 
+    pivot: {x: 0.5205479, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 331
+      width: 73
+      height: 57
+    spriteID: 03eace5176da5a54f955a6414ffce4a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 315}
+  - name: f5_kolossus_Frame_20
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 4
+      width: 73
+      height: 58
+    spriteID: 6b67eb0639ae26b4b8f196e293e27271
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 247, y: -12}
+  - name: f5_kolossus_Frame_21
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 70
+      width: 73
+      height: 58
+    spriteID: 7a594ef73c38c8b4e998ba2f8faee9c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 247, y: 54}
+  - name: f5_kolossus_Frame_22
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 479
+      width: 72
+      height: 59
+    spriteID: d76914b2118a36042b98afdadcd20d8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 463}
+  - name: f5_kolossus_Frame_23
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 624
+      width: 72
+      height: 60
+    spriteID: ac744769854cb544497d659fed242e3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 608}
+  - name: f5_kolossus_Frame_24
+    originalName: 
+    pivot: {x: 0.5441177, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 800
+      width: 68
+      height: 59
+    spriteID: 6a7052f8a3a0f864da88acac8c6ca187
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 784}
+  - name: f5_kolossus_Frame_25
+    originalName: 
+    pivot: {x: 0.5441177, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 599
+      width: 68
+      height: 60
+    spriteID: 0050c11416ffb2143bb5300bc8871776
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 583}
+  - name: f5_kolossus_Frame_26
+    originalName: 
+    pivot: {x: 0.5507246, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 396
+      width: 69
+      height: 60
+    spriteID: ef9720f6c6ff87346897caa3c3ad85d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 380}
+  - name: f5_kolossus_Frame_27
+    originalName: 
+    pivot: {x: 0.5441177, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 867
+      width: 68
+      height: 59
+    spriteID: 2d37229f59faa4144809fe9667038c3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 851}
+  - name: f5_kolossus_Frame_28
+    originalName: 
+    pivot: {x: 0.5441177, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 667
+      width: 68
+      height: 60
+    spriteID: c80285f75e9febc44a02861a5e219827
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 651}
+  - name: f5_kolossus_Frame_29
+    originalName: 
+    pivot: {x: 0.5507246, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 464
+      width: 69
+      height: 60
+    spriteID: 02c8837f9528e7645ad822a8ca270e79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 448}
+  - name: f5_kolossus_Frame_30
+    originalName: 
+    pivot: {x: 0.5492958, y: -0.27118644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 614
+      width: 71
+      height: 59
+    spriteID: a657847c9177ae6429af37a3e8bae0a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 598}
+  - name: f5_kolossus_Frame_31
+    originalName: 
+    pivot: {x: 0.53521127, y: -0.28070176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 735
+      width: 71
+      height: 57
+    spriteID: 21275f3ecdadc9144bdb2ed852463b43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 719}
+  - name: f5_kolossus_Frame_32
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 66
+      width: 73
+      height: 53
+    spriteID: a59910fde7c87f44a82ad1a9e1f9be5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 50}
+  - name: f5_kolossus_Frame_33
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.2962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 4
+      width: 73
+      height: 54
+    spriteID: aeeb05034129a4d4eb4fe6dfa085d512
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: -12}
+  - name: f5_kolossus_Frame_34
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 127
+      width: 73
+      height: 53
+    spriteID: 4c1e81389abc7b64ca45cd295ba90c36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 111}
+  - name: f5_kolossus_Frame_35
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 188
+      width: 73
+      height: 53
+    spriteID: 822255abb282c254f8ab985d426dc537
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 172}
+  - name: f5_kolossus_Frame_36
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 249
+      width: 73
+      height: 53
+    spriteID: fba23ecba2f015d449928a457a57896f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 233}
+  - name: f5_kolossus_Frame_37
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 310
+      width: 73
+      height: 53
+    spriteID: bff6e71347aa30843834e60f3c897ccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 294}
+  - name: f5_kolossus_Frame_38
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 371
+      width: 73
+      height: 53
+    spriteID: ba8ab876a6a127d4da424ffc61dbce98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 355}
+  - name: f5_kolossus_Frame_39
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 432
+      width: 73
+      height: 53
+    spriteID: cba61a4d390b16d46af60bfa8fe3d89c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 416}
+  - name: f5_kolossus_Frame_40
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 493
+      width: 73
+      height: 53
+    spriteID: f1e7eb448d40af041b75c5a2b5602b7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 477}
+  - name: f5_kolossus_Frame_41
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 554
+      width: 73
+      height: 53
+    spriteID: 38f4ec20a9b4c3b418170aa153634e3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 538}
+  - name: f5_kolossus_Frame_42
+    originalName: 
+    pivot: {x: 0.53424656, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 615
+      width: 73
+      height: 53
+    spriteID: 8d0204ed424dc7d458757047f04a5b6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 599}
+  - name: f5_kolossus_Frame_43
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 73
+      width: 72
+      height: 61
+    spriteID: c50680c81723a0e47a55c04eb6b1917c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 57}
+  - name: f5_kolossus_Frame_44
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 142
+      width: 72
+      height: 61
+    spriteID: 6fb6d647d13592b44ac7e4856d4a8d1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 126}
+  - name: f5_kolossus_Frame_45
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 211
+      width: 72
+      height: 61
+    spriteID: a4496505b24420f45aa8214551e9adaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 195}
+  - name: f5_kolossus_Frame_46
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 280
+      width: 72
+      height: 61
+    spriteID: 1aeb24d4a0c4b70449d63687d39e905a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 264}
+  - name: f5_kolossus_Frame_47
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 349
+      width: 72
+      height: 61
+    spriteID: 5ab2cf5070045ae47b5dc38ddc62232f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 333}
+  - name: f5_kolossus_Frame_48
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 418
+      width: 72
+      height: 61
+    spriteID: 19ad4e9cb25ebcb498c3cb251fc04f08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 402}
+  - name: f5_kolossus_Frame_49
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 692
+      width: 72
+      height: 60
+    spriteID: e6e63d99b8c3c0b4e94cabc4e854fcfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 676}
+  - name: f5_kolossus_Frame_50
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 760
+      width: 72
+      height: 60
+    spriteID: 728482562e1104f4098a3974fea52840
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 744}
+  - name: f5_kolossus_Frame_51
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 828
+      width: 72
+      height: 60
+    spriteID: 1393cf03ccc6c074f8db579ef5ee0dd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 812}
+  - name: f5_kolossus_Frame_52
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 896
+      width: 72
+      height: 60
+    spriteID: 8ac5996b78185b94f8bc489d4296c115
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 880}
+  - name: f5_kolossus_Frame_53
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 4
+      width: 72
+      height: 60
+    spriteID: 095f502ff34e6bf4aa063130dd0d65df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: -12}
+  - name: f5_kolossus_Frame_54
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 72
+      width: 72
+      height: 60
+    spriteID: 0b33836282e8b91409b357835c176752
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 56}
+  - name: f5_kolossus_Frame_55
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 140
+      width: 72
+      height: 60
+    spriteID: f5810957b22615f4fa31051133561fbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 124}
+  - name: f5_kolossus_Frame_56
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 208
+      width: 72
+      height: 60
+    spriteID: 63dd0669e2d29b3449c2edc5242c5b11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 192}
+  - name: f5_kolossus_Frame_57
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 813
+      width: 72
+      height: 58
+    spriteID: 27b440d67111e3949bfbe241412aea79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 797}
+  - name: f5_kolossus_Frame_58
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 964
+      width: 69
+      height: 56
+    spriteID: d017f3df57af67a448b861ad948c4e81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 948}
+  - name: f5_kolossus_Frame_59
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 676
+      width: 69
+      height: 56
+    spriteID: 0a411f7ff32eead4cad60b356eeb77b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 660}
+  - name: f5_kolossus_Frame_60
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 740
+      width: 69
+      height: 56
+    spriteID: 6e4a2698c50cbd94c8d689803ac455e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 724}
+  - name: f5_kolossus_Frame_61
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 804
+      width: 69
+      height: 56
+    spriteID: c6702407faa378146ba0a1d391a43ead
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 788}
+  - name: f5_kolossus_Frame_62
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 868
+      width: 69
+      height: 56
+    spriteID: 888f2862690e5c945a6efd8cf5b6fa85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 852}
+  - name: f5_kolossus_Frame_63
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 932
+      width: 69
+      height: 56
+    spriteID: 4bd68d9a0a3fa6144bf4ecddaea7edc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 916}
+  - name: f5_kolossus_Frame_64
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 70
+      width: 69
+      height: 56
+    spriteID: 24d70cfe7dd017742b52e22d5e266a5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 54}
+  - name: f5_kolossus_Frame_65
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 879
+      width: 72
+      height: 58
+    spriteID: e6b612862616e9f42b0a2e7f300805da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 863}
+  - name: f5_kolossus_Frame_66
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.26984128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 500
+      width: 72
+      height: 63
+    spriteID: e9ae95fb910cb704fb14b011cff32d88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 483}
+  - name: f5_kolossus_Frame_67
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.27419356}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 851
+      width: 72
+      height: 62
+    spriteID: 2d1afe1beec3e9e4b9934b66d9dc7c84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 834}
+  - name: f5_kolossus_Frame_68
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.234375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 428
+      width: 72
+      height: 64
+    spriteID: 56c2785926ef64f4eae87fc57197876a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 413}
+  - name: f5_kolossus_Frame_69
+    originalName: 
+    pivot: {x: 0.5131579, y: -0.012820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 76
+      height: 78
+    spriteID: fc0c58e32f7c58d43bf8a7aa719bbda4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 3}
+  - name: f5_kolossus_Frame_70
+    originalName: 
+    pivot: {x: 0.527027, y: -0.025974026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 262
+      width: 74
+      height: 77
+    spriteID: debe4c7e704f8be46990da2cb1a4812c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 260}
+  - name: f5_kolossus_Frame_71
+    originalName: 
+    pivot: {x: 0.52000004, y: -0.012820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 176
+      width: 75
+      height: 78
+    spriteID: 652fe9782f3bcd34f93720d347678fe5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 175}
+  - name: f5_kolossus_Frame_72
+    originalName: 
+    pivot: {x: 0.5131579, y: -0.012820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 90
+      width: 76
+      height: 78
+    spriteID: 058f27aaca3d06a4fbe64a8dbf9881b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 89}
+  - name: f5_kolossus_Frame_73
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.08219178}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 347
+      width: 72
+      height: 73
+    spriteID: e80dcd98ec2f000449941501a194417c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 341}
+  - name: f5_kolossus_Frame_74
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 945
+      width: 72
+      height: 58
+    spriteID: 96fc990e6b3baed4594179afd0ecee8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 929}
+  - name: f5_kolossus_Frame_75
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.2622951}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 487
+      width: 72
+      height: 61
+    spriteID: 8cd248cff0b685d4ca6604ab71ba2d19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 471}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1351027261
+    name: f5_kolossus
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: f5_kolossus_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 37bb1d0dba6c36248a63442c476c4bd8
+    - name: f5_kolossus_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1149c5c2ac6e2194fa90e8ca46cd2a35
+    - name: f5_kolossus_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 98bcc04c31058864c9acc406a0a28347
+    - name: f5_kolossus_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 248d6c70983f17946989bcc5e225b830
+    - name: f5_kolossus_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a4973f8847bb2a445a3908b569cc5f9c
+    - name: f5_kolossus_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c264d94f09d956e41bb61a0f78cce12a
+    - name: f5_kolossus_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 656dafec4ea96cc4b9564aabab46f537
+    - name: f5_kolossus_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 35afd731b4411104384245e415fc5917
+    - name: f5_kolossus_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cbac7440fa8ce5c4c826a898c3af6f00
+    - name: f5_kolossus_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3034a5098ab23824cab9e0e1f001af9e
+    - name: f5_kolossus_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7b4a9b158dcf54a428b8c5522e18ce4f
+    - name: f5_kolossus_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5917232181357b942ba85fac464736fc
+    - name: f5_kolossus_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 057ffefd4c62a5e428c4d980530cab35
+    - name: f5_kolossus_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: eacb7e33124361149a77ee6893791dc9
+    - name: f5_kolossus_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 97dd3d094b94e2d4aa216ffff80c6518
+    - name: f5_kolossus_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0ca3b78346d290b44a6c71e154043fe6
+    - name: f5_kolossus_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d9181802af4692448b6688fab487595f
+    - name: f5_kolossus_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 95d3dafddd81dd44d9009679c01360ba
+    - name: f5_kolossus_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 077526e861970f9488d2ee28d24485ca
+    - name: f5_kolossus_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 03eace5176da5a54f955a6414ffce4a9
+    - name: f5_kolossus_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6b67eb0639ae26b4b8f196e293e27271
+    - name: f5_kolossus_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7a594ef73c38c8b4e998ba2f8faee9c4
+    - name: f5_kolossus_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d76914b2118a36042b98afdadcd20d8f
+    - name: f5_kolossus_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ac744769854cb544497d659fed242e3b
+    - name: f5_kolossus_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6a7052f8a3a0f864da88acac8c6ca187
+    - name: f5_kolossus_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0050c11416ffb2143bb5300bc8871776
+    - name: f5_kolossus_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ef9720f6c6ff87346897caa3c3ad85d7
+    - name: f5_kolossus_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2d37229f59faa4144809fe9667038c3e
+    - name: f5_kolossus_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c80285f75e9febc44a02861a5e219827
+    - name: f5_kolossus_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 02c8837f9528e7645ad822a8ca270e79
+    - name: f5_kolossus_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a657847c9177ae6429af37a3e8bae0a4
+    - name: f5_kolossus_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 21275f3ecdadc9144bdb2ed852463b43
+    - name: f5_kolossus_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a59910fde7c87f44a82ad1a9e1f9be5d
+    - name: f5_kolossus_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: aeeb05034129a4d4eb4fe6dfa085d512
+    - name: f5_kolossus_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4c1e81389abc7b64ca45cd295ba90c36
+    - name: f5_kolossus_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 822255abb282c254f8ab985d426dc537
+    - name: f5_kolossus_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fba23ecba2f015d449928a457a57896f
+    - name: f5_kolossus_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bff6e71347aa30843834e60f3c897ccc
+    - name: f5_kolossus_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ba8ab876a6a127d4da424ffc61dbce98
+    - name: f5_kolossus_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cba61a4d390b16d46af60bfa8fe3d89c
+    - name: f5_kolossus_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f1e7eb448d40af041b75c5a2b5602b7b
+    - name: f5_kolossus_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 38f4ec20a9b4c3b418170aa153634e3c
+    - name: f5_kolossus_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8d0204ed424dc7d458757047f04a5b6f
+    - name: f5_kolossus_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c50680c81723a0e47a55c04eb6b1917c
+    - name: f5_kolossus_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6fb6d647d13592b44ac7e4856d4a8d1b
+    - name: f5_kolossus_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a4496505b24420f45aa8214551e9adaf
+    - name: f5_kolossus_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1aeb24d4a0c4b70449d63687d39e905a
+    - name: f5_kolossus_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5ab2cf5070045ae47b5dc38ddc62232f
+    - name: f5_kolossus_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 19ad4e9cb25ebcb498c3cb251fc04f08
+    - name: f5_kolossus_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e6e63d99b8c3c0b4e94cabc4e854fcfb
+    - name: f5_kolossus_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 728482562e1104f4098a3974fea52840
+    - name: f5_kolossus_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1393cf03ccc6c074f8db579ef5ee0dd9
+    - name: f5_kolossus_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8ac5996b78185b94f8bc489d4296c115
+    - name: f5_kolossus_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 095f502ff34e6bf4aa063130dd0d65df
+    - name: f5_kolossus_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0b33836282e8b91409b357835c176752
+    - name: f5_kolossus_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f5810957b22615f4fa31051133561fbb
+    - name: f5_kolossus_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 63dd0669e2d29b3449c2edc5242c5b11
+    - name: f5_kolossus_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 27b440d67111e3949bfbe241412aea79
+    - name: f5_kolossus_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d017f3df57af67a448b861ad948c4e81
+    - name: f5_kolossus_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0a411f7ff32eead4cad60b356eeb77b8
+    - name: f5_kolossus_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6e4a2698c50cbd94c8d689803ac455e6
+    - name: f5_kolossus_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c6702407faa378146ba0a1d391a43ead
+    - name: f5_kolossus_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 888f2862690e5c945a6efd8cf5b6fa85
+    - name: f5_kolossus_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4bd68d9a0a3fa6144bf4ecddaea7edc9
+    - name: f5_kolossus_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 24d70cfe7dd017742b52e22d5e266a5f
+    - name: f5_kolossus_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e6b612862616e9f42b0a2e7f300805da
+    - name: f5_kolossus_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e9ae95fb910cb704fb14b011cff32d88
+    - name: f5_kolossus_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2d1afe1beec3e9e4b9934b66d9dc7c84
+    - name: f5_kolossus_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 56c2785926ef64f4eae87fc57197876a
+    - name: f5_kolossus_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fc0c58e32f7c58d43bf8a7aa719bbda4
+    - name: f5_kolossus_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: debe4c7e704f8be46990da2cb1a4812c
+    - name: f5_kolossus_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 652fe9782f3bcd34f93720d347678fe5
+    - name: f5_kolossus_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 058f27aaca3d06a4fbe64a8dbf9881b6
+    - name: f5_kolossus_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e80dcd98ec2f000449941501a194417c
+    - name: f5_kolossus_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 96fc990e6b3baed4594179afd0ecee8a
+    - name: f5_kolossus_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8cd248cff0b685d4ca6604ab71ba2d19
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

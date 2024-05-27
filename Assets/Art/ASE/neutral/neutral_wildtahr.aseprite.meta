@@ -1,0 +1,2457 @@
+fileFormatVersion: 2
+guid: e3bd649a90728b34aa77937b7456d75c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_wildtahr_Frame_0
+    originalName: 
+    pivot: {x: 0.41269842, y: -0.30232555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 313
+      width: 63
+      height: 43
+    spriteID: 3b6ca941b5c29bf41905e2b91320d4e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 300}
+  - name: neutral_wildtahr_Frame_1
+    originalName: 
+    pivot: {x: 0.43076923, y: -0.32558137}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 4
+      width: 65
+      height: 43
+    spriteID: 3663aa4386ba66b4a9b280cde225ea53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: -10}
+  - name: neutral_wildtahr_Frame_2
+    originalName: 
+    pivot: {x: 0.42424244, y: -0.32558137}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 953
+      width: 66
+      height: 43
+    spriteID: c733014053bb5b942bece7aa18da3949
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 939}
+  - name: neutral_wildtahr_Frame_3
+    originalName: 
+    pivot: {x: 0.4057971, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 903
+      width: 69
+      height: 42
+    spriteID: 1e137d273de1b0646b0fbd64e49fafa4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 888}
+  - name: neutral_wildtahr_Frame_4
+    originalName: 
+    pivot: {x: 0.40298504, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 195
+      width: 67
+      height: 39
+    spriteID: 0a6b4d7439c3b4542b638b6ebe639fe5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 179}
+  - name: neutral_wildtahr_Frame_5
+    originalName: 
+    pivot: {x: 0.40625, y: -0.27906975}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 212
+      width: 64
+      height: 43
+    spriteID: 9158e8fa2b0ad944d9044b5d8e8145b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 200}
+  - name: neutral_wildtahr_Frame_6
+    originalName: 
+    pivot: {x: 0.40625, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 615
+      width: 64
+      height: 40
+    spriteID: af8c92214baada649a13309ed37d3aac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 599}
+  - name: neutral_wildtahr_Frame_7
+    originalName: 
+    pivot: {x: 0.41269842, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 336
+      width: 63
+      height: 40
+    spriteID: d6239dd44c050cd459952606485ee0ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 317, y: 320}
+  - name: neutral_wildtahr_Frame_8
+    originalName: 
+    pivot: {x: 0.42187497, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 490
+      width: 64
+      height: 39
+    spriteID: 89e662fddd07d834c9156464c2bbd52b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 474}
+  - name: neutral_wildtahr_Frame_9
+    originalName: 
+    pivot: {x: 0.43283585, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 242
+      width: 67
+      height: 39
+    spriteID: 301c59c25db693e4aa9156faabc1ba88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 320, y: 227}
+  - name: neutral_wildtahr_Frame_10
+    originalName: 
+    pivot: {x: 0.4264706, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 148
+      width: 68
+      height: 39
+    spriteID: b610c241d4ee02a4bba44cdb0d149d09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 320, y: 133}
+  - name: neutral_wildtahr_Frame_11
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.3095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 697
+      width: 72
+      height: 42
+    spriteID: c1936fc8ee3c3c14f8e777db3913cd8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 684}
+  - name: neutral_wildtahr_Frame_12
+    originalName: 
+    pivot: {x: 0.39189193, y: -0.27906975}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 592
+      width: 74
+      height: 43
+    spriteID: adfac480e91570143ba462134b337a2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 580}
+  - name: neutral_wildtahr_Frame_13
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.28571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 800
+      width: 70
+      height: 42
+    spriteID: 7ab6a8ad6c614d346992f800c229d993
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 788}
+  - name: neutral_wildtahr_Frame_14
+    originalName: 
+    pivot: {x: 0.30303028, y: -0.22222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 747
+      width: 66
+      height: 45
+    spriteID: 57a25b5dde9280f4dabac0e934a34518
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 737}
+  - name: neutral_wildtahr_Frame_15
+    originalName: 
+    pivot: {x: 0.3188406, y: -0.19565217}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 643
+      width: 69
+      height: 46
+    spriteID: 8c3ba47a1d88688409ea62ad7d7644a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 634}
+  - name: neutral_wildtahr_Frame_16
+    originalName: 
+    pivot: {x: 0.35616437, y: -0.17391303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 325
+      width: 73
+      height: 46
+    spriteID: bf386e8043262e14ab3855e7face8f99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 317}
+  - name: neutral_wildtahr_Frame_17
+    originalName: 
+    pivot: {x: 0.37333333, y: -0.14893617}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 946
+      width: 75
+      height: 47
+    spriteID: 161ae56f31b634f428d886ca5465fa50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 939}
+  - name: neutral_wildtahr_Frame_18
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.14583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 269
+      width: 70
+      height: 48
+    spriteID: ed3afb8883dd6fc42bf7808b6ad0add5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 262}
+  - name: neutral_wildtahr_Frame_19
+    originalName: 
+    pivot: {x: 0.45588234, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 4
+      width: 68
+      height: 40
+    spriteID: f09b2db39ca04a94098aea832028b37a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: -12}
+  - name: neutral_wildtahr_Frame_20
+    originalName: 
+    pivot: {x: 0.43283585, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 52
+      width: 67
+      height: 40
+    spriteID: bf448c155f8440a43bc9ca1d246e5966
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 320, y: 36}
+  - name: neutral_wildtahr_Frame_21
+    originalName: 
+    pivot: {x: 0.40625, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 663
+      width: 64
+      height: 40
+    spriteID: e3017fbf05fc46d43941a972c29d7a93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 647}
+  - name: neutral_wildtahr_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: -0.37777779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 384
+      width: 56
+      height: 45
+    spriteID: 861d11858748a20458b2319ade3eecfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 367}
+  - name: neutral_wildtahr_Frame_23
+    originalName: 
+    pivot: {x: 0.5079365, y: -0.38636363}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 108
+      width: 63
+      height: 44
+    spriteID: 52d24be411c3f934093ce4e99753c51a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 91}
+  - name: neutral_wildtahr_Frame_24
+    originalName: 
+    pivot: {x: 0.40909088, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 289
+      width: 66
+      height: 39
+    spriteID: 5cbfb204f3470e245ba9937c8c22c8e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 273}
+  - name: neutral_wildtahr_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: -0.37777779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 437
+      width: 56
+      height: 45
+    spriteID: 3375e8e6ad0b65f4f8f8764b6c97c159
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 420}
+  - name: neutral_wildtahr_Frame_26
+    originalName: 
+    pivot: {x: 0.5079365, y: -0.38636363}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 160
+      width: 63
+      height: 44
+    spriteID: 37d1ceb3174c7d844a8d009ec2c00bde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 143}
+  - name: neutral_wildtahr_Frame_27
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.39534882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 464
+      width: 62
+      height: 43
+    spriteID: 6f7f2ff266ad66a4d992c48863e33f2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 447}
+  - name: neutral_wildtahr_Frame_28
+    originalName: 
+    pivot: {x: 0.43478262, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 417
+      y: 4
+      width: 69
+      height: 39
+    spriteID: 45ce9d9e197307944abdca814acda071
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 397, y: -12}
+  - name: neutral_wildtahr_Frame_29
+    originalName: 
+    pivot: {x: 0.4027778, y: -0.37142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 417
+      y: 95
+      width: 72
+      height: 35
+    spriteID: 3d66677d159559d4cb77ad94178a0b3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 82}
+  - name: neutral_wildtahr_Frame_30
+    originalName: 
+    pivot: {x: 0.38888887, y: -0.38888887}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 417
+      y: 51
+      width: 72
+      height: 36
+    spriteID: 70f1c7cbfd8d0d341b47e11232eba914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 395, y: 37}
+  - name: neutral_wildtahr_Frame_31
+    originalName: 
+    pivot: {x: 0.34285715, y: -0.37142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 417
+      y: 138
+      width: 70
+      height: 35
+    spriteID: 72b85b436a1e541429475132163f26df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 391, y: 125}
+  - name: neutral_wildtahr_Frame_32
+    originalName: 
+    pivot: {x: 0.3188406, y: -0.37142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 417
+      y: 181
+      width: 69
+      height: 35
+    spriteID: e2b0b7f3cfed49a4fb2f166a1c705d00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 389, y: 168}
+  - name: neutral_wildtahr_Frame_33
+    originalName: 
+    pivot: {x: 0.40625, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 711
+      width: 64
+      height: 40
+    spriteID: fa8dc6a4c38799546ac99f4b6af96069
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 695}
+  - name: neutral_wildtahr_Frame_34
+    originalName: 
+    pivot: {x: 0.40625, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 759
+      width: 64
+      height: 40
+    spriteID: 9960cdfcb3cb7db4b87d2c886183d3c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 743}
+  - name: neutral_wildtahr_Frame_35
+    originalName: 
+    pivot: {x: 0.40625, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 807
+      width: 64
+      height: 40
+    spriteID: 0d980ec197e6203468110d0fb9c55722
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 791}
+  - name: neutral_wildtahr_Frame_36
+    originalName: 
+    pivot: {x: 0.40625, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 855
+      width: 64
+      height: 40
+    spriteID: 390de9468abc39b4ab0a9e635d6c7028
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 839}
+  - name: neutral_wildtahr_Frame_37
+    originalName: 
+    pivot: {x: 0.40625, y: -0.39999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 903
+      width: 64
+      height: 40
+    spriteID: 24ed881971ab95e40bdfa9a1f8b4aeef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 887}
+  - name: neutral_wildtahr_Frame_38
+    originalName: 
+    pivot: {x: 0.40625, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 537
+      width: 64
+      height: 39
+    spriteID: a2dfa25565c07404d845b4c8caed478d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 317, y: 521}
+  - name: neutral_wildtahr_Frame_39
+    originalName: 
+    pivot: {x: 0.4, y: -0.34146342}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 566
+      width: 65
+      height: 41
+    spriteID: 73ff6daa2f063a641b758b4c88ea4ef7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 552}
+  - name: neutral_wildtahr_Frame_40
+    originalName: 
+    pivot: {x: 0.390625, y: -0.3095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 364
+      width: 64
+      height: 42
+    spriteID: 5d0c712f2324b014cbdc1a3b682da250
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 351}
+  - name: neutral_wildtahr_Frame_41
+    originalName: 
+    pivot: {x: 0.390625, y: -0.3095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 414
+      width: 64
+      height: 42
+    spriteID: b71d05b153d496847b3be5ec024537c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 401}
+  - name: neutral_wildtahr_Frame_42
+    originalName: 
+    pivot: {x: 0.37878788, y: -0.3095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 267
+      y: 4
+      width: 66
+      height: 42
+    spriteID: 83a2e0953febe4f4c81582525b696c11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: -9}
+  - name: neutral_wildtahr_Frame_43
+    originalName: 
+    pivot: {x: 0.37878788, y: -0.3095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 267
+      y: 54
+      width: 66
+      height: 42
+    spriteID: f27624640f38e484fad9a2686661b7e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 41}
+  - name: neutral_wildtahr_Frame_44
+    originalName: 
+    pivot: {x: 0.37878788, y: -0.34146342}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 267
+      y: 104
+      width: 66
+      height: 41
+    spriteID: 8b773a734c4e43c45aa0ab481028176f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 90}
+  - name: neutral_wildtahr_Frame_45
+    originalName: 
+    pivot: {x: 0.4, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 951
+      width: 65
+      height: 39
+    spriteID: a1497e08a5bb3a947be1ff0d734fee6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 935}
+  - name: neutral_wildtahr_Frame_46
+    originalName: 
+    pivot: {x: 0.40625, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 584
+      width: 64
+      height: 39
+    spriteID: b731321464b9b784497f5511e02a0e29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 317, y: 568}
+  - name: neutral_wildtahr_Frame_47
+    originalName: 
+    pivot: {x: 0.4, y: -0.3095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 263
+      width: 65
+      height: 42
+    spriteID: 7317420300d1ec646abe2716aa27cab3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 250}
+  - name: neutral_wildtahr_Frame_48
+    originalName: 
+    pivot: {x: 0.4153846, y: -0.2888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 850
+      width: 65
+      height: 45
+    spriteID: 1ce98928f7b1eb245920daa168fe4981
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 837}
+  - name: neutral_wildtahr_Frame_49
+    originalName: 
+    pivot: {x: 0.47945204, y: -0.27272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 540
+      width: 73
+      height: 44
+    spriteID: 64287ae8524b1664f8b6ddcf3ab6c55c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 528}
+  - name: neutral_wildtahr_Frame_50
+    originalName: 
+    pivot: {x: 0.5301205, y: -0.275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 492
+      width: 83
+      height: 40
+    spriteID: 688304913f29d584fb1654832ca00060
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 481}
+  - name: neutral_wildtahr_Frame_51
+    originalName: 
+    pivot: {x: 0.53488374, y: -0.25581396}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 58
+      width: 86
+      height: 43
+    spriteID: 3b307748515f31e4f9c91f12c665faac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 47}
+  - name: neutral_wildtahr_Frame_52
+    originalName: 
+    pivot: {x: 0.54022986, y: -0.35897437}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 222
+      width: 87
+      height: 39
+    spriteID: be46de7a0074f864dacfbb43827cf483
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 208}
+  - name: neutral_wildtahr_Frame_53
+    originalName: 
+    pivot: {x: 0.8032787, y: -0.35897437}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 772
+      width: 61
+      height: 39
+    spriteID: ccd6198a3e2029942bdf58c29182df08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 758}
+  - name: neutral_wildtahr_Frame_54
+    originalName: 
+    pivot: {x: 0.8032787, y: -0.35897437}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 819
+      width: 61
+      height: 39
+    spriteID: 61f460f87158ba64996ef9923869a0f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 805}
+  - name: neutral_wildtahr_Frame_55
+    originalName: 
+    pivot: {x: 0.74626863, y: -0.22}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 379
+      width: 67
+      height: 50
+    spriteID: 71cf76f68d99b064db5f06d1f48a6e95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 368}
+  - name: neutral_wildtahr_Frame_56
+    originalName: 
+    pivot: {x: 0.71428573, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 164
+      width: 70
+      height: 50
+    spriteID: c3f16e739c26c7841befe73116e0654b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 154}
+  - name: neutral_wildtahr_Frame_57
+    originalName: 
+    pivot: {x: 0.71428573, y: -0.17307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 718
+      width: 70
+      height: 52
+    spriteID: ba2aca80cdc00454b87d7855eb56ef1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 709}
+  - name: neutral_wildtahr_Frame_58
+    originalName: 
+    pivot: {x: 0.70422536, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 778
+      width: 71
+      height: 51
+    spriteID: fd3aff73ba10c304585bb134941ab6a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 769}
+  - name: neutral_wildtahr_Frame_59
+    originalName: 
+    pivot: {x: 0.70422536, y: -0.17307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 493
+      width: 71
+      height: 52
+    spriteID: ff5796ec29bab5f4d9c8e668e27d2649
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 484}
+  - name: neutral_wildtahr_Frame_60
+    originalName: 
+    pivot: {x: 0.70422536, y: -0.27659574}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 437
+      width: 71
+      height: 47
+    spriteID: 9b89aecd05883644483cf16fe5b6db66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 424}
+  - name: neutral_wildtahr_Frame_61
+    originalName: 
+    pivot: {x: 0.8064516, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 55
+      width: 62
+      height: 45
+    spriteID: c5d01296ee6427b449f298ddf89c8919
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 39}
+  - name: neutral_wildtahr_Frame_62
+    originalName: 
+    pivot: {x: 0.8064516, y: -0.372093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 515
+      width: 62
+      height: 43
+    spriteID: c142c5529013cf5418a88be9499204f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 499}
+  - name: neutral_wildtahr_Frame_63
+    originalName: 
+    pivot: {x: 0.8064516, y: -0.41025642}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 631
+      width: 62
+      height: 39
+    spriteID: 672fd8cfb8bb05745a5f3c3c66eb2588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 615}
+  - name: neutral_wildtahr_Frame_64
+    originalName: 
+    pivot: {x: 0.8064516, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 678
+      width: 62
+      height: 39
+    spriteID: cebb363bddca9644897cda1c8f53276a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 663}
+  - name: neutral_wildtahr_Frame_65
+    originalName: 
+    pivot: {x: 0.8064516, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 725
+      width: 62
+      height: 39
+    spriteID: 7a50f3da616e99c4da5ef875479e2e42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 710}
+  - name: neutral_wildtahr_Frame_66
+    originalName: 
+    pivot: {x: 0.8196721, y: -0.38461542}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 866
+      width: 61
+      height: 39
+    spriteID: edaaa25d945a54647bfaeda4593c8dc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 851}
+  - name: neutral_wildtahr_Frame_67
+    originalName: 
+    pivot: {x: 0.494382, y: -0.19565217}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 4
+      width: 89
+      height: 46
+    spriteID: aeaca9d0b4351dd41b038edff931fda2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: -5}
+  - name: neutral_wildtahr_Frame_68
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.045454543}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 85
+      height: 88
+    spriteID: 1c49b49c9cd55564b99bc4049a86c580
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 0}
+  - name: neutral_wildtahr_Frame_69
+    originalName: 
+    pivot: {x: 0.35897437, y: -0.021505376}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 100
+      width: 78
+      height: 93
+    spriteID: fc7d9f9d16704114a8127931237b96bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 98}
+  - name: neutral_wildtahr_Frame_70
+    originalName: 
+    pivot: {x: 0.34210524, y: -0.010638298}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 76
+      height: 94
+    spriteID: 6b94e176614598540963afa54082bed1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 200}
+  - name: neutral_wildtahr_Frame_71
+    originalName: 
+    pivot: {x: 0.34210524, y: -0.010638298}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 303
+      width: 76
+      height: 94
+    spriteID: 5882d81aa5253fd44aa8d30921186013
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 302}
+  - name: neutral_wildtahr_Frame_72
+    originalName: 
+    pivot: {x: 0.35897437, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 405
+      width: 78
+      height: 80
+    spriteID: 801f44229d3b4ad46a3893273cc257ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 390}
+  - name: neutral_wildtahr_Frame_73
+    originalName: 
+    pivot: {x: 0.3766234, y: -0.3617021}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 837
+      width: 77
+      height: 47
+    spriteID: bc13eb27b8d36aa4d827ea46813fe1fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 820}
+  - name: neutral_wildtahr_Frame_74
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.3617021}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 553
+      width: 78
+      height: 47
+    spriteID: 3192b2b71fbca0045a35f49e660bff89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 536}
+  - name: neutral_wildtahr_Frame_75
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.3617021}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 608
+      width: 78
+      height: 47
+    spriteID: 225357e8c382d84409e9e033f42817e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 591}
+  - name: neutral_wildtahr_Frame_76
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.3617021}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 663
+      width: 78
+      height: 47
+    spriteID: 49daef0138800954cbdb22c8b3533b11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 646}
+  - name: neutral_wildtahr_Frame_77
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.3617021}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 109
+      width: 75
+      height: 47
+    spriteID: 25b96f01b407bb645b3580af8bb146aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 92}
+  - name: neutral_wildtahr_Frame_78
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.36956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 892
+      width: 78
+      height: 46
+    spriteID: d63a4528a39b25c43a1fc8f8b00fe2b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 875}
+  - name: neutral_wildtahr_Frame_79
+    originalName: 
+    pivot: {x: 0.41791043, y: -0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 100
+      width: 67
+      height: 40
+    spriteID: b7e8fd6aa33d88e4889628d241253f7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 83}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1165231791
+    name: neutral_wildtahr
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_wildtahr_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3b6ca941b5c29bf41905e2b91320d4e7
+    - name: neutral_wildtahr_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3663aa4386ba66b4a9b280cde225ea53
+    - name: neutral_wildtahr_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c733014053bb5b942bece7aa18da3949
+    - name: neutral_wildtahr_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1e137d273de1b0646b0fbd64e49fafa4
+    - name: neutral_wildtahr_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0a6b4d7439c3b4542b638b6ebe639fe5
+    - name: neutral_wildtahr_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9158e8fa2b0ad944d9044b5d8e8145b4
+    - name: neutral_wildtahr_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: af8c92214baada649a13309ed37d3aac
+    - name: neutral_wildtahr_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d6239dd44c050cd459952606485ee0ef
+    - name: neutral_wildtahr_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 89e662fddd07d834c9156464c2bbd52b
+    - name: neutral_wildtahr_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 301c59c25db693e4aa9156faabc1ba88
+    - name: neutral_wildtahr_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b610c241d4ee02a4bba44cdb0d149d09
+    - name: neutral_wildtahr_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c1936fc8ee3c3c14f8e777db3913cd8e
+    - name: neutral_wildtahr_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: adfac480e91570143ba462134b337a2c
+    - name: neutral_wildtahr_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7ab6a8ad6c614d346992f800c229d993
+    - name: neutral_wildtahr_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 57a25b5dde9280f4dabac0e934a34518
+    - name: neutral_wildtahr_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8c3ba47a1d88688409ea62ad7d7644a7
+    - name: neutral_wildtahr_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bf386e8043262e14ab3855e7face8f99
+    - name: neutral_wildtahr_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 161ae56f31b634f428d886ca5465fa50
+    - name: neutral_wildtahr_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ed3afb8883dd6fc42bf7808b6ad0add5
+    - name: neutral_wildtahr_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f09b2db39ca04a94098aea832028b37a
+    - name: neutral_wildtahr_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bf448c155f8440a43bc9ca1d246e5966
+    - name: neutral_wildtahr_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e3017fbf05fc46d43941a972c29d7a93
+    - name: neutral_wildtahr_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 861d11858748a20458b2319ade3eecfa
+    - name: neutral_wildtahr_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 52d24be411c3f934093ce4e99753c51a
+    - name: neutral_wildtahr_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5cbfb204f3470e245ba9937c8c22c8e3
+    - name: neutral_wildtahr_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3375e8e6ad0b65f4f8f8764b6c97c159
+    - name: neutral_wildtahr_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 37d1ceb3174c7d844a8d009ec2c00bde
+    - name: neutral_wildtahr_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6f7f2ff266ad66a4d992c48863e33f2f
+    - name: neutral_wildtahr_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 45ce9d9e197307944abdca814acda071
+    - name: neutral_wildtahr_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3d66677d159559d4cb77ad94178a0b3c
+    - name: neutral_wildtahr_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 70f1c7cbfd8d0d341b47e11232eba914
+    - name: neutral_wildtahr_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 72b85b436a1e541429475132163f26df
+    - name: neutral_wildtahr_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e2b0b7f3cfed49a4fb2f166a1c705d00
+    - name: neutral_wildtahr_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fa8dc6a4c38799546ac99f4b6af96069
+    - name: neutral_wildtahr_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9960cdfcb3cb7db4b87d2c886183d3c3
+    - name: neutral_wildtahr_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 0d980ec197e6203468110d0fb9c55722
+    - name: neutral_wildtahr_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 390de9468abc39b4ab0a9e635d6c7028
+    - name: neutral_wildtahr_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 24ed881971ab95e40bdfa9a1f8b4aeef
+    - name: neutral_wildtahr_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a2dfa25565c07404d845b4c8caed478d
+    - name: neutral_wildtahr_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 73ff6daa2f063a641b758b4c88ea4ef7
+    - name: neutral_wildtahr_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5d0c712f2324b014cbdc1a3b682da250
+    - name: neutral_wildtahr_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b71d05b153d496847b3be5ec024537c7
+    - name: neutral_wildtahr_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 83a2e0953febe4f4c81582525b696c11
+    - name: neutral_wildtahr_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f27624640f38e484fad9a2686661b7e7
+    - name: neutral_wildtahr_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8b773a734c4e43c45aa0ab481028176f
+    - name: neutral_wildtahr_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a1497e08a5bb3a947be1ff0d734fee6e
+    - name: neutral_wildtahr_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b731321464b9b784497f5511e02a0e29
+    - name: neutral_wildtahr_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7317420300d1ec646abe2716aa27cab3
+    - name: neutral_wildtahr_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1ce98928f7b1eb245920daa168fe4981
+    - name: neutral_wildtahr_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 64287ae8524b1664f8b6ddcf3ab6c55c
+    - name: neutral_wildtahr_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 688304913f29d584fb1654832ca00060
+    - name: neutral_wildtahr_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3b307748515f31e4f9c91f12c665faac
+    - name: neutral_wildtahr_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: be46de7a0074f864dacfbb43827cf483
+    - name: neutral_wildtahr_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ccd6198a3e2029942bdf58c29182df08
+    - name: neutral_wildtahr_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 61f460f87158ba64996ef9923869a0f4
+    - name: neutral_wildtahr_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 71cf76f68d99b064db5f06d1f48a6e95
+    - name: neutral_wildtahr_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c3f16e739c26c7841befe73116e0654b
+    - name: neutral_wildtahr_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ba2aca80cdc00454b87d7855eb56ef1a
+    - name: neutral_wildtahr_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fd3aff73ba10c304585bb134941ab6a0
+    - name: neutral_wildtahr_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ff5796ec29bab5f4d9c8e668e27d2649
+    - name: neutral_wildtahr_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9b89aecd05883644483cf16fe5b6db66
+    - name: neutral_wildtahr_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c5d01296ee6427b449f298ddf89c8919
+    - name: neutral_wildtahr_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c142c5529013cf5418a88be9499204f1
+    - name: neutral_wildtahr_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 672fd8cfb8bb05745a5f3c3c66eb2588
+    - name: neutral_wildtahr_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: cebb363bddca9644897cda1c8f53276a
+    - name: neutral_wildtahr_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7a50f3da616e99c4da5ef875479e2e42
+    - name: neutral_wildtahr_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: edaaa25d945a54647bfaeda4593c8dc8
+    - name: neutral_wildtahr_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: aeaca9d0b4351dd41b038edff931fda2
+    - name: neutral_wildtahr_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1c49b49c9cd55564b99bc4049a86c580
+    - name: neutral_wildtahr_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fc7d9f9d16704114a8127931237b96bf
+    - name: neutral_wildtahr_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6b94e176614598540963afa54082bed1
+    - name: neutral_wildtahr_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5882d81aa5253fd44aa8d30921186013
+    - name: neutral_wildtahr_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 801f44229d3b4ad46a3893273cc257ce
+    - name: neutral_wildtahr_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bc13eb27b8d36aa4d827ea46813fe1fb
+    - name: neutral_wildtahr_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3192b2b71fbca0045a35f49e660bff89
+    - name: neutral_wildtahr_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 225357e8c382d84409e9e033f42817e9
+    - name: neutral_wildtahr_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 49daef0138800954cbdb22c8b3533b11
+    - name: neutral_wildtahr_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 25b96f01b407bb645b3580af8bb146aa
+    - name: neutral_wildtahr_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d63a4528a39b25c43a1fc8f8b00fe2b2
+    - name: neutral_wildtahr_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b7e8fd6aa33d88e4889628d241253f7e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

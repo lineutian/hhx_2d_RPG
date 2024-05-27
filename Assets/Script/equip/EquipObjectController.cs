@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class EquipObjectController : Singleton<EquipObjectController>
 {
-    private static Dictionary<int, EquipObject> _equipObjects = new Dictionary<int, EquipObject>();
-
+    public static Dictionary<int, EquipObject> _equipObjects = new Dictionary<int, EquipObject>();
+    
     public static EquipObject getEquipObject(int id)
     {
         EquipObject _equipObject = _equipObjects[id];

@@ -1,0 +1,2022 @@
+fileFormatVersion: 2
+guid: 6dea97ae42b47104fa5f320f8fb631fe
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_golemstone_Frame_0
+    originalName: 
+    pivot: {x: 0.34782606, y: -0.48571432}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 253
+      width: 46
+      height: 35
+    spriteID: d02883d8d3104ba40a716e5356caac45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 236}
+  - name: neutral_golemstone_Frame_1
+    originalName: 
+    pivot: {x: 0.35555553, y: -0.5588235}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 160
+      width: 45
+      height: 34
+    spriteID: bafb1d60d1553fb4e87a4a564ae27565
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 141}
+  - name: neutral_golemstone_Frame_2
+    originalName: 
+    pivot: {x: 0.34042552, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 110
+      width: 47
+      height: 36
+    spriteID: c0128379978f60c4b885f1298375ddea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 94}
+  - name: neutral_golemstone_Frame_3
+    originalName: 
+    pivot: {x: 0.34042552, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 204
+      width: 47
+      height: 35
+    spriteID: 8954b815f4a0c084194f58c950eb39cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 188}
+  - name: neutral_golemstone_Frame_4
+    originalName: 
+    pivot: {x: 0.3333333, y: -0.57575756}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 253
+      width: 48
+      height: 33
+    spriteID: 787112cda4f787d43a2b49e95224edb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 234}
+  - name: neutral_golemstone_Frame_5
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.65625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 253
+      width: 49
+      height: 32
+    spriteID: cdebae6f85a045c469eb364f4c2e3517
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 232}
+  - name: neutral_golemstone_Frame_6
+    originalName: 
+    pivot: {x: 0.34042552, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 160
+      width: 47
+      height: 36
+    spriteID: 193ba1b611912314c99943e2acc287d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 144}
+  - name: neutral_golemstone_Frame_7
+    originalName: 
+    pivot: {x: 0.34042552, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 204
+      width: 47
+      height: 35
+    spriteID: 6814116b80d221643832e5af026f28b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 188}
+  - name: neutral_golemstone_Frame_8
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 59
+      width: 41
+      height: 42
+    spriteID: e961c2bcff79619459e8a7310a325025
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 43}
+  - name: neutral_golemstone_Frame_9
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 59
+      width: 41
+      height: 42
+    spriteID: b94b9dda8a577b749ace2057766c413d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 43}
+  - name: neutral_golemstone_Frame_10
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 417
+      y: 4
+      width: 41
+      height: 43
+    spriteID: 92b2b1406eda3464ea358cfa8df70b93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 389, y: -12}
+  - name: neutral_golemstone_Frame_11
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 4
+      width: 41
+      height: 44
+    spriteID: 73acea5bd01a30745970b84b491720e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: -12}
+  - name: neutral_golemstone_Frame_12
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.35555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 4
+      width: 41
+      height: 45
+    spriteID: 03fcc98935ad63f49b7a7058684428e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: -12}
+  - name: neutral_golemstone_Frame_13
+    originalName: 
+    pivot: {x: 0.31707317, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 4
+      width: 41
+      height: 44
+    spriteID: b85cef5a16bb5bb4393ae050549c2996
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: -12}
+  - name: neutral_golemstone_Frame_14
+    originalName: 
+    pivot: {x: 0.31707317, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 270
+      y: 4
+      width: 41
+      height: 44
+    spriteID: 19520c331ed6e3c4fb31a0d8d40ef43c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: -12}
+  - name: neutral_golemstone_Frame_15
+    originalName: 
+    pivot: {x: 0.31707317, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 4
+      width: 41
+      height: 44
+    spriteID: 3ff2ced23e2888a40b3479de936dfd82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: -12}
+  - name: neutral_golemstone_Frame_16
+    originalName: 
+    pivot: {x: 0.31707317, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 4
+      width: 41
+      height: 44
+    spriteID: 26d975844febeaa49b323e4811205bc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: -12}
+  - name: neutral_golemstone_Frame_17
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 466
+      y: 4
+      width: 41
+      height: 43
+    spriteID: f532d9503ddb827488ae69b433833b98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: -12}
+  - name: neutral_golemstone_Frame_18
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 59
+      width: 41
+      height: 42
+    spriteID: 036c90ddc64fd354d960e269ce2a9349
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 417, y: 43}
+  - name: neutral_golemstone_Frame_19
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 204
+      width: 41
+      height: 41
+    spriteID: e9f680a4773131146bdb157e967ad1c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 188}
+  - name: neutral_golemstone_Frame_20
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 110
+      width: 41
+      height: 42
+    spriteID: 0e1915e9e6a001a478b924d27bc669c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 94}
+  - name: neutral_golemstone_Frame_21
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 110
+      width: 41
+      height: 42
+    spriteID: 2179f573d4f5ad8438bbdee70ce36ed7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 94}
+  - name: neutral_golemstone_Frame_22
+    originalName: 
+    pivot: {x: 0.35000002, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 253
+      width: 40
+      height: 40
+    spriteID: 77e306e461431aa4d8c035588f3b45da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 237}
+  - name: neutral_golemstone_Frame_23
+    originalName: 
+    pivot: {x: 0.325, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 204
+      width: 40
+      height: 41
+    spriteID: 8d9ae34edf85cb044aae1532ac4accaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 188}
+  - name: neutral_golemstone_Frame_24
+    originalName: 
+    pivot: {x: 0.3, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 253
+      width: 40
+      height: 42
+    spriteID: 74309b7e9be999642b30321476a52468
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 237}
+  - name: neutral_golemstone_Frame_25
+    originalName: 
+    pivot: {x: 0.35000002, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 253
+      width: 40
+      height: 40
+    spriteID: 1e28b2db092fb91468fb2174dd5a824f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 237}
+  - name: neutral_golemstone_Frame_26
+    originalName: 
+    pivot: {x: 0.325, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 260
+      y: 204
+      width: 40
+      height: 41
+    spriteID: 46132d22d8b2d814cb1473ffbe2f4ebc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 188}
+  - name: neutral_golemstone_Frame_27
+    originalName: 
+    pivot: {x: 0.3, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 204
+      width: 40
+      height: 41
+    spriteID: d63f226f54099dc4c828a2f856e0b08e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 280, y: 188}
+  - name: neutral_golemstone_Frame_28
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 204
+      width: 41
+      height: 40
+    spriteID: c102f33343d9805499745ae44f2af04b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 188}
+  - name: neutral_golemstone_Frame_29
+    originalName: 
+    pivot: {x: 0.3, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 413
+      y: 253
+      width: 40
+      height: 39
+    spriteID: 6e55303db248c4342884f2075841f6f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 385, y: 237}
+  - name: neutral_golemstone_Frame_30
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 204
+      width: 41
+      height: 40
+    spriteID: c222ecdf481f2744286b4e6a05736233
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 377, y: 188}
+  - name: neutral_golemstone_Frame_31
+    originalName: 
+    pivot: {x: 0.3, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 253
+      width: 40
+      height: 39
+    spriteID: e4de717175416b54b823f2f4c197b715
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 433, y: 237}
+  - name: neutral_golemstone_Frame_32
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 454
+      y: 204
+      width: 41
+      height: 40
+    spriteID: c6db8d9495121884e9cc639da7c038ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 426, y: 188}
+  - name: neutral_golemstone_Frame_33
+    originalName: 
+    pivot: {x: 0.3, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 303
+      width: 40
+      height: 39
+    spriteID: 290967c2e50b06345b49b120832e0e52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 287}
+  - name: neutral_golemstone_Frame_34
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 253
+      width: 41
+      height: 40
+    spriteID: e0a61ce018f551d438ceb1530e4d465e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 237}
+  - name: neutral_golemstone_Frame_35
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 253
+      width: 41
+      height: 39
+    spriteID: 81efe3f936dd13b4982311434e18bc0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 237}
+  - name: neutral_golemstone_Frame_36
+    originalName: 
+    pivot: {x: 0.28205127, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 303
+      width: 39
+      height: 38
+    spriteID: 83b85103e554bb941a49ed63573f5d0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 23, y: 287}
+  - name: neutral_golemstone_Frame_37
+    originalName: 
+    pivot: {x: 0.28947368, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 303
+      width: 38
+      height: 37
+    spriteID: 9ae011aa0b513d24e972a4697480304b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 287}
+  - name: neutral_golemstone_Frame_38
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 110
+      width: 41
+      height: 42
+    spriteID: 4115dbc9649d0a1469473e17a640208a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 94}
+  - name: neutral_golemstone_Frame_39
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 110
+      width: 41
+      height: 42
+    spriteID: f7a19e93f83a43b41861fdc49ae8643a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 94}
+  - name: neutral_golemstone_Frame_40
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 110
+      width: 41
+      height: 42
+    spriteID: 630edf4d86288d346a03ea136abc999c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 94}
+  - name: neutral_golemstone_Frame_41
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 110
+      width: 41
+      height: 42
+    spriteID: e36c85200ffffc347af442dce0003ca7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 94}
+  - name: neutral_golemstone_Frame_42
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 110
+      width: 41
+      height: 42
+    spriteID: 9ffe23acee7abe94bb9c611e7eca5890
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 270, y: 94}
+  - name: neutral_golemstone_Frame_43
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 110
+      width: 41
+      height: 42
+    spriteID: 3cc6f8db1c874cf41ab26b1bcb841989
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 94}
+  - name: neutral_golemstone_Frame_44
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 110
+      width: 41
+      height: 42
+    spriteID: dbb21e21afd5c324593284adad2374c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 94}
+  - name: neutral_golemstone_Frame_45
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 59
+      width: 41
+      height: 43
+    spriteID: d080ecd9c8650a642aa996f4597361f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 43}
+  - name: neutral_golemstone_Frame_46
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 59
+      width: 41
+      height: 43
+    spriteID: 7899833dfbe778b4b896be4cf3e8a762
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 43}
+  - name: neutral_golemstone_Frame_47
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 59
+      width: 41
+      height: 43
+    spriteID: dd38d4a6f28e54c42a7360bbdd363f67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 43}
+  - name: neutral_golemstone_Frame_48
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 59
+      width: 41
+      height: 43
+    spriteID: 59119c9c15731af45b38238c7acd9386
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 43}
+  - name: neutral_golemstone_Frame_49
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 59
+      width: 41
+      height: 43
+    spriteID: 3ce0cb82d2d8ab14ab36a72809537bd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 43}
+  - name: neutral_golemstone_Frame_50
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 59
+      width: 41
+      height: 43
+    spriteID: 0900c41187d99ad478595a64aac1f79f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 43}
+  - name: neutral_golemstone_Frame_51
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 59
+      width: 41
+      height: 43
+    spriteID: 9ca41a39575115f4a8707859fe3ebd7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 270, y: 43}
+  - name: neutral_golemstone_Frame_52
+    originalName: 
+    pivot: {x: 0.29268295, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 204
+      width: 41
+      height: 41
+    spriteID: ab7eb4686c742084fabe36efa9ee2237
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 188}
+  - name: neutral_golemstone_Frame_53
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 350
+      width: 33
+      height: 41
+    spriteID: ad8e2ec486a1ce24d9b42060fc19defa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 334}
+  - name: neutral_golemstone_Frame_54
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 350
+      width: 33
+      height: 41
+    spriteID: 83206c2210f544642b67f29a71d76d05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 23, y: 334}
+  - name: neutral_golemstone_Frame_55
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 350
+      width: 33
+      height: 41
+    spriteID: 2439857cbd305a1429bfb65e58c0bf9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 334}
+  - name: neutral_golemstone_Frame_56
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 350
+      width: 33
+      height: 41
+    spriteID: 5d0b3d9a587044e4b89bfdcc6ae6a47b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 334}
+  - name: neutral_golemstone_Frame_57
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 350
+      width: 33
+      height: 41
+    spriteID: c376259c0c2713241a4b4218ccebc0dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 334}
+  - name: neutral_golemstone_Frame_58
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 350
+      width: 33
+      height: 41
+    spriteID: f9bfd04058a9dbc4081b73d8f69ae349
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 334}
+  - name: neutral_golemstone_Frame_59
+    originalName: 
+    pivot: {x: 0.48484847, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 350
+      width: 33
+      height: 39
+    spriteID: c2b0b06c3f5c7b444b1e48db5435f04e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 334}
+  - name: neutral_golemstone_Frame_60
+    originalName: 
+    pivot: {x: 0.51515156, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 350
+      width: 33
+      height: 40
+    spriteID: 2acb3438256893d48981d153ccbec1de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 227, y: 334}
+  - name: neutral_golemstone_Frame_61
+    originalName: 
+    pivot: {x: 0.51515156, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 350
+      width: 33
+      height: 40
+    spriteID: 0bae826af91283840b25e245b2549efb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 334}
+  - name: neutral_golemstone_Frame_62
+    originalName: 
+    pivot: {x: 0.28571427, y: -0.14893617}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 56
+      height: 47
+    spriteID: 622cfb4238e69984aadaeff380a4650e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: -3}
+  - name: neutral_golemstone_Frame_63
+    originalName: 
+    pivot: {x: 0.34042552, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 4
+      width: 47
+      height: 42
+    spriteID: 08269f153aa857d409215607294023e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: -4}
+  - name: neutral_golemstone_Frame_64
+    originalName: 
+    pivot: {x: 0.51612896, y: -0.42857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 373
+      y: 350
+      width: 31
+      height: 35
+    spriteID: 8c2e020d1adc23a4d8a0e9e74a5178a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 335}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1849959813
+    name: neutral_golemstone
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_golemstone_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d02883d8d3104ba40a716e5356caac45
+    - name: neutral_golemstone_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bafb1d60d1553fb4e87a4a564ae27565
+    - name: neutral_golemstone_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c0128379978f60c4b885f1298375ddea
+    - name: neutral_golemstone_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8954b815f4a0c084194f58c950eb39cc
+    - name: neutral_golemstone_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 787112cda4f787d43a2b49e95224edb5
+    - name: neutral_golemstone_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cdebae6f85a045c469eb364f4c2e3517
+    - name: neutral_golemstone_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 193ba1b611912314c99943e2acc287d6
+    - name: neutral_golemstone_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6814116b80d221643832e5af026f28b4
+    - name: neutral_golemstone_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e961c2bcff79619459e8a7310a325025
+    - name: neutral_golemstone_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b94b9dda8a577b749ace2057766c413d
+    - name: neutral_golemstone_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 92b2b1406eda3464ea358cfa8df70b93
+    - name: neutral_golemstone_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 73acea5bd01a30745970b84b491720e6
+    - name: neutral_golemstone_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 03fcc98935ad63f49b7a7058684428e0
+    - name: neutral_golemstone_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b85cef5a16bb5bb4393ae050549c2996
+    - name: neutral_golemstone_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 19520c331ed6e3c4fb31a0d8d40ef43c
+    - name: neutral_golemstone_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3ff2ced23e2888a40b3479de936dfd82
+    - name: neutral_golemstone_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 26d975844febeaa49b323e4811205bc4
+    - name: neutral_golemstone_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f532d9503ddb827488ae69b433833b98
+    - name: neutral_golemstone_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 036c90ddc64fd354d960e269ce2a9349
+    - name: neutral_golemstone_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e9f680a4773131146bdb157e967ad1c9
+    - name: neutral_golemstone_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0e1915e9e6a001a478b924d27bc669c2
+    - name: neutral_golemstone_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2179f573d4f5ad8438bbdee70ce36ed7
+    - name: neutral_golemstone_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 77e306e461431aa4d8c035588f3b45da
+    - name: neutral_golemstone_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8d9ae34edf85cb044aae1532ac4accaa
+    - name: neutral_golemstone_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 74309b7e9be999642b30321476a52468
+    - name: neutral_golemstone_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1e28b2db092fb91468fb2174dd5a824f
+    - name: neutral_golemstone_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 46132d22d8b2d814cb1473ffbe2f4ebc
+    - name: neutral_golemstone_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d63f226f54099dc4c828a2f856e0b08e
+    - name: neutral_golemstone_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c102f33343d9805499745ae44f2af04b
+    - name: neutral_golemstone_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6e55303db248c4342884f2075841f6f0
+    - name: neutral_golemstone_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c222ecdf481f2744286b4e6a05736233
+    - name: neutral_golemstone_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e4de717175416b54b823f2f4c197b715
+    - name: neutral_golemstone_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c6db8d9495121884e9cc639da7c038ed
+    - name: neutral_golemstone_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 290967c2e50b06345b49b120832e0e52
+    - name: neutral_golemstone_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e0a61ce018f551d438ceb1530e4d465e
+    - name: neutral_golemstone_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 81efe3f936dd13b4982311434e18bc0c
+    - name: neutral_golemstone_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 83b85103e554bb941a49ed63573f5d0d
+    - name: neutral_golemstone_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9ae011aa0b513d24e972a4697480304b
+    - name: neutral_golemstone_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4115dbc9649d0a1469473e17a640208a
+    - name: neutral_golemstone_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f7a19e93f83a43b41861fdc49ae8643a
+    - name: neutral_golemstone_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 630edf4d86288d346a03ea136abc999c
+    - name: neutral_golemstone_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e36c85200ffffc347af442dce0003ca7
+    - name: neutral_golemstone_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9ffe23acee7abe94bb9c611e7eca5890
+    - name: neutral_golemstone_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3cc6f8db1c874cf41ab26b1bcb841989
+    - name: neutral_golemstone_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dbb21e21afd5c324593284adad2374c5
+    - name: neutral_golemstone_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d080ecd9c8650a642aa996f4597361f0
+    - name: neutral_golemstone_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7899833dfbe778b4b896be4cf3e8a762
+    - name: neutral_golemstone_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dd38d4a6f28e54c42a7360bbdd363f67
+    - name: neutral_golemstone_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 59119c9c15731af45b38238c7acd9386
+    - name: neutral_golemstone_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3ce0cb82d2d8ab14ab36a72809537bd0
+    - name: neutral_golemstone_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0900c41187d99ad478595a64aac1f79f
+    - name: neutral_golemstone_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9ca41a39575115f4a8707859fe3ebd7d
+    - name: neutral_golemstone_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ab7eb4686c742084fabe36efa9ee2237
+    - name: neutral_golemstone_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ad8e2ec486a1ce24d9b42060fc19defa
+    - name: neutral_golemstone_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 83206c2210f544642b67f29a71d76d05
+    - name: neutral_golemstone_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2439857cbd305a1429bfb65e58c0bf9d
+    - name: neutral_golemstone_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5d0b3d9a587044e4b89bfdcc6ae6a47b
+    - name: neutral_golemstone_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c376259c0c2713241a4b4218ccebc0dd
+    - name: neutral_golemstone_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f9bfd04058a9dbc4081b73d8f69ae349
+    - name: neutral_golemstone_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c2b0b06c3f5c7b444b1e48db5435f04e
+    - name: neutral_golemstone_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2acb3438256893d48981d153ccbec1de
+    - name: neutral_golemstone_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0bae826af91283840b25e245b2549efb
+    - name: neutral_golemstone_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 622cfb4238e69984aadaeff380a4650e
+    - name: neutral_golemstone_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 08269f153aa857d409215607294023e4
+    - name: neutral_golemstone_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8c2e020d1adc23a4d8a0e9e74a5178a5
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

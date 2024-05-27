@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 9b4f19c6a8a912b4da09cfeeee6508bb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: f4_gloomchaser_ghost_Frame_0
+    originalName: 
+    pivot: {x: 0.42105263, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 4
+      width: 38
+      height: 29
+    spriteID: 549dfd58d01de594eae14305715be44d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: -12}
+  - name: f4_gloomchaser_ghost_Frame_1
+    originalName: 
+    pivot: {x: 0.4054054, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 4
+      width: 37
+      height: 29
+    spriteID: 56cc04183c75868409926b22e9a09ee7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 433, y: -12}
+  - name: f4_gloomchaser_ghost_Frame_2
+    originalName: 
+    pivot: {x: 0.38888893, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 4
+      width: 36
+      height: 30
+    spriteID: 686dbce168f44c047a39942cb823d66f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 344, y: -12}
+  - name: f4_gloomchaser_ghost_Frame_3
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 89
+      width: 35
+      height: 30
+    spriteID: e8a41d00e7eb35c47a3b1beb3be14a2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 73}
+  - name: f4_gloomchaser_ghost_Frame_4
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 89
+      width: 35
+      height: 30
+    spriteID: db0890b39e951694fbe704ca8a70285e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 73}
+  - name: f4_gloomchaser_ghost_Frame_5
+    originalName: 
+    pivot: {x: 0.43243238, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 4
+      width: 37
+      height: 30
+    spriteID: 3cc221e170a35ed439186476c5301e50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: -12}
+  - name: f4_gloomchaser_ghost_Frame_6
+    originalName: 
+    pivot: {x: 0.42105263, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 4
+      width: 38
+      height: 29
+    spriteID: efc916452fd66b343911715774822858
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: -12}
+  - name: f4_gloomchaser_ghost_Frame_7
+    originalName: 
+    pivot: {x: 0.4054054, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 52
+      width: 37
+      height: 29
+    spriteID: af4f7b3595c18354aaa233194e5aee97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 36}
+  - name: f4_gloomchaser_ghost_Frame_8
+    originalName: 
+    pivot: {x: 0.38888893, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 414
+      y: 4
+      width: 36
+      height: 30
+    spriteID: be53a550d53a476459259c263553e388
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: -12}
+  - name: f4_gloomchaser_ghost_Frame_9
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 89
+      width: 35
+      height: 30
+    spriteID: fbbd91310f6fbc545b07f488b823ddd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 73}
+  - name: f4_gloomchaser_ghost_Frame_10
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 89
+      width: 35
+      height: 30
+    spriteID: b195bb5a1eb7fcb4cb15c74c45137cf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 73}
+  - name: f4_gloomchaser_ghost_Frame_11
+    originalName: 
+    pivot: {x: 0.43243238, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 233
+      y: 4
+      width: 37
+      height: 30
+    spriteID: 8e47c26b40271e0458a6469a56a51160
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: -12}
+  - name: f4_gloomchaser_ghost_Frame_12
+    originalName: 
+    pivot: {x: 5.833333, y: -11.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 431
+      y: 189
+      width: 6
+      height: 6
+    spriteID: 32340fac5954adc46a02d1020447ac5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 426, y: 120}
+  - name: f4_gloomchaser_ghost_Frame_13
+    originalName: 
+    pivot: {x: 5.833333, y: -11.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 189
+      width: 6
+      height: 6
+    spriteID: 9e6ec314f3c97754491825fc6fd8741a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 440, y: 120}
+  - name: f4_gloomchaser_ghost_Frame_14
+    originalName: 
+    pivot: {x: 4.5, y: -11.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 167
+      width: 8
+      height: 6
+    spriteID: 17df4a796ee98a4479dd8730bc4a368d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 98}
+  - name: f4_gloomchaser_ghost_Frame_15
+    originalName: 
+    pivot: {x: 4.5, y: -17.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 233
+      width: 8
+      height: 4
+    spriteID: a7c9a3a3a101084498db767071273f99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 163}
+  - name: f4_gloomchaser_ghost_Frame_16
+    originalName: 
+    pivot: {x: 5.833333, y: -35.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 233
+      width: 6
+      height: 2
+    spriteID: 1539fead429085f439f60f3528d25db1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 162}
+  - name: f4_gloomchaser_ghost_Frame_17
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 406
+      y: 127
+      width: 28
+      height: 31
+    spriteID: e5ab069dc30fc9c45818100237fd6efc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 380, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_18
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 127
+      width: 28
+      height: 31
+    spriteID: f0144b2a1d3f14e4fb3781be4e19d20e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_19
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 478
+      y: 127
+      width: 28
+      height: 31
+    spriteID: ab0bb47b7c3ad4342ba60cda7f02e806
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_20
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 206
+      width: 27
+      height: 32
+    spriteID: 1d1a958238a41d34eb25fca76b332d35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_21
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 371
+      y: 206
+      width: 26
+      height: 32
+    spriteID: ca2784732dff295448e75023c019b692
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 345, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_22
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 206
+      width: 27
+      height: 32
+    spriteID: 1fd5b0bee121f06459f552cae1fc8c12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 13, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_23
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 167
+      width: 28
+      height: 31
+    spriteID: 6a34b29dced8b3e4f9427353be272939
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_24
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 167
+      width: 28
+      height: 31
+    spriteID: 009ad2af785e74c42a70ec6ff2dd995d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_25
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 167
+      width: 28
+      height: 31
+    spriteID: c708900e83d41874983f9284af2460dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_26
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 206
+      width: 27
+      height: 32
+    spriteID: 6fa999d071c29154182877ba080d37d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_27
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 206
+      width: 26
+      height: 32
+    spriteID: ef088d4f6039e4643b2295845c3c55d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_28
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 206
+      width: 27
+      height: 32
+    spriteID: 96e270aff6045eb4e86b96b50e0f19b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_29
+    originalName: 
+    pivot: {x: 0.37037036, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 206
+      width: 27
+      height: 32
+    spriteID: ad212c21ed594d742bf4e753e7ab90e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_30
+    originalName: 
+    pivot: {x: 0.40740737, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 179
+      y: 206
+      width: 27
+      height: 32
+    spriteID: 20bdde2536c99fd4f87a6e34acd2e3c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_31
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 206
+      width: 27
+      height: 32
+    spriteID: 6eeebf34bcc9bae4aa7ee3819b0e54b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_32
+    originalName: 
+    pivot: {x: 0.48275867, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 115
+      y: 127
+      width: 29
+      height: 31
+    spriteID: e07634ba5ffef9a44a947546f2237ae6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 219
+      y: 89
+      width: 30
+      height: 30
+    spriteID: 6069d19b5791d5d48acaa5a0f6278025
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 73}
+  - name: f4_gloomchaser_ghost_Frame_34
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 89
+      width: 35
+      height: 29
+    spriteID: 1559067e119fe004b884d54ac2b68778
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 73}
+  - name: f4_gloomchaser_ghost_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -0.8421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 206
+      width: 44
+      height: 19
+    spriteID: 0f103d2986c559c4eb7b90c2ea619ab1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_36
+    originalName: 
+    pivot: {x: 0.5102041, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 257
+      y: 89
+      width: 49
+      height: 13
+    spriteID: 4945a8d56d1394b40a8a6f28a78a3584
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 76}
+  - name: f4_gloomchaser_ghost_Frame_37
+    originalName: 
+    pivot: {x: 0.5102041, y: -0.9285714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 431
+      y: 167
+      width: 49
+      height: 14
+    spriteID: f6151f5df8dbed64496f53fdc2d8082e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 154}
+  - name: f4_gloomchaser_ghost_Frame_38
+    originalName: 
+    pivot: {x: 0.37037036, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 206
+      width: 27
+      height: 32
+    spriteID: e5024668724139c4fbe7146ed74fb566
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_39
+    originalName: 
+    pivot: {x: 0.40740737, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 206
+      width: 27
+      height: 32
+    spriteID: a7b29a9fd547f1b47abb4adc77b461dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_40
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 127
+      width: 28
+      height: 32
+    spriteID: 9d1de3e2d9d5abf4facbb84259059c70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_41
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 167
+      width: 28
+      height: 31
+    spriteID: 66efa3a59c300f9478d62ccea5ce651f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_42
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 167
+      width: 28
+      height: 31
+    spriteID: 1c6ad30ff0eda9a4a94bc17b4afc90dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_43
+    originalName: 
+    pivot: {x: 0.48275867, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 127
+      width: 29
+      height: 31
+    spriteID: 3f614af5536134f4c96d5c2a3f05bd89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_44
+    originalName: 
+    pivot: {x: 0.48275867, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 127
+      width: 29
+      height: 31
+    spriteID: e01b7292360e1ed4e9eacfd718e7a0d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_45
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 167
+      width: 28
+      height: 31
+    spriteID: 35f1af37d28341444a3279b997fc4d69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_46
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 167
+      width: 28
+      height: 31
+    spriteID: c13091bd9b6412648bd28dbf75ff2b59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_47
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 167
+      width: 28
+      height: 31
+    spriteID: 947f112c1e39edb45bf22281da99f04f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_48
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 127
+      width: 28
+      height: 32
+    spriteID: 1235800a54753de41bd2df2e8a6fefbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_49
+    originalName: 
+    pivot: {x: 0.48275867, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 127
+      width: 29
+      height: 32
+    spriteID: 3e171e9f2ae3b1f468a1ba96e8ceff0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_50
+    originalName: 
+    pivot: {x: 0.48275867, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 127
+      width: 29
+      height: 32
+    spriteID: 230bf41c833f2f642a4ce5a95014ccb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 15, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_51
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 127
+      width: 28
+      height: 32
+    spriteID: ee94b5b253224624da2e27f4dd076240
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_52
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 127
+      width: 28
+      height: 32
+    spriteID: cabc4aa9b81074d49b8a9f403e3f8f88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_53
+    originalName: 
+    pivot: {x: 0.48275867, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 127
+      width: 29
+      height: 32
+    spriteID: e5da5cdaab2870a43981f5194b95b96c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_54
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 127
+      width: 28
+      height: 32
+    spriteID: 5266e73608a7cb24e816854cb019da1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 344, y: 111}
+  - name: f4_gloomchaser_ghost_Frame_55
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 167
+      width: 27
+      height: 29
+    spriteID: b946cf255251d9349a1eb93d5029a4d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 267, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_56
+    originalName: 
+    pivot: {x: 0.59259254, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 167
+      width: 27
+      height: 26
+    spriteID: 8a01dee239e105545892b331c6b88746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_57
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 206
+      width: 28
+      height: 28
+    spriteID: 2425fcd4810d84348a772e4b485fb1aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_58
+    originalName: 
+    pivot: {x: 0.59259254, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 167
+      width: 27
+      height: 28
+    spriteID: 3ec7055e8ed422a448280d2c7de098ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 337, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_59
+    originalName: 
+    pivot: {x: 0.5862069, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 206
+      width: 29
+      height: 28
+    spriteID: f02da0ac4bb23e440a5b9e6fa40f3c6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 190}
+  - name: f4_gloomchaser_ghost_Frame_60
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 167
+      width: 26
+      height: 30
+    spriteID: 201c6692e84aa07459f6ddba9f2c96d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 151}
+  - name: f4_gloomchaser_ghost_Frame_61
+    originalName: 
+    pivot: {x: 0.48214287, y: -0.175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 56
+      height: 40
+    spriteID: 25692cfae6d935b40ae321a35b938983
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: -3}
+  - name: f4_gloomchaser_ghost_Frame_62
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 4
+      width: 56
+      height: 40
+    spriteID: 8fc044683b7f2c84b82ccca75d94fefe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: -3}
+  - name: f4_gloomchaser_ghost_Frame_63
+    originalName: 
+    pivot: {x: 0.22916664, y: -0.27027026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 4
+      width: 48
+      height: 37
+    spriteID: 351e67236b0cef14f885a53b8b08eeae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: -6}
+  - name: f4_gloomchaser_ghost_Frame_64
+    originalName: 
+    pivot: {x: 0.40909097, y: -0.42424244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 246
+      width: 22
+      height: 33
+    spriteID: 0730435feeebc8d45b4f5b31ed4bb95f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 232}
+  - name: f4_gloomchaser_ghost_Frame_65
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.42424244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 246
+      width: 20
+      height: 33
+    spriteID: 457677016c2cc9346920ab5695d0ad5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 232}
+  - name: f4_gloomchaser_ghost_Frame_66
+    originalName: 
+    pivot: {x: 0.4347826, y: -0.42424244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 246
+      width: 23
+      height: 33
+    spriteID: 1cdb109c8c8bf164ea02b17636ce4897
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -26, y: 232}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1630804979
+    name: f4_gloomchaser_ghost
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: f4_gloomchaser_ghost_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 549dfd58d01de594eae14305715be44d
+    - name: f4_gloomchaser_ghost_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 56cc04183c75868409926b22e9a09ee7
+    - name: f4_gloomchaser_ghost_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 686dbce168f44c047a39942cb823d66f
+    - name: f4_gloomchaser_ghost_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e8a41d00e7eb35c47a3b1beb3be14a2c
+    - name: f4_gloomchaser_ghost_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: db0890b39e951694fbe704ca8a70285e
+    - name: f4_gloomchaser_ghost_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3cc221e170a35ed439186476c5301e50
+    - name: f4_gloomchaser_ghost_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: efc916452fd66b343911715774822858
+    - name: f4_gloomchaser_ghost_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: af4f7b3595c18354aaa233194e5aee97
+    - name: f4_gloomchaser_ghost_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: be53a550d53a476459259c263553e388
+    - name: f4_gloomchaser_ghost_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fbbd91310f6fbc545b07f488b823ddd1
+    - name: f4_gloomchaser_ghost_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b195bb5a1eb7fcb4cb15c74c45137cf3
+    - name: f4_gloomchaser_ghost_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8e47c26b40271e0458a6469a56a51160
+    - name: f4_gloomchaser_ghost_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 32340fac5954adc46a02d1020447ac5f
+    - name: f4_gloomchaser_ghost_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9e6ec314f3c97754491825fc6fd8741a
+    - name: f4_gloomchaser_ghost_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 17df4a796ee98a4479dd8730bc4a368d
+    - name: f4_gloomchaser_ghost_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a7c9a3a3a101084498db767071273f99
+    - name: f4_gloomchaser_ghost_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1539fead429085f439f60f3528d25db1
+    - name: f4_gloomchaser_ghost_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e5ab069dc30fc9c45818100237fd6efc
+    - name: f4_gloomchaser_ghost_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f0144b2a1d3f14e4fb3781be4e19d20e
+    - name: f4_gloomchaser_ghost_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ab0bb47b7c3ad4342ba60cda7f02e806
+    - name: f4_gloomchaser_ghost_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1d1a958238a41d34eb25fca76b332d35
+    - name: f4_gloomchaser_ghost_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ca2784732dff295448e75023c019b692
+    - name: f4_gloomchaser_ghost_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1fd5b0bee121f06459f552cae1fc8c12
+    - name: f4_gloomchaser_ghost_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6a34b29dced8b3e4f9427353be272939
+    - name: f4_gloomchaser_ghost_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 009ad2af785e74c42a70ec6ff2dd995d
+    - name: f4_gloomchaser_ghost_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c708900e83d41874983f9284af2460dd
+    - name: f4_gloomchaser_ghost_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6fa999d071c29154182877ba080d37d5
+    - name: f4_gloomchaser_ghost_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ef088d4f6039e4643b2295845c3c55d7
+    - name: f4_gloomchaser_ghost_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 96e270aff6045eb4e86b96b50e0f19b5
+    - name: f4_gloomchaser_ghost_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ad212c21ed594d742bf4e753e7ab90e7
+    - name: f4_gloomchaser_ghost_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 20bdde2536c99fd4f87a6e34acd2e3c0
+    - name: f4_gloomchaser_ghost_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6eeebf34bcc9bae4aa7ee3819b0e54b1
+    - name: f4_gloomchaser_ghost_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e07634ba5ffef9a44a947546f2237ae6
+    - name: f4_gloomchaser_ghost_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6069d19b5791d5d48acaa5a0f6278025
+    - name: f4_gloomchaser_ghost_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1559067e119fe004b884d54ac2b68778
+    - name: f4_gloomchaser_ghost_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0f103d2986c559c4eb7b90c2ea619ab1
+    - name: f4_gloomchaser_ghost_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4945a8d56d1394b40a8a6f28a78a3584
+    - name: f4_gloomchaser_ghost_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f6151f5df8dbed64496f53fdc2d8082e
+    - name: f4_gloomchaser_ghost_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e5024668724139c4fbe7146ed74fb566
+    - name: f4_gloomchaser_ghost_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a7b29a9fd547f1b47abb4adc77b461dd
+    - name: f4_gloomchaser_ghost_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9d1de3e2d9d5abf4facbb84259059c70
+    - name: f4_gloomchaser_ghost_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 66efa3a59c300f9478d62ccea5ce651f
+    - name: f4_gloomchaser_ghost_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1c6ad30ff0eda9a4a94bc17b4afc90dd
+    - name: f4_gloomchaser_ghost_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3f614af5536134f4c96d5c2a3f05bd89
+    - name: f4_gloomchaser_ghost_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e01b7292360e1ed4e9eacfd718e7a0d5
+    - name: f4_gloomchaser_ghost_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 35f1af37d28341444a3279b997fc4d69
+    - name: f4_gloomchaser_ghost_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c13091bd9b6412648bd28dbf75ff2b59
+    - name: f4_gloomchaser_ghost_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 947f112c1e39edb45bf22281da99f04f
+    - name: f4_gloomchaser_ghost_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1235800a54753de41bd2df2e8a6fefbf
+    - name: f4_gloomchaser_ghost_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3e171e9f2ae3b1f468a1ba96e8ceff0d
+    - name: f4_gloomchaser_ghost_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 230bf41c833f2f642a4ce5a95014ccb9
+    - name: f4_gloomchaser_ghost_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ee94b5b253224624da2e27f4dd076240
+    - name: f4_gloomchaser_ghost_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cabc4aa9b81074d49b8a9f403e3f8f88
+    - name: f4_gloomchaser_ghost_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e5da5cdaab2870a43981f5194b95b96c
+    - name: f4_gloomchaser_ghost_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5266e73608a7cb24e816854cb019da1d
+    - name: f4_gloomchaser_ghost_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b946cf255251d9349a1eb93d5029a4d5
+    - name: f4_gloomchaser_ghost_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8a01dee239e105545892b331c6b88746
+    - name: f4_gloomchaser_ghost_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2425fcd4810d84348a772e4b485fb1aa
+    - name: f4_gloomchaser_ghost_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3ec7055e8ed422a448280d2c7de098ef
+    - name: f4_gloomchaser_ghost_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f02da0ac4bb23e440a5b9e6fa40f3c6e
+    - name: f4_gloomchaser_ghost_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 201c6692e84aa07459f6ddba9f2c96d5
+    - name: f4_gloomchaser_ghost_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 25692cfae6d935b40ae321a35b938983
+    - name: f4_gloomchaser_ghost_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8fc044683b7f2c84b82ccca75d94fefe
+    - name: f4_gloomchaser_ghost_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 351e67236b0cef14f885a53b8b08eeae
+    - name: f4_gloomchaser_ghost_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0730435feeebc8d45b4f5b31ed4bb95f
+    - name: f4_gloomchaser_ghost_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 457677016c2cc9346920ab5695d0ad5f
+    - name: f4_gloomchaser_ghost_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1cdb109c8c8bf164ea02b17636ce4897
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

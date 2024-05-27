@@ -6,6 +6,7 @@ public class EquipData
     public int Hp;
     public int Ftk;
     public int LV;
+    public int ID;
 
     public void UpGrade(int i)
     {
@@ -19,8 +20,8 @@ public class EquipData
             Hp =(int)(Hp*(1 + Random.Range(0, 0.2f)));
             Ftk =(int)(Ftk*(1 + Random.Range(0, 0.2f)));
             LV += 1;
-            
         }
+        Player.Instance.playerData.UPdate();
     }
 }
 

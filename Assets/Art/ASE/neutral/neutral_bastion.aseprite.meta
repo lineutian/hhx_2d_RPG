@@ -1,0 +1,2312 @@
+fileFormatVersion: 2
+guid: c78baf1f5c63ea946b9d9242f69e3b3c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_bastion_Frame_0
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 836
+      width: 33
+      height: 67
+    spriteID: 5192d902503708343a72366841adb127
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 819}
+  - name: neutral_bastion_Frame_1
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 461
+      width: 34
+      height: 68
+    spriteID: 65c454f91b4d95748b762e6c1d47bab3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 444}
+  - name: neutral_bastion_Frame_2
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.24637681}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 228
+      width: 34
+      height: 69
+    spriteID: 1e27583b545fbe14aa9231c2dfc0f838
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 211}
+  - name: neutral_bastion_Frame_3
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 782
+      width: 34
+      height: 70
+    spriteID: 04c84925fef7fdc4a9c05c4d91d997f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 765}
+  - name: neutral_bastion_Frame_4
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 231
+      width: 35
+      height: 70
+    spriteID: 99f8df2b15a1ce44aa31b8d55973b9a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 214}
+  - name: neutral_bastion_Frame_5
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.23943663}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 387
+      width: 34
+      height: 71
+    spriteID: 098dfd40018fd1d44b66b8cedb45977f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 370}
+  - name: neutral_bastion_Frame_6
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.23943663}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 466
+      width: 34
+      height: 71
+    spriteID: 61c9c7c5d5123384e9d9cab4a3f1e104
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 449}
+  - name: neutral_bastion_Frame_7
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 460
+      width: 33
+      height: 68
+    spriteID: ab5bd9d9682f18e489c3d3d16c07fc5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 443}
+  - name: neutral_bastion_Frame_8
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.24637681}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 229
+      width: 33
+      height: 69
+    spriteID: de71cf83a3514b44f8d11479800d04b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 212}
+  - name: neutral_bastion_Frame_9
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 296
+      width: 33
+      height: 66
+    spriteID: c7f5ae0d56ede12489a043f463699cd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 279}
+  - name: neutral_bastion_Frame_10
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 911
+      width: 33
+      height: 67
+    spriteID: 5866d43a049ed8149b1fe8094dd886db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 894}
+  - name: neutral_bastion_Frame_11
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 537
+      width: 34
+      height: 68
+    spriteID: bd59c85b3781b9e47a6abec2af52535f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 520}
+  - name: neutral_bastion_Frame_12
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.24637681}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 305
+      width: 34
+      height: 69
+    spriteID: 8ab74d177d175334b9fe69d099b17c27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 288}
+  - name: neutral_bastion_Frame_13
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 860
+      width: 34
+      height: 70
+    spriteID: 7ccac1090e994d743b565e11f73bc4ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 843}
+  - name: neutral_bastion_Frame_14
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 309
+      width: 35
+      height: 70
+    spriteID: 022f56176350b6147beeeb52b985ecd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 292}
+  - name: neutral_bastion_Frame_15
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.23943663}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 545
+      width: 34
+      height: 71
+    spriteID: 5a435a9ff81295f468c39073a947f226
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 528}
+  - name: neutral_bastion_Frame_16
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.23943663}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 624
+      width: 34
+      height: 71
+    spriteID: fa442b056325a584c80fdc00e6529e4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 607}
+  - name: neutral_bastion_Frame_17
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 536
+      width: 33
+      height: 68
+    spriteID: 2135b56a60f1d6840a46bd48a1aa5d47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 519}
+  - name: neutral_bastion_Frame_18
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.24637681}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 306
+      width: 33
+      height: 69
+    spriteID: a320d84f870a4f446932471604cd18be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 289}
+  - name: neutral_bastion_Frame_19
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 370
+      width: 33
+      height: 66
+    spriteID: bb814e249fd97344481f3c388a7200d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 353}
+  - name: neutral_bastion_Frame_20
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 444
+      width: 33
+      height: 66
+    spriteID: 321aabb02cc1cb04f9f445881b2791f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 427}
+  - name: neutral_bastion_Frame_21
+    originalName: 
+    pivot: {x: 0.5625, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 666
+      width: 32
+      height: 67
+    spriteID: ef509abb178e601428576a5b2b522a24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 649}
+  - name: neutral_bastion_Frame_22
+    originalName: 
+    pivot: {x: 0.54285717, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 938
+      width: 35
+      height: 68
+    spriteID: 4404d09563fba644c9428b19ad1630ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 921}
+  - name: neutral_bastion_Frame_23
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 518
+      width: 33
+      height: 66
+    spriteID: 4843e1894400b704098b559a7113338a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 501}
+  - name: neutral_bastion_Frame_24
+    originalName: 
+    pivot: {x: 0.5625, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 741
+      width: 32
+      height: 67
+    spriteID: 8ba3faa2d9e2d1c48a540a4defcdf53f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 724}
+  - name: neutral_bastion_Frame_25
+    originalName: 
+    pivot: {x: 0.54285717, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 78
+      width: 35
+      height: 68
+    spriteID: 03c5dc3805417d447b0f1acf3d907e14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 61}
+  - name: neutral_bastion_Frame_26
+    originalName: 
+    pivot: {x: 0.48648652, y: -0.24637681}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 80
+      width: 37
+      height: 69
+    spriteID: de907293e4915754e95c43af776da542
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 63}
+  - name: neutral_bastion_Frame_27
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 790
+      width: 43
+      height: 70
+    spriteID: a5005c3796f2f07429a73ff88bfa4814
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 773}
+  - name: neutral_bastion_Frame_28
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 712
+      width: 46
+      height: 70
+    spriteID: 239e77d10a112674a9f39e30b47bd883
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 695}
+  - name: neutral_bastion_Frame_29
+    originalName: 
+    pivot: {x: 0.5319149, y: -0.23943663}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 633
+      width: 47
+      height: 71
+    spriteID: 58c4111f7bd95c64f8b4e0918dcf3e99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 616}
+  - name: neutral_bastion_Frame_30
+    originalName: 
+    pivot: {x: 0.5106383, y: -0.2361111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 553
+      width: 47
+      height: 72
+    spriteID: b53580013f30ee948be00141d253c108
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 536}
+  - name: neutral_bastion_Frame_31
+    originalName: 
+    pivot: {x: 0.5208333, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 868
+      width: 48
+      height: 61
+    spriteID: f5292fa6d27be954897d5fa91edb357d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 851}
+  - name: neutral_bastion_Frame_32
+    originalName: 
+    pivot: {x: 0.5625, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 150
+      width: 32
+      height: 61
+    spriteID: 088d4032aea61924ba5183ceb6e1b3fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 133}
+  - name: neutral_bastion_Frame_33
+    originalName: 
+    pivot: {x: 0.5625, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 219
+      width: 32
+      height: 61
+    spriteID: ccf3e0e619c8f0a4293e3220fd003fdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 202}
+  - name: neutral_bastion_Frame_34
+    originalName: 
+    pivot: {x: 0.5625, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 288
+      width: 32
+      height: 61
+    spriteID: 452f2390d4c5b4f44942ccf34e23ab77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 271}
+  - name: neutral_bastion_Frame_35
+    originalName: 
+    pivot: {x: 0.5625, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 357
+      width: 32
+      height: 61
+    spriteID: b0c0d66faa99f994e82e9e931e4a133d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 340}
+  - name: neutral_bastion_Frame_36
+    originalName: 
+    pivot: {x: 0.5625, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 426
+      width: 32
+      height: 61
+    spriteID: a0778b15722cb7442a6cb231ad65825a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 409}
+  - name: neutral_bastion_Frame_37
+    originalName: 
+    pivot: {x: 0.5625, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 495
+      width: 32
+      height: 61
+    spriteID: e5064db327254fd468a63e53f13f0ff9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 478}
+  - name: neutral_bastion_Frame_38
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 612
+      width: 34
+      height: 66
+    spriteID: f8565c8adf6300b4795197704b2d3fc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 595}
+  - name: neutral_bastion_Frame_39
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 686
+      width: 34
+      height: 66
+    spriteID: b74ffa806fe80e64ca1bf977bc5ddbac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 669}
+  - name: neutral_bastion_Frame_40
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 843
+      width: 34
+      height: 67
+    spriteID: 40754f146393fb040890ba3c18f8f1fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 826}
+  - name: neutral_bastion_Frame_41
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 918
+      width: 34
+      height: 67
+    spriteID: 9b8d602972ca4264db2ad26cb1dd7418
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 901}
+  - name: neutral_bastion_Frame_42
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 4
+      width: 34
+      height: 67
+    spriteID: a02de4a5bbee00642bf0cb7a44e2d949
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: -13}
+  - name: neutral_bastion_Frame_43
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 79
+      width: 34
+      height: 67
+    spriteID: ecca06da044a6ff49b8bda99e60d549a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 62}
+  - name: neutral_bastion_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 816
+      width: 32
+      height: 65
+    spriteID: 3a83e0b50786dd74fafce0f32578f99b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 799}
+  - name: neutral_bastion_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 889
+      width: 32
+      height: 65
+    spriteID: d8eacdec794c33c4c91fdb623435028c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 872}
+  - name: neutral_bastion_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 4
+      width: 32
+      height: 65
+    spriteID: 355e820375d2aa241a38055fae957fb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: -13}
+  - name: neutral_bastion_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 77
+      width: 32
+      height: 65
+    spriteID: b200fb63b5d6ac445be513b36608cfc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 60}
+  - name: neutral_bastion_Frame_48
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 4
+      width: 34
+      height: 65
+    spriteID: de1ed974a74ec5c459e0e13b8c11d3d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: -13}
+  - name: neutral_bastion_Frame_49
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 77
+      width: 34
+      height: 65
+    spriteID: 22ca6c9740879014aa34b624e86edf03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 60}
+  - name: neutral_bastion_Frame_50
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 150
+      width: 34
+      height: 65
+    spriteID: 9b7cab39326cc8146a53420fbc531ca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 133}
+  - name: neutral_bastion_Frame_51
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 223
+      width: 34
+      height: 65
+    spriteID: c5df16077b02544438df6c03a2d0e261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 206}
+  - name: neutral_bastion_Frame_52
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 592
+      width: 33
+      height: 66
+    spriteID: a80f82ea2183a6b4f8657191344f6fcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 575}
+  - name: neutral_bastion_Frame_53
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 760
+      width: 33
+      height: 68
+    spriteID: ff1ffd0370dc8e74d9d6af4d775c95e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 743}
+  - name: neutral_bastion_Frame_54
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.24637681}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 383
+      width: 33
+      height: 69
+    spriteID: c9720d1aa0b6e1c4e8cb5274f5c4fca7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 366}
+  - name: neutral_bastion_Frame_55
+    originalName: 
+    pivot: {x: 0.51515144, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 613
+      width: 33
+      height: 70
+    spriteID: 4fc2dc0f366c00a44ae315cbe4f68d30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 596}
+  - name: neutral_bastion_Frame_56
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 691
+      width: 33
+      height: 70
+    spriteID: b000b1ac1110cb042a34693466a85631
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 674}
+  - name: neutral_bastion_Frame_57
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.23943663}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 382
+      width: 33
+      height: 71
+    spriteID: 2381254a622af254aa7011ec0a323617
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 365}
+  - name: neutral_bastion_Frame_58
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.23943663}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 703
+      width: 34
+      height: 71
+    spriteID: 863720ea6d67cd34f818412648d9dace
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 686}
+  - name: neutral_bastion_Frame_59
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.26865673}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 154
+      width: 34
+      height: 67
+    spriteID: 4aeba3d2a213b4a4daf9c5db975f828f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 136}
+  - name: neutral_bastion_Frame_60
+    originalName: 
+    pivot: {x: 0.4871795, y: -0.2647059}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 4
+      width: 39
+      height: 68
+    spriteID: c1647480354455246be99be0d939cb9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: -14}
+  - name: neutral_bastion_Frame_61
+    originalName: 
+    pivot: {x: 0.52631575, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 157
+      width: 38
+      height: 66
+    spriteID: f0b024058d248b749941e5995f648153
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 140}
+  - name: neutral_bastion_Frame_62
+    originalName: 
+    pivot: {x: 0.48571426, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 769
+      width: 35
+      height: 66
+    spriteID: 67a02b6238882524f9da60b0ca57ed7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 752}
+  - name: neutral_bastion_Frame_63
+    originalName: 
+    pivot: {x: 0.48484847, y: -0.27419356}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 4
+      width: 33
+      height: 62
+    spriteID: 684f0253460a271449ac2400d5efdf35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: -13}
+  - name: neutral_bastion_Frame_64
+    originalName: 
+    pivot: {x: 0.48484847, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 74
+      width: 33
+      height: 60
+    spriteID: ffbf56bd26574a940a1507f992e6d769
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 54}
+  - name: neutral_bastion_Frame_65
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 4
+      width: 40
+      height: 66
+    spriteID: fb4c3e6d77dca7247bcdc29ce8bcd77d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: -14}
+  - name: neutral_bastion_Frame_66
+    originalName: 
+    pivot: {x: 0.4745763, y: -0.24285716}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 247
+      width: 59
+      height: 70
+    spriteID: 7b2dfe66a8078b04b89bcdb42a5bd6cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 230}
+  - name: neutral_bastion_Frame_67
+    originalName: 
+    pivot: {x: 0.42000002, y: -0.24637681}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 476
+      width: 50
+      height: 69
+    spriteID: 6d9590df344df334991d4560748f91ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 459}
+  - name: neutral_bastion_Frame_68
+    originalName: 
+    pivot: {x: 0.46153846, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 398
+      width: 52
+      height: 70
+    spriteID: 456aea6a20e7f0f4e824afee1e7a5410
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 382}
+  - name: neutral_bastion_Frame_69
+    originalName: 
+    pivot: {x: 0.49090907, y: -0.14473684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 163
+      width: 55
+      height: 76
+    spriteID: dfe4d05f2ff5fd24ca4f45420d702b60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 152}
+  - name: neutral_bastion_Frame_70
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.12676057}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 60
+      height: 71
+    spriteID: 7d81d7499ea69c2449cd99a1763b4660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 75}
+  - name: neutral_bastion_Frame_71
+    originalName: 
+    pivot: {x: 0.47540987, y: -0.111111104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 61
+      height: 72
+    spriteID: 776b0b85947ad634981d69642a14dedd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: -4}
+  - name: neutral_bastion_Frame_72
+    originalName: 
+    pivot: {x: 0.47540987, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 325
+      width: 61
+      height: 65
+    spriteID: e9ca9e3c77a2e9c49901a581bd6483dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 308}
+  - name: neutral_bastion_Frame_73
+    originalName: 
+    pivot: {x: 0.48888892, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 937
+      width: 45
+      height: 65
+    spriteID: 02f0b3b6d158cfe47bc77b6e71674757
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 920}
+  - name: neutral_bastion_Frame_74
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 154
+      width: 36
+      height: 66
+    spriteID: 29869272f2d8be54892a90d41694e9c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 137}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1798335730
+    name: neutral_bastion
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_bastion_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5192d902503708343a72366841adb127
+    - name: neutral_bastion_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 65c454f91b4d95748b762e6c1d47bab3
+    - name: neutral_bastion_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 1e27583b545fbe14aa9231c2dfc0f838
+    - name: neutral_bastion_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 04c84925fef7fdc4a9c05c4d91d997f4
+    - name: neutral_bastion_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 99f8df2b15a1ce44aa31b8d55973b9a9
+    - name: neutral_bastion_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 098dfd40018fd1d44b66b8cedb45977f
+    - name: neutral_bastion_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 61c9c7c5d5123384e9d9cab4a3f1e104
+    - name: neutral_bastion_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ab5bd9d9682f18e489c3d3d16c07fc5e
+    - name: neutral_bastion_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: de71cf83a3514b44f8d11479800d04b7
+    - name: neutral_bastion_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c7f5ae0d56ede12489a043f463699cd4
+    - name: neutral_bastion_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5866d43a049ed8149b1fe8094dd886db
+    - name: neutral_bastion_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bd59c85b3781b9e47a6abec2af52535f
+    - name: neutral_bastion_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8ab74d177d175334b9fe69d099b17c27
+    - name: neutral_bastion_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7ccac1090e994d743b565e11f73bc4ec
+    - name: neutral_bastion_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 022f56176350b6147beeeb52b985ecd6
+    - name: neutral_bastion_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 5a435a9ff81295f468c39073a947f226
+    - name: neutral_bastion_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fa442b056325a584c80fdc00e6529e4c
+    - name: neutral_bastion_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2135b56a60f1d6840a46bd48a1aa5d47
+    - name: neutral_bastion_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a320d84f870a4f446932471604cd18be
+    - name: neutral_bastion_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: bb814e249fd97344481f3c388a7200d0
+    - name: neutral_bastion_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 321aabb02cc1cb04f9f445881b2791f2
+    - name: neutral_bastion_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ef509abb178e601428576a5b2b522a24
+    - name: neutral_bastion_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4404d09563fba644c9428b19ad1630ad
+    - name: neutral_bastion_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4843e1894400b704098b559a7113338a
+    - name: neutral_bastion_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 8ba3faa2d9e2d1c48a540a4defcdf53f
+    - name: neutral_bastion_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 03c5dc3805417d447b0f1acf3d907e14
+    - name: neutral_bastion_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: de907293e4915754e95c43af776da542
+    - name: neutral_bastion_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a5005c3796f2f07429a73ff88bfa4814
+    - name: neutral_bastion_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 239e77d10a112674a9f39e30b47bd883
+    - name: neutral_bastion_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 58c4111f7bd95c64f8b4e0918dcf3e99
+    - name: neutral_bastion_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b53580013f30ee948be00141d253c108
+    - name: neutral_bastion_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f5292fa6d27be954897d5fa91edb357d
+    - name: neutral_bastion_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 088d4032aea61924ba5183ceb6e1b3fd
+    - name: neutral_bastion_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ccf3e0e619c8f0a4293e3220fd003fdd
+    - name: neutral_bastion_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 452f2390d4c5b4f44942ccf34e23ab77
+    - name: neutral_bastion_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b0c0d66faa99f994e82e9e931e4a133d
+    - name: neutral_bastion_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a0778b15722cb7442a6cb231ad65825a
+    - name: neutral_bastion_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e5064db327254fd468a63e53f13f0ff9
+    - name: neutral_bastion_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f8565c8adf6300b4795197704b2d3fc9
+    - name: neutral_bastion_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b74ffa806fe80e64ca1bf977bc5ddbac
+    - name: neutral_bastion_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 40754f146393fb040890ba3c18f8f1fd
+    - name: neutral_bastion_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9b8d602972ca4264db2ad26cb1dd7418
+    - name: neutral_bastion_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a02de4a5bbee00642bf0cb7a44e2d949
+    - name: neutral_bastion_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ecca06da044a6ff49b8bda99e60d549a
+    - name: neutral_bastion_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 3a83e0b50786dd74fafce0f32578f99b
+    - name: neutral_bastion_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: d8eacdec794c33c4c91fdb623435028c
+    - name: neutral_bastion_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 355e820375d2aa241a38055fae957fb6
+    - name: neutral_bastion_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b200fb63b5d6ac445be513b36608cfc5
+    - name: neutral_bastion_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: de1ed974a74ec5c459e0e13b8c11d3d6
+    - name: neutral_bastion_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 22ca6c9740879014aa34b624e86edf03
+    - name: neutral_bastion_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 9b7cab39326cc8146a53420fbc531ca8
+    - name: neutral_bastion_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c5df16077b02544438df6c03a2d0e261
+    - name: neutral_bastion_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: a80f82ea2183a6b4f8657191344f6fcf
+    - name: neutral_bastion_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ff1ffd0370dc8e74d9d6af4d775c95e3
+    - name: neutral_bastion_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c9720d1aa0b6e1c4e8cb5274f5c4fca7
+    - name: neutral_bastion_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4fc2dc0f366c00a44ae315cbe4f68d30
+    - name: neutral_bastion_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: b000b1ac1110cb042a34693466a85631
+    - name: neutral_bastion_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 2381254a622af254aa7011ec0a323617
+    - name: neutral_bastion_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 863720ea6d67cd34f818412648d9dace
+    - name: neutral_bastion_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 4aeba3d2a213b4a4daf9c5db975f828f
+    - name: neutral_bastion_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: c1647480354455246be99be0d939cb9f
+    - name: neutral_bastion_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: f0b024058d248b749941e5995f648153
+    - name: neutral_bastion_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 67a02b6238882524f9da60b0ca57ed7c
+    - name: neutral_bastion_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 684f0253460a271449ac2400d5efdf35
+    - name: neutral_bastion_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: ffbf56bd26574a940a1507f992e6d769
+    - name: neutral_bastion_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: fb4c3e6d77dca7247bcdc29ce8bcd77d
+    - name: neutral_bastion_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7b2dfe66a8078b04b89bcdb42a5bd6cb
+    - name: neutral_bastion_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 6d9590df344df334991d4560748f91ae
+    - name: neutral_bastion_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 456aea6a20e7f0f4e824afee1e7a5410
+    - name: neutral_bastion_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: dfe4d05f2ff5fd24ca4f45420d702b60
+    - name: neutral_bastion_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 7d81d7499ea69c2449cd99a1763b4660
+    - name: neutral_bastion_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 776b0b85947ad634981d69642a14dedd
+    - name: neutral_bastion_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: e9ca9e3c77a2e9c49901a581bd6483dc
+    - name: neutral_bastion_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 02f0b3b6d158cfe47bc77b6e71674757
+    - name: neutral_bastion_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteId: 29869272f2d8be54892a90d41694e9c6
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

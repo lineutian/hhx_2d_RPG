@@ -17,4 +17,13 @@ public static class myExpected
             A.Add(b.Key, b.Value);
         return A;
     }
+
+    public static List<T> ListCopy<T>(List<T> a, List<T> b)
+    {
+        a.Clear();
+        foreach (var B in b)
+            a.Add(B);
+        return a;
+    }
+    
 }

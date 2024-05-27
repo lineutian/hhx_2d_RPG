@@ -9,28 +9,26 @@ using static myExpected;
 /// </summary>
 public class NewBehaviourScript : MonoBehaviour
 {
-    public float speed = 5f;//??????
-    private float moveX, moveY;
     private Animator Animator;
     public bool isStop=true;
-    public GameObject beibao;
-    [FormerlySerializedAs("Equip")] public EquipObject equipObject=null;
+    public GameObject UI_2;
+    [FormerlySerializedAs("Equip")] public WeaponAtk equipObject=null;
     public Animator 动画;
     public float 无敌;
     public float 无敌存储;
     public bool 是否无敌;
     const string PLAYER_DATA_KEY = "PlayerData";
-    const string PLAYER_DATA_FILE_NAME = "PlayerData.xxc";
 
     //public Animator animator;
     // Start is called before the first frame update
     private void Awake()
     {
-        beibao.SetActive(false);
+        
     }
     void Start()
     {
         Animator = transform.GetComponent<Animator>();
+        Load();
     }
 
     // Update is called once per frame
@@ -38,16 +36,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         无敌时间();
         atk();
-        run();
         IsOpen();
-    }
-    
-    private void Flip()
-    {
-        if (moveX > 0)
-            transform.eulerAngles = new Vector3(0, 0, 0);
-        if (moveX < 0)
-            transform.eulerAngles = new Vector3(0, 180, 0);
     }
 
     public void IsOpen()
@@ -58,7 +47,7 @@ public class NewBehaviourScript : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Z))
             {
                 Time.timeScale = 0;
-                beibao.SetActive(true);
+                UI_2.SetActive(true);
                 isStop = false;
             }
         }
@@ -67,35 +56,13 @@ public class NewBehaviourScript : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Z))
             {
                 Time.timeScale = 1;
-                beibao.SetActive(false);
+                UI_2.SetActive(false);
                 isStop = true;
             }
         }
+        
     }
-
-    #region 移动
-
-    private void run()
-    {
-        moveX = Input.GetAxisRaw("Horizontal")*speed;//a:-1 d:1 0
-        moveY = Input.GetAxisRaw("Vertical")*speed;//w:1 s:-1 0
-        /*if (moveX!=0||moveY!=0)
-        {
-            animator.SetBool("pd",true);
-        }
-        else
-        {
-            animator.SetBool("pd",false);
-        }*/
-        //??????
-        Flip();//图片反转
-        Vector2 position = transform.position;
-        position.x += moveX * Time.deltaTime;
-        position.y += moveY * Time.deltaTime;
-        transform.position = position;//???????
-    }
-    #endregion
-
+    
     #region 攻击
 
     void atk()
@@ -126,7 +93,7 @@ public class NewBehaviourScript : MonoBehaviour
         {
             Destroy(transform.GetChild(0).GetChild(0).gameObject);
         }
-        equipObject =Instantiate(equip, transform.GetChild(0)).GetComponent<EquipObject>();
+        equipObject =Instantiate(equip, transform.GetChild(0)).GetComponent<WeaponAtk>();
     }
     #endregion
 
@@ -173,36 +140,37 @@ public class NewBehaviourScript : MonoBehaviour
     }
     void SaveByJson()
     {
-        saveSystem.SaveByJson(PLAYER_DATA_FILE_NAME,savingData());
+        saveSystem.SaveByJson(saveSystem.gameName,savingData());
     }
 
     void LoadFromJson()
     {
-        var save = saveSystem.LoadFromJson<SaveData>(PLAYER_DATA_FILE_NAME);//读档
+        var save = saveSystem.LoadFromJson<SaveData>(saveSystem.gameName);//读档
         LocaData(save);//加载读档数据
+        Player.Instance.playerData.locaData(save);
     }
 
     SaveData savingData()
     {
         var saveData = new SaveData();
         saveData.playerPosition = transform.position;
-        DictionaryCopy(saveData.ItemList, GlobalController.Instance.Data.Inventory);
-        foreach (var s in saveData.ItemList)
-        {
-            Debug.Log(s);
-        }
+        //DictionaryCopy(saveData.ItemList, GlobalController.Instance.Data.Inventory);
         //saveData.ItemList = GlobalController.Instance.Data.Inventory;
-        saveData.Data = (PlayerData)Player.Instance.Data;
+        //saveData.Data = Player.Instance.playerData;
+        Player.Instance.playerData.saveData(saveData);
+        saveData.EQUIPid = equipController.id;
+        ItemController.Instance.saveEquip(saveData);
         return saveData;
     }
 
     void LocaData(SaveData saveData)
     {
         transform.position = saveData.playerPosition;
-        DictionaryCopy(GlobalController.Instance.Data.Inventory,saveData.ItemList);
         //ItemController.Instance.RefreshhUI(GlobalController.Instance.Data.Inventory = saveData.ItemList);
-        Player.Instance.Data=saveData.Data;
-        ItemController.Instance.RefreshhUI(GlobalController.Instance.Data.Inventory);
+        //Player.Instance.playerData=(PlayerData)saveData.Data;
+        equipController.id = saveData.EQUIPid;
+        ItemController.Instance.locaEquip(saveData);
+        //ItemController.Instance.RefreshhUI(Inventory);
     }
 
     #endregion

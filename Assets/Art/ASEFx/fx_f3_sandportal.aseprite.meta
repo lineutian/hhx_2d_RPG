@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: bd1ecff1e705e2c41a8a12ad2fee9bdd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fx_f3_sandportal_Frame_0
+    originalName: 
+    pivot: {x: 0.51470584, y: -0.51785713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 181
+      width: 68
+      height: 56
+    spriteID: 3621107447588774ab6471c34a4e5aa1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 152}
+  - name: fx_f3_sandportal_Frame_1
+    originalName: 
+    pivot: {x: 0.4588235, y: -1.1587301}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 425
+      width: 85
+      height: 63
+    spriteID: 2427cf8a998b0bf4ea1269175e98e1c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 352}
+  - name: fx_f3_sandportal_Frame_2
+    originalName: 
+    pivot: {x: 0.45000002, y: -0.8472222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 428
+      width: 80
+      height: 72
+    spriteID: ccc8a2c792b795f4ca1ed4eec9d8fa0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 367}
+  - name: fx_f3_sandportal_Frame_3
+    originalName: 
+    pivot: {x: 0.45333332, y: -0.9692307}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 108
+      width: 75
+      height: 65
+    spriteID: 31bc765b7a7860d448f51d5f69619bbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 45}
+  - name: fx_f3_sandportal_Frame_4
+    originalName: 
+    pivot: {x: 0.5636364, y: -1.2727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 309
+      width: 55
+      height: 55
+    spriteID: 74d13e8c831c3f847b33fab10eaf7d78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 239}
+  - name: fx_f3_sandportal_Frame_5
+    originalName: 
+    pivot: {x: 0.5428571, y: -2.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 466
+      width: 35
+      height: 30
+    spriteID: 4b42cb3647d898146a3fa626df86b9ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -52, y: 382}
+  - name: fx_f3_sandportal_Frame_6
+    originalName: 
+    pivot: {x: 0.49999994, y: -4.8888884}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 466
+      width: 22
+      height: 18
+    spriteID: 081658e1853031a43ad16568dea6da4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 378}
+  - name: fx_f3_sandportal_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 466
+      width: 18
+      height: 15
+    spriteID: f73aed57d97173e43a66a7224d9df5df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 11, y: 376}
+  - name: fx_f3_sandportal_Frame_8
+    originalName: 
+    pivot: {x: 0.5294118, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 372
+      width: 34
+      height: 55
+    spriteID: 9f8a549b1b7d31f4087639312ea36ab0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 317}
+  - name: fx_f3_sandportal_Frame_9
+    originalName: 
+    pivot: {x: 0.5116279, y: -0.48314604}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 4
+      width: 86
+      height: 89
+    spriteID: a8c304d9199704644bdacb87da5f0a7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: -39}
+  - name: fx_f3_sandportal_Frame_10
+    originalName: 
+    pivot: {x: 0.52564096, y: -0.45652172}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 328
+      width: 78
+      height: 92
+    spriteID: 2f26b477e60af1c4293c3126dc8fc967
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 286}
+  - name: fx_f3_sandportal_Frame_11
+    originalName: 
+    pivot: {x: 0.5243902, y: -0.4226804}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 117
+      width: 82
+      height: 97
+    spriteID: c5f6a07dc10eb124f93a58d4876384c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 76}
+  - name: fx_f3_sandportal_Frame_12
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 109
+      width: 84
+      height: 96
+    spriteID: 4c0d632dff1c33946b68f772aa009f2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 69}
+  - name: fx_f3_sandportal_Frame_13
+    originalName: 
+    pivot: {x: 0.5232558, y: -0.40206182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 4
+      width: 86
+      height: 97
+    spriteID: 4f03c9088e0b1524fa5efb859df912ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: -35}
+  - name: fx_f3_sandportal_Frame_14
+    originalName: 
+    pivot: {x: 0.49397588, y: -0.3958333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 4
+      width: 83
+      height: 96
+    spriteID: f60a68fd4c56e4d4597a77b3e6254253
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: -34}
+  - name: fx_f3_sandportal_Frame_15
+    originalName: 
+    pivot: {x: 0.49382713, y: -0.35353535}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 318
+      width: 81
+      height: 99
+    spriteID: 3191cef9be96480439d214a62af2ddf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 283}
+  - name: fx_f3_sandportal_Frame_16
+    originalName: 
+    pivot: {x: 0.49397588, y: -0.34020618}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 213
+      width: 83
+      height: 97
+    spriteID: 8949caa794aa7d64aba5a30b3018af5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 180}
+  - name: fx_f3_sandportal_Frame_17
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 222
+      width: 81
+      height: 98
+    spriteID: 39c3b27e72ff47a4c97191f410b6c8f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 190}
+  - name: fx_f3_sandportal_Frame_18
+    originalName: 
+    pivot: {x: 0.5121951, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 4
+      width: 82
+      height: 105
+    spriteID: aa21e2d3a93efbe41b0b1410f291f920
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: -20}
+  - name: fx_f3_sandportal_Frame_19
+    originalName: 
+    pivot: {x: 0.48958334, y: -0.16071428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 96
+      height: 112
+    spriteID: 911580dc163698145adbd389db645303
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: -14}
+  - name: fx_f3_sandportal_Frame_20
+    originalName: 
+    pivot: {x: 0.48888892, y: -0.20370369}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 241
+      width: 90
+      height: 108
+    spriteID: 8992c14475a78c4409634010a94d29a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 219}
+  - name: fx_f3_sandportal_Frame_21
+    originalName: 
+    pivot: {x: 0.4835165, y: -0.19266056}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 124
+      width: 91
+      height: 109
+    spriteID: 2c1da2c92b4143e4286d3dfa7482099c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 103}
+  - name: fx_f3_sandportal_Frame_22
+    originalName: 
+    pivot: {x: 0.4835165, y: -0.2079208}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 357
+      width: 91
+      height: 101
+    spriteID: ac63adc2ba6045c4097ad4d3de854447
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 336}
+  - name: fx_f3_sandportal_Frame_23
+    originalName: 
+    pivot: {x: 0.51470584, y: -0.51785713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 245
+      width: 68
+      height: 56
+    spriteID: f03f43f0b91976249845bf08a32490df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 216}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 447132467
+    name: fx_f3_sandportal
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fx_f3_sandportal_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 3621107447588774ab6471c34a4e5aa1
+    - name: fx_f3_sandportal_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 2427cf8a998b0bf4ea1269175e98e1c8
+    - name: fx_f3_sandportal_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: ccc8a2c792b795f4ca1ed4eec9d8fa0c
+    - name: fx_f3_sandportal_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 31bc765b7a7860d448f51d5f69619bbc
+    - name: fx_f3_sandportal_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 74d13e8c831c3f847b33fab10eaf7d78
+    - name: fx_f3_sandportal_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 4b42cb3647d898146a3fa626df86b9ca
+    - name: fx_f3_sandportal_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 081658e1853031a43ad16568dea6da4f
+    - name: fx_f3_sandportal_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: f73aed57d97173e43a66a7224d9df5df
+    - name: fx_f3_sandportal_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 9f8a549b1b7d31f4087639312ea36ab0
+    - name: fx_f3_sandportal_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: a8c304d9199704644bdacb87da5f0a7f
+    - name: fx_f3_sandportal_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 2f26b477e60af1c4293c3126dc8fc967
+    - name: fx_f3_sandportal_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: c5f6a07dc10eb124f93a58d4876384c9
+    - name: fx_f3_sandportal_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 4c0d632dff1c33946b68f772aa009f2e
+    - name: fx_f3_sandportal_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 4f03c9088e0b1524fa5efb859df912ad
+    - name: fx_f3_sandportal_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: f60a68fd4c56e4d4597a77b3e6254253
+    - name: fx_f3_sandportal_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 3191cef9be96480439d214a62af2ddf7
+    - name: fx_f3_sandportal_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 8949caa794aa7d64aba5a30b3018af5e
+    - name: fx_f3_sandportal_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 39c3b27e72ff47a4c97191f410b6c8f3
+    - name: fx_f3_sandportal_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: aa21e2d3a93efbe41b0b1410f291f920
+    - name: fx_f3_sandportal_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 911580dc163698145adbd389db645303
+    - name: fx_f3_sandportal_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 8992c14475a78c4409634010a94d29a6
+    - name: fx_f3_sandportal_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: 2c1da2c92b4143e4286d3dfa7482099c
+    - name: fx_f3_sandportal_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: ac63adc2ba6045c4097ad4d3de854447
+    - name: fx_f3_sandportal_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      spriteId: f03f43f0b91976249845bf08a32490df
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 150, y: 150}

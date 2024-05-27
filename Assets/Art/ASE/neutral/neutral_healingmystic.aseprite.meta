@@ -1,0 +1,2167 @@
+fileFormatVersion: 2
+guid: c41620955e7e0724f802ab497d03d8ae
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_healingmystic_Frame_0
+    originalName: 
+    pivot: {x: 0.71999997, y: -0.59999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 4
+      width: 50
+      height: 30
+    spriteID: 9fb0290d7d1f70343b81a1181aa824f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: -14}
+  - name: neutral_healingmystic_Frame_1
+    originalName: 
+    pivot: {x: 0.7, y: -0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 922
+      width: 50
+      height: 32
+    spriteID: 5007d34643edb9546a6f420121353bb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 905}
+  - name: neutral_healingmystic_Frame_2
+    originalName: 
+    pivot: {x: 0.7, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 962
+      width: 50
+      height: 32
+    spriteID: e4e6a779372d90d46b5b3d29945499b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 944}
+  - name: neutral_healingmystic_Frame_3
+    originalName: 
+    pivot: {x: 0.7, y: -0.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 881
+      width: 50
+      height: 33
+    spriteID: 7e93d65b1cba2fb499c2b18778fddc20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 863}
+  - name: neutral_healingmystic_Frame_4
+    originalName: 
+    pivot: {x: 0.7058823, y: -0.6551724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 4
+      width: 51
+      height: 29
+    spriteID: 1c15c3092a878dd4cb81e26ca3abfd70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: -15}
+  - name: neutral_healingmystic_Frame_5
+    originalName: 
+    pivot: {x: 0.7083334, y: -0.6551724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 114
+      width: 48
+      height: 29
+    spriteID: 31c32a5a3e82f7342bb729765ae7eace
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 95}
+  - name: neutral_healingmystic_Frame_6
+    originalName: 
+    pivot: {x: 0.7, y: -0.6785714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 42
+      width: 50
+      height: 28
+    spriteID: 1d7b3e53f07a81447aaf17c258b25907
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 23}
+  - name: neutral_healingmystic_Frame_7
+    originalName: 
+    pivot: {x: 0.71999997, y: -0.6785714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 78
+      width: 50
+      height: 28
+    spriteID: 39b32940c36278741a0c85265636303b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 59}
+  - name: neutral_healingmystic_Frame_8
+    originalName: 
+    pivot: {x: 0.53125, y: -0.3272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 322
+      width: 64
+      height: 55
+    spriteID: 75c4989f8a6558c49bd0c7343da2ab46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 304}
+  - name: neutral_healingmystic_Frame_9
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.3653846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 758
+      width: 66
+      height: 52
+    spriteID: 45246881485632a4ba921c9f3df6428c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 739}
+  - name: neutral_healingmystic_Frame_10
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 878
+      width: 65
+      height: 52
+    spriteID: 6638c395e79ebe94cb4e2298ea0eb50e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 858}
+  - name: neutral_healingmystic_Frame_11
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.3773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 697
+      width: 65
+      height: 53
+    spriteID: 807b5cd1322cdf14cb7767f55c12542f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 677}
+  - name: neutral_healingmystic_Frame_12
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.34545454}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 134
+      width: 65
+      height: 55
+    spriteID: da1ae01365e32ca47b12db79d17f6332
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 115}
+  - name: neutral_healingmystic_Frame_13
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.32142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 645
+      width: 65
+      height: 56
+    spriteID: e72cc420d221df84f8ee734477d9c722
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 627}
+  - name: neutral_healingmystic_Frame_14
+    originalName: 
+    pivot: {x: 0.515625, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 70
+      width: 64
+      height: 56
+    spriteID: b7a06249055a94c488a0188bcfbf81d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 53}
+  - name: neutral_healingmystic_Frame_15
+    originalName: 
+    pivot: {x: 0.530303, y: -0.3272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 773
+      width: 66
+      height: 55
+    spriteID: 07102bc014e2bb243bc787f2ea8ae997
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 755}
+  - name: neutral_healingmystic_Frame_16
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3653846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 65
+      width: 67
+      height: 52
+    spriteID: 11d884460e0691c47bdce4dc06207116
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 46}
+  - name: neutral_healingmystic_Frame_17
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 125
+      width: 67
+      height: 52
+    spriteID: 0bd26c4a22229684b8386b62a2417608
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 105}
+  - name: neutral_healingmystic_Frame_18
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 4
+      width: 67
+      height: 53
+    spriteID: 55e068c0977181d4d90399ae6aaec0d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: -16}
+  - name: neutral_healingmystic_Frame_19
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.34545454}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 519
+      width: 67
+      height: 55
+    spriteID: c9aa4a5f716293d46b750e97579d983c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 500}
+  - name: neutral_healingmystic_Frame_20
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.32142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 4
+      width: 67
+      height: 56
+    spriteID: 8859185d92a275543b156b0aed7e6983
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: -14}
+  - name: neutral_healingmystic_Frame_21
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 263
+      width: 66
+      height: 56
+    spriteID: 47104d7c6a28a6949845fd8d896161a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 246}
+  - name: neutral_healingmystic_Frame_22
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.40816325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 653
+      width: 58
+      height: 49
+    spriteID: c6cc7a50ed8bcae4dadcb445858def77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 633}
+  - name: neutral_healingmystic_Frame_23
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.38775507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 710
+      width: 58
+      height: 49
+    spriteID: ba7d479aa094cc14ea9e3f9df4c245de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 691}
+  - name: neutral_healingmystic_Frame_24
+    originalName: 
+    pivot: {x: 0.54237294, y: -0.35294116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 430
+      width: 59
+      height: 51
+    spriteID: 4c8e6dbf16ceea74b90f98bf5beb9f9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 412}
+  - name: neutral_healingmystic_Frame_25
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.40816325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 767
+      width: 58
+      height: 49
+    spriteID: 9ae85c52f3099444bb2b1ac6a385a2c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 747}
+  - name: neutral_healingmystic_Frame_26
+    originalName: 
+    pivot: {x: 0.5344828, y: -0.38775507}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 824
+      width: 58
+      height: 49
+    spriteID: d0549b527bb04a541aa33a6d038c0b3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 805}
+  - name: neutral_healingmystic_Frame_27
+    originalName: 
+    pivot: {x: 0.54237294, y: -0.35294116}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 489
+      width: 59
+      height: 51
+    spriteID: 2e5feec4b0ec9164bac7b377de4bee24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 471}
+  - name: neutral_healingmystic_Frame_28
+    originalName: 
+    pivot: {x: 0.5322581, y: -0.34615383}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 370
+      width: 62
+      height: 52
+    spriteID: dda00eb3ce256904cae23cef8d108859
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 352}
+  - name: neutral_healingmystic_Frame_29
+    originalName: 
+    pivot: {x: 0.53125, y: -0.31481484}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 635
+      width: 64
+      height: 54
+    spriteID: 65cc0ef67cff0954d8a1e903fdc89e9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 618}
+  - name: neutral_healingmystic_Frame_30
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 938
+      width: 65
+      height: 52
+    spriteID: 192a712cf135cf64a9fda9b3d82f5415
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 918}
+  - name: neutral_healingmystic_Frame_31
+    originalName: 
+    pivot: {x: 0.5373134, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 582
+      width: 67
+      height: 55
+    spriteID: d2024726e4dab80479168b9925752d7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 562}
+  - name: neutral_healingmystic_Frame_32
+    originalName: 
+    pivot: {x: 0.5507246, y: -0.3508772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 800
+      width: 69
+      height: 57
+    spriteID: 5c4c92a3f8a72cd43a4dfcae28284e11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -13, y: 780}
+  - name: neutral_healingmystic_Frame_33
+    originalName: 
+    pivot: {x: 0.55714285, y: -0.33898306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 523
+      width: 70
+      height: 59
+    spriteID: e402914d8ec826e4c836d838888fdad2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 503}
+  - name: neutral_healingmystic_Frame_34
+    originalName: 
+    pivot: {x: 0.5633803, y: -0.3114754}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 379
+      width: 71
+      height: 61
+    spriteID: 3f2609f239107244bb77237e9405ac05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 360}
+  - name: neutral_healingmystic_Frame_35
+    originalName: 
+    pivot: {x: 0.56164384, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 230
+      width: 73
+      height: 64
+    spriteID: 1c202c97685748f43adfcf2f8371a0ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 212}
+  - name: neutral_healingmystic_Frame_36
+    originalName: 
+    pivot: {x: 0.56164384, y: -0.25757575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 156
+      width: 73
+      height: 66
+    spriteID: bbadda4f1dc0c114ab16b7a47fb69267
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 139}
+  - name: neutral_healingmystic_Frame_37
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 81
+      width: 72
+      height: 67
+    spriteID: db255b69bd5f2214eb1a9d9ce2e59bf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 64}
+  - name: neutral_healingmystic_Frame_38
+    originalName: 
+    pivot: {x: 0.6724138, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 724
+      width: 58
+      height: 68
+    spriteID: db6f56be8b711a94d957cf729c214830
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -12, y: 707}
+  - name: neutral_healingmystic_Frame_39
+    originalName: 
+    pivot: {x: 0.4583333, y: -0.9444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 998
+      width: 24
+      height: 18
+    spriteID: 50deee2608c192c499a374fcae712800
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 981}
+  - name: neutral_healingmystic_Frame_40
+    originalName: 
+    pivot: {x: 0.5384615, y: -0.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 385
+      width: 65
+      height: 54
+    spriteID: b014a7d4e92cdfa40a9edd277e2b2de2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 365}
+  - name: neutral_healingmystic_Frame_41
+    originalName: 
+    pivot: {x: 0.5384615, y: -0.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 447
+      width: 65
+      height: 54
+    spriteID: 32208f8d98473f04196c29d673e4c477
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 427}
+  - name: neutral_healingmystic_Frame_42
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 899
+      width: 67
+      height: 54
+    spriteID: fb1446d88c9d61248a7708c9d8f348e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 879}
+  - name: neutral_healingmystic_Frame_43
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 961
+      width: 67
+      height: 54
+    spriteID: 6bed16dc5926c2a469749c8063271e63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 941}
+  - name: neutral_healingmystic_Frame_44
+    originalName: 
+    pivot: {x: 0.530303, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 818
+      width: 66
+      height: 52
+    spriteID: 20de6a3e55a83c24788e5b32c82f529c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 798}
+  - name: neutral_healingmystic_Frame_45
+    originalName: 
+    pivot: {x: 0.530303, y: -0.35849056}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 509
+      width: 66
+      height: 53
+    spriteID: 9e86561657a29bf4db17d27c6506a5a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 490}
+  - name: neutral_healingmystic_Frame_46
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.3272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 197
+      width: 65
+      height: 55
+    spriteID: 8ac6d8725b278f64694beab0586534d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 179}
+  - name: neutral_healingmystic_Frame_47
+    originalName: 
+    pivot: {x: 0.52307695, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 709
+      width: 65
+      height: 56
+    spriteID: 1838b79be4901ca42ba05d39bec35902
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 692}
+  - name: neutral_healingmystic_Frame_48
+    originalName: 
+    pivot: {x: 0.530303, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 327
+      width: 66
+      height: 56
+    spriteID: 54e934203161cff40a3da6daa390b0cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 310}
+  - name: neutral_healingmystic_Frame_49
+    originalName: 
+    pivot: {x: 0.530303, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 391
+      width: 66
+      height: 56
+    spriteID: 8dfce6497ab5c6b40a2370f952255127
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 374}
+  - name: neutral_healingmystic_Frame_50
+    originalName: 
+    pivot: {x: 0.530303, y: -0.29310346}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 935
+      width: 66
+      height: 58
+    spriteID: 425f731a1d5b14a4ebf592aae9215aba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -16, y: 918}
+  - name: neutral_healingmystic_Frame_51
+    originalName: 
+    pivot: {x: 0.530303, y: -0.29310346}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 66
+      height: 58
+    spriteID: 5ebf6a3a4bf34bd42a4f0bcd8da78bdf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: -13}
+  - name: neutral_healingmystic_Frame_52
+    originalName: 
+    pivot: {x: 0.530303, y: -0.3272727}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 836
+      width: 66
+      height: 55
+    spriteID: f4453c9c5d4c5364e91fd575902429d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 818}
+  - name: neutral_healingmystic_Frame_53
+    originalName: 
+    pivot: {x: 0.530303, y: -0.35185188}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 260
+      width: 66
+      height: 54
+    spriteID: 1297ec319bc048e4ab7a69bf4538f265
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 241}
+  - name: neutral_healingmystic_Frame_54
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 455
+      width: 66
+      height: 56
+    spriteID: e32ae23175f6ac14c8ee1d35b4093c6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 438}
+  - name: neutral_healingmystic_Frame_55
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.32142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 68
+      width: 67
+      height: 56
+    spriteID: 0924fb8353e5cbf41ae0c050c32c3a9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 50}
+  - name: neutral_healingmystic_Frame_56
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3392857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 132
+      width: 67
+      height: 56
+    spriteID: b2ef0cccd58ac514a9bf5e81e5c1d63a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 113}
+  - name: neutral_healingmystic_Frame_57
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 185
+      width: 67
+      height: 52
+    spriteID: 16d940e49ad3b824382ff30970e5c6d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 165}
+  - name: neutral_healingmystic_Frame_58
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.40384614}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 245
+      width: 67
+      height: 52
+    spriteID: 2f53cb362772a3c4db208c568f8abde7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 224}
+  - name: neutral_healingmystic_Frame_59
+    originalName: 
+    pivot: {x: 0.52238804, y: -0.54545456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 548
+      width: 67
+      height: 44
+    spriteID: b635b556666899b4f8e4691e7f2ad35e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 524}
+  - name: neutral_healingmystic_Frame_60
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 600
+      width: 64
+      height: 45
+    spriteID: 13b35a167b828e3458e236fcd468bb47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 575}
+  - name: neutral_healingmystic_Frame_61
+    originalName: 
+    pivot: {x: 0.38095242, y: -0.14492753}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 84
+      height: 69
+    spriteID: 0dea359089c63d549aece015c6f2d483
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: -6}
+  - name: neutral_healingmystic_Frame_62
+    originalName: 
+    pivot: {x: 0.16949153, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 305
+      width: 59
+      height: 57
+    spriteID: 3d25b62033afbbb4ba311ea341828229
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 296}
+  - name: neutral_healingmystic_Frame_63
+    originalName: 
+    pivot: {x: 0.147541, y: -0.12280702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 570
+      width: 61
+      height: 57
+    spriteID: fd26e7812bef4a641b676c17962d370f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 563}
+  - name: neutral_healingmystic_Frame_64
+    originalName: 
+    pivot: {x: 0.15873016, y: -0.10169492}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 196
+      width: 63
+      height: 59
+    spriteID: c7d4743cfa6091747bce6f30cb3f7220
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 190}
+  - name: neutral_healingmystic_Frame_65
+    originalName: 
+    pivot: {x: 0.14285716, y: -0.08064517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 865
+      width: 63
+      height: 62
+    spriteID: 6fdea7e14c482f44c9e62a8a2a33c4d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -42, y: 860}
+  - name: neutral_healingmystic_Frame_66
+    originalName: 
+    pivot: {x: 0.15625, y: -0.062499996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 590
+      width: 64
+      height: 64
+    spriteID: 1ea8f9110111fbb4b8435aaadb692e57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -41, y: 586}
+  - name: neutral_healingmystic_Frame_67
+    originalName: 
+    pivot: {x: 0.16129033, y: -0.029850744}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 448
+      width: 62
+      height: 67
+    spriteID: 851884868d91fd547828bf7dbeda1687
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -41, y: 446}
+  - name: neutral_healingmystic_Frame_68
+    originalName: 
+    pivot: {x: 0.15625, y: -0.014492753}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 302
+      width: 64
+      height: 69
+    spriteID: 4951a65184a1dcc4c99713e11418db6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -41, y: 301}
+  - name: neutral_healingmystic_Frame_69
+    originalName: 
+    pivot: {x: 0.26666668, y: -0.31481484}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 662
+      width: 75
+      height: 54
+    spriteID: 6941fcff18880454f848de20c4b322fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -31, y: 645}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -840836209
+    name: neutral_healingmystic
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_healingmystic_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9fb0290d7d1f70343b81a1181aa824f1
+    - name: neutral_healingmystic_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 5007d34643edb9546a6f420121353bb9
+    - name: neutral_healingmystic_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e4e6a779372d90d46b5b3d29945499b6
+    - name: neutral_healingmystic_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 7e93d65b1cba2fb499c2b18778fddc20
+    - name: neutral_healingmystic_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1c15c3092a878dd4cb81e26ca3abfd70
+    - name: neutral_healingmystic_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 31c32a5a3e82f7342bb729765ae7eace
+    - name: neutral_healingmystic_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1d7b3e53f07a81447aaf17c258b25907
+    - name: neutral_healingmystic_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 39b32940c36278741a0c85265636303b
+    - name: neutral_healingmystic_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 75c4989f8a6558c49bd0c7343da2ab46
+    - name: neutral_healingmystic_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 45246881485632a4ba921c9f3df6428c
+    - name: neutral_healingmystic_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6638c395e79ebe94cb4e2298ea0eb50e
+    - name: neutral_healingmystic_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 807b5cd1322cdf14cb7767f55c12542f
+    - name: neutral_healingmystic_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: da1ae01365e32ca47b12db79d17f6332
+    - name: neutral_healingmystic_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e72cc420d221df84f8ee734477d9c722
+    - name: neutral_healingmystic_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b7a06249055a94c488a0188bcfbf81d8
+    - name: neutral_healingmystic_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 07102bc014e2bb243bc787f2ea8ae997
+    - name: neutral_healingmystic_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 11d884460e0691c47bdce4dc06207116
+    - name: neutral_healingmystic_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0bd26c4a22229684b8386b62a2417608
+    - name: neutral_healingmystic_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 55e068c0977181d4d90399ae6aaec0d7
+    - name: neutral_healingmystic_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: c9aa4a5f716293d46b750e97579d983c
+    - name: neutral_healingmystic_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 8859185d92a275543b156b0aed7e6983
+    - name: neutral_healingmystic_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 47104d7c6a28a6949845fd8d896161a4
+    - name: neutral_healingmystic_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: c6cc7a50ed8bcae4dadcb445858def77
+    - name: neutral_healingmystic_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: ba7d479aa094cc14ea9e3f9df4c245de
+    - name: neutral_healingmystic_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 4c8e6dbf16ceea74b90f98bf5beb9f9b
+    - name: neutral_healingmystic_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9ae85c52f3099444bb2b1ac6a385a2c3
+    - name: neutral_healingmystic_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: d0549b527bb04a541aa33a6d038c0b3b
+    - name: neutral_healingmystic_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 2e5feec4b0ec9164bac7b377de4bee24
+    - name: neutral_healingmystic_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: dda00eb3ce256904cae23cef8d108859
+    - name: neutral_healingmystic_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 65cc0ef67cff0954d8a1e903fdc89e9e
+    - name: neutral_healingmystic_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 192a712cf135cf64a9fda9b3d82f5415
+    - name: neutral_healingmystic_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: d2024726e4dab80479168b9925752d7d
+    - name: neutral_healingmystic_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 5c4c92a3f8a72cd43a4dfcae28284e11
+    - name: neutral_healingmystic_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e402914d8ec826e4c836d838888fdad2
+    - name: neutral_healingmystic_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 3f2609f239107244bb77237e9405ac05
+    - name: neutral_healingmystic_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1c202c97685748f43adfcf2f8371a0ad
+    - name: neutral_healingmystic_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: bbadda4f1dc0c114ab16b7a47fb69267
+    - name: neutral_healingmystic_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: db255b69bd5f2214eb1a9d9ce2e59bf2
+    - name: neutral_healingmystic_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: db6f56be8b711a94d957cf729c214830
+    - name: neutral_healingmystic_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 50deee2608c192c499a374fcae712800
+    - name: neutral_healingmystic_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b014a7d4e92cdfa40a9edd277e2b2de2
+    - name: neutral_healingmystic_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 32208f8d98473f04196c29d673e4c477
+    - name: neutral_healingmystic_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: fb1446d88c9d61248a7708c9d8f348e8
+    - name: neutral_healingmystic_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6bed16dc5926c2a469749c8063271e63
+    - name: neutral_healingmystic_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 20de6a3e55a83c24788e5b32c82f529c
+    - name: neutral_healingmystic_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9e86561657a29bf4db17d27c6506a5a0
+    - name: neutral_healingmystic_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 8ac6d8725b278f64694beab0586534d5
+    - name: neutral_healingmystic_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1838b79be4901ca42ba05d39bec35902
+    - name: neutral_healingmystic_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 54e934203161cff40a3da6daa390b0cd
+    - name: neutral_healingmystic_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 8dfce6497ab5c6b40a2370f952255127
+    - name: neutral_healingmystic_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 425f731a1d5b14a4ebf592aae9215aba
+    - name: neutral_healingmystic_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 5ebf6a3a4bf34bd42a4f0bcd8da78bdf
+    - name: neutral_healingmystic_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f4453c9c5d4c5364e91fd575902429d7
+    - name: neutral_healingmystic_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1297ec319bc048e4ab7a69bf4538f265
+    - name: neutral_healingmystic_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e32ae23175f6ac14c8ee1d35b4093c6c
+    - name: neutral_healingmystic_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0924fb8353e5cbf41ae0c050c32c3a9c
+    - name: neutral_healingmystic_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b2ef0cccd58ac514a9bf5e81e5c1d63a
+    - name: neutral_healingmystic_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 16d940e49ad3b824382ff30970e5c6d6
+    - name: neutral_healingmystic_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 2f53cb362772a3c4db208c568f8abde7
+    - name: neutral_healingmystic_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b635b556666899b4f8e4691e7f2ad35e
+    - name: neutral_healingmystic_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 13b35a167b828e3458e236fcd468bb47
+    - name: neutral_healingmystic_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0dea359089c63d549aece015c6f2d483
+    - name: neutral_healingmystic_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 3d25b62033afbbb4ba311ea341828229
+    - name: neutral_healingmystic_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: fd26e7812bef4a641b676c17962d370f
+    - name: neutral_healingmystic_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: c7d4743cfa6091747bce6f30cb3f7220
+    - name: neutral_healingmystic_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6fdea7e14c482f44c9e62a8a2a33c4d2
+    - name: neutral_healingmystic_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1ea8f9110111fbb4b8435aaadb692e57
+    - name: neutral_healingmystic_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 851884868d91fd547828bf7dbeda1687
+    - name: neutral_healingmystic_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 4951a65184a1dcc4c99713e11418db6e
+    - name: neutral_healingmystic_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6941fcff18880454f848de20c4b322fb
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 110, y: 110}

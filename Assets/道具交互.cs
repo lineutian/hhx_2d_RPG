@@ -11,7 +11,7 @@ public class 道具交互 : MonoBehaviour
     
     void Start()
     {
-        mianban=GameObject.Find("beibao").transform.Find("面板").gameObject;
+        mianban = UIController.Instance.ItemPanel;
         id = Int32.Parse(name);
     }
 
@@ -20,7 +20,8 @@ public class 道具交互 : MonoBehaviour
         mianban.SetActive(true);
         mianban.transform.GetChild(0).GetComponent<Text>().text = ItemController.Instance.GetItemFormID(id).Index;
         mianban.transform.GetChild(0).name = id.ToString();
-        mianban.transform.GetChild(1).GetComponent<Text>().text = ItemController.Instance.GetItemFormID(id).DescribeIndex
+        if(equipController.Instance.EquipIDLib.ContainsKey(id))
+            mianban.transform.GetChild(1).GetComponent<Text>().text = ItemController.Instance.GetItemFormID(id).DescribeIndex
                                                                     +"\nLV:"
                                                                     +equipController.Instance.GetEquipFormID(id).EquipData.LV
                                                                     +"\nATK:"

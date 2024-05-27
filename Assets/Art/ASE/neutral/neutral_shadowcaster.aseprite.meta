@@ -1,0 +1,1790 @@
+fileFormatVersion: 2
+guid: e739bb3acc33e2c4fa810ce4590c1cec
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_shadowcaster_Frame_0
+    originalName: 
+    pivot: {x: 0.52, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 4
+      width: 25
+      height: 25
+    spriteID: 5227cb526bda51644a31f6acc447a2a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: -13}
+  - name: neutral_shadowcaster_Frame_1
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.74999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 4
+      width: 26
+      height: 24
+    spriteID: 0db30afa533d5f343862f01b8d601975
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: -14}
+  - name: neutral_shadowcaster_Frame_2
+    originalName: 
+    pivot: {x: 0.47826082, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 37
+      width: 23
+      height: 26
+    spriteID: 54c3377fcd046274e9ca9d0ef0ff91bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 21}
+  - name: neutral_shadowcaster_Frame_3
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.74999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 159
+      width: 28
+      height: 24
+    spriteID: c07d41b1482988e4ea3805b032396760
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12, y: 141}
+  - name: neutral_shadowcaster_Frame_4
+    originalName: 
+    pivot: {x: 0.55172414, y: -0.74999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 127
+      width: 29
+      height: 24
+    spriteID: 5917d36e696828f4ca125262d053a50d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 13, y: 109}
+  - name: neutral_shadowcaster_Frame_5
+    originalName: 
+    pivot: {x: 0.47826082, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 71
+      width: 23
+      height: 26
+    spriteID: 95bec2bc092565d4aa314ebed6d5ec68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 55}
+  - name: neutral_shadowcaster_Frame_6
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 21
+      height: 32
+    spriteID: d88251ea2c4bacb489b5106f48baa4c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 435}
+  - name: neutral_shadowcaster_Frame_7
+    originalName: 
+    pivot: {x: 0.54999995, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 431
+      width: 20
+      height: 33
+    spriteID: 075ed04c7a4e53042ad7b38ff0293d91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8, y: 415}
+  - name: neutral_shadowcaster_Frame_8
+    originalName: 
+    pivot: {x: 0.54999995, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 355
+      width: 20
+      height: 31
+    spriteID: 551457cb9a44c664abc1791c6ac23f2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 339}
+  - name: neutral_shadowcaster_Frame_9
+    originalName: 
+    pivot: {x: 0.54999995, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 472
+      width: 20
+      height: 33
+    spriteID: 6d283123db4fef348953ff6b901ba3d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8, y: 456}
+  - name: neutral_shadowcaster_Frame_10
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 287
+      width: 21
+      height: 33
+    spriteID: 438a83c23c7c73a41bcf2bad7aa2397f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 271}
+  - name: neutral_shadowcaster_Frame_11
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 165
+      width: 21
+      height: 34
+    spriteID: 537ae60fd0b2208419023468d96e8c74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 149}
+  - name: neutral_shadowcaster_Frame_12
+    originalName: 
+    pivot: {x: 0.54999995, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 207
+      width: 20
+      height: 35
+    spriteID: d4b0b01cba7627b43809b32e664d9393
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -25, y: 191}
+  - name: neutral_shadowcaster_Frame_13
+    originalName: 
+    pivot: {x: 0.54999995, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 199
+      width: 20
+      height: 32
+    spriteID: 9c839fef26686b54995a0e2be0110062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 183}
+  - name: neutral_shadowcaster_Frame_14
+    originalName: 
+    pivot: {x: 0.54999995, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 239
+      width: 20
+      height: 32
+    spriteID: 7c491baaecaf46e47849a552beccf225
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 223}
+  - name: neutral_shadowcaster_Frame_15
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 279
+      width: 21
+      height: 30
+    spriteID: ad1a9f9f65d27fa4080d0800f1534484
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 263}
+  - name: neutral_shadowcaster_Frame_16
+    originalName: 
+    pivot: {x: 0.6190476, y: -0.60714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 190
+      width: 21
+      height: 28
+    spriteID: 1a26bfffd8935f54e9c83b93d2a9086f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 173}
+  - name: neutral_shadowcaster_Frame_17
+    originalName: 
+    pivot: {x: 0.59090906, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 4
+      width: 22
+      height: 29
+    spriteID: 39aae7df97792894f8264b3685445ef6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: -12}
+  - name: neutral_shadowcaster_Frame_18
+    originalName: 
+    pivot: {x: 0.56000006, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 127
+      width: 25
+      height: 30
+    spriteID: 1efe12e3d10815f4298b45c6d5e3927c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 111}
+  - name: neutral_shadowcaster_Frame_19
+    originalName: 
+    pivot: {x: 0.6190476, y: -0.60714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 226
+      width: 21
+      height: 28
+    spriteID: 5c4f2587b0921214f9ad5188e698f34f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 209}
+  - name: neutral_shadowcaster_Frame_20
+    originalName: 
+    pivot: {x: 0.59090906, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 41
+      width: 22
+      height: 29
+    spriteID: acdc49c43e013f846b5fdc7c1df8aaa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 25}
+  - name: neutral_shadowcaster_Frame_21
+    originalName: 
+    pivot: {x: 0.70000005, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 431
+      width: 20
+      height: 30
+    spriteID: 03c15482ae0bb3045b837e36feb707dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 415}
+  - name: neutral_shadowcaster_Frame_22
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 376
+      width: 18
+      height: 28
+    spriteID: 49be217531af5804fb04598fdddedd90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 360}
+  - name: neutral_shadowcaster_Frame_23
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 195
+      width: 18
+      height: 20
+    spriteID: 3101cdd4c61e97344b30dd03d9f51314
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 179}
+  - name: neutral_shadowcaster_Frame_24
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.7619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 137
+      width: 18
+      height: 21
+    spriteID: 65e907350290e914a945f0631af12512
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 121}
+  - name: neutral_shadowcaster_Frame_25
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 105
+      width: 18
+      height: 24
+    spriteID: bc37b17a337bbaf418f91701e258e7cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 89}
+  - name: neutral_shadowcaster_Frame_26
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.64000005}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 481
+      width: 18
+      height: 25
+    spriteID: 21863d8bed851f441bab2427902968c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 465}
+  - name: neutral_shadowcaster_Frame_27
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 447
+      width: 18
+      height: 26
+    spriteID: fb853298f9974614dbb6f47c62e28e7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 431}
+  - name: neutral_shadowcaster_Frame_28
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 412
+      width: 18
+      height: 27
+    spriteID: f4599004a5cc76048b64b7621676aad2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 396}
+  - name: neutral_shadowcaster_Frame_29
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.7619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 166
+      width: 18
+      height: 21
+    spriteID: a5dc6af7dab941245bac9d039588fc8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 150}
+  - name: neutral_shadowcaster_Frame_30
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 191
+      width: 21
+      height: 32
+    spriteID: dc1025375e9895b46ae8a8b90cd48974
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 175}
+  - name: neutral_shadowcaster_Frame_31
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 328
+      width: 21
+      height: 33
+    spriteID: f338c047e88864343a4fffc9a25060a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 312}
+  - name: neutral_shadowcaster_Frame_32
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 4
+      width: 21
+      height: 31
+    spriteID: 67944e0a9b80b40448dece43aa273cb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: -12}
+  - name: neutral_shadowcaster_Frame_33
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 231
+      width: 21
+      height: 32
+    spriteID: 53e38ada37aa3a24fb2a4d06fe9862d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 215}
+  - name: neutral_shadowcaster_Frame_34
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 43
+      width: 21
+      height: 31
+    spriteID: 6ddcdf38063e67a419db5c5eff66135a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 27}
+  - name: neutral_shadowcaster_Frame_35
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 271
+      width: 21
+      height: 32
+    spriteID: 49b53c2d5f7c4e1468d9427042e66414
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 255}
+  - name: neutral_shadowcaster_Frame_36
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 369
+      width: 21
+      height: 33
+    spriteID: 0ac52c0ddc97a4a4dbba9c4d2ef396ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 353}
+  - name: neutral_shadowcaster_Frame_37
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 82
+      width: 21
+      height: 31
+    spriteID: 4de25f290433a2744a7481e72bc1f0f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 66}
+  - name: neutral_shadowcaster_Frame_38
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 311
+      width: 21
+      height: 32
+    spriteID: b4a835844952e2c4c82c3dd068434435
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 295}
+  - name: neutral_shadowcaster_Frame_39
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 121
+      width: 21
+      height: 31
+    spriteID: 77562bae92e99a1499626670e18ee26b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 105}
+  - name: neutral_shadowcaster_Frame_40
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 351
+      width: 21
+      height: 32
+    spriteID: be061468946227c45a5a0fd463baf586
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 335}
+  - name: neutral_shadowcaster_Frame_41
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 410
+      width: 21
+      height: 33
+    spriteID: 85b82a387a116144996f4d17d6386595
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -24, y: 394}
+  - name: neutral_shadowcaster_Frame_42
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 160
+      width: 21
+      height: 31
+    spriteID: 39918320d95ae68498765146754bfc71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 144}
+  - name: neutral_shadowcaster_Frame_43
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 391
+      width: 21
+      height: 32
+    spriteID: d11e7800dbe50ac4ca53bbdcafcf8836
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 375}
+  - name: neutral_shadowcaster_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 469
+      width: 20
+      height: 30
+    spriteID: d9d43a483539cbc489a705379f0169f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 453}
+  - name: neutral_shadowcaster_Frame_45
+    originalName: 
+    pivot: {x: 0.57894737, y: -0.5666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 262
+      width: 19
+      height: 30
+    spriteID: 22efe2ebe5ad6e64399facb067deb046
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 245}
+  - name: neutral_shadowcaster_Frame_46
+    originalName: 
+    pivot: {x: 0.5882353, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 338
+      width: 17
+      height: 30
+    spriteID: 7829dddb1e65a834783219f80c4af54d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 320}
+  - name: neutral_shadowcaster_Frame_47
+    originalName: 
+    pivot: {x: 0.6, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 114
+      width: 20
+      height: 30
+    spriteID: 38f432e9e38c7384a980429f0c568e21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 94}
+  - name: neutral_shadowcaster_Frame_48
+    originalName: 
+    pivot: {x: 0.6, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 152
+      width: 20
+      height: 30
+    spriteID: 2f7c831a883355047955c4b9e07164dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 132}
+  - name: neutral_shadowcaster_Frame_49
+    originalName: 
+    pivot: {x: 0.5263158, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 300
+      width: 19
+      height: 30
+    spriteID: e3c1029890fa8d446a6a2d7c3041c465
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 280}
+  - name: neutral_shadowcaster_Frame_50
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.6333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 317
+      width: 21
+      height: 30
+    spriteID: 90c0c480f30567745bb9f54346969c71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 298}
+  - name: neutral_shadowcaster_Frame_51
+    originalName: 
+    pivot: {x: 0.5833334, y: -0.5862069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 250
+      width: 24
+      height: 29
+    spriteID: fe8f3ad7c5fbdea4fab7cab9a8c4ada8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 233}
+  - name: neutral_shadowcaster_Frame_52
+    originalName: 
+    pivot: {x: 0.5681818, y: -0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 87
+      width: 44
+      height: 32
+    spriteID: 0828b1635b58cda4494f330f8070fbbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -11, y: 72}
+  - name: neutral_shadowcaster_Frame_53
+    originalName: 
+    pivot: {x: 0.56363636, y: -0.42424244}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 46
+      width: 55
+      height: 33
+    spriteID: 7b080e1318289af44bb28e540bcc93fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -5, y: 32}
+  - name: neutral_shadowcaster_Frame_54
+    originalName: 
+    pivot: {x: 0.53968257, y: -0.4117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 63
+      height: 34
+    spriteID: 031ec53349fe4e644b60dbb1ebd7e920
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: -10}
+  - name: neutral_shadowcaster_Frame_55
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.67857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 78
+      width: 22
+      height: 28
+    spriteID: d62184c1ff169994297782750eb2a8c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 59}
+  - name: neutral_shadowcaster_Frame_56
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 394
+      width: 21
+      height: 29
+    spriteID: 290cb6786849166469e15e77216e912d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 378}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1158870434
+    name: neutral_shadowcaster
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_shadowcaster_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5227cb526bda51644a31f6acc447a2a3
+    - name: neutral_shadowcaster_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0db30afa533d5f343862f01b8d601975
+    - name: neutral_shadowcaster_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 54c3377fcd046274e9ca9d0ef0ff91bd
+    - name: neutral_shadowcaster_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c07d41b1482988e4ea3805b032396760
+    - name: neutral_shadowcaster_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5917d36e696828f4ca125262d053a50d
+    - name: neutral_shadowcaster_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 95bec2bc092565d4aa314ebed6d5ec68
+    - name: neutral_shadowcaster_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d88251ea2c4bacb489b5106f48baa4c3
+    - name: neutral_shadowcaster_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 075ed04c7a4e53042ad7b38ff0293d91
+    - name: neutral_shadowcaster_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 551457cb9a44c664abc1791c6ac23f2b
+    - name: neutral_shadowcaster_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6d283123db4fef348953ff6b901ba3d7
+    - name: neutral_shadowcaster_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 438a83c23c7c73a41bcf2bad7aa2397f
+    - name: neutral_shadowcaster_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 537ae60fd0b2208419023468d96e8c74
+    - name: neutral_shadowcaster_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d4b0b01cba7627b43809b32e664d9393
+    - name: neutral_shadowcaster_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9c839fef26686b54995a0e2be0110062
+    - name: neutral_shadowcaster_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7c491baaecaf46e47849a552beccf225
+    - name: neutral_shadowcaster_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ad1a9f9f65d27fa4080d0800f1534484
+    - name: neutral_shadowcaster_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1a26bfffd8935f54e9c83b93d2a9086f
+    - name: neutral_shadowcaster_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 39aae7df97792894f8264b3685445ef6
+    - name: neutral_shadowcaster_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1efe12e3d10815f4298b45c6d5e3927c
+    - name: neutral_shadowcaster_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5c4f2587b0921214f9ad5188e698f34f
+    - name: neutral_shadowcaster_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: acdc49c43e013f846b5fdc7c1df8aaa8
+    - name: neutral_shadowcaster_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 03c15482ae0bb3045b837e36feb707dd
+    - name: neutral_shadowcaster_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 49be217531af5804fb04598fdddedd90
+    - name: neutral_shadowcaster_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3101cdd4c61e97344b30dd03d9f51314
+    - name: neutral_shadowcaster_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 65e907350290e914a945f0631af12512
+    - name: neutral_shadowcaster_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bc37b17a337bbaf418f91701e258e7cc
+    - name: neutral_shadowcaster_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 21863d8bed851f441bab2427902968c4
+    - name: neutral_shadowcaster_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fb853298f9974614dbb6f47c62e28e7a
+    - name: neutral_shadowcaster_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f4599004a5cc76048b64b7621676aad2
+    - name: neutral_shadowcaster_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a5dc6af7dab941245bac9d039588fc8a
+    - name: neutral_shadowcaster_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dc1025375e9895b46ae8a8b90cd48974
+    - name: neutral_shadowcaster_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f338c047e88864343a4fffc9a25060a3
+    - name: neutral_shadowcaster_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 67944e0a9b80b40448dece43aa273cb1
+    - name: neutral_shadowcaster_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 53e38ada37aa3a24fb2a4d06fe9862d1
+    - name: neutral_shadowcaster_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6ddcdf38063e67a419db5c5eff66135a
+    - name: neutral_shadowcaster_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 49b53c2d5f7c4e1468d9427042e66414
+    - name: neutral_shadowcaster_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0ac52c0ddc97a4a4dbba9c4d2ef396ca
+    - name: neutral_shadowcaster_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4de25f290433a2744a7481e72bc1f0f8
+    - name: neutral_shadowcaster_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b4a835844952e2c4c82c3dd068434435
+    - name: neutral_shadowcaster_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 77562bae92e99a1499626670e18ee26b
+    - name: neutral_shadowcaster_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: be061468946227c45a5a0fd463baf586
+    - name: neutral_shadowcaster_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 85b82a387a116144996f4d17d6386595
+    - name: neutral_shadowcaster_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 39918320d95ae68498765146754bfc71
+    - name: neutral_shadowcaster_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d11e7800dbe50ac4ca53bbdcafcf8836
+    - name: neutral_shadowcaster_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d9d43a483539cbc489a705379f0169f1
+    - name: neutral_shadowcaster_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 22efe2ebe5ad6e64399facb067deb046
+    - name: neutral_shadowcaster_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7829dddb1e65a834783219f80c4af54d
+    - name: neutral_shadowcaster_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 38f432e9e38c7384a980429f0c568e21
+    - name: neutral_shadowcaster_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2f7c831a883355047955c4b9e07164dd
+    - name: neutral_shadowcaster_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e3c1029890fa8d446a6a2d7c3041c465
+    - name: neutral_shadowcaster_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 90c0c480f30567745bb9f54346969c71
+    - name: neutral_shadowcaster_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: fe8f3ad7c5fbdea4fab7cab9a8c4ada8
+    - name: neutral_shadowcaster_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0828b1635b58cda4494f330f8070fbbc
+    - name: neutral_shadowcaster_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7b080e1318289af44bb28e540bcc93fc
+    - name: neutral_shadowcaster_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 031ec53349fe4e644b60dbb1ebd7e920
+    - name: neutral_shadowcaster_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d62184c1ff169994297782750eb2a8c4
+    - name: neutral_shadowcaster_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 290cb6786849166469e15e77216e912d
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

@@ -1,0 +1,2834 @@
+fileFormatVersion: 2
+guid: 47f0c301c100f8b469553348384e2eb3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_thescientist_Frame_0
+    originalName: 
+    pivot: {x: 0.60714287, y: -0.4761905}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 74
+      width: 56
+      height: 63
+    spriteID: 4f49ae3f814a8f54cba683f6c4a3e8f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 44}
+  - name: neutral_thescientist_Frame_1
+    originalName: 
+    pivot: {x: 0.59259266, y: -0.44615382}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 154
+      width: 54
+      height: 65
+    spriteID: 3ade9487d7fad2345b8dded5d7bb2a3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 125}
+  - name: neutral_thescientist_Frame_2
+    originalName: 
+    pivot: {x: 0.6037736, y: -0.43076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 307
+      width: 53
+      height: 65
+    spriteID: 93e40e433b2e15d4f9238db1d9e1543a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 279}
+  - name: neutral_thescientist_Frame_3
+    originalName: 
+    pivot: {x: 0.59999996, y: -0.46031743}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 73
+      width: 50
+      height: 63
+    spriteID: 0eb8e969ea9839942ae41b8099958865
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 556, y: 44}
+  - name: neutral_thescientist_Frame_4
+    originalName: 
+    pivot: {x: 0.61538464, y: -0.4918033}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 4
+      width: 52
+      height: 61
+    spriteID: 1af858d04841003428afa458be60d4f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 558, y: -26}
+  - name: neutral_thescientist_Frame_5
+    originalName: 
+    pivot: {x: 0.60784316, y: -0.4754098}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 144
+      width: 51
+      height: 61
+    spriteID: 18612a1af02250d4b97a0e9aea3a12d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 557, y: 115}
+  - name: neutral_thescientist_Frame_6
+    originalName: 
+    pivot: {x: 0.61538464, y: -0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 907
+      width: 52
+      height: 63
+    spriteID: 04a0cbc6d1a83344cb2b542920bfe15d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 879}
+  - name: neutral_thescientist_Frame_7
+    originalName: 
+    pivot: {x: 0.6226415, y: -0.46031743}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 145
+      width: 53
+      height: 63
+    spriteID: fd8c111ba98d3c2489a919a30978dde4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 380, y: 116}
+  - name: neutral_thescientist_Frame_8
+    originalName: 
+    pivot: {x: 0.3125, y: -0.33846155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 918
+      width: 48
+      height: 65
+    spriteID: fc2e9dbb178896f46ac976f14c5e5a66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 896}
+  - name: neutral_thescientist_Frame_9
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.29850745}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 832
+      width: 49
+      height: 67
+    spriteID: 07d7f11be63503d4aa6a88322adf2a9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 812}
+  - name: neutral_thescientist_Frame_10
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.26470587}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 295
+      width: 49
+      height: 68
+    spriteID: a16e034ab382ac440ab516cadda2a8d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 277}
+  - name: neutral_thescientist_Frame_11
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 371
+      width: 49
+      height: 68
+    spriteID: 4cae7e535b340564cae1c4419c2e34fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 354}
+  - name: neutral_thescientist_Frame_12
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 852
+      width: 49
+      height: 69
+    spriteID: 11bdbaa04571bcf4280e0d307b8627ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 836}
+  - name: neutral_thescientist_Frame_13
+    originalName: 
+    pivot: {x: 0.33333337, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 4
+      width: 48
+      height: 68
+    spriteID: 52eb2f5da73884245bd894416126f8e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 429, y: -12}
+  - name: neutral_thescientist_Frame_14
+    originalName: 
+    pivot: {x: 0.3191489, y: -0.2352941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 842
+      width: 47
+      height: 68
+    spriteID: 06af7aa4358684a4ab6b7fdd80a92fcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 826}
+  - name: neutral_thescientist_Frame_15
+    originalName: 
+    pivot: {x: 0.3125, y: -0.25373134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 767
+      width: 48
+      height: 67
+    spriteID: 87393f364bc33a54abe9a02fb45391c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 750}
+  - name: neutral_thescientist_Frame_16
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 447
+      width: 49
+      height: 68
+    spriteID: 078a5116b26eeef4fa29ff8bfaebaac8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 430}
+  - name: neutral_thescientist_Frame_17
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.28787878}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 4
+      width: 49
+      height: 66
+    spriteID: 02d6adb7c0dd8c84795b8654fe63a694
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: -15}
+  - name: neutral_thescientist_Frame_18
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.32307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 78
+      width: 49
+      height: 65
+    spriteID: 3e9723112b166b94988dde3b0529a22c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 57}
+  - name: neutral_thescientist_Frame_19
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.33846155}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 151
+      width: 49
+      height: 65
+    spriteID: d2a404e3c4f22d74988a9170a95f5e4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 129}
+  - name: neutral_thescientist_Frame_20
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.359375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 297
+      width: 49
+      height: 64
+    spriteID: 073819b3ce8b35946a1fa64125dd7913
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 274}
+  - name: neutral_thescientist_Frame_21
+    originalName: 
+    pivot: {x: 0.33333337, y: -0.35384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 369
+      width: 48
+      height: 65
+    spriteID: 5d2cd4e501a78604fb57ba237bcae64d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 346}
+  - name: neutral_thescientist_Frame_22
+    originalName: 
+    pivot: {x: 0.33333337, y: -0.35384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 442
+      width: 48
+      height: 65
+    spriteID: 53ff89a0a1a86504482ea12eb0624879
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 419}
+  - name: neutral_thescientist_Frame_23
+    originalName: 
+    pivot: {x: 0.3265306, y: -0.35384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 224
+      width: 49
+      height: 65
+    spriteID: 76d6c16d76065244d84dd1ad876c80e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 201}
+  - name: neutral_thescientist_Frame_24
+    originalName: 
+    pivot: {x: 0.3125, y: -0.27941176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 80
+      width: 48
+      height: 68
+    spriteID: 06b61c5485f499545b00c33a26e80098
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 61}
+  - name: neutral_thescientist_Frame_25
+    originalName: 
+    pivot: {x: 0.3125, y: -0.26470587}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 156
+      width: 48
+      height: 68
+    spriteID: f591139239eb2c54b8085ca9e40d1f41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 138}
+  - name: neutral_thescientist_Frame_26
+    originalName: 
+    pivot: {x: 0.30612242, y: -0.24285714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 380
+      width: 49
+      height: 70
+    spriteID: f084f5f6c60978242be90e1d92197069
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 363}
+  - name: neutral_thescientist_Frame_27
+    originalName: 
+    pivot: {x: 0.3125, y: -0.27941176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 232
+      width: 48
+      height: 68
+    spriteID: 66f7467235de0284bb854cbe1dc75910
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 213}
+  - name: neutral_thescientist_Frame_28
+    originalName: 
+    pivot: {x: 0.3125, y: -0.26470587}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 308
+      width: 48
+      height: 68
+    spriteID: 460d97d14009763478698abdeae44cfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 290}
+  - name: neutral_thescientist_Frame_29
+    originalName: 
+    pivot: {x: 0.30612242, y: -0.24285714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 458
+      width: 49
+      height: 70
+    spriteID: db6154d22ae46a04bba59320a8414b29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 441}
+  - name: neutral_thescientist_Frame_30
+    originalName: 
+    pivot: {x: 0.3125, y: -0.23188405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 523
+      width: 48
+      height: 69
+    spriteID: e57da3736e83e2b43b4c3c003a34d15c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 507}
+  - name: neutral_thescientist_Frame_31
+    originalName: 
+    pivot: {x: 0.27906972, y: -0.22535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 515
+      width: 43
+      height: 71
+    spriteID: 56b87d261bcebd046908fcc5ed3bf630
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 481, y: 499}
+  - name: neutral_thescientist_Frame_32
+    originalName: 
+    pivot: {x: 0.41818184, y: -0.4393939}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 80
+      width: 55
+      height: 66
+    spriteID: 9cd00b841ba4a3e4790ad1b9f659ba93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 51}
+  - name: neutral_thescientist_Frame_33
+    originalName: 
+    pivot: {x: 0.41818184, y: -0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 4
+      width: 55
+      height: 68
+    spriteID: b298988a2ac741f439eb247c70f09cda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: -26}
+  - name: neutral_thescientist_Frame_34
+    originalName: 
+    pivot: {x: 0.440678, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 593
+      width: 59
+      height: 70
+    spriteID: aa9d851b0c7874f428750894cdacd2db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 563}
+  - name: neutral_thescientist_Frame_35
+    originalName: 
+    pivot: {x: 0.43103448, y: -0.44285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 820
+      width: 58
+      height: 70
+    spriteID: 90dcbb7abc0da58419e684ca210ab758
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 789}
+  - name: neutral_thescientist_Frame_36
+    originalName: 
+    pivot: {x: 0.4237288, y: -0.4637681}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 743
+      width: 59
+      height: 69
+    spriteID: 6eb26ff9bf2ad1f46bbfb88add4ad0ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 711}
+  - name: neutral_thescientist_Frame_37
+    originalName: 
+    pivot: {x: 0.4237288, y: -0.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 898
+      width: 59
+      height: 68
+    spriteID: d623c07610de45442a2da96140ba7812
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 866}
+  - name: neutral_thescientist_Frame_38
+    originalName: 
+    pivot: {x: 0.42622954, y: -0.28947368}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 426
+      width: 61
+      height: 76
+    spriteID: a1e358b0ca84f1248a59d9b122316854
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 404}
+  - name: neutral_thescientist_Frame_39
+    originalName: 
+    pivot: {x: 0.41666666, y: -0.18666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 510
+      width: 60
+      height: 75
+    spriteID: 4a1a99c46438f5b4397f4ea0a6d40fa0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 496}
+  - name: neutral_thescientist_Frame_40
+    originalName: 
+    pivot: {x: 0.3793103, y: -0.22580644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 4
+      width: 58
+      height: 62
+    spriteID: 6faf2a6b326ceb5428834975cb845df7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 369, y: -10}
+  - name: neutral_thescientist_Frame_41
+    originalName: 
+    pivot: {x: 0.34545457, y: -0.56}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 978
+      width: 55
+      height: 25
+    spriteID: 0deb14141fb834749a47354fba5faae3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 366, y: 964}
+  - name: neutral_thescientist_Frame_42
+    originalName: 
+    pivot: {x: 0.34545457, y: -0.5833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 974
+      width: 55
+      height: 24
+    spriteID: 902d6673e3ee7314b958668983227d10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 960}
+  - name: neutral_thescientist_Frame_43
+    originalName: 
+    pivot: {x: 0.34545457, y: -0.5833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 641
+      y: 4
+      width: 55
+      height: 24
+    spriteID: 2d93148efe7a35947be5facbf6b7eee7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 605, y: -10}
+  - name: neutral_thescientist_Frame_44
+    originalName: 
+    pivot: {x: 0.34545457, y: -0.5833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 641
+      y: 36
+      width: 55
+      height: 24
+    spriteID: 279645fa340463246baa3a8d448445bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 605, y: 22}
+  - name: neutral_thescientist_Frame_45
+    originalName: 
+    pivot: {x: 0.3125, y: -0.28985506}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 600
+      width: 48
+      height: 69
+    spriteID: 69d6db4bf4ef06b48b1b7a8ec9d912ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 580}
+  - name: neutral_thescientist_Frame_46
+    originalName: 
+    pivot: {x: 0.3125, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 929
+      width: 48
+      height: 70
+    spriteID: a6af059d640d0b64ebd1272415e8ed54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 909}
+  - name: neutral_thescientist_Frame_47
+    originalName: 
+    pivot: {x: 0.3125, y: -0.28169015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 536
+      width: 48
+      height: 71
+    spriteID: 9349851eaf27f9c4c81032c95bf79cb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 516}
+  - name: neutral_thescientist_Frame_48
+    originalName: 
+    pivot: {x: 0.3125, y: -0.28169015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 615
+      width: 48
+      height: 71
+    spriteID: 7de1ceb9a70d59645b2771fbf77233b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 595}
+  - name: neutral_thescientist_Frame_49
+    originalName: 
+    pivot: {x: 0.3125, y: -0.28169015}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 694
+      width: 48
+      height: 71
+    spriteID: 41f963d9f77c2af4db5a97646907332f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 674}
+  - name: neutral_thescientist_Frame_50
+    originalName: 
+    pivot: {x: 0.3125, y: -0.2638889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 227
+      width: 48
+      height: 72
+    spriteID: 9ae8fb1b469ce7347a27b8c4e6052fe5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 208}
+  - name: neutral_thescientist_Frame_51
+    originalName: 
+    pivot: {x: 0.3125, y: -0.26760563}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 773
+      width: 48
+      height: 71
+    spriteID: 10cd135c1e1341b40b367f4a95dab3d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 754}
+  - name: neutral_thescientist_Frame_52
+    originalName: 
+    pivot: {x: 0.29787233, y: -0.2535211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 216
+      width: 47
+      height: 71
+    spriteID: fe6a6c488b2c10c4e90efbbb1082edf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 198}
+  - name: neutral_thescientist_Frame_53
+    originalName: 
+    pivot: {x: 0.29787233, y: -0.25714284}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 754
+      width: 47
+      height: 70
+    spriteID: 57b42b8fcc5229e479d1aa45b0ff220b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 736}
+  - name: neutral_thescientist_Frame_54
+    originalName: 
+    pivot: {x: 0.29787233, y: -0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 536
+      width: 47
+      height: 69
+    spriteID: cd1286955543b81438b30516379659f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 518}
+  - name: neutral_thescientist_Frame_55
+    originalName: 
+    pivot: {x: 0.29787233, y: -0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 613
+      width: 47
+      height: 69
+    spriteID: 8e0dcba1e47415549bf3a65cdaa7174a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 595}
+  - name: neutral_thescientist_Frame_56
+    originalName: 
+    pivot: {x: 0.29787233, y: -0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 690
+      width: 47
+      height: 69
+    spriteID: 264ea182711714f4bb281f4f5a17dcbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 672}
+  - name: neutral_thescientist_Frame_57
+    originalName: 
+    pivot: {x: 0.3125, y: -0.27941176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 384
+      width: 48
+      height: 68
+    spriteID: 7dbc93128dd09ab42a910e43511b53a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 365}
+  - name: neutral_thescientist_Frame_58
+    originalName: 
+    pivot: {x: 0.3125, y: -0.2753623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 677
+      width: 48
+      height: 69
+    spriteID: 8ef1f05e6b4cfaf4a9a5627c0b3c6e24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 658}
+  - name: neutral_thescientist_Frame_59
+    originalName: 
+    pivot: {x: 0.3125, y: -0.27941176}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 460
+      width: 48
+      height: 68
+    spriteID: 38b37f60bcc66c3429712ee3cad9f328
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 441}
+  - name: neutral_thescientist_Frame_60
+    originalName: 
+    pivot: {x: 0.3181818, y: -0.2835821}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 524
+      y: 594
+      width: 44
+      height: 67
+    spriteID: 8ead6ca94e2d67e458690e64274fda85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 483, y: 575}
+  - name: neutral_thescientist_Frame_61
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.3015873}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 296
+      y: 342
+      width: 35
+      height: 63
+    spriteID: aaa81ef7c0cdecb4685d4921505c998b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 323}
+  - name: neutral_thescientist_Frame_62
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.296875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 298
+      y: 671
+      width: 33
+      height: 64
+    spriteID: e170e72c957d292468f45eb7ec6cb378
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 652}
+  - name: neutral_thescientist_Frame_63
+    originalName: 
+    pivot: {x: 0.54285717, y: -0.2923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 593
+      width: 35
+      height: 65
+    spriteID: ea540450fcd89a446a2017ca3094aa01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 257, y: 574}
+  - name: neutral_thescientist_Frame_64
+    originalName: 
+    pivot: {x: 0.54285717, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 820
+      width: 35
+      height: 65
+    spriteID: 61d43026576ff2346b00774bc8f95095
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 800}
+  - name: neutral_thescientist_Frame_65
+    originalName: 
+    pivot: {x: 0.54285717, y: -0.3030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 743
+      width: 35
+      height: 66
+    spriteID: 79d3fdda3c5d68749b2cae4cf495934d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 257, y: 723}
+  - name: neutral_thescientist_Frame_66
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 510
+      width: 33
+      height: 68
+    spriteID: d645e63125092a840a171461a4b6a59b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 490}
+  - name: neutral_thescientist_Frame_67
+    originalName: 
+    pivot: {x: 0.6875, y: -0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 671
+      width: 64
+      height: 64
+    spriteID: 2952c52bac545964c80d4fffe640cf7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 651}
+  - name: neutral_thescientist_Frame_68
+    originalName: 
+    pivot: {x: 0.65753424, y: -0.21739131}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 187
+      width: 73
+      height: 69
+    spriteID: f2a7f68b73c841a49b1219540cda23f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 172}
+  - name: neutral_thescientist_Frame_69
+    originalName: 
+    pivot: {x: 0.6712329, y: -0.18571427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 109
+      width: 73
+      height: 70
+    spriteID: e672baf490ff44d46b80df382c1616ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 96}
+  - name: neutral_thescientist_Frame_70
+    originalName: 
+    pivot: {x: 0.7101449, y: -0.17142856}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 264
+      width: 69
+      height: 70
+    spriteID: ac9536b792f53d24db39e28ac62c2436
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 252}
+  - name: neutral_thescientist_Frame_71
+    originalName: 
+    pivot: {x: 0.5434782, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 795
+      width: 92
+      height: 69
+    spriteID: 2f8b58066ebb15f428ae52cbcc66b0db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 783}
+  - name: neutral_thescientist_Frame_72
+    originalName: 
+    pivot: {x: 0.5154639, y: -0.171875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 944
+      width: 97
+      height: 64
+    spriteID: cb8fb9d94ed71fa4e8aeeb61ee16910a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 933}
+  - name: neutral_thescientist_Frame_73
+    originalName: 
+    pivot: {x: 0.51515156, y: -0.15625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 872
+      width: 99
+      height: 64
+    spriteID: 600ae0da6daa5b54d812631f62092e9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 862}
+  - name: neutral_thescientist_Frame_74
+    originalName: 
+    pivot: {x: 0.5148515, y: -0.15873016}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 724
+      width: 101
+      height: 63
+    spriteID: 1fef3b05c0c8b5b4893898ae8bb6659f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 714}
+  - name: neutral_thescientist_Frame_75
+    originalName: 
+    pivot: {x: 0.51960784, y: -0.10526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 324
+      width: 102
+      height: 95
+    spriteID: 8250b106b6209a04fbc4fb61edfe4777
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 314}
+  - name: neutral_thescientist_Frame_76
+    originalName: 
+    pivot: {x: 0.5, y: -0.11702128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 530
+      width: 100
+      height: 94
+    spriteID: 370a4aec983eaa1429de8641c7e78674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 519}
+  - name: neutral_thescientist_Frame_77
+    originalName: 
+    pivot: {x: 0.5, y: -0.11578947}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 427
+      width: 100
+      height: 95
+    spriteID: 86aeacaace73d2f44b7da1b2f88e119e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 416}
+  - name: neutral_thescientist_Frame_78
+    originalName: 
+    pivot: {x: 0.5, y: -0.10309278}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 906
+      width: 102
+      height: 97
+    spriteID: bb6ef8e93e065b34e98f0bcf24710989
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 896}
+  - name: neutral_thescientist_Frame_79
+    originalName: 
+    pivot: {x: 0.5, y: -0.10204081}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 4
+      width: 104
+      height: 98
+    spriteID: 0f3251ba836acc643b50be0f81fd1809
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: -6}
+  - name: neutral_thescientist_Frame_80
+    originalName: 
+    pivot: {x: 0.50476193, y: -0.092783496}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 4
+      width: 105
+      height: 97
+    spriteID: c0b6c2794977cb84aa39f5ba2a8fd7a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: -5}
+  - name: neutral_thescientist_Frame_81
+    originalName: 
+    pivot: {x: 0.5, y: -0.018691588}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 102
+      height: 107
+    spriteID: 12f23cf281383c44eb0514e08adb6050
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 2}
+  - name: neutral_thescientist_Frame_82
+    originalName: 
+    pivot: {x: 0.5, y: -0.03809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 348
+      width: 100
+      height: 105
+    spriteID: f8bd36f63c6973548b61a75788a0b4c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: 344}
+  - name: neutral_thescientist_Frame_83
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.06862745}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 687
+      width: 98
+      height: 102
+    spriteID: d9a5414117a1ff242967d881d5f88416
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 680}
+  - name: neutral_thescientist_Frame_84
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.08080808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 110
+      width: 98
+      height: 99
+    spriteID: b7b3e7c0a45577947b2acb4ce842719b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 102}
+  - name: neutral_thescientist_Frame_85
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.08080808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 217
+      width: 98
+      height: 99
+    spriteID: 17ece26d263ebd341ba1257d3bfd9c1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 209}
+  - name: neutral_thescientist_Frame_86
+    originalName: 
+    pivot: {x: 0.5, y: -0.037735846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 234
+      width: 100
+      height: 106
+    spriteID: de710c3fc6e6a87488b25bc44b3b3c10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: 230}
+  - name: neutral_thescientist_Frame_87
+    originalName: 
+    pivot: {x: 0.5, y: -0.018691588}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 119
+      width: 102
+      height: 107
+    spriteID: f4607a7da58e6a84e84a2d1c4eff9e7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 117}
+  - name: neutral_thescientist_Frame_88
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.028301885}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 461
+      width: 98
+      height: 106
+    spriteID: 76e19831390876144aef2c18e027eb89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 458}
+  - name: neutral_thescientist_Frame_89
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.038461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 575
+      width: 98
+      height: 104
+    spriteID: e92c42a5dcd45384086566c0e831928e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 571}
+  - name: neutral_thescientist_Frame_90
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.05940594}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 797
+      width: 98
+      height: 101
+    spriteID: b81ec3d54902d334780cfa73c68fb76a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2, y: 791}
+  - name: neutral_thescientist_Frame_91
+    originalName: 
+    pivot: {x: 0.45238096, y: -0.2142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 632
+      width: 84
+      height: 84
+    spriteID: f992892db2ba7d241942abdc75f52064
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 614}
+  - name: neutral_thescientist_Frame_92
+    originalName: 
+    pivot: {x: 0.30645165, y: -0.28947368}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 342
+      width: 62
+      height: 76
+    spriteID: ee33d4e895620bc43ba5737375a2ccc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 320}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1506760763
+    name: neutral_thescientist
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_thescientist_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 4f49ae3f814a8f54cba683f6c4a3e8f1
+    - name: neutral_thescientist_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 3ade9487d7fad2345b8dded5d7bb2a3d
+    - name: neutral_thescientist_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 93e40e433b2e15d4f9238db1d9e1543a
+    - name: neutral_thescientist_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0eb8e969ea9839942ae41b8099958865
+    - name: neutral_thescientist_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1af858d04841003428afa458be60d4f5
+    - name: neutral_thescientist_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 18612a1af02250d4b97a0e9aea3a12d5
+    - name: neutral_thescientist_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 04a0cbc6d1a83344cb2b542920bfe15d
+    - name: neutral_thescientist_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: fd8c111ba98d3c2489a919a30978dde4
+    - name: neutral_thescientist_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: fc2e9dbb178896f46ac976f14c5e5a66
+    - name: neutral_thescientist_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 07d7f11be63503d4aa6a88322adf2a9e
+    - name: neutral_thescientist_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: a16e034ab382ac440ab516cadda2a8d9
+    - name: neutral_thescientist_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 4cae7e535b340564cae1c4419c2e34fb
+    - name: neutral_thescientist_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 11bdbaa04571bcf4280e0d307b8627ea
+    - name: neutral_thescientist_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 52eb2f5da73884245bd894416126f8e7
+    - name: neutral_thescientist_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 06af7aa4358684a4ab6b7fdd80a92fcd
+    - name: neutral_thescientist_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 87393f364bc33a54abe9a02fb45391c0
+    - name: neutral_thescientist_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 078a5116b26eeef4fa29ff8bfaebaac8
+    - name: neutral_thescientist_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 02d6adb7c0dd8c84795b8654fe63a694
+    - name: neutral_thescientist_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 3e9723112b166b94988dde3b0529a22c
+    - name: neutral_thescientist_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: d2a404e3c4f22d74988a9170a95f5e4a
+    - name: neutral_thescientist_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 073819b3ce8b35946a1fa64125dd7913
+    - name: neutral_thescientist_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 5d2cd4e501a78604fb57ba237bcae64d
+    - name: neutral_thescientist_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 53ff89a0a1a86504482ea12eb0624879
+    - name: neutral_thescientist_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 76d6c16d76065244d84dd1ad876c80e8
+    - name: neutral_thescientist_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 06b61c5485f499545b00c33a26e80098
+    - name: neutral_thescientist_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f591139239eb2c54b8085ca9e40d1f41
+    - name: neutral_thescientist_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f084f5f6c60978242be90e1d92197069
+    - name: neutral_thescientist_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 66f7467235de0284bb854cbe1dc75910
+    - name: neutral_thescientist_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 460d97d14009763478698abdeae44cfb
+    - name: neutral_thescientist_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: db6154d22ae46a04bba59320a8414b29
+    - name: neutral_thescientist_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e57da3736e83e2b43b4c3c003a34d15c
+    - name: neutral_thescientist_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 56b87d261bcebd046908fcc5ed3bf630
+    - name: neutral_thescientist_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9cd00b841ba4a3e4790ad1b9f659ba93
+    - name: neutral_thescientist_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b298988a2ac741f439eb247c70f09cda
+    - name: neutral_thescientist_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: aa9d851b0c7874f428750894cdacd2db
+    - name: neutral_thescientist_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 90dcbb7abc0da58419e684ca210ab758
+    - name: neutral_thescientist_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6eb26ff9bf2ad1f46bbfb88add4ad0ef
+    - name: neutral_thescientist_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: d623c07610de45442a2da96140ba7812
+    - name: neutral_thescientist_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: a1e358b0ca84f1248a59d9b122316854
+    - name: neutral_thescientist_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 4a1a99c46438f5b4397f4ea0a6d40fa0
+    - name: neutral_thescientist_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 6faf2a6b326ceb5428834975cb845df7
+    - name: neutral_thescientist_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0deb14141fb834749a47354fba5faae3
+    - name: neutral_thescientist_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 902d6673e3ee7314b958668983227d10
+    - name: neutral_thescientist_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 2d93148efe7a35947be5facbf6b7eee7
+    - name: neutral_thescientist_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 279645fa340463246baa3a8d448445bc
+    - name: neutral_thescientist_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 69d6db4bf4ef06b48b1b7a8ec9d912ba
+    - name: neutral_thescientist_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: a6af059d640d0b64ebd1272415e8ed54
+    - name: neutral_thescientist_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9349851eaf27f9c4c81032c95bf79cb7
+    - name: neutral_thescientist_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 7de1ceb9a70d59645b2771fbf77233b5
+    - name: neutral_thescientist_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 41f963d9f77c2af4db5a97646907332f
+    - name: neutral_thescientist_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 9ae8fb1b469ce7347a27b8c4e6052fe5
+    - name: neutral_thescientist_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 10cd135c1e1341b40b367f4a95dab3d5
+    - name: neutral_thescientist_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: fe6a6c488b2c10c4e90efbbb1082edf0
+    - name: neutral_thescientist_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 57b42b8fcc5229e479d1aa45b0ff220b
+    - name: neutral_thescientist_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: cd1286955543b81438b30516379659f5
+    - name: neutral_thescientist_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 8e0dcba1e47415549bf3a65cdaa7174a
+    - name: neutral_thescientist_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 264ea182711714f4bb281f4f5a17dcbc
+    - name: neutral_thescientist_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 7dbc93128dd09ab42a910e43511b53a7
+    - name: neutral_thescientist_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 8ef1f05e6b4cfaf4a9a5627c0b3c6e24
+    - name: neutral_thescientist_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 38b37f60bcc66c3429712ee3cad9f328
+    - name: neutral_thescientist_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 8ead6ca94e2d67e458690e64274fda85
+    - name: neutral_thescientist_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: aaa81ef7c0cdecb4685d4921505c998b
+    - name: neutral_thescientist_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e170e72c957d292468f45eb7ec6cb378
+    - name: neutral_thescientist_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: ea540450fcd89a446a2017ca3094aa01
+    - name: neutral_thescientist_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 61d43026576ff2346b00774bc8f95095
+    - name: neutral_thescientist_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 79d3fdda3c5d68749b2cae4cf495934d
+    - name: neutral_thescientist_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: d645e63125092a840a171461a4b6a59b
+    - name: neutral_thescientist_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 2952c52bac545964c80d4fffe640cf7a
+    - name: neutral_thescientist_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f2a7f68b73c841a49b1219540cda23f1
+    - name: neutral_thescientist_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e672baf490ff44d46b80df382c1616ec
+    - name: neutral_thescientist_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: ac9536b792f53d24db39e28ac62c2436
+    - name: neutral_thescientist_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 2f8b58066ebb15f428ae52cbcc66b0db
+    - name: neutral_thescientist_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: cb8fb9d94ed71fa4e8aeeb61ee16910a
+    - name: neutral_thescientist_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 600ae0da6daa5b54d812631f62092e9e
+    - name: neutral_thescientist_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 1fef3b05c0c8b5b4893898ae8bb6659f
+    - name: neutral_thescientist_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 8250b106b6209a04fbc4fb61edfe4777
+    - name: neutral_thescientist_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 370a4aec983eaa1429de8641c7e78674
+    - name: neutral_thescientist_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 86aeacaace73d2f44b7da1b2f88e119e
+    - name: neutral_thescientist_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: bb6ef8e93e065b34e98f0bcf24710989
+    - name: neutral_thescientist_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 0f3251ba836acc643b50be0f81fd1809
+    - name: neutral_thescientist_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: c0b6c2794977cb84aa39f5ba2a8fd7a1
+    - name: neutral_thescientist_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 12f23cf281383c44eb0514e08adb6050
+    - name: neutral_thescientist_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f8bd36f63c6973548b61a75788a0b4c5
+    - name: neutral_thescientist_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: d9a5414117a1ff242967d881d5f88416
+    - name: neutral_thescientist_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b7b3e7c0a45577947b2acb4ce842719b
+    - name: neutral_thescientist_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 17ece26d263ebd341ba1257d3bfd9c1d
+    - name: neutral_thescientist_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: de710c3fc6e6a87488b25bc44b3b3c10
+    - name: neutral_thescientist_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f4607a7da58e6a84e84a2d1c4eff9e7e
+    - name: neutral_thescientist_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: 76e19831390876144aef2c18e027eb89
+    - name: neutral_thescientist_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: e92c42a5dcd45384086566c0e831928e
+    - name: neutral_thescientist_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: b81ec3d54902d334780cfa73c68fb76a
+    - name: neutral_thescientist_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: f992892db2ba7d241942abdc75f52064
+    - name: neutral_thescientist_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 110
+      spriteId: ee33d4e895620bc43ba5737375a2ccc3
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 110, y: 110}

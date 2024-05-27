@@ -1,9 +1,10 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using static LanguageController;
-public class equipUI : Singleton<equipUI>
+public class equipUI : MonoBehaviour
 {
     public Transform 鞋子;
     public Transform 衣服;
@@ -13,9 +14,22 @@ public class equipUI : Singleton<equipUI>
     public Transform 内裤;
     public GameObject slotpef;
 
+    private void Awake()
+    {
+        UIController.Instance.EquipUI = this.gameObject;
+        equipUIUPdate();
+    }
+
     public void equipUIUPdate()
     {
-        foreach (var equip in GlobalController.Instance.Data.Equiptory)
+        foreach (Transform equippef in transform)
+        {
+            if (equippef.childCount!=0)
+            {
+                Destroy(equippef.GetChild(0).gameObject);
+            }
+        }
+        foreach (var equip in Player.Instance.playerData.Equiptory)
         {
             RefreshhUI(equipController.Instance.GetEquipFormID(equip.Value));
         }
@@ -70,7 +84,7 @@ public class equipUI : Singleton<equipUI>
         }
         slotUi(ItemColor,equip,位置);
     }
-    private void slotUi(Color ItemColor, Item i,Transform 位置)
+    private void slotUi(Color ItemColor, ItemUI i,Transform 位置)
     {
         if (位置.GetComponentsInChildren<Transform>(true).Length > 1) Destroy(位置.GetChild(0).gameObject);
         GameObject slot = Instantiate(slotpef,位置);

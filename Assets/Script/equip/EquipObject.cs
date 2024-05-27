@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,7 +10,14 @@ public class EquipObject : MonoBehaviour
 {
     public bool IsAtk=false;
     public float lifeTimer;
-    protected int ID;
+    public int ID;
+    public GameObject equipGameObjectObject;
+
+    public void Awake()
+    {
+        equipGameObjectObject = gameObject;
+        EquipObjectController.LoadEquipObject(ID,gameObject.GetComponent<EquipObject>());
+    }
 
     public int getId() {
         return ID;

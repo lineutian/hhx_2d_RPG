@@ -1,0 +1,2805 @@
+fileFormatVersion: 2
+guid: ac4ce3ecdfea4b24fa5c7730696d05b1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: neutral_bloodstonealchemist_Frame_0
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 235
+      width: 27
+      height: 29
+    spriteID: 84db91f974544f24fb7504400d3a418f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 219}
+  - name: neutral_bloodstonealchemist_Frame_1
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 272
+      width: 27
+      height: 29
+    spriteID: 0660f1d7e667f4c46bd8851ed093fed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 256}
+  - name: neutral_bloodstonealchemist_Frame_2
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 83
+      width: 27
+      height: 30
+    spriteID: 7914149f8ea67fb498dc7ac66ce6578b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 67}
+  - name: neutral_bloodstonealchemist_Frame_3
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 4
+      width: 28
+      height: 30
+    spriteID: 57f475838910fec40a0c5e20200fe82b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 213, y: -12}
+  - name: neutral_bloodstonealchemist_Frame_4
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 309
+      width: 27
+      height: 29
+    spriteID: 9c792e11eca92614e8a4ff43cbea57c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 293}
+  - name: neutral_bloodstonealchemist_Frame_5
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 346
+      width: 27
+      height: 29
+    spriteID: 1acbc2d31dc61504aa8967e797c99d77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 330}
+  - name: neutral_bloodstonealchemist_Frame_6
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 121
+      width: 27
+      height: 30
+    spriteID: e64106e58ad7fcb418516f8f239b370d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 105}
+  - name: neutral_bloodstonealchemist_Frame_7
+    originalName: 
+    pivot: {x: 0.48148146, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 159
+      width: 27
+      height: 30
+    spriteID: c683b8e19b64ef140926b597a7e79931
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 143}
+  - name: neutral_bloodstonealchemist_Frame_8
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 358
+      width: 28
+      height: 31
+    spriteID: 5074943bcb216824cb6a5d645243dae4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 342}
+  - name: neutral_bloodstonealchemist_Frame_9
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 397
+      width: 28
+      height: 31
+    spriteID: 238f21c613b3168499abede008c75482
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 381}
+  - name: neutral_bloodstonealchemist_Frame_10
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 436
+      width: 28
+      height: 31
+    spriteID: 53c7c2f28e16c2b448468a9f02654d48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 420}
+  - name: neutral_bloodstonealchemist_Frame_11
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 42
+      width: 28
+      height: 30
+    spriteID: 74fbe521a18e8744da1f644bbaf9fd9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 26}
+  - name: neutral_bloodstonealchemist_Frame_12
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 80
+      width: 28
+      height: 30
+    spriteID: 5e5096b4a3a4b0e4690fed47d98f78bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 64}
+  - name: neutral_bloodstonealchemist_Frame_13
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 118
+      width: 28
+      height: 30
+    spriteID: 6b97de19246e2ca43bb3f0d1ec1b7e3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 102}
+  - name: neutral_bloodstonealchemist_Frame_14
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 156
+      width: 28
+      height: 30
+    spriteID: c23b45d47299d43468e335fa3249c2fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 140}
+  - name: neutral_bloodstonealchemist_Frame_15
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 194
+      width: 28
+      height: 30
+    spriteID: ec22d78a3d8e52b4ab43b995343521e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 178}
+  - name: neutral_bloodstonealchemist_Frame_16
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 232
+      width: 28
+      height: 30
+    spriteID: 820ac03680d44a44ebba495ca121cfaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 216}
+  - name: neutral_bloodstonealchemist_Frame_17
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 475
+      width: 28
+      height: 31
+    spriteID: 11fbabfa04a434b47ae6b3d38e94d3d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 459}
+  - name: neutral_bloodstonealchemist_Frame_18
+    originalName: 
+    pivot: {x: 0.46875, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 478
+      width: 32
+      height: 30
+    spriteID: 1c591b5b2934e434fbab40da9cbbfe4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 462}
+  - name: neutral_bloodstonealchemist_Frame_19
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 318
+      width: 28
+      height: 32
+    spriteID: f8a2e816160430e418740e76aa5715e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 302}
+  - name: neutral_bloodstonealchemist_Frame_20
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 48
+      width: 28
+      height: 31
+    spriteID: e2a0c18be9606194eb73f8f5eeb18138
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 32}
+  - name: neutral_bloodstonealchemist_Frame_21
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 87
+      width: 28
+      height: 31
+    spriteID: 2439d0453a73f88448e2ca5631ad0d22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 71}
+  - name: neutral_bloodstonealchemist_Frame_22
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 126
+      width: 28
+      height: 31
+    spriteID: bd57940851f3e8546aabbe9648dfb4c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 110}
+  - name: neutral_bloodstonealchemist_Frame_23
+    originalName: 
+    pivot: {x: 0.6, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 173
+      width: 25
+      height: 28
+    spriteID: 9229ce834c7d07643a1cfd6159092943
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 157}
+  - name: neutral_bloodstonealchemist_Frame_24
+    originalName: 
+    pivot: {x: 0.6, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 209
+      width: 25
+      height: 28
+    spriteID: d418e313736dde04f87e9d1d0c781030
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 193}
+  - name: neutral_bloodstonealchemist_Frame_25
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 165
+      width: 28
+      height: 31
+    spriteID: f9f92dbb5454a66428941389197aa9ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 149}
+  - name: neutral_bloodstonealchemist_Frame_26
+    originalName: 
+    pivot: {x: 0.52, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 245
+      width: 25
+      height: 28
+    spriteID: 5a1d56970586f9e4dbafaebfe9f68eaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 229}
+  - name: neutral_bloodstonealchemist_Frame_27
+    originalName: 
+    pivot: {x: 0.56000006, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 281
+      width: 25
+      height: 28
+    spriteID: 6c298faba84e53346b1b5904f7edfef3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 265}
+  - name: neutral_bloodstonealchemist_Frame_28
+    originalName: 
+    pivot: {x: 0.56000006, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 317
+      width: 25
+      height: 28
+    spriteID: bcf1804185b8211489dd101a3c76128c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 301}
+  - name: neutral_bloodstonealchemist_Frame_29
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 44
+      width: 27
+      height: 31
+    spriteID: c32435c1c33ce9e4882e6141bf66e5c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 28}
+  - name: neutral_bloodstonealchemist_Frame_30
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 4
+      width: 27
+      height: 32
+    spriteID: 71a46b55c033a5e43bdf4f500e30a88b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 179, y: -12}
+  - name: neutral_bloodstonealchemist_Frame_31
+    originalName: 
+    pivot: {x: 0.56000006, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 457
+      width: 25
+      height: 31
+    spriteID: d7e8b36277746e3499f72bdf673ea11c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 441}
+  - name: neutral_bloodstonealchemist_Frame_32
+    originalName: 
+    pivot: {x: 0.56000006, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 56
+      width: 25
+      height: 34
+    spriteID: b70ed93aec3e4764aa3d0a3b7354248f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 40}
+  - name: neutral_bloodstonealchemist_Frame_33
+    originalName: 
+    pivot: {x: 0.56000006, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 273
+      width: 25
+      height: 37
+    spriteID: 0a2f4148a47426e459577771b24ddc22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 257}
+  - name: neutral_bloodstonealchemist_Frame_34
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 184
+      width: 26
+      height: 38
+    spriteID: 2a2a16b04128b444996da185b84b60d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 168}
+  - name: neutral_bloodstonealchemist_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 236
+      width: 30
+      height: 39
+    spriteID: bd88a8fb8ac81fc4fa830125591a5a2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 220}
+  - name: neutral_bloodstonealchemist_Frame_36
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 459
+      width: 31
+      height: 40
+    spriteID: 1c97e025c0c3ed34cb5cc01868dfd1ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 443}
+  - name: neutral_bloodstonealchemist_Frame_37
+    originalName: 
+    pivot: {x: 0.48648646, y: -0.39024392}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 278
+      width: 37
+      height: 41
+    spriteID: ca7cc85f0c488a94bbb05d07ade39dbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 262}
+  - name: neutral_bloodstonealchemist_Frame_38
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 176
+      width: 38
+      height: 42
+    spriteID: 2d495fe53f115884889a7c763f0f407b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 160}
+  - name: neutral_bloodstonealchemist_Frame_39
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 327
+      width: 38
+      height: 35
+    spriteID: ab5a107ef1fb43247ac6d7d6ba9653c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 311}
+  - name: neutral_bloodstonealchemist_Frame_40
+    originalName: 
+    pivot: {x: 0.51282054, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 55
+      width: 39
+      height: 36
+    spriteID: e8247271b55043244853cc3e0aac7471
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 39}
+  - name: neutral_bloodstonealchemist_Frame_41
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 418
+      width: 38
+      height: 33
+    spriteID: 347090b4880ef5a41ab6529532794124
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -17, y: 402}
+  - name: neutral_bloodstonealchemist_Frame_42
+    originalName: 
+    pivot: {x: 0.52777785, y: -0.47058827}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 99
+      width: 36
+      height: 34
+    spriteID: 27a1e0bc717367444be7d56b017c453d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 83}
+  - name: neutral_bloodstonealchemist_Frame_43
+    originalName: 
+    pivot: {x: 0.53571427, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 222
+      width: 28
+      height: 14
+    spriteID: 25bb963f5a5ca6b41bff0521d1b751f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 250, y: 206}
+  - name: neutral_bloodstonealchemist_Frame_44
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 204
+      width: 28
+      height: 31
+    spriteID: 6641c96150ea7a84ea22c09f961ddcb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 188}
+  - name: neutral_bloodstonealchemist_Frame_45
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 243
+      width: 28
+      height: 31
+    spriteID: db2d4bad5aef18441ab661289ae077c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 227}
+  - name: neutral_bloodstonealchemist_Frame_46
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 282
+      width: 28
+      height: 31
+    spriteID: f60b4f0ecf050f945921af3d5d3093e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 266}
+  - name: neutral_bloodstonealchemist_Frame_47
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 321
+      width: 28
+      height: 31
+    spriteID: 627b1966b89c47e4b81b215c14f13fed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 305}
+  - name: neutral_bloodstonealchemist_Frame_48
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 360
+      width: 28
+      height: 31
+    spriteID: 7e733ed05514344448a9d896ef9b1065
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 344}
+  - name: neutral_bloodstonealchemist_Frame_49
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 399
+      width: 28
+      height: 31
+    spriteID: e3bcf0cb4b6b20a4e9fe6a9756adf84a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 383}
+  - name: neutral_bloodstonealchemist_Frame_50
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 270
+      width: 28
+      height: 30
+    spriteID: 84a47e0f3b3f5df4aa9afac66dc9e87c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 254}
+  - name: neutral_bloodstonealchemist_Frame_51
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 308
+      width: 28
+      height: 30
+    spriteID: e7a8d7939566707478e45da0bd600c59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 292}
+  - name: neutral_bloodstonealchemist_Frame_52
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 346
+      width: 28
+      height: 30
+    spriteID: ea7a3724e0062c44aa5d4d1280d1ff9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 330}
+  - name: neutral_bloodstonealchemist_Frame_53
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 384
+      width: 28
+      height: 30
+    spriteID: a4752095da22ff1429672a5fc896bdd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 368}
+  - name: neutral_bloodstonealchemist_Frame_54
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 422
+      width: 28
+      height: 30
+    spriteID: 01a8e1a0cbcf22f45b0fd83c81e75b00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 406}
+  - name: neutral_bloodstonealchemist_Frame_55
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 460
+      width: 28
+      height: 30
+    spriteID: f8f35de773d941141b2b993c97179847
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 444}
+  - name: neutral_bloodstonealchemist_Frame_56
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 4
+      width: 28
+      height: 30
+    spriteID: 5c57981cad1cedc4aa0ca76c04d6c623
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 250, y: -12}
+  - name: neutral_bloodstonealchemist_Frame_57
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 438
+      width: 28
+      height: 31
+    spriteID: 8106f0b2c1f9b74459ea55e2c27d125d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 422}
+  - name: neutral_bloodstonealchemist_Frame_58
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 477
+      width: 28
+      height: 31
+    spriteID: 8b967a8c1d58b004e99d90f3e7bca4db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 461}
+  - name: neutral_bloodstonealchemist_Frame_59
+    originalName: 
+    pivot: {x: 0.56000006, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 98
+      width: 25
+      height: 30
+    spriteID: cd75a46bcc5b829459b3dfda1813f534
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 82}
+  - name: neutral_bloodstonealchemist_Frame_60
+    originalName: 
+    pivot: {x: 0.52, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 136
+      width: 25
+      height: 29
+    spriteID: 6c2a771d377c30b4d9c064fccdba8c8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 120}
+  - name: neutral_bloodstonealchemist_Frame_61
+    originalName: 
+    pivot: {x: 0.52, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 353
+      width: 25
+      height: 28
+    spriteID: a18a32f7f36e60040965757e78fb0330
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 337}
+  - name: neutral_bloodstonealchemist_Frame_62
+    originalName: 
+    pivot: {x: 0.52, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 389
+      width: 25
+      height: 28
+    spriteID: 112fb540f3381a94e95b97b1b0b190d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 373}
+  - name: neutral_bloodstonealchemist_Frame_63
+    originalName: 
+    pivot: {x: 0.52, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 425
+      width: 25
+      height: 28
+    spriteID: 8b78326001e9403479d9a9b17355630c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 409}
+  - name: neutral_bloodstonealchemist_Frame_64
+    originalName: 
+    pivot: {x: 0.52, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 461
+      width: 25
+      height: 28
+    spriteID: f9b85ecec410bf34a98ffd9a2a065bc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 445}
+  - name: neutral_bloodstonealchemist_Frame_65
+    originalName: 
+    pivot: {x: 0.52, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 42
+      width: 25
+      height: 28
+    spriteID: 5cdd1de9735edc948a920e36f3246f0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 26}
+  - name: neutral_bloodstonealchemist_Frame_66
+    originalName: 
+    pivot: {x: 0.52, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 78
+      width: 25
+      height: 28
+    spriteID: 0906f42c45126f34584946bab9124be8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 62}
+  - name: neutral_bloodstonealchemist_Frame_67
+    originalName: 
+    pivot: {x: 0.52, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 114
+      width: 25
+      height: 28
+    spriteID: 7c9797d4b3f33e745a3a05da29a6a225
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 98}
+  - name: neutral_bloodstonealchemist_Frame_68
+    originalName: 
+    pivot: {x: 0.34285718, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 438
+      width: 35
+      height: 32
+    spriteID: 1e892f16f5943a64496ec90d5fd825fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 422}
+  - name: neutral_bloodstonealchemist_Frame_69
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 96
+      width: 28
+      height: 36
+    spriteID: 066937f3bb96c4a44a939feb9d9a56c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 80}
+  - name: neutral_bloodstonealchemist_Frame_70
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 192
+      width: 33
+      height: 36
+    spriteID: 5c5b33c6b26c0ba4bbbc65756acf8d97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 176}
+  - name: neutral_bloodstonealchemist_Frame_71
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 140
+      width: 28
+      height: 36
+    spriteID: 8d005db992381ef44a96925f72fe6ebf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 124}
+  - name: neutral_bloodstonealchemist_Frame_72
+    originalName: 
+    pivot: {x: 0.46875, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 370
+      width: 32
+      height: 40
+    spriteID: 2cd427fb46f87f140b1163f86406ac21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 354}
+  - name: neutral_bloodstonealchemist_Frame_73
+    originalName: 
+    pivot: {x: 0.39473686, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 124
+      width: 38
+      height: 44
+    spriteID: 2ac7ab6e80b8fbd46ae217f598fa74c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -21, y: 108}
+  - name: neutral_bloodstonealchemist_Frame_74
+    originalName: 
+    pivot: {x: 0.38461542, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 4
+      width: 39
+      height: 43
+    spriteID: c9c40d67cb5ecdf42ade3b87c685f356
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: -12}
+  - name: neutral_bloodstonealchemist_Frame_75
+    originalName: 
+    pivot: {x: 0.5666667, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 4
+      width: 30
+      height: 36
+    spriteID: 4c84e03e6a0eb6e41b465a7bba8fc1f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: -12}
+  - name: neutral_bloodstonealchemist_Frame_76
+    originalName: 
+    pivot: {x: 0.35135132, y: -0.3137255}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 65
+      width: 37
+      height: 51
+    spriteID: cb8f6995f924e8c4aa0b0727279d1810
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 49}
+  - name: neutral_bloodstonealchemist_Frame_77
+    originalName: 
+    pivot: {x: 0.44736844, y: -0.3018868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 38
+      height: 53
+    spriteID: a510ac2d0d983c2429e09d3a768dc87b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: -12}
+  - name: neutral_bloodstonealchemist_Frame_78
+    originalName: 
+    pivot: {x: 0.4642857, y: -0.4571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 230
+      width: 28
+      height: 35
+    spriteID: 2b8392aecd90ba645a6661ab234e54b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 214}
+  - name: neutral_bloodstonealchemist_Frame_79
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 226
+      width: 35
+      height: 44
+    spriteID: 4fd065c5fcf02de458e90933cb64401b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -22, y: 210}
+  - name: neutral_bloodstonealchemist_Frame_80
+    originalName: 
+    pivot: {x: 0.43333334, y: -0.42105266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 337
+      width: 30
+      height: 38
+    spriteID: 5ca178a87ec37a04db801fedb718942a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 23, y: 321}
+  - name: neutral_bloodstonealchemist_Frame_81
+    originalName: 
+    pivot: {x: 0.4642857, y: -0.4324324}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 51
+      width: 28
+      height: 37
+    spriteID: a3a478ad1156aa14ab72b6810c955292
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 35}
+  - name: neutral_bloodstonealchemist_Frame_82
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.41025645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 4
+      width: 28
+      height: 39
+    spriteID: cd0f61ea353427c4eaac446ad95d2eaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: -12}
+  - name: neutral_bloodstonealchemist_Frame_83
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 141
+      width: 28
+      height: 43
+    spriteID: a8e7615bce04e0149a0cc64483f54240
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 125}
+  - name: neutral_bloodstonealchemist_Frame_84
+    originalName: 
+    pivot: {x: 0.52, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 4
+      width: 25
+      height: 44
+    spriteID: 538a805242333034f978b91054716020
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: -12}
+  - name: neutral_bloodstonealchemist_Frame_85
+    originalName: 
+    pivot: {x: 0.52, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 283
+      width: 25
+      height: 46
+    spriteID: 7321ed93b1fcabc4b86aaa91ff135a28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 23, y: 267}
+  - name: neutral_bloodstonealchemist_Frame_86
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.34042555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 383
+      width: 24
+      height: 47
+    spriteID: c2b5b72e103d7064c8f5e82408015503
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 23, y: 367}
+  - name: neutral_bloodstonealchemist_Frame_87
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 150
+      width: 24
+      height: 28
+    spriteID: f3c32ef90bf7c774d9e75d7d1b5b2508
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 134}
+  - name: neutral_bloodstonealchemist_Frame_88
+    originalName: 
+    pivot: {x: 0.5416666, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 186
+      width: 24
+      height: 28
+    spriteID: a41f3154f9739e94389fb19ac7bceaa7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 170}
+  - name: neutral_bloodstonealchemist_Frame_89
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 383
+      width: 27
+      height: 29
+    spriteID: bd327cb15f7b13643a25f90f05453352
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 179, y: 367}
+  - name: neutral_bloodstonealchemist_Frame_90
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.55172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 420
+      width: 27
+      height: 29
+    spriteID: 13b73237bcf3f974cb59950fbd0bf381
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 179, y: 404}
+  - name: neutral_bloodstonealchemist_Frame_91
+    originalName: 
+    pivot: {x: 0.5555555, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 197
+      width: 27
+      height: 30
+    spriteID: 4304481e0e847f846b90c4ab639ed4e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 179, y: 181}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1813928225
+    name: neutral_bloodstonealchemist
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: neutral_bloodstonealchemist_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 84db91f974544f24fb7504400d3a418f
+    - name: neutral_bloodstonealchemist_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0660f1d7e667f4c46bd8851ed093fed3
+    - name: neutral_bloodstonealchemist_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7914149f8ea67fb498dc7ac66ce6578b
+    - name: neutral_bloodstonealchemist_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 57f475838910fec40a0c5e20200fe82b
+    - name: neutral_bloodstonealchemist_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9c792e11eca92614e8a4ff43cbea57c3
+    - name: neutral_bloodstonealchemist_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1acbc2d31dc61504aa8967e797c99d77
+    - name: neutral_bloodstonealchemist_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e64106e58ad7fcb418516f8f239b370d
+    - name: neutral_bloodstonealchemist_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c683b8e19b64ef140926b597a7e79931
+    - name: neutral_bloodstonealchemist_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5074943bcb216824cb6a5d645243dae4
+    - name: neutral_bloodstonealchemist_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 238f21c613b3168499abede008c75482
+    - name: neutral_bloodstonealchemist_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 53c7c2f28e16c2b448468a9f02654d48
+    - name: neutral_bloodstonealchemist_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 74fbe521a18e8744da1f644bbaf9fd9f
+    - name: neutral_bloodstonealchemist_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5e5096b4a3a4b0e4690fed47d98f78bf
+    - name: neutral_bloodstonealchemist_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6b97de19246e2ca43bb3f0d1ec1b7e3b
+    - name: neutral_bloodstonealchemist_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c23b45d47299d43468e335fa3249c2fe
+    - name: neutral_bloodstonealchemist_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ec22d78a3d8e52b4ab43b995343521e5
+    - name: neutral_bloodstonealchemist_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 820ac03680d44a44ebba495ca121cfaf
+    - name: neutral_bloodstonealchemist_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 11fbabfa04a434b47ae6b3d38e94d3d6
+    - name: neutral_bloodstonealchemist_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1c591b5b2934e434fbab40da9cbbfe4a
+    - name: neutral_bloodstonealchemist_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f8a2e816160430e418740e76aa5715e9
+    - name: neutral_bloodstonealchemist_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e2a0c18be9606194eb73f8f5eeb18138
+    - name: neutral_bloodstonealchemist_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2439d0453a73f88448e2ca5631ad0d22
+    - name: neutral_bloodstonealchemist_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bd57940851f3e8546aabbe9648dfb4c4
+    - name: neutral_bloodstonealchemist_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 9229ce834c7d07643a1cfd6159092943
+    - name: neutral_bloodstonealchemist_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d418e313736dde04f87e9d1d0c781030
+    - name: neutral_bloodstonealchemist_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f9f92dbb5454a66428941389197aa9ee
+    - name: neutral_bloodstonealchemist_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5a1d56970586f9e4dbafaebfe9f68eaf
+    - name: neutral_bloodstonealchemist_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6c298faba84e53346b1b5904f7edfef3
+    - name: neutral_bloodstonealchemist_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bcf1804185b8211489dd101a3c76128c
+    - name: neutral_bloodstonealchemist_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c32435c1c33ce9e4882e6141bf66e5c1
+    - name: neutral_bloodstonealchemist_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 71a46b55c033a5e43bdf4f500e30a88b
+    - name: neutral_bloodstonealchemist_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: d7e8b36277746e3499f72bdf673ea11c
+    - name: neutral_bloodstonealchemist_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: b70ed93aec3e4764aa3d0a3b7354248f
+    - name: neutral_bloodstonealchemist_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0a2f4148a47426e459577771b24ddc22
+    - name: neutral_bloodstonealchemist_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2a2a16b04128b444996da185b84b60d3
+    - name: neutral_bloodstonealchemist_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bd88a8fb8ac81fc4fa830125591a5a2c
+    - name: neutral_bloodstonealchemist_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1c97e025c0c3ed34cb5cc01868dfd1ee
+    - name: neutral_bloodstonealchemist_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ca7cc85f0c488a94bbb05d07ade39dbe
+    - name: neutral_bloodstonealchemist_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2d495fe53f115884889a7c763f0f407b
+    - name: neutral_bloodstonealchemist_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ab5a107ef1fb43247ac6d7d6ba9653c0
+    - name: neutral_bloodstonealchemist_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e8247271b55043244853cc3e0aac7471
+    - name: neutral_bloodstonealchemist_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 347090b4880ef5a41ab6529532794124
+    - name: neutral_bloodstonealchemist_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 27a1e0bc717367444be7d56b017c453d
+    - name: neutral_bloodstonealchemist_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 25bb963f5a5ca6b41bff0521d1b751f8
+    - name: neutral_bloodstonealchemist_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6641c96150ea7a84ea22c09f961ddcb3
+    - name: neutral_bloodstonealchemist_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: db2d4bad5aef18441ab661289ae077c9
+    - name: neutral_bloodstonealchemist_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f60b4f0ecf050f945921af3d5d3093e9
+    - name: neutral_bloodstonealchemist_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 627b1966b89c47e4b81b215c14f13fed
+    - name: neutral_bloodstonealchemist_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7e733ed05514344448a9d896ef9b1065
+    - name: neutral_bloodstonealchemist_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e3bcf0cb4b6b20a4e9fe6a9756adf84a
+    - name: neutral_bloodstonealchemist_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 84a47e0f3b3f5df4aa9afac66dc9e87c
+    - name: neutral_bloodstonealchemist_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: e7a8d7939566707478e45da0bd600c59
+    - name: neutral_bloodstonealchemist_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: ea7a3724e0062c44aa5d4d1280d1ff9d
+    - name: neutral_bloodstonealchemist_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a4752095da22ff1429672a5fc896bdd4
+    - name: neutral_bloodstonealchemist_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 01a8e1a0cbcf22f45b0fd83c81e75b00
+    - name: neutral_bloodstonealchemist_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f8f35de773d941141b2b993c97179847
+    - name: neutral_bloodstonealchemist_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5c57981cad1cedc4aa0ca76c04d6c623
+    - name: neutral_bloodstonealchemist_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8106f0b2c1f9b74459ea55e2c27d125d
+    - name: neutral_bloodstonealchemist_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8b967a8c1d58b004e99d90f3e7bca4db
+    - name: neutral_bloodstonealchemist_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cd75a46bcc5b829459b3dfda1813f534
+    - name: neutral_bloodstonealchemist_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6c2a771d377c30b4d9c064fccdba8c8b
+    - name: neutral_bloodstonealchemist_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a18a32f7f36e60040965757e78fb0330
+    - name: neutral_bloodstonealchemist_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 112fb540f3381a94e95b97b1b0b190d9
+    - name: neutral_bloodstonealchemist_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8b78326001e9403479d9a9b17355630c
+    - name: neutral_bloodstonealchemist_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f9b85ecec410bf34a98ffd9a2a065bc7
+    - name: neutral_bloodstonealchemist_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5cdd1de9735edc948a920e36f3246f0e
+    - name: neutral_bloodstonealchemist_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 0906f42c45126f34584946bab9124be8
+    - name: neutral_bloodstonealchemist_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7c9797d4b3f33e745a3a05da29a6a225
+    - name: neutral_bloodstonealchemist_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1e892f16f5943a64496ec90d5fd825fa
+    - name: neutral_bloodstonealchemist_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 066937f3bb96c4a44a939feb9d9a56c2
+    - name: neutral_bloodstonealchemist_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5c5b33c6b26c0ba4bbbc65756acf8d97
+    - name: neutral_bloodstonealchemist_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 8d005db992381ef44a96925f72fe6ebf
+    - name: neutral_bloodstonealchemist_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2cd427fb46f87f140b1163f86406ac21
+    - name: neutral_bloodstonealchemist_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2ac7ab6e80b8fbd46ae217f598fa74c3
+    - name: neutral_bloodstonealchemist_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c9c40d67cb5ecdf42ade3b87c685f356
+    - name: neutral_bloodstonealchemist_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4c84e03e6a0eb6e41b465a7bba8fc1f2
+    - name: neutral_bloodstonealchemist_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cb8f6995f924e8c4aa0b0727279d1810
+    - name: neutral_bloodstonealchemist_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a510ac2d0d983c2429e09d3a768dc87b
+    - name: neutral_bloodstonealchemist_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2b8392aecd90ba645a6661ab234e54b1
+    - name: neutral_bloodstonealchemist_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4fd065c5fcf02de458e90933cb64401b
+    - name: neutral_bloodstonealchemist_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 5ca178a87ec37a04db801fedb718942a
+    - name: neutral_bloodstonealchemist_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a3a478ad1156aa14ab72b6810c955292
+    - name: neutral_bloodstonealchemist_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cd0f61ea353427c4eaac446ad95d2eaa
+    - name: neutral_bloodstonealchemist_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a8e7615bce04e0149a0cc64483f54240
+    - name: neutral_bloodstonealchemist_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 538a805242333034f978b91054716020
+    - name: neutral_bloodstonealchemist_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 7321ed93b1fcabc4b86aaa91ff135a28
+    - name: neutral_bloodstonealchemist_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: c2b5b72e103d7064c8f5e82408015503
+    - name: neutral_bloodstonealchemist_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: f3c32ef90bf7c774d9e75d7d1b5b2508
+    - name: neutral_bloodstonealchemist_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a41f3154f9739e94389fb19ac7bceaa7
+    - name: neutral_bloodstonealchemist_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: bd327cb15f7b13643a25f90f05453352
+    - name: neutral_bloodstonealchemist_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 13b73237bcf3f974cb59950fbd0bf381
+    - name: neutral_bloodstonealchemist_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 4304481e0e847f846b90c4ab639ed4e5
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

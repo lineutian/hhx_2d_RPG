@@ -32,7 +32,7 @@ public class QuestPoint : MonoBehaviour
 
     private void Start()
     {
-        GetComponent<UITip>().Add("对话",this.transform,SubmitPressed);
+        UIController.Instance.tip.Add("对话",this.transform,SubmitPressed);
     }
 
     private void OnEnable()

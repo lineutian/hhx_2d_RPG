@@ -23,7 +23,7 @@ public class EventTest : MonoBehaviour
         EventCenter.Instance.EventTrigger<string>("EventTest_Print",MSGcontroller.Instance.MsgText.text);
         Player.Instance.playerData.GetCoins(100);
         EventCenter.Instance.EventTrigger("收集金币");
-        UIController.Instance?.tip.Add("收集金币",UIController.Instance.tip.transform,null);
+        UIController.Instance?.tip.Add("收集金币",GameObject.Find("Andromeda").transform,null);
     }
     
 }

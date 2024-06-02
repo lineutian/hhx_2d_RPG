@@ -5,31 +5,23 @@ using System.Threading.Tasks;
 using Cysharp.Threading.Tasks;
 using Sirenix.OdinInspector;
 using UnityEngine;
+using UnityEngine.Assertions.Must;
+using UnityEngine.Events;
+using UnityEngine.UI;
 
 public class UITip : MonoBehaviour
 {
     #region mono
     private  void Awake()
     {
-        
+        UIController.Instance.tip = this;
     }
 
     private void Update()
     {
+        RefreshEnabledTip();
         ChooseTipInput();
         CallTip();
-    }
-
-    private void OnTriggerEnter2D(Collider2D col)
-    {
-        UIController.Instance.tip = this;
-        RefreshEnabledTip(true);
-    }
-
-    private void OnTriggerExit2D(Collider2D col)
-    {
-        UIController.Instance.tip = null;
-        RefreshEnabledTip(false);
     }
 
     #endregion
@@ -63,11 +55,11 @@ public class UITip : MonoBehaviour
     /// <param name="trans">物体的transform（用于根据距离隐藏交互提示）</param>
     /// <param name="call">触发后调用的函数</param>
     /// <param name="distance">显示交互提示的距离</param>
-    public void Add(string text, Transform trans, Action call)
+    public void Add(string text, Transform trans, Action call, float distance = 2f)
     {
         Debug.Log($"添加交互提示{text}，来自{trans.gameObject.name}");
         UITipData temp = new UITipData(text, call, trans,
-            GameObject.Instantiate(Resources.Load<GameObject>("Pef/UiPef/Tip/Tip"), tipParent).GetComponent<UIOnTip>());
+            GameObject.Instantiate(Resources.Load<GameObject>("Pef/UiPef/Tip/Tip"), tipParent).GetComponent<UIOnTip>(),distance);
         temp.controller.Setup(temp);
         _tips.Add(temp);
         CheckChosenTip();
@@ -105,18 +97,19 @@ public class UITip : MonoBehaviour
     /// <summary>
     /// 刷新要Enable的Tip
     /// </summary>
-    private void RefreshEnabledTip(bool  isEnable)
+    private void RefreshEnabledTip()
     {
         foreach (UITipData tipData in _tips)
         {
             try
             {
-                if (isEnable==true)
+                float disTemp = Vector3.Distance(tipData.trans.position, Player.Instance.transform.position);
+                if (disTemp < tipData.distance && !tipData.enabled)
                 {
                     tipData.controller.Enable();
                     CheckChosenTip();
                 }
-                else if (isEnable== false)
+                else if (disTemp >= tipData.distance && tipData.enabled)
                 {
                     tipData.controller.Disable();
                     CheckChosenTip();
@@ -191,7 +184,7 @@ public class UITip : MonoBehaviour
         if ( Input.GetKeyDown(KeyCode.F) && HaveEnabled())
         {
             Debug.Log($"触发id={_chosen}号交互提示");
-            _tips[_chosen].call();
+            _tips[_chosen]?.call();
         }
     }
 

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(CircleCollider2D))]
-public class QuestPoint : MonoBehaviour
+public class QuestPoint : NpcInteraction
 {
     [Header("Quest<任务>")] 
     [SerializeField] private QuestInfoSO questInfoForPoint;
@@ -21,18 +21,28 @@ public class QuestPoint : MonoBehaviour
     private QuestIcon questIcon;
 
     private QuestText questText;
+    
+    [SerializeField] private dialogInfoSO canNotStartDialogInfoSo;
+    [SerializeField] private dialogInfoSO canStartDialogInfoSo;
+    [SerializeField] private dialogInfoSO inProgressDialogInfoSo;
+    [SerializeField] private dialogInfoSO canFinishDialogInfoSo;
 
     private void Awake()
     {
+        base.Awake();
         questId = questInfoForPoint.id;
         questIcon = GetComponentInChildren<QuestIcon>();
         questText = GetComponentInChildren<QuestText>();
         questText.gameObject.SetActive(false);
+        
     }
 
     private void Start()
     {
-        UIController.Instance.tip.Add("对话",this.transform,SubmitPressed);
+        canNotStartDialogInfoSo.Call = SubmitPressed;
+        canStartDialogInfoSo.Call = SubmitPressed;
+        inProgressDialogInfoSo.Call = SubmitPressed;
+        canFinishDialogInfoSo.Call = SubmitPressed;
     }
 
     private void OnEnable()
@@ -54,6 +64,7 @@ public class QuestPoint : MonoBehaviour
             Debug.Log(currentQuestState);
             questIcon.SetState(currentQuestState,startPoint,finishPoint);
             questText.SetState(currentQuestState,startPoint,finishPoint,quest);
+            Judgment();
         }
     }
 
@@ -65,6 +76,7 @@ public class QuestPoint : MonoBehaviour
             if (questText.IsQuestText)
             {
                 questText.gameObject.SetActive(true);
+                questIcon.gameObject.SetActive(false);
             }
         }
     }
@@ -80,6 +92,7 @@ public class QuestPoint : MonoBehaviour
         {
             PlayerIsNear = false;
             questText.gameObject.SetActive(false);
+            questIcon.gameObject.SetActive(true);
         }
     }
 
@@ -100,5 +113,24 @@ public class QuestPoint : MonoBehaviour
             GameEventsManager.instance.questEvents.FinishQuest(questId);
         }
     }
-    
+
+    private void Judgment()
+    {
+        if (currentQuestState.Equals(QuestState.REQUIREMENTS_NOT_MET))
+        {
+            currentDialogInfoSo = canNotStartDialogInfoSo;
+        }
+        else if (currentQuestState.Equals(QuestState.CAN_START))
+        {
+            currentDialogInfoSo = canStartDialogInfoSo;
+        }
+        else if(currentQuestState.Equals(QuestState.IN_PROGRESS))
+        {
+            currentDialogInfoSo = inProgressDialogInfoSo;
+        }
+        else
+        {
+            currentDialogInfoSo = canFinishDialogInfoSo;            
+        }
+    }
 }

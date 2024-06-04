@@ -36,6 +36,14 @@ public class UIOnTip : MonoBehaviour
         Debug.Log($"交互提示{text.text}初始化完成");
         return this;
     }
+
+    public UIOnTip SetTip(UITipData data)
+    {
+        _data = data;
+        this.text.text = data.text;
+        _canvasGroup = GetComponent<CanvasGroup>();
+        return this;
+    }
     /// <summary>
     /// 选择这个交互提示
     /// </summary>
@@ -74,6 +82,7 @@ public class UIOnTip : MonoBehaviour
     public async void Disable()
     {
         _data.enabled = false;
+        Debug.Log("禁用交互提示");
         _canvasGroup.DOFade(0, 0.4f);
         await UniTask.Delay(200);
         gameObject.SetActive(false);
@@ -85,8 +94,7 @@ public class UIOnTip : MonoBehaviour
 
     private async void Awake()
     {
-        await UniTask.Delay(500);
-        Disable();
+        
     }
 
     #endregion

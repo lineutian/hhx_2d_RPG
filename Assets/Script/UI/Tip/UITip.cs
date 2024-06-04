@@ -45,6 +45,11 @@ public class UITip : MonoBehaviour
     /// </summary>
     private List<UITipData> _tips = new List<UITipData>();
 
+    /// <summary>
+    /// 当前是否处于对话状态
+    /// </summary>
+    private bool isDialog=false;
+
     #endregion
 
     #region api
@@ -55,7 +60,7 @@ public class UITip : MonoBehaviour
     /// <param name="trans">物体的transform（用于根据距离隐藏交互提示）</param>
     /// <param name="call">触发后调用的函数</param>
     /// <param name="distance">显示交互提示的距离</param>
-    public void Add(string text, Transform trans, Action call, float distance = 2f)
+    public UITipData Add(string text, Transform trans, Action call, float distance = 2f)
     {
         Debug.Log($"添加交互提示{text}，来自{trans.gameObject.name}");
         UITipData temp = new UITipData(text, call, trans,
@@ -63,6 +68,7 @@ public class UITip : MonoBehaviour
         temp.controller.Setup(temp);
         _tips.Add(temp);
         CheckChosenTip();
+        return temp;        
     }
     /// <summary>
     /// 移除交互提示
@@ -112,6 +118,7 @@ public class UITip : MonoBehaviour
                 else if (disTemp >= tipData.distance && tipData.enabled)
                 {
                     tipData.controller.Disable();
+                    Debug.Log($"移除交互提示{tipData.text}"+tipData.enabled);
                     CheckChosenTip();
                 }
             }

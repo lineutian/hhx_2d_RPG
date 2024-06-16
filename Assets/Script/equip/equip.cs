@@ -10,6 +10,7 @@ public class equip : ItemUI
 {
     public EquipData EquipData=new EquipData();
     public EquipType EquipType;
+    public EquipMentSet equipSuit;
     public GameObject EquipGameObject => equipObject();
     
     public GameObject equipObject()

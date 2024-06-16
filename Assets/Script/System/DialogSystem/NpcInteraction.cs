@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class NpcInteraction : MonoBehaviour
 {
@@ -19,6 +20,7 @@ public class NpcInteraction : MonoBehaviour
             DialogueManager.Instance.ShowDialogue(currentDialogInfoSo);
             UIController.Instance.tip.Remove(transform);
             UIController.Instance.tip.Add("牛逼",transform,ContinueDialog);
+            DialogueManager.Instance.dialoguePanel.GetComponent<Button>().onClick.AddListener(ContinueDialog);
         }
     }
 
@@ -29,7 +31,8 @@ public class NpcInteraction : MonoBehaviour
             if (!DialogueManager.Instance.ContinueDialogue(currentDialogInfoSo))
             {
                 UIController.Instance.tip.Remove(transform);
-                UIController.Instance.tip.Add("对话",transform,StartDialog);  
+                UIController.Instance.tip.Add("对话",transform,StartDialog); 
+                DialogueManager.Instance.dialoguePanel.GetComponent<Button>().onClick.RemoveAllListeners();
             }
         }
     }

@@ -19,6 +19,9 @@ public class dialogInfoSO : SerializedScriptableObject
     public string greeting;
     [TextArea]public string[] npcDialogues;
     [TextArea]public string[] playerDialogues;
+    /// <summary>
+    /// 对话最后要执行的方法
+    /// </summary>
     public Action Call;
 }
 

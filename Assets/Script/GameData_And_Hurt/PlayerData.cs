@@ -15,6 +15,8 @@ public class PlayerData : CharacterData
     public Dictionary<int, int> Equiptory=new Dictionary<int, int>();
 
     public Dictionary<int, int> Inventory = new Dictionary<int, int>();
+    
+    public Dictionary<EquipMentSet,int>  EquipMentSetDic = new Dictionary<EquipMentSet, int>();
 
     public int Level { get; private set; } = 1;
     public int CurrentExp { get; private set; }
@@ -139,6 +141,7 @@ public class PlayerData : CharacterData
         ExtraHp = 0;
         ExtraAtk = 0;
         ExtraDef = 0;
+        EquipMentSetDic.Clear();
         foreach (var i in Equiptory)
         {
             equip equip = equipController.Instance.GetEquipFormID(i.Value);
@@ -149,7 +152,20 @@ public class PlayerData : CharacterData
             {
                 Player.Instance.gameObject.GetComponent<NewBehaviourScript>().ATKPefUPDATE(((Weapon)equip).weaponatk);
             }
+
+            if (equip.equipSuit!=null)
+            {
+                if (EquipMentSetDic.ContainsKey(equip.equipSuit))
+                {
+                    EquipMentSetDic[equip.equipSuit] += 1;
+                }
+                else
+                {
+                    EquipMentSetDic.Add(equip.equipSuit,1);
+                }
+            }
         }
+        EquipSuitManager.Instance.UseSuit();
         UIController.Instance.sxgx();
         currentHealth=currentHealth/hp*MaxHealth;
         xuetiao.Instance.updatehp(CurrentHealth,MaxHealth);
